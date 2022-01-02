@@ -1,0 +1,21 @@
+name: Update newsletter posts
+
+on:
+  schedule:
+  - cron: "0 0 1-2 * *"
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://www.getrevue.co/profile/cheeaun?format=rss'
+          file: 'README.md'
+          start_flag: '<!-- newsletter start -->'
+          end_flag: '<!-- newsletter end -->'
+      - uses: sarisia/actions-commit@master
