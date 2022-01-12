@@ -16,4 +16,6 @@ jobs:
         with:
           url: 'https://cheeaun.com/blog/feed.xml'
           file: 'README.md'
+          timezone: 'Asia/Singapore'
+          format: '- ${day} ${monthshort} ${year} - [${title}](${url})'
       - uses: sarisia/actions-commit@master
