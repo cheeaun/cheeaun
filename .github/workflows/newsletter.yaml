@@ -18,4 +18,6 @@ jobs:
           file: 'README.md'
           start_flag: '<!-- newsletter start -->'
           end_flag: '<!-- newsletter end -->'
+          timezone: 'Asia/Singapore'
+          format: '- ${day} ${monthshort} ${year} - [${title}](${url})'
       - uses: sarisia/actions-commit@master
