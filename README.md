@@ -3,11 +3,11 @@
 ## 📝 Blog posts
 
 <!-- feed start -->
-- Jan 02 - [2021 in review](https://cheeaun.com/blog/2022/01/2021-in-review/)
-- Nov 05 - [Replicating 3D Trees from Apple Maps](https://cheeaun.com/blog/2021/11/replicating-3d-trees-apple-maps/)
-- Sep 20 - [Designing bus service route diagrams on BusRouter SG](https://cheeaun.com/blog/2021/09/bus-service-route-diagrams-busrouter-sg/)
-- Dec 31 - [2020 in review](https://cheeaun.com/blog/2020/12/2020-in-review/)
-- Jan 05 - [2019 in review](https://cheeaun.com/blog/2020/01/2019-in-review/)
+- 2 Jan 2022 - [2021 in review](https://cheeaun.com/blog/2022/01/2021-in-review/)
+- 5 Nov 2021 - [Replicating 3D Trees from Apple Maps](https://cheeaun.com/blog/2021/11/replicating-3d-trees-apple-maps/)
+- 20 Sep 2021 - [Designing bus service route diagrams on BusRouter SG](https://cheeaun.com/blog/2021/09/bus-service-route-diagrams-busrouter-sg/)
+- 31 Dec 2020 - [2020 in review](https://cheeaun.com/blog/2020/12/2020-in-review/)
+- 5 Jan 2020 - [2019 in review](https://cheeaun.com/blog/2020/01/2019-in-review/)
 <!-- feed end -->
 
 More in the [archives](https://cheeaun.com/blog/archives/).
