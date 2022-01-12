@@ -15,10 +15,10 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 ## 📰 Newsletter
 
 <!-- newsletter start -->
-- Dec 31 - [🥃 Time to slow down and boost - 🥫 #4](https://www.getrevue.co/profile/cheeaun/issues/time-to-slow-down-and-boost-4-906334)
-- Nov 30 - [👆 One more month till end of year! - 🥫 #3](https://www.getrevue.co/profile/cheeaun/issues/one-more-month-till-end-of-year-3-835833)
-- Oct 31 - [🌏 Newsletter-tober - 🥫#2](https://www.getrevue.co/profile/cheeaun/issues/newsletter-tober-2-788703)
-- Sep 30 - [👋 Hello Newsletter 🥫#1](https://www.getrevue.co/profile/cheeaun/issues/hello-newsletter-1-11608)
+- 31 Dec 2021 - [🥃 Time to slow down and boost - 🥫 #4](https://www.getrevue.co/profile/cheeaun/issues/time-to-slow-down-and-boost-4-906334)
+- 30 Nov 2021 - [👆 One more month till end of year! - 🥫 #3](https://www.getrevue.co/profile/cheeaun/issues/one-more-month-till-end-of-year-3-835833)
+- 31 Oct 2021 - [🌏 Newsletter-tober - 🥫#2](https://www.getrevue.co/profile/cheeaun/issues/newsletter-tober-2-788703)
+- 30 Sep 2021 - [👋 Hello Newsletter 🥫#1](https://www.getrevue.co/profile/cheeaun/issues/hello-newsletter-1-11608)
 <!-- newsletter end -->
 
 Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun 👈👈
