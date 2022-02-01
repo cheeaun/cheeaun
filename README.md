@@ -15,6 +15,7 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 ## 📰 Newsletter
 
 <!-- newsletter start -->
+- 31 Jan 2022 - [🧧 Happy (Chinese) New Year - 🥫 #5](https://www.getrevue.co/profile/cheeaun/issues/happy-chinese-new-year-5-963222)
 - 31 Dec 2021 - [🥃 Time to slow down and boost - 🥫 #4](https://www.getrevue.co/profile/cheeaun/issues/time-to-slow-down-and-boost-4-906334)
 - 30 Nov 2021 - [👆 One more month till end of year! - 🥫 #3](https://www.getrevue.co/profile/cheeaun/issues/one-more-month-till-end-of-year-3-835833)
 - 31 Oct 2021 - [🌏 Newsletter-tober - 🥫#2](https://www.getrevue.co/profile/cheeaun/issues/newsletter-tober-2-788703)
