@@ -23,3 +23,10 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 <!-- newsletter end -->
 
 Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun 👈👈
+
+## Recently starred repositories
+
+<!-- starred repos start -->
+<!-- starred repos end -->
+
+See more of [my starred repos](https://github.com/stars/cheeaun/)
