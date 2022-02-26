@@ -27,6 +27,11 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## Recently starred repositories
 
 <!-- starred repos start -->
+- [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)
+- [metrics](https://github.com/lowlighter/metrics)
+- [peacecss](https://github.com/yisar/peacecss)
+- [q.js](https://github.com/stewdio/q.js)
+- [makna](https://github.com/pveyes/makna)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/)
