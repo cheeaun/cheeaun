@@ -20,4 +20,5 @@ jobs:
           end_flag: '<!-- starred repos end -->'
           timezone: 'Asia/Singapore'
           format: '- [${title}](${url})'
+          max_entry: 15
       - uses: sarisia/actions-commit@master
