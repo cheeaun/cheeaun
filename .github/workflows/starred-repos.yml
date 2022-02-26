@@ -1,4 +1,4 @@
-name: Update blog posts
+name: Update starred repositories
 
 on:
   schedule:
@@ -14,8 +14,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://cheeaun.com/blog/feed.xml'
+          url: 'https://gh-starred-repos-feed.cheeaun.workers.dev/cheeaun.rss'
           file: 'README.md'
+          start_flag: '<!-- starred repos start -->'
+          end_flag: '<!-- starred repos end -->'
           timezone: 'Asia/Singapore'
-          format: '- ${day} ${monthshort} ${year} - [${title}](${url})'
+          format: '- [${title}](${url})'
       - uses: sarisia/actions-commit@master
