@@ -24,7 +24,7 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 
 Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun 👈👈
 
-## Recently starred repositories
+## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
 - [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)
@@ -34,4 +34,4 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [makna](https://github.com/pveyes/makna)
 <!-- starred repos end -->
 
-See more of [my starred repos](https://github.com/stars/cheeaun/)
+See more of [my starred repos](https://github.com/stars/cheeaun/).
