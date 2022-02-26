@@ -27,11 +27,21 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)
-- [metrics](https://github.com/lowlighter/metrics)
-- [peacecss](https://github.com/yisar/peacecss)
-- [q.js](https://github.com/stewdio/q.js)
-- [makna](https://github.com/pveyes/makna)
+- [ElaWorkshop/awesome-cn-cafe - ⭐ 803  🔱 117](https://github.com/ElaWorkshop/awesome-cn-cafe)
+- [lowlighter/metrics - ⭐ 5497  🔱 502](https://github.com/lowlighter/metrics)
+- [yisar/peacecss - ⭐ 17  🔱 0](https://github.com/yisar/peacecss)
+- [stewdio/q.js - ⭐ 229  🔱 22](https://github.com/stewdio/q.js)
+- [pveyes/makna - ⭐ 3  🔱 1](https://github.com/pveyes/makna)
+- [sallar/stringz - ⭐ 207  🔱 13](https://github.com/sallar/stringz)
+- [sindresorhus/pageres-cli - ⭐ 1491  🔱 73](https://github.com/sindresorhus/pageres-cli)
+- [upptime/upptime - ⭐ 9327  🔱 487](https://github.com/upptime/upptime)
+- [GoogleChrome/web-vitals - ⭐ 4557  🔱 198](https://github.com/GoogleChrome/web-vitals)
+- [node-fetch/node-fetch - ⭐ 7414  🔱 871](https://github.com/node-fetch/node-fetch)
+- [Morphogens/ProsePainter - ⭐ 209  🔱 24](https://github.com/Morphogens/ProsePainter)
+- [teuteuf/react-emoji-render - ⭐ 1  🔱 0](https://github.com/teuteuf/react-emoji-render)
+- [teuteuf/worldle - ⭐ 84  🔱 24](https://github.com/teuteuf/worldle)
+- [reactwg/react-native-new-architecture - ⭐ 53  🔱 0](https://github.com/reactwg/react-native-new-architecture)
+- [leafac/caxa - ⭐ 385  🔱 19](https://github.com/leafac/caxa)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
