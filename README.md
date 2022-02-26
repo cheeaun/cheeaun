@@ -27,21 +27,21 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [ElaWorkshop/awesome-cn-cafe - ⭐ 803  🔱 117](https://github.com/ElaWorkshop/awesome-cn-cafe)
-- [lowlighter/metrics - ⭐ 5497  🔱 502](https://github.com/lowlighter/metrics)
-- [yisar/peacecss - ⭐ 17  🔱 0](https://github.com/yisar/peacecss)
-- [stewdio/q.js - ⭐ 229  🔱 22](https://github.com/stewdio/q.js)
-- [pveyes/makna - ⭐ 3  🔱 1](https://github.com/pveyes/makna)
-- [sallar/stringz - ⭐ 207  🔱 13](https://github.com/sallar/stringz)
-- [sindresorhus/pageres-cli - ⭐ 1491  🔱 73](https://github.com/sindresorhus/pageres-cli)
-- [upptime/upptime - ⭐ 9327  🔱 487](https://github.com/upptime/upptime)
-- [GoogleChrome/web-vitals - ⭐ 4557  🔱 198](https://github.com/GoogleChrome/web-vitals)
-- [node-fetch/node-fetch - ⭐ 7414  🔱 871](https://github.com/node-fetch/node-fetch)
-- [Morphogens/ProsePainter - ⭐ 209  🔱 24](https://github.com/Morphogens/ProsePainter)
-- [teuteuf/react-emoji-render - ⭐ 1  🔱 0](https://github.com/teuteuf/react-emoji-render)
-- [teuteuf/worldle - ⭐ 84  🔱 24](https://github.com/teuteuf/worldle)
-- [reactwg/react-native-new-architecture - ⭐ 53  🔱 0](https://github.com/reactwg/react-native-new-architecture)
-- [leafac/caxa - ⭐ 385  🔱 19](https://github.com/leafac/caxa)
+- [ElaWorkshop/awesome-cn-cafe - A curated list of awesome coffee places for work in China.](https://github.com/ElaWorkshop/awesome-cn-cafe)
+- [lowlighter/metrics - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
+- [yisar/peacecss - Golang implement of postcss.](https://github.com/yisar/peacecss)
+- [stewdio/q.js - Quantum computing in your browser.](https://github.com/stewdio/q.js)
+- [pveyes/makna - null](https://github.com/pveyes/makna)
+- [sallar/stringz - :100: Super fast unicode-aware string manipulation Javascript library](https://github.com/sallar/stringz)
+- [sindresorhus/pageres-cli - Capture website screenshots](https://github.com/sindresorhus/pageres-cli)
+- [upptime/upptime - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages](https://github.com/upptime/upptime)
+- [GoogleChrome/web-vitals - Essential metrics for a healthy site.](https://github.com/GoogleChrome/web-vitals)
+- [node-fetch/node-fetch - A light-weight module that brings the Fetch API to Node.js](https://github.com/node-fetch/node-fetch)
+- [Morphogens/ProsePainter - null](https://github.com/Morphogens/ProsePainter)
+- [teuteuf/react-emoji-render - Normalize and render emoji's the way your users expect.](https://github.com/teuteuf/react-emoji-render)
+- [teuteuf/worldle - null](https://github.com/teuteuf/worldle)
+- [reactwg/react-native-new-architecture - Workgroup for the New React Native Architecture](https://github.com/reactwg/react-native-new-architecture)
+- [leafac/caxa - 📦 Package Node.js applications into executable binaries 📦](https://github.com/leafac/caxa)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
