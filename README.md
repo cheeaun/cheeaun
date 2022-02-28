@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NathanBaulch/rainbow-roads - Animate your exercise maps!](https://github.com/NathanBaulch/rainbow-roads)
 - [unocss/unocss - The instant on-demand atomic CSS engine.](https://github.com/unocss/unocss)
 - [iamyoki/playwright-watch - 🙈🐵 Run Playwright in watch mode](https://github.com/iamyoki/playwright-watch)
 - [ElaWorkshop/awesome-cn-cafe - A curated list of awesome coffee places for work in China.](https://github.com/ElaWorkshop/awesome-cn-cafe)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [node-fetch/node-fetch - A light-weight module that brings the Fetch API to Node.js](https://github.com/node-fetch/node-fetch)
 - [Morphogens/ProsePainter](https://github.com/Morphogens/ProsePainter)
 - [teuteuf/react-emoji-render - Normalize and render emoji's the way your users expect.](https://github.com/teuteuf/react-emoji-render)
-- [teuteuf/worldle](https://github.com/teuteuf/worldle)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
