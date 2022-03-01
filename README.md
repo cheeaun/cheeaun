@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chriswhong/mapboxgl-nyc-subway - Data and styles for rendering the NYC subway on a mapboxGL map](https://github.com/chriswhong/mapboxgl-nyc-subway)
+- [unifiedjs/unified - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees](https://github.com/unifiedjs/unified)
 - [paradite/awful-deplatform - :broken_heart: A collection of awful deplatform actions taken by private companies.](https://github.com/paradite/awful-deplatform)
 - [Elairyx7301/ColorMaps - 🎨 Color Maps are very useful to quickly change the atmosphere of your project or game. 50 stunning CC0 color maps available for all purposes.](https://github.com/Elairyx7301/ColorMaps)
 - [NathanBaulch/rainbow-roads - Animate your exercise maps!](https://github.com/NathanBaulch/rainbow-roads)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sallar/stringz - :100: Super fast unicode-aware string manipulation Javascript library](https://github.com/sallar/stringz)
 - [sindresorhus/pageres-cli - Capture website screenshots](https://github.com/sindresorhus/pageres-cli)
 - [upptime/upptime - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages](https://github.com/upptime/upptime)
-- [GoogleChrome/web-vitals - Essential metrics for a healthy site.](https://github.com/GoogleChrome/web-vitals)
-- [node-fetch/node-fetch - A light-weight module that brings the Fetch API to Node.js](https://github.com/node-fetch/node-fetch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
