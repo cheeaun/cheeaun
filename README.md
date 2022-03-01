@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [paradite/awful-deplatform - :broken_heart: A collection of awful deplatform actions taken by private companies.](https://github.com/paradite/awful-deplatform)
+- [Elairyx7301/ColorMaps](https://github.com/Elairyx7301/ColorMaps)
 - [NathanBaulch/rainbow-roads - Animate your exercise maps!](https://github.com/NathanBaulch/rainbow-roads)
 - [unocss/unocss - The instant on-demand atomic CSS engine.](https://github.com/unocss/unocss)
 - [iamyoki/playwright-watch - 🙈🐵 Run Playwright in watch mode](https://github.com/iamyoki/playwright-watch)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [upptime/upptime - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages](https://github.com/upptime/upptime)
 - [GoogleChrome/web-vitals - Essential metrics for a healthy site.](https://github.com/GoogleChrome/web-vitals)
 - [node-fetch/node-fetch - A light-weight module that brings the Fetch API to Node.js](https://github.com/node-fetch/node-fetch)
-- [Morphogens/ProsePainter](https://github.com/Morphogens/ProsePainter)
-- [teuteuf/react-emoji-render - Normalize and render emoji's the way your users expect.](https://github.com/teuteuf/react-emoji-render)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
