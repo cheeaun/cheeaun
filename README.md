@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bamlab/react-native-performance - An attempt to have a lighthouse for React Native. Flipper plugin to show a graph of the React Native performance monitor on Android](https://github.com/bamlab/react-native-performance)
 - [divriots/browser-vite - Vite in the browser.](https://github.com/divriots/browser-vite)
 - [chriswhong/mapboxgl-nyc-subway - Data and styles for rendering the NYC subway on a mapboxGL map](https://github.com/chriswhong/mapboxgl-nyc-subway)
 - [unifiedjs/unified - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees](https://github.com/unifiedjs/unified)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [stewdio/q.js - Quantum computing in your browser.](https://github.com/stewdio/q.js)
 - [pveyes/makna](https://github.com/pveyes/makna)
 - [sallar/stringz - :100: Super fast unicode-aware string manipulation Javascript library](https://github.com/sallar/stringz)
-- [sindresorhus/pageres-cli - Capture website screenshots](https://github.com/sindresorhus/pageres-cli)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
