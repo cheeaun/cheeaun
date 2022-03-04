@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maritz/nohm - node.js object relations mapper (orm) for redis](https://github.com/maritz/nohm)
 - [xataio/screenshot - A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.](https://github.com/xataio/screenshot)
 - [isl-org/Open3D - Open3D: A Modern Library for 3D Data Processing](https://github.com/isl-org/Open3D)
 - [bamlab/react-native-performance - An attempt to have a lighthouse for React Native. Flipper plugin to show a graph of the React Native performance monitor on Android](https://github.com/bamlab/react-native-performance)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [ElaWorkshop/awesome-cn-cafe - A curated list of awesome coffee places for work in China.](https://github.com/ElaWorkshop/awesome-cn-cafe)
 - [lowlighter/metrics - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
 - [yisar/peacecss - Golang implement of postcss.](https://github.com/yisar/peacecss)
-- [stewdio/q.js - Quantum computing in your browser.](https://github.com/stewdio/q.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
