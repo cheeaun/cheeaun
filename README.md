@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maplibre/demotiles - Demo vector tiles and map style for web, helloworld and CI tests @MapLibre. Hosted directly on GitHub Pages, serverless, no keys.](https://github.com/maplibre/demotiles)
+- [nvkelso/natural-earth-vector - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.](https://github.com/nvkelso/natural-earth-vector)
+- [lukasmartinelli/naturalearthtiles - Natural Earth vector tiles (MVT) and raster tiles free and ready to use.](https://github.com/lukasmartinelli/naturalearthtiles)
 - [protectwise/troika - A JavaScript framework for interactive 3D and 2D visualizations](https://github.com/protectwise/troika)
 - [maritz/nohm - node.js object relations mapper (orm) for redis](https://github.com/maritz/nohm)
 - [xataio/screenshot - A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.](https://github.com/xataio/screenshot)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [Elairyx7301/ColorMaps - 🎨 Color Maps are very useful to quickly change the atmosphere of your project or game. 50 stunning CC0 color maps available for all purposes.](https://github.com/Elairyx7301/ColorMaps)
 - [NathanBaulch/rainbow-roads - Animate your exercise maps!](https://github.com/NathanBaulch/rainbow-roads)
 - [unocss/unocss - The instant on-demand atomic CSS engine.](https://github.com/unocss/unocss)
-- [iamyoki/playwright-watch - 🙈🐵 Run Playwright in watch mode](https://github.com/iamyoki/playwright-watch)
-- [ElaWorkshop/awesome-cn-cafe - A curated list of awesome coffee places for work in China.](https://github.com/ElaWorkshop/awesome-cn-cafe)
-- [lowlighter/metrics - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
