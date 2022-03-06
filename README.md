@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [instantpage/instant.page - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%](https://github.com/instantpage/instant.page)
 - [limboy/idiom - A Chinese Hanzi variation of Wordle - 拼音猜成语](https://github.com/limboy/idiom)
 - [maplibre/demotiles - Demo vector tiles and map style for web, helloworld and CI tests @MapLibre. Hosted directly on GitHub Pages, serverless, no keys.](https://github.com/maplibre/demotiles)
 - [nvkelso/natural-earth-vector - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.](https://github.com/nvkelso/natural-earth-vector)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [unifiedjs/unified - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees](https://github.com/unifiedjs/unified)
 - [paradite/awful-deplatform - :broken_heart: A collection of awful deplatform actions taken by private companies.](https://github.com/paradite/awful-deplatform)
 - [Elairyx7301/ColorMaps - 🎨 Color Maps are very useful to quickly change the atmosphere of your project or game. 50 stunning CC0 color maps available for all purposes.](https://github.com/Elairyx7301/ColorMaps)
-- [NathanBaulch/rainbow-roads - Animate your exercise maps!](https://github.com/NathanBaulch/rainbow-roads)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
