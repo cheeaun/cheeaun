@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lyqht/sencha-teahouse - A mini e-commerce app to buy drinks & desserts, made with React Native + Typescript](https://github.com/lyqht/sencha-teahouse)
 - [kentcdodds/kcd-scripts - CLI toolbox for common scripts for my projects](https://github.com/kentcdodds/kcd-scripts)
 - [instantpage/instant.page - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%](https://github.com/instantpage/instant.page)
 - [limboy/idiom - A Chinese Hanzi variation of Wordle - 拼音猜成语](https://github.com/limboy/idiom)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [divriots/browser-vite - Vite in the browser.](https://github.com/divriots/browser-vite)
 - [chriswhong/mapboxgl-nyc-subway - Data and styles for rendering the NYC subway on a mapboxGL map](https://github.com/chriswhong/mapboxgl-nyc-subway)
 - [unifiedjs/unified - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees](https://github.com/unifiedjs/unified)
-- [paradite/awful-deplatform - :broken_heart: A collection of awful deplatform actions taken by private companies.](https://github.com/paradite/awful-deplatform)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
