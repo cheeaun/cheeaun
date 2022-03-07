@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zeakd/react-naver-maps - Controlled React Component for Naver Maps to handle zoom, center, etc.](https://github.com/zeakd/react-naver-maps)
+- [uiwjs/react-baidu-map - 基于 React 封装的百度地图组件，支持 React Hook，帮助你轻松的接入地图到 React 项目中。](https://github.com/uiwjs/react-baidu-map)
 - [lyqht/sencha-teahouse - A mini e-commerce app to buy drinks & desserts, made with React Native + Typescript](https://github.com/lyqht/sencha-teahouse)
 - [kentcdodds/kcd-scripts - CLI toolbox for common scripts for my projects](https://github.com/kentcdodds/kcd-scripts)
 - [instantpage/instant.page - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%](https://github.com/instantpage/instant.page)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [isl-org/Open3D - Open3D: A Modern Library for 3D Data Processing](https://github.com/isl-org/Open3D)
 - [bamlab/react-native-performance - An attempt to have a lighthouse for React Native. Flipper plugin to show a graph of the React Native performance monitor on Android](https://github.com/bamlab/react-native-performance)
 - [divriots/browser-vite - Vite in the browser.](https://github.com/divriots/browser-vite)
-- [chriswhong/mapboxgl-nyc-subway - Data and styles for rendering the NYC subway on a mapboxGL map](https://github.com/chriswhong/mapboxgl-nyc-subway)
-- [unifiedjs/unified - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees](https://github.com/unifiedjs/unified)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
