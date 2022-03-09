@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TomWright/dasel - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.](https://github.com/TomWright/dasel)
 - [antfu/vscode-file-nesting-config - File Nesting Config for VS Code](https://github.com/antfu/vscode-file-nesting-config)
 - [zeakd/react-naver-maps - Controlled React Component for Naver Maps to handle zoom, center, etc.](https://github.com/zeakd/react-naver-maps)
 - [uiwjs/react-baidu-map - 基于 React 封装的百度地图组件，支持 React Hook，帮助你轻松的接入地图到 React 项目中。](https://github.com/uiwjs/react-baidu-map)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [maritz/nohm - node.js object relations mapper (orm) for redis](https://github.com/maritz/nohm)
 - [xataio/screenshot - A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.](https://github.com/xataio/screenshot)
 - [isl-org/Open3D - Open3D: A Modern Library for 3D Data Processing](https://github.com/isl-org/Open3D)
-- [bamlab/react-native-performance - An attempt to have a lighthouse for React Native. Flipper plugin to show a graph of the React Native performance monitor on Android](https://github.com/bamlab/react-native-performance)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
