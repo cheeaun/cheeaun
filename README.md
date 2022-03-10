@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [webtoon/psd - Blazing fast, zero-dependency PSD parser for the web and Node.js](https://github.com/webtoon/psd)
 - [Picovoice/leopard - On-device speech-to-text engine powered by deep learning ](https://github.com/Picovoice/leopard)
 - [TomWright/dasel - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.](https://github.com/TomWright/dasel)
 - [antfu/vscode-file-nesting-config - File Nesting Config for VS Code](https://github.com/antfu/vscode-file-nesting-config)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [lukasmartinelli/naturalearthtiles - Natural Earth vector tiles (MVT) and raster tiles free and ready to use.](https://github.com/lukasmartinelli/naturalearthtiles)
 - [protectwise/troika - A JavaScript framework for interactive 3D and 2D visualizations](https://github.com/protectwise/troika)
 - [maritz/nohm - node.js object relations mapper (orm) for redis](https://github.com/maritz/nohm)
-- [xataio/screenshot - A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.](https://github.com/xataio/screenshot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
