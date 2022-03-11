@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Aloxaf/silicon - Create beautiful image of your source code.](https://github.com/Aloxaf/silicon)
 - [incubated-geek-cc/SQLiteBrowserUtility - Offline browser-only SQLite inspector tool with no server setup required.](https://github.com/incubated-geek-cc/SQLiteBrowserUtility)
 - [webtoon/psd - Blazing fast, zero-dependency PSD parser for the web and Node.js](https://github.com/webtoon/psd)
 - [Picovoice/leopard - On-device speech-to-text engine powered by deep learning ](https://github.com/Picovoice/leopard)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [maplibre/demotiles - Demo vector tiles and map style for web, helloworld and CI tests @MapLibre. Hosted directly on GitHub Pages, serverless, no keys.](https://github.com/maplibre/demotiles)
 - [nvkelso/natural-earth-vector - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.](https://github.com/nvkelso/natural-earth-vector)
 - [lukasmartinelli/naturalearthtiles - Natural Earth vector tiles (MVT) and raster tiles free and ready to use.](https://github.com/lukasmartinelli/naturalearthtiles)
-- [protectwise/troika - A JavaScript framework for interactive 3D and 2D visualizations](https://github.com/protectwise/troika)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
