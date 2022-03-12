@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shader-park/shader-park-core - A JavaScript framework for creating real-time raymarched 3D shaders. JS -> Shader.](https://github.com/shader-park/shader-park-core)
 - [Aloxaf/silicon - Create beautiful image of your source code.](https://github.com/Aloxaf/silicon)
 - [incubated-geek-cc/SQLiteBrowserUtility - Offline browser-only SQLite inspector tool with no server setup required.](https://github.com/incubated-geek-cc/SQLiteBrowserUtility)
 - [webtoon/psd - Blazing fast, zero-dependency PSD parser for the web and Node.js](https://github.com/webtoon/psd)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [limboy/idiom - A Chinese Hanzi variation of Wordle - 拼音猜成语](https://github.com/limboy/idiom)
 - [maplibre/demotiles - Demo vector tiles and map style for web, helloworld and CI tests @MapLibre. Hosted directly on GitHub Pages, serverless, no keys.](https://github.com/maplibre/demotiles)
 - [nvkelso/natural-earth-vector - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.](https://github.com/nvkelso/natural-earth-vector)
-- [lukasmartinelli/naturalearthtiles - Natural Earth vector tiles (MVT) and raster tiles free and ready to use.](https://github.com/lukasmartinelli/naturalearthtiles)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
