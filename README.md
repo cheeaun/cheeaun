@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [minorua/Qgis2threejs - A QGIS plugin to export 3D maps to Web](https://github.com/minorua/Qgis2threejs)
+- [fromScratchStudioGr/locale-to-number.js - Converts string representations of numbers, in a certain locale, to decimal literal numbers.](https://github.com/fromScratchStudioGr/locale-to-number.js)
+- [RobertFOConnor/react-native-progress-wheel - A better way to show your animated progress in a circle.](https://github.com/RobertFOConnor/react-native-progress-wheel)
 - [shader-park/shader-park-core - A JavaScript framework for creating real-time 2D and 3D shaders. JS -> Shader.](https://github.com/shader-park/shader-park-core)
 - [Aloxaf/silicon - Create beautiful image of your source code.](https://github.com/Aloxaf/silicon)
 - [incubated-geek-cc/SQLiteBrowserUtility - Offline browser-only SQLite inspector tool with no server setup required.](https://github.com/incubated-geek-cc/SQLiteBrowserUtility)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [lyqht/sencha-teahouse - A mini e-commerce app to buy drinks & desserts, made with React Native + Typescript](https://github.com/lyqht/sencha-teahouse)
 - [kentcdodds/kcd-scripts - CLI toolbox for common scripts for my projects](https://github.com/kentcdodds/kcd-scripts)
 - [instantpage/instant.page - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%](https://github.com/instantpage/instant.page)
-- [limboy/idiom - A Chinese Hanzi variation of Wordle - 拼音猜成语](https://github.com/limboy/idiom)
-- [maplibre/demotiles - Demo vector tiles and map style for web, helloworld and CI tests @MapLibre. Hosted directly on GitHub Pages, serverless, no keys.](https://github.com/maplibre/demotiles)
-- [nvkelso/natural-earth-vector - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.](https://github.com/nvkelso/natural-earth-vector)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
