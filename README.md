@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/ohash - Super fast hashing library based on murmurhash3 written in Vanilla JS](https://github.com/unjs/ohash)
 - [tailwindlabs/tailwindcss - A utility-first CSS framework for rapid UI development.](https://github.com/tailwindlabs/tailwindcss)
 - [simonw/shot-scraper-template - Template repository for setting up shot-scraper](https://github.com/simonw/shot-scraper-template)
 - [minorua/Qgis2threejs - A QGIS plugin to export 3D maps to Web](https://github.com/minorua/Qgis2threejs)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [antfu/vscode-file-nesting-config - Config of File Nesting for VS Code](https://github.com/antfu/vscode-file-nesting-config)
 - [zeakd/react-naver-maps - Controlled React Component for Naver Maps to handle zoom, center, etc.](https://github.com/zeakd/react-naver-maps)
 - [uiwjs/react-baidu-map - 基于 React 封装的百度地图组件，支持 React Hook，帮助你轻松的接入地图到 React 项目中。](https://github.com/uiwjs/react-baidu-map)
-- [lyqht/sencha-teahouse - A mini e-commerce app to buy drinks & desserts, made with React Native + Typescript](https://github.com/lyqht/sencha-teahouse)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
