@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lxgr-linux/pokete - A terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
 - [utmapp/UTM - Virtual machines for iOS and macOS](https://github.com/utmapp/UTM)
 - [unjs/ohash - Super fast hashing library based on murmurhash3 written in Vanilla JS](https://github.com/unjs/ohash)
 - [tailwindlabs/tailwindcss - A utility-first CSS framework for rapid UI development.](https://github.com/tailwindlabs/tailwindcss)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [Picovoice/leopard - On-device speech-to-text engine powered by deep learning ](https://github.com/Picovoice/leopard)
 - [TomWright/dasel - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.](https://github.com/TomWright/dasel)
 - [antfu/vscode-file-nesting-config - Config of File Nesting for VS Code](https://github.com/antfu/vscode-file-nesting-config)
-- [zeakd/react-naver-maps - Controlled React Component for Naver Maps to handle zoom, center, etc.](https://github.com/zeakd/react-naver-maps)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
