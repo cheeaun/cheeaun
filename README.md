@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [orhun/git-cliff - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ ](https://github.com/orhun/git-cliff)
 - [lxgr-linux/pokete - A terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
 - [utmapp/UTM - Virtual machines for iOS and macOS](https://github.com/utmapp/UTM)
 - [unjs/ohash - Super fast hashing library based on murmurhash3 written in Vanilla JS](https://github.com/unjs/ohash)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [webtoon/psd - Blazing fast, zero-dependency PSD parser for the web and Node.js](https://github.com/webtoon/psd)
 - [Picovoice/leopard - On-device speech-to-text engine powered by deep learning ](https://github.com/Picovoice/leopard)
 - [TomWright/dasel - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.](https://github.com/TomWright/dasel)
-- [antfu/vscode-file-nesting-config - Config of File Nesting for VS Code](https://github.com/antfu/vscode-file-nesting-config)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
