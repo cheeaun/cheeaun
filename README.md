@@ -36,7 +36,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [minorua/Qgis2threejs - A QGIS plugin to export 3D maps to Web](https://github.com/minorua/Qgis2threejs)
 - [fromScratchStudioGr/locale-to-number.js - Converts string representations of numbers, in a certain locale, to decimal literal numbers.](https://github.com/fromScratchStudioGr/locale-to-number.js)
 - [RobertFOConnor/react-native-progress-wheel - A better way to show your animated progress in a circle.](https://github.com/RobertFOConnor/react-native-progress-wheel)
-- [shader-park/shader-park-core - A JavaScript library for creating real-time 2D and 3D shaders. JS -> Shader.](https://github.com/shader-park/shader-park-core)
+- [shader-park/shader-park-core - A JavaScript library for creating real-time 2D and 3D shaders. JS -> Shader. https://shaderpark.com/  https://twitter.com/shaderpark](https://github.com/shader-park/shader-park-core)
 - [Aloxaf/silicon - Create beautiful image of your source code.](https://github.com/Aloxaf/silicon)
 - [incubated-geek-cc/SQLiteBrowserUtility - Offline browser-only SQLite inspector tool with no server setup required.](https://github.com/incubated-geek-cc/SQLiteBrowserUtility)
 - [webtoon/psd - Blazing fast, zero-dependency PSD parser for the web and Node.js](https://github.com/webtoon/psd)
