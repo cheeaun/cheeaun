@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [porsager/postgres - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 - [antfu/vscode-smart-clicks - Smart selection with double clicks for VS Code.](https://github.com/antfu/vscode-smart-clicks)
 - [orhun/git-cliff - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ ](https://github.com/orhun/git-cliff)
 - [lxgr-linux/pokete - A terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [Aloxaf/silicon - Create beautiful image of your source code.](https://github.com/Aloxaf/silicon)
 - [incubated-geek-cc/SQLiteBrowserUtility - Offline browser-only SQLite inspector tool with no server setup required.](https://github.com/incubated-geek-cc/SQLiteBrowserUtility)
 - [webtoon/psd - Blazing fast, zero-dependency PSD parser for the web and Node.js](https://github.com/webtoon/psd)
-- [Picovoice/leopard - On-device speech-to-text engine powered by deep learning ](https://github.com/Picovoice/leopard)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
