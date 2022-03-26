@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Weiyuan-Lane/qr-code-generator](https://github.com/Weiyuan-Lane/qr-code-generator)
 - [tinacms/tinacms - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.](https://github.com/tinacms/tinacms)
 - [porsager/postgres - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 - [antfu/vscode-smart-clicks - Smart selection with double clicks for VS Code.](https://github.com/antfu/vscode-smart-clicks)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [RobertFOConnor/react-native-progress-wheel - A better way to show your animated progress in a circle.](https://github.com/RobertFOConnor/react-native-progress-wheel)
 - [shader-park/shader-park-core - A JavaScript library for creating real-time 2D and 3D shaders. JS -> Shader. https://shaderpark.com/  https://twitter.com/shaderpark](https://github.com/shader-park/shader-park-core)
 - [Aloxaf/silicon - Create beautiful image of your source code.](https://github.com/Aloxaf/silicon)
-- [incubated-geek-cc/SQLiteBrowserUtility - Offline browser-only SQLite inspector tool with no server setup required.](https://github.com/incubated-geek-cc/SQLiteBrowserUtility)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
