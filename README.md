@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [justjake/quickjs-emscripten - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.](https://github.com/justjake/quickjs-emscripten)
 - [Weiyuan-Lane/qr-code-generator](https://github.com/Weiyuan-Lane/qr-code-generator)
 - [tinacms/tinacms - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.](https://github.com/tinacms/tinacms)
 - [porsager/postgres - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [fromScratchStudioGr/locale-to-number.js - Converts string representations of numbers, in a certain locale, to decimal literal numbers.](https://github.com/fromScratchStudioGr/locale-to-number.js)
 - [RobertFOConnor/react-native-progress-wheel - A better way to show your animated progress in a circle.](https://github.com/RobertFOConnor/react-native-progress-wheel)
 - [shader-park/shader-park-core - A JavaScript library for creating real-time 2D and 3D shaders. JS -> Shader. https://shaderpark.com/  https://twitter.com/shaderpark](https://github.com/shader-park/shader-park-core)
-- [Aloxaf/silicon - Create beautiful image of your source code.](https://github.com/Aloxaf/silicon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
