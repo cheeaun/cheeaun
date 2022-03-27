@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [protomaps/tippecanoe - “tippecanoe 2” fork - build big vector tilesets of thematic data](https://github.com/protomaps/tippecanoe)
+- [flatgeobuf/flatgeobuf - A performant binary encoding for geographic data based on flatbuffers](https://github.com/flatgeobuf/flatgeobuf)
 - [WebReflection/highlighted-code - A textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js](https://github.com/WebReflection/highlighted-code)
 - [justjake/quickjs-emscripten - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.](https://github.com/justjake/quickjs-emscripten)
 - [Weiyuan-Lane/qr-code-generator](https://github.com/Weiyuan-Lane/qr-code-generator)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [tailwindlabs/tailwindcss - A utility-first CSS framework for rapid UI development.](https://github.com/tailwindlabs/tailwindcss)
 - [simonw/shot-scraper-template - Template repository for setting up shot-scraper](https://github.com/simonw/shot-scraper-template)
 - [minorua/Qgis2threejs - A QGIS plugin to export 3D maps to Web](https://github.com/minorua/Qgis2threejs)
-- [fromScratchStudioGr/locale-to-number.js - Converts string representations of numbers, in a certain locale, to decimal literal numbers.](https://github.com/fromScratchStudioGr/locale-to-number.js)
-- [RobertFOConnor/react-native-progress-wheel - A better way to show your animated progress in a circle.](https://github.com/RobertFOConnor/react-native-progress-wheel)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
