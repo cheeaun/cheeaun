@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [opengovsg/convert-nationality-codes - Utility for converting between nationality codes](https://github.com/opengovsg/convert-nationality-codes)
 - [protomaps/tippecanoe - “tippecanoe 2” fork - build big vector tilesets of thematic data](https://github.com/protomaps/tippecanoe)
 - [flatgeobuf/flatgeobuf - A performant binary encoding for geographic data based on flatbuffers](https://github.com/flatgeobuf/flatgeobuf)
 - [WebReflection/highlighted-code - A textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js](https://github.com/WebReflection/highlighted-code)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [unjs/ohash - Super fast hashing library based on murmurhash3 written in Vanilla JS](https://github.com/unjs/ohash)
 - [tailwindlabs/tailwindcss - A utility-first CSS framework for rapid UI development.](https://github.com/tailwindlabs/tailwindcss)
 - [simonw/shot-scraper-template - Template repository for setting up shot-scraper](https://github.com/simonw/shot-scraper-template)
-- [minorua/Qgis2threejs - A QGIS plugin to export 3D maps to Web](https://github.com/minorua/Qgis2threejs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
