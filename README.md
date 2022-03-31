@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dagger/dagger - A portable devkit for CI/CD pipelines](https://github.com/dagger/dagger)
+- [incubated-geek-cc/custom-favicon-generator - An offline tool to convert image files (PNG, JPG, GIF) to ICO formats.](https://github.com/incubated-geek-cc/custom-favicon-generator)
+- [kig/quickgres - Quickgres is a native-JS PostgreSQL client library](https://github.com/kig/quickgres)
 - [opengovsg/convert-nationality-codes - Utility for converting between nationality codes](https://github.com/opengovsg/convert-nationality-codes)
 - [protomaps/tippecanoe - “tippecanoe 2” fork - build big vector tilesets of thematic data](https://github.com/protomaps/tippecanoe)
 - [flatgeobuf/flatgeobuf - A performant binary encoding for geographic data based on flatbuffers](https://github.com/flatgeobuf/flatgeobuf)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [orhun/git-cliff - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ ](https://github.com/orhun/git-cliff)
 - [lxgr-linux/pokete - A terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
 - [utmapp/UTM - Virtual machines for iOS and macOS](https://github.com/utmapp/UTM)
-- [unjs/ohash - Super fast hashing library based on murmurhash3 written in Vanilla JS](https://github.com/unjs/ohash)
-- [tailwindlabs/tailwindcss - A utility-first CSS framework for rapid UI development.](https://github.com/tailwindlabs/tailwindcss)
-- [simonw/shot-scraper-template - Template repository for setting up shot-scraper](https://github.com/simonw/shot-scraper-template)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
