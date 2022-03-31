@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mapbox/storytelling - Storytelling with maps template](https://github.com/mapbox/storytelling)
 - [dagger/dagger - A portable devkit for CI/CD pipelines](https://github.com/dagger/dagger)
 - [incubated-geek-cc/custom-favicon-generator - An offline tool to convert image files (PNG, JPG, GIF) to ICO formats.](https://github.com/incubated-geek-cc/custom-favicon-generator)
 - [kig/quickgres - Quickgres is a native-JS PostgreSQL client library](https://github.com/kig/quickgres)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [antfu/vscode-smart-clicks - Smart selection with double clicks for VS Code.](https://github.com/antfu/vscode-smart-clicks)
 - [orhun/git-cliff - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ ](https://github.com/orhun/git-cliff)
 - [lxgr-linux/pokete - A terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
-- [utmapp/UTM - Virtual machines for iOS and macOS](https://github.com/utmapp/UTM)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
