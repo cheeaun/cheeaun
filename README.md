@@ -31,7 +31,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [dagger/dagger - A portable devkit for CI/CD pipelines](https://github.com/dagger/dagger)
 - [incubated-geek-cc/custom-favicon-generator - An offline tool to convert image files (PNG, JPG, GIF) to ICO formats.](https://github.com/incubated-geek-cc/custom-favicon-generator)
 - [kig/quickgres - Quickgres is a native-JS PostgreSQL client library](https://github.com/kig/quickgres)
-- [opengovsg/convert-nationality-codes - Utility for converting between nationality codes](https://github.com/opengovsg/convert-nationality-codes)
+- [opengovsg/countries-regions-codes - Utility for converting between nationality codes](https://github.com/opengovsg/countries-regions-codes)
 - [protomaps/tippecanoe - “tippecanoe 2” fork - build big vector tilesets of thematic data](https://github.com/protomaps/tippecanoe)
 - [flatgeobuf/flatgeobuf - A performant binary encoding for geographic data based on flatbuffers](https://github.com/flatgeobuf/flatgeobuf)
 - [WebReflection/highlighted-code - A textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js](https://github.com/WebReflection/highlighted-code)
