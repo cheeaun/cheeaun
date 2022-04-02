@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sindresorhus/safe-stringify - Serialize objects to JSON with handling for circular references](https://github.com/sindresorhus/safe-stringify)
 - [mapbox/storytelling - Storytelling with maps template](https://github.com/mapbox/storytelling)
 - [dagger/dagger - A portable devkit for CI/CD pipelines](https://github.com/dagger/dagger)
 - [incubated-geek-cc/custom-favicon-generator - An offline tool to convert image files (PNG, JPG, GIF) to ICO formats.](https://github.com/incubated-geek-cc/custom-favicon-generator)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [porsager/postgres - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 - [antfu/vscode-smart-clicks - Smart selection with double clicks for VS Code.](https://github.com/antfu/vscode-smart-clicks)
 - [orhun/git-cliff - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ ](https://github.com/orhun/git-cliff)
-- [lxgr-linux/pokete - A terminal based Pokemon like game](https://github.com/lxgr-linux/pokete)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
