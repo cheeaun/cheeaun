@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pbkit/pbkit - protobuf toolkit for typescript and others](https://github.com/pbkit/pbkit)
 - [sindresorhus/safe-stringify - Serialize objects to JSON with handling for circular references](https://github.com/sindresorhus/safe-stringify)
 - [mapbox/storytelling - Storytelling with maps template](https://github.com/mapbox/storytelling)
 - [dagger/dagger - A portable devkit for CI/CD pipelines](https://github.com/dagger/dagger)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [tinacms/tinacms - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.](https://github.com/tinacms/tinacms)
 - [porsager/postgres - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 - [antfu/vscode-smart-clicks - Smart selection with double clicks for VS Code.](https://github.com/antfu/vscode-smart-clicks)
-- [orhun/git-cliff - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ ](https://github.com/orhun/git-cliff)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
