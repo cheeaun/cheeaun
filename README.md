@@ -27,7 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [margelo/react-native-bignumber - ⚡️ The fastest Big Number library for React Native](https://github.com/margelo/react-native-bignumber)
+- [margelo/react-native-bignumber - 🔢 The fastest Big Number library for React Native](https://github.com/margelo/react-native-bignumber)
 - [pbkit/pbkit - protobuf toolkit for typescript and others](https://github.com/pbkit/pbkit)
 - [sindresorhus/safe-stringify - Serialize objects to JSON with handling for circular references](https://github.com/sindresorhus/safe-stringify)
 - [mapbox/storytelling - Storytelling with maps template](https://github.com/mapbox/storytelling)
