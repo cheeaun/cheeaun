@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zachwinter/kaleidosync - A WebGL Spotify visualizer made with Vue, D3, and Three.js.](https://github.com/zachwinter/kaleidosync)
 - [margelo/react-native-bignumber - 🔢 The fastest Big Number library for React Native](https://github.com/margelo/react-native-bignumber)
 - [pbkit/pbkit - protobuf toolkit for typescript and others](https://github.com/pbkit/pbkit)
 - [sindresorhus/safe-stringify - Serialize objects to JSON with handling for circular references](https://github.com/sindresorhus/safe-stringify)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [justjake/quickjs-emscripten - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.](https://github.com/justjake/quickjs-emscripten)
 - [Weiyuan-Lane/qr-code-generator](https://github.com/Weiyuan-Lane/qr-code-generator)
 - [tinacms/tinacms - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.](https://github.com/tinacms/tinacms)
-- [porsager/postgres - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
