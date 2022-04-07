@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jacobp100/react-native-tableview-list](https://github.com/jacobp100/react-native-tableview-list)
 - [zachwinter/kaleidosync - A WebGL Spotify visualizer made with Vue, D3, and Three.js.](https://github.com/zachwinter/kaleidosync)
 - [margelo/react-native-bignumber - 🔢 The fastest Big Number library for React Native](https://github.com/margelo/react-native-bignumber)
 - [pbkit/pbkit - protobuf toolkit for typescript and others](https://github.com/pbkit/pbkit)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [WebReflection/highlighted-code - A textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js](https://github.com/WebReflection/highlighted-code)
 - [justjake/quickjs-emscripten - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.](https://github.com/justjake/quickjs-emscripten)
 - [Weiyuan-Lane/qr-code-generator](https://github.com/Weiyuan-Lane/qr-code-generator)
-- [tinacms/tinacms - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.](https://github.com/tinacms/tinacms)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
