@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [seonglae/to-smooth - Chaikin's smooth Algorithm multi dimension  library](https://github.com/seonglae/to-smooth)
 - [AnthumChris/fetch-progress-indicators - Progress indicators/bars using Streams, Service Workers, and Fetch APIs](https://github.com/AnthumChris/fetch-progress-indicators)
 - [HeapsIO/heaps - Heaps : Haxe Game Framework](https://github.com/HeapsIO/heaps)
 - [jed/dom-jsx-runtime - A tiny library that turns JSX into DOM operations](https://github.com/jed/dom-jsx-runtime)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [kig/quickgres - Quickgres is a native-JS PostgreSQL client library](https://github.com/kig/quickgres)
 - [opengovsg/countries-regions-codes - Utility for converting between nationality codes](https://github.com/opengovsg/countries-regions-codes)
 - [protomaps/tippecanoe - “tippecanoe 2” fork - build big vector tilesets of thematic data](https://github.com/protomaps/tippecanoe)
-- [flatgeobuf/flatgeobuf - A performant binary encoding for geographic data based on flatbuffers](https://github.com/flatgeobuf/flatgeobuf)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
