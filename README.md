@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AnthumChris/fetch-progress-indicators - Progress indicators/bars using Streams, Service Workers, and Fetch APIs](https://github.com/AnthumChris/fetch-progress-indicators)
+- [HeapsIO/heaps - Heaps : Haxe Game Framework](https://github.com/HeapsIO/heaps)
 - [jed/dom-jsx-runtime - A tiny library that turns JSX into DOM operations](https://github.com/jed/dom-jsx-runtime)
 - [jacobp100/react-native-tableview-list](https://github.com/jacobp100/react-native-tableview-list)
 - [zachwinter/kaleidosync - A WebGL Spotify visualizer made with Vue, D3, and Three.js.](https://github.com/zachwinter/kaleidosync)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [opengovsg/countries-regions-codes - Utility for converting between nationality codes](https://github.com/opengovsg/countries-regions-codes)
 - [protomaps/tippecanoe - “tippecanoe 2” fork - build big vector tilesets of thematic data](https://github.com/protomaps/tippecanoe)
 - [flatgeobuf/flatgeobuf - A performant binary encoding for geographic data based on flatbuffers](https://github.com/flatgeobuf/flatgeobuf)
-- [WebReflection/highlighted-code - A textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js](https://github.com/WebReflection/highlighted-code)
-- [justjake/quickjs-emscripten - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.](https://github.com/justjake/quickjs-emscripten)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
