@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CSSEGISandData/COVID-19 - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
+- [waydabber/BetterDummy - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.](https://github.com/waydabber/BetterDummy)
 - [seonglae/to-smooth - Chaikin's smooth Algorithm multi dimension  library](https://github.com/seonglae/to-smooth)
 - [AnthumChris/fetch-progress-indicators - Progress indicators/bars using Streams, Service Workers, and Fetch APIs](https://github.com/AnthumChris/fetch-progress-indicators)
 - [HeapsIO/heaps - Heaps : Haxe Game Framework](https://github.com/HeapsIO/heaps)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [dagger/dagger - A portable devkit for CI/CD pipelines](https://github.com/dagger/dagger)
 - [incubated-geek-cc/custom-favicon-generator - An offline tool to convert image files (PNG, JPG, GIF) to ICO formats.](https://github.com/incubated-geek-cc/custom-favicon-generator)
 - [kig/quickgres - Quickgres is a native-JS PostgreSQL client library](https://github.com/kig/quickgres)
-- [opengovsg/countries-regions-codes - Utility for converting between nationality codes](https://github.com/opengovsg/countries-regions-codes)
-- [protomaps/tippecanoe - “tippecanoe 2” fork - build big vector tilesets of thematic data](https://github.com/protomaps/tippecanoe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
