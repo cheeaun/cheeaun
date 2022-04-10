@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [timostamm/protobuf-ts - Protobuf and RPC for TypeScript](https://github.com/timostamm/protobuf-ts)
+- [d3/d3-brush - Select a one- or two-dimensional region using the mouse or touch.](https://github.com/d3/d3-brush)
 - [CSSEGISandData/COVID-19 - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 - [waydabber/BetterDummy - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.](https://github.com/waydabber/BetterDummy)
 - [seonglae/to-smooth - Chaikin's smooth Algorithm multi dimension  library](https://github.com/seonglae/to-smooth)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sindresorhus/safe-stringify - Serialize objects to JSON with handling for circular references](https://github.com/sindresorhus/safe-stringify)
 - [mapbox/storytelling - Storytelling with maps template](https://github.com/mapbox/storytelling)
 - [dagger/dagger - A portable devkit for CI/CD pipelines](https://github.com/dagger/dagger)
-- [incubated-geek-cc/custom-favicon-generator - An offline tool to convert image files (PNG, JPG, GIF) to ICO formats.](https://github.com/incubated-geek-cc/custom-favicon-generator)
-- [kig/quickgres - Quickgres is a native-JS PostgreSQL client library](https://github.com/kig/quickgres)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
