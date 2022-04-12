@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [willnode/secure-localhost - Proxy your specified localhost port to HTTPS, with automatic certificate installation.](https://github.com/willnode/secure-localhost)
 - [nvh95/jest-preview - Debug your Jest tests. Effortlessly.🛠🖼 ](https://github.com/nvh95/jest-preview)
 - [healeycodes/tld-quiz - 🌐 How well do you know your top-level domains (TLDs)?](https://github.com/healeycodes/tld-quiz)
 - [timostamm/protobuf-ts - Protobuf and RPC for TypeScript](https://github.com/timostamm/protobuf-ts)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [zachwinter/kaleidosync - A WebGL Spotify visualizer made with Vue, D3, and Three.js.](https://github.com/zachwinter/kaleidosync)
 - [margelo/react-native-bignumber - 🔢 The fastest Big Number library for React Native](https://github.com/margelo/react-native-bignumber)
 - [pbkit/pbkit - protobuf toolkit for typescript and others](https://github.com/pbkit/pbkit)
-- [sindresorhus/safe-stringify - Serialize objects to JSON with handling for circular references](https://github.com/sindresorhus/safe-stringify)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
