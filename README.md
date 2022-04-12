@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nvh95/jest-preview - Debug your Jest tests. Effortlessly.🛠🖼 ](https://github.com/nvh95/jest-preview)
 - [healeycodes/tld-quiz - 🌐 How well do you know your top-level domains (TLDs)?](https://github.com/healeycodes/tld-quiz)
 - [timostamm/protobuf-ts - Protobuf and RPC for TypeScript](https://github.com/timostamm/protobuf-ts)
 - [d3/d3-brush - Select a one- or two-dimensional region using the mouse or touch.](https://github.com/d3/d3-brush)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [margelo/react-native-bignumber - 🔢 The fastest Big Number library for React Native](https://github.com/margelo/react-native-bignumber)
 - [pbkit/pbkit - protobuf toolkit for typescript and others](https://github.com/pbkit/pbkit)
 - [sindresorhus/safe-stringify - Serialize objects to JSON with handling for circular references](https://github.com/sindresorhus/safe-stringify)
-- [mapbox/storytelling - Storytelling with maps template](https://github.com/mapbox/storytelling)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
