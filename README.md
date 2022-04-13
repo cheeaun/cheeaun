@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [isaacs/minipass - A stream implementation that does more by doing less](https://github.com/isaacs/minipass)
 - [sindresorhus/pokemon - Get Pokémon names](https://github.com/sindresorhus/pokemon)
 - [planttheidea/moize - The consistently-fast, complete memoization solution for JS](https://github.com/planttheidea/moize)
 - [willnode/secure-localhost - Proxy your specified localhost port to HTTPS, with automatic certificate installation.](https://github.com/willnode/secure-localhost)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [HeapsIO/heaps - Heaps : Haxe Game Framework](https://github.com/HeapsIO/heaps)
 - [jed/dom-jsx-runtime - A tiny library that turns JSX into DOM operations](https://github.com/jed/dom-jsx-runtime)
 - [jacobp100/react-native-tableview-list](https://github.com/jacobp100/react-native-tableview-list)
-- [zachwinter/kaleidosync - A WebGL Spotify visualizer made with Vue, D3, and Three.js.](https://github.com/zachwinter/kaleidosync)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
