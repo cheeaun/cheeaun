@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [felixfbecker/cli-highlight - Syntax highlighting for your terminal 💻✨](https://github.com/felixfbecker/cli-highlight)
 - [isaacs/minipass - A stream implementation that does more by doing less](https://github.com/isaacs/minipass)
 - [sindresorhus/pokemon - Get Pokémon names](https://github.com/sindresorhus/pokemon)
 - [planttheidea/moize - The consistently-fast, complete memoization solution for JS](https://github.com/planttheidea/moize)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [AnthumChris/fetch-progress-indicators - Progress indicators/bars using Streams, Service Workers, and Fetch APIs](https://github.com/AnthumChris/fetch-progress-indicators)
 - [HeapsIO/heaps - Heaps : Haxe Game Framework](https://github.com/HeapsIO/heaps)
 - [jed/dom-jsx-runtime - A tiny library that turns JSX into DOM operations](https://github.com/jed/dom-jsx-runtime)
-- [jacobp100/react-native-tableview-list](https://github.com/jacobp100/react-native-tableview-list)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
