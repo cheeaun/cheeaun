@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [danielgatis/rembg - Rembg is a tool to remove images background.](https://github.com/danielgatis/rembg)
 - [lucafalasco/scroll-snap - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour](https://github.com/lucafalasco/scroll-snap)
 - [felixfbecker/cli-highlight - Syntax highlighting for your terminal 💻✨](https://github.com/felixfbecker/cli-highlight)
 - [isaacs/minipass - A stream implementation that does more by doing less](https://github.com/isaacs/minipass)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [waydabber/BetterDummy - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.](https://github.com/waydabber/BetterDummy)
 - [seonglae/to-smooth - Chaikin's smooth Algorithm multi dimension  library](https://github.com/seonglae/to-smooth)
 - [AnthumChris/fetch-progress-indicators - Progress indicators/bars using Streams, Service Workers, and Fetch APIs](https://github.com/AnthumChris/fetch-progress-indicators)
-- [HeapsIO/heaps - Heaps : Haxe Game Framework](https://github.com/HeapsIO/heaps)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
