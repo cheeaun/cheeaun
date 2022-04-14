@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ndaidong/article-parser - To extract main article from given URL with Node.js](https://github.com/ndaidong/article-parser)
+- [LuanRT/YouTube.js - 🎥 full-featured wrapper around YouTube's private API](https://github.com/LuanRT/YouTube.js)
 - [danielgatis/rembg - Rembg is a tool to remove images background.](https://github.com/danielgatis/rembg)
 - [lucafalasco/scroll-snap - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour](https://github.com/lucafalasco/scroll-snap)
 - [felixfbecker/cli-highlight - Syntax highlighting for your terminal 💻✨](https://github.com/felixfbecker/cli-highlight)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [d3/d3-brush - Select a one- or two-dimensional region using the mouse or touch.](https://github.com/d3/d3-brush)
 - [CSSEGISandData/COVID-19 - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 - [waydabber/BetterDummy - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.](https://github.com/waydabber/BetterDummy)
-- [seonglae/to-smooth - Chaikin's smooth Algorithm multi dimension  library](https://github.com/seonglae/to-smooth)
-- [AnthumChris/fetch-progress-indicators - Progress indicators/bars using Streams, Service Workers, and Fetch APIs](https://github.com/AnthumChris/fetch-progress-indicators)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
