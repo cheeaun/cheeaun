@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [facebook/lexical - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.](https://github.com/facebook/lexical)
 - [GoogleChrome/dialog-polyfill - Polyfill for the HTML dialog element](https://github.com/GoogleChrome/dialog-polyfill)
 - [ndaidong/article-parser - To extract main article from given URL with Node.js](https://github.com/ndaidong/article-parser)
 - [LuanRT/YouTube.js - 🎥 full-featured wrapper around YouTube's private API](https://github.com/LuanRT/YouTube.js)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [healeycodes/tld-quiz - 🌐 How well do you know your top-level domains (TLDs)?](https://github.com/healeycodes/tld-quiz)
 - [timostamm/protobuf-ts - Protobuf and RPC for TypeScript](https://github.com/timostamm/protobuf-ts)
 - [d3/d3-brush - Select a one- or two-dimensional region using the mouse or touch.](https://github.com/d3/d3-brush)
-- [CSSEGISandData/COVID-19 - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
