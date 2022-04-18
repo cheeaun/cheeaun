@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CytopiaTeam/Cytopia - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game](https://github.com/CytopiaTeam/Cytopia)
 - [geoloniamaps/basic - Basic スタイルのテンプレートリポジトリです。お好みのスタイルにカスタマイズできます。](https://github.com/geoloniamaps/basic)
 - [Shopify/javy - JS to WebAssembly toolchain](https://github.com/Shopify/javy)
 - [facebook/lexical - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.](https://github.com/facebook/lexical)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [planttheidea/moize - The consistently-fast, complete memoization solution for JS](https://github.com/planttheidea/moize)
 - [willnode/secure-localhost - Proxy your specified localhost port to HTTPS, with automatic certificate installation.](https://github.com/willnode/secure-localhost)
 - [nvh95/jest-preview - Debug your Jest tests. Effortlessly.🛠🖼 ](https://github.com/nvh95/jest-preview)
-- [healeycodes/tld-quiz - 🌐 How well do you know your top-level domains (TLDs)?](https://github.com/healeycodes/tld-quiz)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
