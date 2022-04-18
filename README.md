@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [geoloniamaps/basic - Basic スタイルのテンプレートリポジトリです。お好みのスタイルにカスタマイズできます。](https://github.com/geoloniamaps/basic)
 - [Shopify/javy - JS to WebAssembly toolchain](https://github.com/Shopify/javy)
 - [facebook/lexical - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.](https://github.com/facebook/lexical)
 - [GoogleChrome/dialog-polyfill - Polyfill for the HTML dialog element](https://github.com/GoogleChrome/dialog-polyfill)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [willnode/secure-localhost - Proxy your specified localhost port to HTTPS, with automatic certificate installation.](https://github.com/willnode/secure-localhost)
 - [nvh95/jest-preview - Debug your Jest tests. Effortlessly.🛠🖼 ](https://github.com/nvh95/jest-preview)
 - [healeycodes/tld-quiz - 🌐 How well do you know your top-level domains (TLDs)?](https://github.com/healeycodes/tld-quiz)
-- [timostamm/protobuf-ts - Protobuf and RPC for TypeScript](https://github.com/timostamm/protobuf-ts)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
