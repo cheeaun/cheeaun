@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [incubated-geek-cc/sg-routing-app - A web application which integrates multiple routing APIs for custom selection and visualisation.](https://github.com/incubated-geek-cc/sg-routing-app)
 - [nicolas-van/modern-async - A modern JavaScript tooling library for asynchronous operations using async/await, promises and async generators](https://github.com/nicolas-van/modern-async)
 - [CytopiaTeam/Cytopia - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game](https://github.com/CytopiaTeam/Cytopia)
 - [geoloniamaps/basic - Basic スタイルのテンプレートリポジトリです。お好みのスタイルにカスタマイズできます。](https://github.com/geoloniamaps/basic)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [isaacs/minipass - A stream implementation that does more by doing less](https://github.com/isaacs/minipass)
 - [sindresorhus/pokemon - Get Pokémon names](https://github.com/sindresorhus/pokemon)
 - [planttheidea/moize - The consistently-fast, complete memoization solution for JS](https://github.com/planttheidea/moize)
-- [willnode/secure-localhost - Proxy your specified localhost port to HTTPS, with automatic certificate installation.](https://github.com/willnode/secure-localhost)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
