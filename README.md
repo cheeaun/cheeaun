@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oedotme/generouted - Generated file-based routes for React Location and Vite](https://github.com/oedotme/generouted)
+- [frouo/next-markdown - generate pages from markdown files with dynamic routes, 0 effort, 0 boilerplate.](https://github.com/frouo/next-markdown)
 - [incubated-geek-cc/sg-routing-app - A web application which integrates multiple routing APIs for custom selection and visualisation.](https://github.com/incubated-geek-cc/sg-routing-app)
 - [nicolas-van/modern-async - A modern JavaScript tooling library for asynchronous operations using async/await, promises and async generators](https://github.com/nicolas-van/modern-async)
 - [CytopiaTeam/Cytopia - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game](https://github.com/CytopiaTeam/Cytopia)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [lucafalasco/scroll-snap - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour](https://github.com/lucafalasco/scroll-snap)
 - [felixfbecker/cli-highlight - Syntax highlighting for your terminal 💻✨](https://github.com/felixfbecker/cli-highlight)
 - [isaacs/minipass - A stream implementation that does more by doing less](https://github.com/isaacs/minipass)
-- [sindresorhus/pokemon - Get Pokémon names](https://github.com/sindresorhus/pokemon)
-- [planttheidea/moize - The consistently-fast, complete memoization solution for JS](https://github.com/planttheidea/moize)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
