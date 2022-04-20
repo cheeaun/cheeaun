@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pveyes/text-fragments - Text Fragments and Selection utilities](https://github.com/pveyes/text-fragments)
 - [cfworker/cfworker - A collection of packages optimized for Cloudflare Workers and service workers.](https://github.com/cfworker/cfworker)
 - [rhashimoto/wa-sqlite - WebAssembly SQLite with experimental support for browser storage extensions](https://github.com/rhashimoto/wa-sqlite)
 - [maplibre/maplibre-rs - Native Maps for Web, Mobile and Desktop](https://github.com/maplibre/maplibre-rs)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [GoogleChrome/dialog-polyfill - Polyfill for the HTML dialog element](https://github.com/GoogleChrome/dialog-polyfill)
 - [ndaidong/article-parser - To extract main article from given URL with Node.js](https://github.com/ndaidong/article-parser)
 - [LuanRT/YouTube.js - 🎥 full-featured wrapper around YouTube's private API](https://github.com/LuanRT/YouTube.js)
-- [danielgatis/rembg - Rembg is a tool to remove images background.](https://github.com/danielgatis/rembg)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
