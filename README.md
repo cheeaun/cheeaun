@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maplibre/maplibre-rs - Native Maps for Web, Mobile and Desktop](https://github.com/maplibre/maplibre-rs)
 - [oedotme/generouted - Generated file-based routes for React Location and Vite](https://github.com/oedotme/generouted)
 - [frouo/next-markdown - generate pages from markdown files with dynamic routes, 0 effort, 0 boilerplate.](https://github.com/frouo/next-markdown)
 - [incubated-geek-cc/sg-routing-app - A web application which integrates multiple routing APIs for custom selection and visualisation.](https://github.com/incubated-geek-cc/sg-routing-app)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [danielgatis/rembg - Rembg is a tool to remove images background.](https://github.com/danielgatis/rembg)
 - [lucafalasco/scroll-snap - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour](https://github.com/lucafalasco/scroll-snap)
 - [felixfbecker/cli-highlight - Syntax highlighting for your terminal 💻✨](https://github.com/felixfbecker/cli-highlight)
-- [isaacs/minipass - A stream implementation that does more by doing less](https://github.com/isaacs/minipass)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
