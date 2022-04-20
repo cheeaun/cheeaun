@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maputnik/editor - An open source visual editor for the 'Mapbox Style Specification'](https://github.com/maputnik/editor)
 - [pveyes/text-fragments - Text Fragments and Selection utilities](https://github.com/pveyes/text-fragments)
 - [cfworker/cfworker - A collection of packages optimized for Cloudflare Workers and service workers.](https://github.com/cfworker/cfworker)
 - [rhashimoto/wa-sqlite - WebAssembly SQLite with experimental support for browser storage extensions](https://github.com/rhashimoto/wa-sqlite)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [facebook/lexical - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.](https://github.com/facebook/lexical)
 - [GoogleChrome/dialog-polyfill - Polyfill for the HTML dialog element](https://github.com/GoogleChrome/dialog-polyfill)
 - [ndaidong/article-parser - To extract main article from given URL with Node.js](https://github.com/ndaidong/article-parser)
-- [LuanRT/YouTube.js - 🎥 full-featured wrapper around YouTube's private API](https://github.com/LuanRT/YouTube.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
