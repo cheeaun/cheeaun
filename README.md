@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [joeattardi/picmo - JavaScript emoji picker. Any app, any framework.](https://github.com/joeattardi/picmo)
+- [opengeospatial/geoparquet - Specification for storing geospatial vector data (point, line, polygon) in Parquet](https://github.com/opengeospatial/geoparquet)
+- [kylebarron/parquet-wasm - Rust-based WebAssembly bindings to read and write Apache Parquet data](https://github.com/kylebarron/parquet-wasm)
 - [maputnik/editor - An open source visual editor for the 'Mapbox Style Specification'](https://github.com/maputnik/editor)
 - [pveyes/text-fragments - Text Fragments and Selection utilities](https://github.com/pveyes/text-fragments)
 - [cfworker/cfworker - A collection of packages optimized for Cloudflare Workers and service workers.](https://github.com/cfworker/cfworker)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [CytopiaTeam/Cytopia - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game](https://github.com/CytopiaTeam/Cytopia)
 - [geoloniamaps/basic - Basic スタイルのテンプレートリポジトリです。お好みのスタイルにカスタマイズできます。](https://github.com/geoloniamaps/basic)
 - [Shopify/javy - JS to WebAssembly toolchain](https://github.com/Shopify/javy)
-- [facebook/lexical - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.](https://github.com/facebook/lexical)
-- [GoogleChrome/dialog-polyfill - Polyfill for the HTML dialog element](https://github.com/GoogleChrome/dialog-polyfill)
-- [ndaidong/article-parser - To extract main article from given URL with Node.js](https://github.com/ndaidong/article-parser)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
