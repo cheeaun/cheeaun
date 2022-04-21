@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Malvoz/web-maps-wcag-evaluation - Manual accessibility evaluation of popular web map tools.](https://github.com/Malvoz/web-maps-wcag-evaluation)
 - [kairichard/awesome-nocode-lowcode - A curated list of awesome nocode / lowcode applications to build other applications](https://github.com/kairichard/awesome-nocode-lowcode)
 - [unjs/unstorage - 🌍 💾 Universal Storage Layer](https://github.com/unjs/unstorage)
 - [unjs/radix3 - 🌳 Lightweight and fast router for JavaScript based on Radix Tree](https://github.com/unjs/radix3)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [rhashimoto/wa-sqlite - WebAssembly SQLite with experimental support for browser storage extensions](https://github.com/rhashimoto/wa-sqlite)
 - [maplibre/maplibre-rs - Native Maps for Web, Mobile and Desktop](https://github.com/maplibre/maplibre-rs)
 - [oedotme/generouted - Generated file-based routes for React Location and Vite](https://github.com/oedotme/generouted)
-- [frouo/next-markdown - generate pages from markdown files with dynamic routes, 0 effort, 0 boilerplate.](https://github.com/frouo/next-markdown)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
