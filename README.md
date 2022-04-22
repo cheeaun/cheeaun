@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [clauderic/dnd-kit - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.](https://github.com/clauderic/dnd-kit)
+- [cypress-io/cypress-chrome-recorder - Export Cypress Tests from Google Chrome DevTools' Recorder](https://github.com/cypress-io/cypress-chrome-recorder)
+- [jackveiga/singapore-apis - 🇸🇬 A list of useful APIs in Singapore for developers to use.](https://github.com/jackveiga/singapore-apis)
 - [atherdon/markdown-regex - Set of constants that can help you to parse markdown content](https://github.com/atherdon/markdown-regex)
 - [cloudfour/elastic-textarea - A web component for progressively-enhanced auto-expanding textareas](https://github.com/cloudfour/elastic-textarea)
 - [sujinleeme/rock-paper-scissors](https://github.com/sujinleeme/rock-paper-scissors)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [unjs/nitro - ⚗️ Build and deploy universal JavaScript servers](https://github.com/unjs/nitro)
 - [joeattardi/picmo - JavaScript emoji picker. Any app, any framework.](https://github.com/joeattardi/picmo)
 - [opengeospatial/geoparquet - Specification for storing geospatial vector data (point, line, polygon) in Parquet](https://github.com/opengeospatial/geoparquet)
-- [kylebarron/parquet-wasm - Rust-based WebAssembly bindings to read and write Apache Parquet data](https://github.com/kylebarron/parquet-wasm)
-- [maputnik/editor - An open source visual editor for the 'Mapbox Style Specification'](https://github.com/maputnik/editor)
-- [pveyes/text-fragments - Text Fragments and Selection utilities](https://github.com/pveyes/text-fragments)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
