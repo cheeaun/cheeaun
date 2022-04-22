@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [atherdon/markdown-regex - Set of constants that can help you to parse markdown content](https://github.com/atherdon/markdown-regex)
+- [cloudfour/elastic-textarea - A web component for progressively-enhanced auto-expanding textareas](https://github.com/cloudfour/elastic-textarea)
+- [sujinleeme/rock-paper-scissors](https://github.com/sujinleeme/rock-paper-scissors)
 - [bokub/chalk-animation - :clapper: Colorful animations in terminal output](https://github.com/bokub/chalk-animation)
 - [Malvoz/web-maps-wcag-evaluation - Manual accessibility evaluation of popular web map tools.](https://github.com/Malvoz/web-maps-wcag-evaluation)
 - [kairichard/awesome-nocode-lowcode - A curated list of awesome nocode / lowcode applications to build other applications](https://github.com/kairichard/awesome-nocode-lowcode)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [kylebarron/parquet-wasm - Rust-based WebAssembly bindings to read and write Apache Parquet data](https://github.com/kylebarron/parquet-wasm)
 - [maputnik/editor - An open source visual editor for the 'Mapbox Style Specification'](https://github.com/maputnik/editor)
 - [pveyes/text-fragments - Text Fragments and Selection utilities](https://github.com/pveyes/text-fragments)
-- [cfworker/cfworker - A collection of packages optimized for Cloudflare Workers and service workers.](https://github.com/cfworker/cfworker)
-- [rhashimoto/wa-sqlite - WebAssembly SQLite with experimental support for browser storage extensions](https://github.com/rhashimoto/wa-sqlite)
-- [maplibre/maplibre-rs - Native Maps for Web, Mobile and Desktop](https://github.com/maplibre/maplibre-rs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
