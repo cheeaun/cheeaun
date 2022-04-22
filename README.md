@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dianaow/network-explorer - A graph visualization tool built with React, Graphin, D3, and Ant Design](https://github.com/dianaow/network-explorer)
+- [antvis/Graphin - A React toolkit for graph visualization based on G6](https://github.com/antvis/Graphin)
 - [clauderic/dnd-kit - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.](https://github.com/clauderic/dnd-kit)
 - [cypress-io/cypress-chrome-recorder - Export Cypress Tests from Google Chrome DevTools' Recorder](https://github.com/cypress-io/cypress-chrome-recorder)
 - [jackveiga/singapore-apis - 🇸🇬 A list of useful APIs in Singapore for developers to use.](https://github.com/jackveiga/singapore-apis)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [unjs/radix3 - 🌳 Lightweight and fast router for JavaScript based on Radix Tree](https://github.com/unjs/radix3)
 - [unjs/c12 - Smart Configuration Loader](https://github.com/unjs/c12)
 - [unjs/nitro - ⚗️ Build and deploy universal JavaScript servers](https://github.com/unjs/nitro)
-- [joeattardi/picmo - JavaScript emoji picker. Any app, any framework.](https://github.com/joeattardi/picmo)
-- [opengeospatial/geoparquet - Specification for storing geospatial vector data (point, line, polygon) in Parquet](https://github.com/opengeospatial/geoparquet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
