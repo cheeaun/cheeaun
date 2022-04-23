@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zellwk/javascript - A collection of useful JavaScript snippets curated by Zell](https://github.com/zellwk/javascript)
 - [dominicstop/react-native-ios-context-menu - A react-native component to use context menu's (UIMenu) on iOS 13/14+](https://github.com/dominicstop/react-native-ios-context-menu)
 - [dianaow/network-explorer - A graph visualization tool built with React, Graphin, D3, and Ant Design](https://github.com/dianaow/network-explorer)
 - [antvis/Graphin - A React toolkit for graph visualization based on G6](https://github.com/antvis/Graphin)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [kairichard/awesome-nocode-lowcode - A curated list of awesome nocode / lowcode applications to build other applications](https://github.com/kairichard/awesome-nocode-lowcode)
 - [unjs/unstorage - 🌍 💾 Universal Storage Layer](https://github.com/unjs/unstorage)
 - [unjs/radix3 - 🌳 Lightweight and fast router for JavaScript based on Radix Tree](https://github.com/unjs/radix3)
-- [unjs/c12 - Smart Configuration Loader](https://github.com/unjs/c12)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
