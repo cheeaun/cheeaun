@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sonnylazuardi/framer-sites-figma-plugin - Build figma plugin with low code using framer sites](https://github.com/sonnylazuardi/framer-sites-figma-plugin)
+- [grtlr/bubble-treemaps - Implementation of Bubble Treemaps for Uncertainty Visualization.](https://github.com/grtlr/bubble-treemaps)
 - [jsonhero-io/jsonhero-web - JSON Hero is an open-source, beautiful JSON viewer for the web that lets you browse, search and navigate your JSON files at speed. 🚀](https://github.com/jsonhero-io/jsonhero-web)
 - [wonderunit/font-thicccboi - A free and open source font by Wonder Unit](https://github.com/wonderunit/font-thicccboi)
 - [zellwk/javascript - A collection of useful JavaScript snippets curated by Zell](https://github.com/zellwk/javascript)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [cloudfour/elastic-textarea - A web component for progressively-enhanced auto-expanding textareas](https://github.com/cloudfour/elastic-textarea)
 - [sujinleeme/rock-paper-scissors](https://github.com/sujinleeme/rock-paper-scissors)
 - [bokub/chalk-animation - :clapper: Colorful animations in terminal output](https://github.com/bokub/chalk-animation)
-- [Malvoz/web-maps-wcag-evaluation - Manual accessibility evaluation of popular web map tools.](https://github.com/Malvoz/web-maps-wcag-evaluation)
-- [kairichard/awesome-nocode-lowcode - A curated list of awesome nocode / lowcode applications to build other applications](https://github.com/kairichard/awesome-nocode-lowcode)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
