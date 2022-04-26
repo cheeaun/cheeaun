@@ -29,7 +29,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 <!-- starred repos start -->
 - [sonnylazuardi/framer-sites-figma-plugin - Build figma plugin with low code using framer sites](https://github.com/sonnylazuardi/framer-sites-figma-plugin)
 - [grtlr/bubble-treemaps - Implementation of Bubble Treemaps for Uncertainty Visualization.](https://github.com/grtlr/bubble-treemaps)
-- [jsonhero-io/jsonhero-web - JSON Hero is an open-source, beautiful JSON viewer for the web that lets you browse, search and navigate your JSON files at speed. 🚀](https://github.com/jsonhero-io/jsonhero-web)
+- [jsonhero-io/jsonhero-web - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀](https://github.com/jsonhero-io/jsonhero-web)
 - [wonderunit/font-thicccboi - A free and open source font by Wonder Unit](https://github.com/wonderunit/font-thicccboi)
 - [zellwk/javascript - A collection of useful JavaScript snippets curated by Zell](https://github.com/zellwk/javascript)
 - [dominicstop/react-native-ios-context-menu - A react-native component to use context menu's (UIMenu) on iOS 13/14+](https://github.com/dominicstop/react-native-ios-context-menu)
