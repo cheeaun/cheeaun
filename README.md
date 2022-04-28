@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [KrauseFx/FxLifeSheet - Tracking the key metrics of my life](https://github.com/KrauseFx/FxLifeSheet)
 - [ericwbailey/a11y-syntax-highlighting - 💄 Accessible light and dark syntax highlighting themes](https://github.com/ericwbailey/a11y-syntax-highlighting)
 - [sonnylazuardi/framer-sites-figma-plugin - Build figma plugin with low code using framer sites](https://github.com/sonnylazuardi/framer-sites-figma-plugin)
 - [grtlr/bubble-treemaps - Implementation of Bubble Treemaps for Uncertainty Visualization.](https://github.com/grtlr/bubble-treemaps)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jackveiga/singapore-apis - 🇸🇬 A list of useful APIs in Singapore for developers to use.](https://github.com/jackveiga/singapore-apis)
 - [atherdon/markdown-regex - Set of constants that can help you to parse markdown content](https://github.com/atherdon/markdown-regex)
 - [cloudfour/elastic-textarea - A web component for progressively-enhanced auto-expanding textareas](https://github.com/cloudfour/elastic-textarea)
-- [sujinleeme/rock-paper-scissors](https://github.com/sujinleeme/rock-paper-scissors)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
