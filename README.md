@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [margelo/react-native-graph - 📈 Beautiful, high-performance Graphs and Charts for React Native](https://github.com/margelo/react-native-graph)
 - [esm-dev/esm.sh - A fast, global content delivery network for ES Modules.](https://github.com/esm-dev/esm.sh)
 - [IzaakSultan/react-native-handoff - React native handoff](https://github.com/IzaakSultan/react-native-handoff)
 - [dominicstop/react-native-ios-popover - A react-native component to use the native popover in iOS](https://github.com/dominicstop/react-native-ios-popover)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [dianaow/network-explorer - A graph visualization tool built with React, Graphin, D3, and Ant Design](https://github.com/dianaow/network-explorer)
 - [antvis/Graphin - A React toolkit for graph visualization based on G6](https://github.com/antvis/Graphin)
 - [clauderic/dnd-kit - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.](https://github.com/clauderic/dnd-kit)
-- [cypress-io/cypress-chrome-recorder - Export Cypress Tests from Google Chrome DevTools' Recorder](https://github.com/cypress-io/cypress-chrome-recorder)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
