@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [IzaakSultan/react-native-handoff - React native handoff](https://github.com/IzaakSultan/react-native-handoff)
+- [dominicstop/react-native-ios-popover - A react-native component to use the native popover in iOS](https://github.com/dominicstop/react-native-ios-popover)
 - [KrauseFx/FxLifeSheet - Tracking the key metrics of my life](https://github.com/KrauseFx/FxLifeSheet)
 - [ericwbailey/a11y-syntax-highlighting - 💄 Accessible light and dark syntax highlighting themes](https://github.com/ericwbailey/a11y-syntax-highlighting)
 - [sonnylazuardi/framer-sites-figma-plugin - Build figma plugin with low code using framer sites](https://github.com/sonnylazuardi/framer-sites-figma-plugin)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [clauderic/dnd-kit - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.](https://github.com/clauderic/dnd-kit)
 - [cypress-io/cypress-chrome-recorder - Export Cypress Tests from Google Chrome DevTools' Recorder](https://github.com/cypress-io/cypress-chrome-recorder)
 - [jackveiga/singapore-apis - 🇸🇬 A list of useful APIs in Singapore for developers to use.](https://github.com/jackveiga/singapore-apis)
-- [atherdon/markdown-regex - Set of constants that can help you to parse markdown content](https://github.com/atherdon/markdown-regex)
-- [cloudfour/elastic-textarea - A web component for progressively-enhanced auto-expanding textareas](https://github.com/cloudfour/elastic-textarea)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
