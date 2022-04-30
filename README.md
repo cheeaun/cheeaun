@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alvaromontoro/gamecontroller.js - A JavaScript library that lets you handle, configure, and use gamepads and controllers on a browser, using the Gamepad API](https://github.com/alvaromontoro/gamecontroller.js)
+- [fwouts/previewjs - Preview UI components in your IDE instantly](https://github.com/fwouts/previewjs)
+- [sindresorhus/appstore-symbols - List of symbols usable in an app description for the iOS App Store](https://github.com/sindresorhus/appstore-symbols)
 - [adriancooney/puppeteer-heap-snapshot - API and CLI tool to fetch and query Chome DevTools heap snapshots.](https://github.com/adriancooney/puppeteer-heap-snapshot)
 - [margelo/react-native-graph - 📈 Beautiful, high-performance Graphs and Charts for React Native](https://github.com/margelo/react-native-graph)
 - [esm-dev/esm.sh - A fast, global content delivery network for ES Modules.](https://github.com/esm-dev/esm.sh)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jsonhero-io/jsonhero-web - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀](https://github.com/jsonhero-io/jsonhero-web)
 - [wonderunit/font-thicccboi - A free and open source font by Wonder Unit](https://github.com/wonderunit/font-thicccboi)
 - [zellwk/javascript - A collection of useful JavaScript snippets curated by Zell](https://github.com/zellwk/javascript)
-- [dominicstop/react-native-ios-context-menu - A react-native component to use context menu's (UIMenu) on iOS 13/14+](https://github.com/dominicstop/react-native-ios-context-menu)
-- [dianaow/network-explorer - A graph visualization tool built with React, Graphin, D3, and Ant Design](https://github.com/dianaow/network-explorer)
-- [antvis/Graphin - A React toolkit for graph visualization based on G6](https://github.com/antvis/Graphin)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
