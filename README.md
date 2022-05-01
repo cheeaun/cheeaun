@@ -27,6 +27,11 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ruilisi/fortune-sheet - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets](https://github.com/ruilisi/fortune-sheet)
+- [surma/jxl-art - Web app to make art using JPEG XL.](https://github.com/surma/jxl-art)
+- [missive/emoji-mart - 🏪 One component to pick them all](https://github.com/missive/emoji-mart)
+- [choonkeat/nativeform](https://github.com/choonkeat/nativeform)
+- [fuzhenn/node-svg2img - A high-performance in-memory convertor to convert svg to png/jpeg images for Node.](https://github.com/fuzhenn/node-svg2img)
 - [react-native-training/react-native-fonts - Fonts available out of the box in a React Native project](https://github.com/react-native-training/react-native-fonts)
 - [RyanTanYiWei/HawkerPTshiny - Dashboard for Hawker Centres' Popular Times](https://github.com/RyanTanYiWei/HawkerPTshiny)
 - [ranyitz/qnm - :mag: cli utility for querying the node_modules directory](https://github.com/ranyitz/qnm)
@@ -37,11 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [margelo/react-native-graph - 📈 Beautiful, high-performance Graphs and Charts for React Native](https://github.com/margelo/react-native-graph)
 - [esm-dev/esm.sh - A fast, global content delivery network for ES Modules.](https://github.com/esm-dev/esm.sh)
 - [IzaakSultan/react-native-handoff - React native handoff](https://github.com/IzaakSultan/react-native-handoff)
-- [dominicstop/react-native-ios-popover - A react-native component to use the native popover in iOS](https://github.com/dominicstop/react-native-ios-popover)
-- [KrauseFx/FxLifeSheet - Tracking the key metrics of my life](https://github.com/KrauseFx/FxLifeSheet)
-- [ericwbailey/a11y-syntax-highlighting - 💄 Accessible light and dark syntax highlighting themes](https://github.com/ericwbailey/a11y-syntax-highlighting)
-- [sonnylazuardi/framer-sites-figma-plugin - Build figma plugin with low code using framer sites](https://github.com/sonnylazuardi/framer-sites-figma-plugin)
-- [grtlr/bubble-treemaps - Implementation of Bubble Treemaps for Uncertainty Visualization.](https://github.com/grtlr/bubble-treemaps)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
