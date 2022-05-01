@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [react-native-training/react-native-fonts - Fonts available out of the box in a React Native project](https://github.com/react-native-training/react-native-fonts)
+- [RyanTanYiWei/HawkerPTshiny - Dashboard for Hawker Centres' Popular Times](https://github.com/RyanTanYiWei/HawkerPTshiny)
+- [ranyitz/qnm - :mag: cli utility for querying the node_modules directory](https://github.com/ranyitz/qnm)
 - [alvaromontoro/gamecontroller.js - A JavaScript library that lets you handle, configure, and use gamepads and controllers on a browser, using the Gamepad API](https://github.com/alvaromontoro/gamecontroller.js)
 - [fwouts/previewjs - Preview UI components in your IDE instantly](https://github.com/fwouts/previewjs)
 - [sindresorhus/appstore-symbols - List of symbols usable in an app description for the iOS App Store](https://github.com/sindresorhus/appstore-symbols)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [ericwbailey/a11y-syntax-highlighting - 💄 Accessible light and dark syntax highlighting themes](https://github.com/ericwbailey/a11y-syntax-highlighting)
 - [sonnylazuardi/framer-sites-figma-plugin - Build figma plugin with low code using framer sites](https://github.com/sonnylazuardi/framer-sites-figma-plugin)
 - [grtlr/bubble-treemaps - Implementation of Bubble Treemaps for Uncertainty Visualization.](https://github.com/grtlr/bubble-treemaps)
-- [jsonhero-io/jsonhero-web - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀](https://github.com/jsonhero-io/jsonhero-web)
-- [wonderunit/font-thicccboi - A free and open source font by Wonder Unit](https://github.com/wonderunit/font-thicccboi)
-- [zellwk/javascript - A collection of useful JavaScript snippets curated by Zell](https://github.com/zellwk/javascript)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
