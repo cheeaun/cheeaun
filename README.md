@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jshttp/mime-db - Media Type Database](https://github.com/jshttp/mime-db)
 - [wting/hackernews - Hacker News web site source code mirror.](https://github.com/wting/hackernews)
 - [thumbsup/thumbsup - Generate static HTML photo / video galleries](https://github.com/thumbsup/thumbsup)
 - [a7med-mahmoud/react-native-ml-kit - React Native On-Device Machine Learning w/ Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [RyanTanYiWei/HawkerPTshiny - Dashboard for Hawker Centres' Popular Times](https://github.com/RyanTanYiWei/HawkerPTshiny)
 - [ranyitz/qnm - :mag: cli utility for querying the node_modules directory](https://github.com/ranyitz/qnm)
 - [alvaromontoro/gamecontroller.js - A JavaScript library that lets you handle, configure, and use gamepads and controllers on a browser, using the Gamepad API](https://github.com/alvaromontoro/gamecontroller.js)
-- [fwouts/previewjs - Preview UI components in your IDE instantly](https://github.com/fwouts/previewjs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
