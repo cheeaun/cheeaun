@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wting/hackernews - Hacker News web site source code mirror.](https://github.com/wting/hackernews)
+- [thumbsup/thumbsup - Generate static HTML photo / video galleries](https://github.com/thumbsup/thumbsup)
 - [a7med-mahmoud/react-native-ml-kit - React Native On-Device Machine Learning w/ Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
 - [the-pudding/data - Data sets created for stories on The Pudding, open to the public.](https://github.com/the-pudding/data)
 - [RyanTanYiWei/HawkerShiny - Hawker Centres' Popular Times (Offline) based on data collected on 1 May 2022](https://github.com/RyanTanYiWei/HawkerShiny)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [ranyitz/qnm - :mag: cli utility for querying the node_modules directory](https://github.com/ranyitz/qnm)
 - [alvaromontoro/gamecontroller.js - A JavaScript library that lets you handle, configure, and use gamepads and controllers on a browser, using the Gamepad API](https://github.com/alvaromontoro/gamecontroller.js)
 - [fwouts/previewjs - Preview UI components in your IDE instantly](https://github.com/fwouts/previewjs)
-- [sindresorhus/appstore-symbols - List of symbols usable in an app description for the iOS App Store](https://github.com/sindresorhus/appstore-symbols)
-- [adriancooney/puppeteer-heap-snapshot - API and CLI tool to fetch and query Chome DevTools heap snapshots.](https://github.com/adriancooney/puppeteer-heap-snapshot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
