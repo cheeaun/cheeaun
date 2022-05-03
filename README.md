@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [a7med-mahmoud/react-native-ml-kit - React Native On-Device Machine Learning w/ Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
 - [the-pudding/data - Data sets created for stories on The Pudding, open to the public.](https://github.com/the-pudding/data)
 - [RyanTanYiWei/HawkerShiny - Hawker Centres' Popular Times (Offline) based on data collected on 1 May 2022](https://github.com/RyanTanYiWei/HawkerShiny)
 - [ruilisi/fortune-sheet - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets](https://github.com/ruilisi/fortune-sheet)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [fwouts/previewjs - Preview UI components in your IDE instantly](https://github.com/fwouts/previewjs)
 - [sindresorhus/appstore-symbols - List of symbols usable in an app description for the iOS App Store](https://github.com/sindresorhus/appstore-symbols)
 - [adriancooney/puppeteer-heap-snapshot - API and CLI tool to fetch and query Chome DevTools heap snapshots.](https://github.com/adriancooney/puppeteer-heap-snapshot)
-- [margelo/react-native-graph - 📈 Beautiful, high-performance Graphs and Charts for React Native](https://github.com/margelo/react-native-graph)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
