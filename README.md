@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [iyegoroff/react-native-color-matrix-image-filters - Various color matrix based image filters for iOS & Android](https://github.com/iyegoroff/react-native-color-matrix-image-filters)
 - [jshttp/mime-db - Media Type Database](https://github.com/jshttp/mime-db)
 - [wting/hackernews - Hacker News web site source code mirror.](https://github.com/wting/hackernews)
 - [thumbsup/thumbsup - Generate static HTML photo / video galleries](https://github.com/thumbsup/thumbsup)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [react-native-training/react-native-fonts - Fonts available out of the box in a React Native project](https://github.com/react-native-training/react-native-fonts)
 - [RyanTanYiWei/HawkerPTshiny - Dashboard for Hawker Centres' Popular Times](https://github.com/RyanTanYiWei/HawkerPTshiny)
 - [ranyitz/qnm - :mag: cli utility for querying the node_modules directory](https://github.com/ranyitz/qnm)
-- [alvaromontoro/gamecontroller.js - A JavaScript library that lets you handle, configure, and use gamepads and controllers on a browser, using the Gamepad API](https://github.com/alvaromontoro/gamecontroller.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
