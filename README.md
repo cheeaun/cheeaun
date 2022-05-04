@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shuding/tilg - A magical React Hook that helps you debug components.](https://github.com/shuding/tilg)
+- [chakra-ui/zag - Finite state machines for building accessible design systems and UI components.](https://github.com/chakra-ui/zag)
 - [malerba118/scrollex - Build beautiful scroll experiences using minimal code](https://github.com/malerba118/scrollex)
 - [iyegoroff/react-native-color-matrix-image-filters - Various color matrix based image filters for iOS & Android](https://github.com/iyegoroff/react-native-color-matrix-image-filters)
 - [jshttp/mime-db - Media Type Database](https://github.com/jshttp/mime-db)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [missive/emoji-mart - 🏪 One component to pick them all](https://github.com/missive/emoji-mart)
 - [choonkeat/nativeform](https://github.com/choonkeat/nativeform)
 - [fuzhenn/node-svg2img - A high-performance in-memory convertor to convert svg to png/jpeg images for Node.](https://github.com/fuzhenn/node-svg2img)
-- [react-native-training/react-native-fonts - Fonts available out of the box in a React Native project](https://github.com/react-native-training/react-native-fonts)
-- [RyanTanYiWei/HawkerPTshiny - Dashboard for Hawker Centres' Popular Times](https://github.com/RyanTanYiWei/HawkerPTshiny)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
