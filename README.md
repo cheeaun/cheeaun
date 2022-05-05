@@ -27,6 +27,10 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [planttheidea/fast-equals - A blazing fast equality comparison, either shallow or deep](https://github.com/planttheidea/fast-equals)
+- [icloud-photos-downloader/icloud_photos_downloader - A command-line tool to download photos from iCloud](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+- [xemle/home-gallery - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery](https://github.com/xemle/home-gallery)
+- [filebrowser/filebrowser - 📂 Web File Browser](https://github.com/filebrowser/filebrowser)
 - [vincentneo/LosslessSwitcher - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.](https://github.com/vincentneo/LosslessSwitcher)
 - [shuding/tilg - A magical React Hook that helps you debug components.](https://github.com/shuding/tilg)
 - [chakra-ui/zag - Finite state machines for building accessible design systems and UI components.](https://github.com/chakra-ui/zag)
@@ -38,10 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [a7med-mahmoud/react-native-ml-kit - React Native On-Device Machine Learning w/ Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
 - [the-pudding/data - Data sets created for stories on The Pudding, open to the public.](https://github.com/the-pudding/data)
 - [RyanTanYiWei/HawkerShiny - Hawker Centres' Popular Times (Offline) based on data collected on 1 May 2022](https://github.com/RyanTanYiWei/HawkerShiny)
-- [ruilisi/fortune-sheet - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets](https://github.com/ruilisi/fortune-sheet)
-- [surma/jxl-art - Web app to make art using JPEG XL.](https://github.com/surma/jxl-art)
-- [missive/emoji-mart - 🏪 One component to pick them all](https://github.com/missive/emoji-mart)
-- [choonkeat/nativeform](https://github.com/choonkeat/nativeform)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
