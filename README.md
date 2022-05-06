@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [GIANTCRAB/hsg-membership-client](https://github.com/GIANTCRAB/hsg-membership-client)
 - [copy/v86 - x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
 - [planttheidea/fast-equals - A blazing fast equality comparison, either shallow or deep](https://github.com/planttheidea/fast-equals)
 - [icloud-photos-downloader/icloud_photos_downloader - A command-line tool to download photos from iCloud](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [wting/hackernews - Hacker News web site source code mirror.](https://github.com/wting/hackernews)
 - [thumbsup/thumbsup - Generate static HTML photo / video galleries](https://github.com/thumbsup/thumbsup)
 - [a7med-mahmoud/react-native-ml-kit - React Native On-Device Machine Learning w/ Google ML Kit](https://github.com/a7med-mahmoud/react-native-ml-kit)
-- [the-pudding/data - Data sets created for stories on The Pudding, open to the public.](https://github.com/the-pudding/data)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
