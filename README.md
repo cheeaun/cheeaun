@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [suminohh/website](https://github.com/suminohh/website)
+- [Dashibase/dashibase - Super simple user dashboards for Supabase users.](https://github.com/Dashibase/dashibase)
 - [resume/resume.github.com - Resumes generated using the GitHub informations](https://github.com/resume/resume.github.com)
 - [GIANTCRAB/hsg-membership-client](https://github.com/GIANTCRAB/hsg-membership-client)
 - [copy/v86 - x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [malerba118/scrollex - Build beautiful scroll experiences using minimal code](https://github.com/malerba118/scrollex)
 - [iyegoroff/react-native-color-matrix-image-filters - Various color matrix based image filters for iOS & Android](https://github.com/iyegoroff/react-native-color-matrix-image-filters)
 - [jshttp/mime-db - Media Type Database](https://github.com/jshttp/mime-db)
-- [wting/hackernews - Hacker News web site source code mirror.](https://github.com/wting/hackernews)
-- [thumbsup/thumbsup - Generate static HTML photo / video galleries](https://github.com/thumbsup/thumbsup)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
