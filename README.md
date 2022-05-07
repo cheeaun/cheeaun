@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [googlefonts/roboto-flex](https://github.com/googlefonts/roboto-flex)
+- [PayDevs/awesome-oss-monetization - 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!](https://github.com/PayDevs/awesome-oss-monetization)
 - [suminohh/website](https://github.com/suminohh/website)
 - [Dashibase/dashibase - Super simple user dashboards for Supabase users.](https://github.com/Dashibase/dashibase)
 - [resume/resume.github.com - Resumes generated using the GitHub informations](https://github.com/resume/resume.github.com)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [shuding/tilg - A magical React Hook that helps you debug components.](https://github.com/shuding/tilg)
 - [chakra-ui/zag - Finite state machines for building accessible design systems and UI components.](https://github.com/chakra-ui/zag)
 - [malerba118/scrollex - Build beautiful scroll experiences using minimal code](https://github.com/malerba118/scrollex)
-- [iyegoroff/react-native-color-matrix-image-filters - Various color matrix based image filters for iOS & Android](https://github.com/iyegoroff/react-native-color-matrix-image-filters)
-- [jshttp/mime-db - Media Type Database](https://github.com/jshttp/mime-db)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
