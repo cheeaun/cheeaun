@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [docsifyjs/docsify - 🃏 A magical documentation site generator.](https://github.com/docsifyjs/docsify)
 - [debauchee/barrier - Open-source KVM software](https://github.com/debauchee/barrier)
 - [googlefonts/roboto-flex](https://github.com/googlefonts/roboto-flex)
 - [PayDevs/awesome-oss-monetization - 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!](https://github.com/PayDevs/awesome-oss-monetization)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [filebrowser/filebrowser - 📂 Web File Browser](https://github.com/filebrowser/filebrowser)
 - [vincentneo/LosslessSwitcher - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.](https://github.com/vincentneo/LosslessSwitcher)
 - [shuding/tilg - A magical React Hook that helps you debug components.](https://github.com/shuding/tilg)
-- [chakra-ui/zag - Finite state machines for building accessible design systems and UI components.](https://github.com/chakra-ui/zag)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
