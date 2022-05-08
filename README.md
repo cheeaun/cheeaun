@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [craftzdog/chat-bubbles-for-yt - Real-time recording for chat bubbles ](https://github.com/craftzdog/chat-bubbles-for-yt)
+- [AykutSarac/jsonvisio.com - 🧩 Visualize your JSON data onto graphs seamlessly.](https://github.com/AykutSarac/jsonvisio.com)
 - [docsifyjs/docsify - 🃏 A magical documentation site generator.](https://github.com/docsifyjs/docsify)
 - [debauchee/barrier - Open-source KVM software](https://github.com/debauchee/barrier)
 - [googlefonts/roboto-flex](https://github.com/googlefonts/roboto-flex)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [icloud-photos-downloader/icloud_photos_downloader - A command-line tool to download photos from iCloud](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 - [xemle/home-gallery - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery](https://github.com/xemle/home-gallery)
 - [filebrowser/filebrowser - 📂 Web File Browser](https://github.com/filebrowser/filebrowser)
-- [vincentneo/LosslessSwitcher - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.](https://github.com/vincentneo/LosslessSwitcher)
-- [shuding/tilg - A magical React Hook that helps you debug components.](https://github.com/shuding/tilg)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
