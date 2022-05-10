@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jeremybarbet/react-native-jsi-base-coder - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.](https://github.com/jeremybarbet/react-native-jsi-base-coder)
 - [dotenv-org/dotenv-vault - 🔐💛 The worldwide standard for securing environment variables](https://github.com/dotenv-org/dotenv-vault)
 - [dai-shi/react-suspense-fetch - A primitive library for React Suspense Render-as-You-Fetch](https://github.com/dai-shi/react-suspense-fetch)
 - [craftzdog/chat-bubbles-for-yt - Real-time recording for chat bubbles ](https://github.com/craftzdog/chat-bubbles-for-yt)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [GIANTCRAB/hsg-membership-client](https://github.com/GIANTCRAB/hsg-membership-client)
 - [copy/v86 - x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
 - [planttheidea/fast-equals - A blazing fast equality comparison, either shallow or deep](https://github.com/planttheidea/fast-equals)
-- [icloud-photos-downloader/icloud_photos_downloader - A command-line tool to download photos from iCloud](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
