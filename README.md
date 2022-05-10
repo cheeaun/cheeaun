@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dotenv-org/dotenv-vault - 🔐💛 The worldwide standard for securing environment variables](https://github.com/dotenv-org/dotenv-vault)
 - [dai-shi/react-suspense-fetch - A primitive library for React Suspense Render-as-You-Fetch](https://github.com/dai-shi/react-suspense-fetch)
 - [craftzdog/chat-bubbles-for-yt - Real-time recording for chat bubbles ](https://github.com/craftzdog/chat-bubbles-for-yt)
 - [AykutSarac/jsonvisio.com - 🧩 Visualize your JSON data onto graphs seamlessly.](https://github.com/AykutSarac/jsonvisio.com)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [copy/v86 - x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
 - [planttheidea/fast-equals - A blazing fast equality comparison, either shallow or deep](https://github.com/planttheidea/fast-equals)
 - [icloud-photos-downloader/icloud_photos_downloader - A command-line tool to download photos from iCloud](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
-- [xemle/home-gallery - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery](https://github.com/xemle/home-gallery)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
