@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [charmbracelet/bubbletea - A powerful little TUI framework 🏗](https://github.com/charmbracelet/bubbletea)
+- [supabase-community/firebase-to-supabase - Firebase to Supabase Migration Guide](https://github.com/supabase-community/firebase-to-supabase)
 - [mattpocock/ts-error-translator - VSCode extension to turn TypeScript errors into plain English](https://github.com/mattpocock/ts-error-translator)
 - [jeremybarbet/react-native-jsi-base-coder - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.](https://github.com/jeremybarbet/react-native-jsi-base-coder)
 - [dotenv-org/dotenv-vault - 🔐💛 The worldwide standard for securing environment variables](https://github.com/dotenv-org/dotenv-vault)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [suminohh/website](https://github.com/suminohh/website)
 - [Dashibase/dashibase - Super simple user dashboards for Supabase users.](https://github.com/Dashibase/dashibase)
 - [resume/resume.github.com - Resumes generated using the GitHub informations](https://github.com/resume/resume.github.com)
-- [GIANTCRAB/hsg-membership-client](https://github.com/GIANTCRAB/hsg-membership-client)
-- [copy/v86 - x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
