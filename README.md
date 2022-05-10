@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mattpocock/ts-error-translator - VSCode extension to turn TypeScript errors into plain English](https://github.com/mattpocock/ts-error-translator)
 - [jeremybarbet/react-native-jsi-base-coder - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.](https://github.com/jeremybarbet/react-native-jsi-base-coder)
 - [dotenv-org/dotenv-vault - 🔐💛 The worldwide standard for securing environment variables](https://github.com/dotenv-org/dotenv-vault)
 - [dai-shi/react-suspense-fetch - A primitive library for React Suspense Render-as-You-Fetch](https://github.com/dai-shi/react-suspense-fetch)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [resume/resume.github.com - Resumes generated using the GitHub informations](https://github.com/resume/resume.github.com)
 - [GIANTCRAB/hsg-membership-client](https://github.com/GIANTCRAB/hsg-membership-client)
 - [copy/v86 - x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
-- [planttheidea/fast-equals - A blazing fast equality comparison, either shallow or deep](https://github.com/planttheidea/fast-equals)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
