@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lyqht/sg-bill-org-scraper - Web scraper to get Singapore Billing Organisations](https://github.com/lyqht/sg-bill-org-scraper)
 - [charmbracelet/bubbletea - A powerful little TUI framework 🏗](https://github.com/charmbracelet/bubbletea)
 - [supabase-community/firebase-to-supabase - Firebase to Supabase Migration Guide](https://github.com/supabase-community/firebase-to-supabase)
 - [mattpocock/ts-error-translator - VSCode extension to turn TypeScript errors into plain English](https://github.com/mattpocock/ts-error-translator)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [PayDevs/awesome-oss-monetization - 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!](https://github.com/PayDevs/awesome-oss-monetization)
 - [suminohh/website](https://github.com/suminohh/website)
 - [Dashibase/dashibase - Super simple user dashboards for Supabase users.](https://github.com/Dashibase/dashibase)
-- [resume/resume.github.com - Resumes generated using the GitHub informations](https://github.com/resume/resume.github.com)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
