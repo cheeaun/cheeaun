@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [markdoc/markdoc - A Markdown-based authoring system](https://github.com/markdoc/markdoc)
+- [RevenueCat/react-native-purchases - React Native in-app purchases and subscriptions made easy. Support for iOS and Android.](https://github.com/RevenueCat/react-native-purchases)
 - [rkusa/do-sqlite - [Experimental] Persist SQLite in a Cloudflare Durable Object](https://github.com/rkusa/do-sqlite)
 - [lyqht/sg-bill-org-scraper - Web scraper to get Singapore Billing Organisations](https://github.com/lyqht/sg-bill-org-scraper)
 - [charmbracelet/bubbletea - A powerful little TUI framework 🏗](https://github.com/charmbracelet/bubbletea)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [docsifyjs/docsify - 🃏 A magical documentation site generator.](https://github.com/docsifyjs/docsify)
 - [debauchee/barrier - Open-source KVM software](https://github.com/debauchee/barrier)
 - [googlefonts/roboto-flex](https://github.com/googlefonts/roboto-flex)
-- [PayDevs/awesome-oss-monetization - 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!](https://github.com/PayDevs/awesome-oss-monetization)
-- [suminohh/website](https://github.com/suminohh/website)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
