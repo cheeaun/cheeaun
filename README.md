@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rkusa/do-sqlite - [Experimental] Persist SQLite in a Cloudflare Durable Object](https://github.com/rkusa/do-sqlite)
 - [lyqht/sg-bill-org-scraper - Web scraper to get Singapore Billing Organisations](https://github.com/lyqht/sg-bill-org-scraper)
 - [charmbracelet/bubbletea - A powerful little TUI framework 🏗](https://github.com/charmbracelet/bubbletea)
 - [supabase-community/firebase-to-supabase - Firebase to Supabase Migration Guide](https://github.com/supabase-community/firebase-to-supabase)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [googlefonts/roboto-flex](https://github.com/googlefonts/roboto-flex)
 - [PayDevs/awesome-oss-monetization - 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!](https://github.com/PayDevs/awesome-oss-monetization)
 - [suminohh/website](https://github.com/suminohh/website)
-- [Dashibase/dashibase - Super simple user dashboards for Supabase users.](https://github.com/Dashibase/dashibase)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
