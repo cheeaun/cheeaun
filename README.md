@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wooorm/starry-night - Syntax highlighting, like GitHub](https://github.com/wooorm/starry-night)
 - [markdoc/markdoc - A Markdown-based authoring system](https://github.com/markdoc/markdoc)
 - [RevenueCat/react-native-purchases - React Native in-app purchases and subscriptions made easy. Support for iOS and Android.](https://github.com/RevenueCat/react-native-purchases)
 - [rkusa/do-sqlite - [Experimental] Persist SQLite in a Cloudflare Durable Object](https://github.com/rkusa/do-sqlite)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [AykutSarac/jsonvisio.com - 🧩 Visualize your JSON data onto graphs seamlessly.](https://github.com/AykutSarac/jsonvisio.com)
 - [docsifyjs/docsify - 🃏 A magical documentation site generator.](https://github.com/docsifyjs/docsify)
 - [debauchee/barrier - Open-source KVM software](https://github.com/debauchee/barrier)
-- [googlefonts/roboto-flex](https://github.com/googlefonts/roboto-flex)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
