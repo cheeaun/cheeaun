@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/node-fetch-native - A better redistribution of node-fetch](https://github.com/unjs/node-fetch-native)
 - [cloudflare/collapsify - Collapsify inlines all the resources of a page into a single document](https://github.com/cloudflare/collapsify)
 - [spacedriveapp/spacedrive - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.](https://github.com/spacedriveapp/spacedrive)
 - [stackgl/glsl-transpiler - Transpile GLSL to JS](https://github.com/stackgl/glsl-transpiler)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jeremybarbet/react-native-jsi-base-coder - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.](https://github.com/jeremybarbet/react-native-jsi-base-coder)
 - [dotenv-org/dotenv-vault - 🔐💛 The worldwide standard for securing environment variables](https://github.com/dotenv-org/dotenv-vault)
 - [dai-shi/react-suspense-fetch - A primitive library for React Suspense Render-as-You-Fetch](https://github.com/dai-shi/react-suspense-fetch)
-- [craftzdog/chat-bubbles-for-yt - Real-time recording for chat bubbles ](https://github.com/craftzdog/chat-bubbles-for-yt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
