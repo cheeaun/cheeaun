@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [httpie/httpie - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie](https://github.com/httpie/httpie)
 - [unjs/perfect-debounce - Debounce promise-returning & async functions.](https://github.com/unjs/perfect-debounce)
 - [unjs/ipx - High performance, secure and easy to use image proxy based on Sharp and libvips.](https://github.com/unjs/ipx)
 - [unjs/destr - Faster, secure and convenient alternative for JSON.parse](https://github.com/unjs/destr)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [markdoc/markdoc - A Markdown-based authoring system](https://github.com/markdoc/markdoc)
 - [RevenueCat/react-native-purchases - React Native in-app purchases and subscriptions made easy. Support for iOS and Android.](https://github.com/RevenueCat/react-native-purchases)
 - [rkusa/do-sqlite - [Experimental] Persist SQLite in a Cloudflare Durable Object](https://github.com/rkusa/do-sqlite)
-- [lyqht/sg-bill-org-scraper - Web scraper to get Singapore Billing Organisations](https://github.com/lyqht/sg-bill-org-scraper)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
