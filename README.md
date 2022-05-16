@@ -40,7 +40,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [spacedriveapp/spacedrive - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.](https://github.com/spacedriveapp/spacedrive)
 - [stackgl/glsl-transpiler - Transpile GLSL to JS](https://github.com/stackgl/glsl-transpiler)
 - [wooorm/starry-night - Syntax highlighting, like GitHub](https://github.com/wooorm/starry-night)
-- [markdoc/markdoc - A Markdown-based authoring system](https://github.com/markdoc/markdoc)
+- [markdoc/markdoc - A powerful, flexible, Markdown-based authoring framework.](https://github.com/markdoc/markdoc)
 - [RevenueCat/react-native-purchases - React Native in-app purchases and subscriptions made easy. Support for iOS and Android.](https://github.com/RevenueCat/react-native-purchases)
 <!-- starred repos end -->
 
