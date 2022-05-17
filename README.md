@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fastify/fastify-vite - This plugin lets you load a Vite client application and set it up for Server-Side Rendering (SSR) with Fastify.](https://github.com/fastify/fastify-vite)
+- [egoist/vite-vercel - Adding Vercel middleware support to your Vite project](https://github.com/egoist/vite-vercel)
 - [sibelius/ast-i18n - Easily migrate your existing React codebase to use i18n](https://github.com/sibelius/ast-i18n)
 - [httpie/httpie - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie](https://github.com/httpie/httpie)
 - [unjs/perfect-debounce - Debounce promise-returning & async functions.](https://github.com/unjs/perfect-debounce)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [spacedriveapp/spacedrive - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.](https://github.com/spacedriveapp/spacedrive)
 - [stackgl/glsl-transpiler - Transpile GLSL to JS](https://github.com/stackgl/glsl-transpiler)
 - [wooorm/starry-night - Syntax highlighting, like GitHub](https://github.com/wooorm/starry-night)
-- [markdoc/markdoc - A powerful, flexible, Markdown-based authoring framework.](https://github.com/markdoc/markdoc)
-- [RevenueCat/react-native-purchases - React Native in-app purchases and subscriptions made easy. Support for iOS and Android.](https://github.com/RevenueCat/react-native-purchases)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
