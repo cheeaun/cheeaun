@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dai-shi/react-hooks-fetch - Minimal data fetching library with React Suspense](https://github.com/dai-shi/react-hooks-fetch)
 - [fastify/fastify-vite - This plugin lets you load a Vite client application and set it up for Server-Side Rendering (SSR) with Fastify.](https://github.com/fastify/fastify-vite)
 - [egoist/vite-vercel - Adding Vercel middleware support to your Vite project](https://github.com/egoist/vite-vercel)
 - [sibelius/ast-i18n - Easily migrate your existing React codebase to use i18n](https://github.com/sibelius/ast-i18n)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [cloudflare/collapsify - Collapsify inlines all the resources of a page into a single document](https://github.com/cloudflare/collapsify)
 - [spacedriveapp/spacedrive - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.](https://github.com/spacedriveapp/spacedrive)
 - [stackgl/glsl-transpiler - Transpile GLSL to JS](https://github.com/stackgl/glsl-transpiler)
-- [wooorm/starry-night - Syntax highlighting, like GitHub](https://github.com/wooorm/starry-night)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
