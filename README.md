@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [swup/swup - :tada: Complete, flexible, extensible and easy to use page transition library for your static web.](https://github.com/swup/swup)
 - [TheRobotFactory/EightBit-Atari-Fonts - Fonts generated from original bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
 - [dai-shi/react-hooks-fetch - Minimal data fetching library with React Suspense](https://github.com/dai-shi/react-hooks-fetch)
 - [fastify/fastify-vite - This plugin lets you load a Vite client application and set it up for Server-Side Rendering (SSR) with Fastify.](https://github.com/fastify/fastify-vite)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jiyeonseo/ring-fit-adventure-exercise-log - 🏃‍♀️ My Ring Fit Adventure Exercise Log with GitHub Actions + OCR](https://github.com/jiyeonseo/ring-fit-adventure-exercise-log)
 - [unjs/node-fetch-native - A better redistribution of node-fetch](https://github.com/unjs/node-fetch-native)
 - [cloudflare/collapsify - Collapsify inlines all the resources of a page into a single document](https://github.com/cloudflare/collapsify)
-- [spacedriveapp/spacedrive - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.](https://github.com/spacedriveapp/spacedrive)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
