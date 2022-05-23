@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [formkit/auto-animate - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.](https://github.com/formkit/auto-animate)
 - [GIANTCRAB/react-website](https://github.com/GIANTCRAB/react-website)
 - [swup/swup - :tada: Complete, flexible, extensible and easy to use page transition library for your static web.](https://github.com/swup/swup)
 - [TheRobotFactory/EightBit-Atari-Fonts - Fonts generated from original bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [unjs/ohmyfetch - A better fetch API. Works on node, browser and workers.](https://github.com/unjs/ohmyfetch)
 - [marko-js/htmljs-parser - An HTML parser recognizes content and string placeholders and allows JavaScript expressions as attribute values](https://github.com/marko-js/htmljs-parser)
 - [jiyeonseo/ring-fit-adventure-exercise-log - 🏃‍♀️ My Ring Fit Adventure Exercise Log with GitHub Actions + OCR](https://github.com/jiyeonseo/ring-fit-adventure-exercise-log)
-- [unjs/node-fetch-native - A better redistribution of node-fetch](https://github.com/unjs/node-fetch-native)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
