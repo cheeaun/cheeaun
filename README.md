@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [MarketingPipeline/Markdown-Tag - Add Markdown to any HTML using a <md> tag](https://github.com/MarketingPipeline/Markdown-Tag)
+- [cloudflare/wrangler-action - 🧙‍♀️ zero-config cloudflare workers application deployment using wrangler and github actions](https://github.com/cloudflare/wrangler-action)
 - [formkit/auto-animate - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.](https://github.com/formkit/auto-animate)
 - [GIANTCRAB/react-website](https://github.com/GIANTCRAB/react-website)
 - [swup/swup - :tada: Complete, flexible, extensible and easy to use page transition library for your static web.](https://github.com/swup/swup)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [unjs/ipx - High performance, secure and easy to use image proxy based on Sharp and libvips.](https://github.com/unjs/ipx)
 - [unjs/destr - Faster, secure and convenient alternative for JSON.parse](https://github.com/unjs/destr)
 - [unjs/ohmyfetch - A better fetch API. Works on node, browser and workers.](https://github.com/unjs/ohmyfetch)
-- [marko-js/htmljs-parser - An HTML parser recognizes content and string placeholders and allows JavaScript expressions as attribute values](https://github.com/marko-js/htmljs-parser)
-- [jiyeonseo/ring-fit-adventure-exercise-log - 🏃‍♀️ My Ring Fit Adventure Exercise Log with GitHub Actions + OCR](https://github.com/jiyeonseo/ring-fit-adventure-exercise-log)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
