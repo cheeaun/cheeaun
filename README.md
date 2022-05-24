@@ -27,6 +27,10 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kiding/wanna-see-a-whiter-white - CSS trick/bug to display a brighter white by exploiting browsers' HDR capability and Apple's EDR system](https://github.com/kiding/wanna-see-a-whiter-white)
+- [ehmicky/wild-wild-path - 🤠 Object property paths with wildcards and regexps 🌵](https://github.com/ehmicky/wild-wild-path)
+- [microsoft/GlobalMLBuildingFootprints - Worldwide building footprints derived from satellite imagery ](https://github.com/microsoft/GlobalMLBuildingFootprints)
+- [adobe/leonardo - Generate colors based on a desired contrast ratio](https://github.com/adobe/leonardo)
 - [limhenry/incognito-medium - A simple Chrome Extension thats always open medium.com in incognito mode.](https://github.com/limhenry/incognito-medium)
 - [blahblahblah-/subwaydle-hk](https://github.com/blahblahblah-/subwaydle-hk)
 - [blahblahblah-/subwaydle-london](https://github.com/blahblahblah-/subwaydle-london)
@@ -38,10 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [TheRobotFactory/EightBit-Atari-Fonts - Fonts generated from original bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
 - [dai-shi/react-hooks-fetch - Minimal data fetching library with React Suspense](https://github.com/dai-shi/react-hooks-fetch)
 - [fastify/fastify-vite - This plugin lets you load a Vite client application and set it up for Server-Side Rendering (SSR) with Fastify.](https://github.com/fastify/fastify-vite)
-- [egoist/vite-vercel - Adding Vercel middleware support to your Vite project](https://github.com/egoist/vite-vercel)
-- [sibelius/ast-i18n - Easily migrate your existing React codebase to use i18n](https://github.com/sibelius/ast-i18n)
-- [httpie/httpie - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie](https://github.com/httpie/httpie)
-- [unjs/perfect-debounce - Debounce promise-returning & async functions.](https://github.com/unjs/perfect-debounce)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
