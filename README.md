@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [blahblahblah-/subwaydle-hk](https://github.com/blahblahblah-/subwaydle-hk)
+- [blahblahblah-/subwaydle-london](https://github.com/blahblahblah-/subwaydle-london)
 - [MarketingPipeline/Markdown-Tag - Add Markdown to any HTML using a <md> tag](https://github.com/MarketingPipeline/Markdown-Tag)
 - [cloudflare/wrangler-action - 🧙‍♀️ zero-config cloudflare workers application deployment using wrangler and github actions](https://github.com/cloudflare/wrangler-action)
 - [formkit/auto-animate - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.](https://github.com/formkit/auto-animate)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [httpie/httpie - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie](https://github.com/httpie/httpie)
 - [unjs/perfect-debounce - Debounce promise-returning & async functions.](https://github.com/unjs/perfect-debounce)
 - [unjs/ipx - High performance, secure and easy to use image proxy based on Sharp and libvips.](https://github.com/unjs/ipx)
-- [unjs/destr - Faster, secure and convenient alternative for JSON.parse](https://github.com/unjs/destr)
-- [unjs/ohmyfetch - A better fetch API. Works on node, browser and workers.](https://github.com/unjs/ohmyfetch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
