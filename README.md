@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [PostHog/squeak - A Q&A widget for your docs](https://github.com/PostHog/squeak)
 - [LegendApp/legend-motion - Legend Motion is a declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.](https://github.com/LegendApp/legend-motion)
 - [cyberalien/line-md - Material Line Icons. Icons that use SVG animations to animate stroke in shapes.](https://github.com/cyberalien/line-md)
 - [kiding/wanna-see-a-whiter-white - CSS trick/bug to display a brighter white by exploiting browsers' HDR capability and Apple's EDR system](https://github.com/kiding/wanna-see-a-whiter-white)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [formkit/auto-animate - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.](https://github.com/formkit/auto-animate)
 - [GIANTCRAB/react-website](https://github.com/GIANTCRAB/react-website)
 - [swup/swup - :tada: Complete, flexible, extensible and easy to use page transition library for your static web.](https://github.com/swup/swup)
-- [TheRobotFactory/EightBit-Atari-Fonts - Fonts generated from original bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
