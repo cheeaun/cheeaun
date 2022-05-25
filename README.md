@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LegendApp/legend-motion - Legend Motion is a declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.](https://github.com/LegendApp/legend-motion)
+- [cyberalien/line-md - Material Line Icons. Icons that use SVG animations to animate stroke in shapes.](https://github.com/cyberalien/line-md)
 - [kiding/wanna-see-a-whiter-white - CSS trick/bug to display a brighter white by exploiting browsers' HDR capability and Apple's EDR system](https://github.com/kiding/wanna-see-a-whiter-white)
 - [ehmicky/wild-wild-path - 🤠 Object property paths with wildcards and regexps 🌵](https://github.com/ehmicky/wild-wild-path)
 - [microsoft/GlobalMLBuildingFootprints - Worldwide building footprints derived from satellite imagery ](https://github.com/microsoft/GlobalMLBuildingFootprints)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [GIANTCRAB/react-website](https://github.com/GIANTCRAB/react-website)
 - [swup/swup - :tada: Complete, flexible, extensible and easy to use page transition library for your static web.](https://github.com/swup/swup)
 - [TheRobotFactory/EightBit-Atari-Fonts - Fonts generated from original bitmaps from Atari 8bit computers](https://github.com/TheRobotFactory/EightBit-Atari-Fonts)
-- [dai-shi/react-hooks-fetch - Minimal data fetching library with React Suspense](https://github.com/dai-shi/react-hooks-fetch)
-- [fastify/fastify-vite - This plugin lets you load a Vite client application and set it up for Server-Side Rendering (SSR) with Fastify.](https://github.com/fastify/fastify-vite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
