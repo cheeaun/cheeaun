@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AccessLint/accesslint.js - Keep accessibility errors in check.](https://github.com/AccessLint/accesslint.js)
+- [AccessLint/voiceover.js - A CLI and TypeScript interface for VoiceOver screen reader on macOS.](https://github.com/AccessLint/voiceover.js)
+- [AccessLint/auto-vo](https://github.com/AccessLint/auto-vo)
 - [renzhezhilu/gifsicle-wasm-browser - Run Gifsicle in browser，Compress, rotate, crop and other operations on Gif images](https://github.com/renzhezhilu/gifsicle-wasm-browser)
 - [PostHog/squeak - A Q&A widget for your docs](https://github.com/PostHog/squeak)
 - [LegendApp/legend-motion - Legend Motion is a declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.](https://github.com/LegendApp/legend-motion)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [blahblahblah-/subwaydle-hk](https://github.com/blahblahblah-/subwaydle-hk)
 - [blahblahblah-/subwaydle-london](https://github.com/blahblahblah-/subwaydle-london)
 - [MarketingPipeline/Markdown-Tag - Add Markdown to any HTML using a <md> tag](https://github.com/MarketingPipeline/Markdown-Tag)
-- [cloudflare/wrangler-action - 🧙‍♀️ zero-config cloudflare workers application deployment using wrangler and github actions](https://github.com/cloudflare/wrangler-action)
-- [formkit/auto-animate - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.](https://github.com/formkit/auto-animate)
-- [GIANTCRAB/react-website](https://github.com/GIANTCRAB/react-website)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
