@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pkgjs/parseargs - Polyfill of future proposal for `util.parseArgs()`](https://github.com/pkgjs/parseargs)
+- [ospfranco/react-native-quick-sqlite - Fast SQLite for react-native.](https://github.com/ospfranco/react-native-quick-sqlite)
+- [qwtel/base64-encoding - Fast Base64 encoding and decoding powered by WebAssembly.](https://github.com/qwtel/base64-encoding)
 - [AccessLint/accesslint.js - Keep accessibility errors in check.](https://github.com/AccessLint/accesslint.js)
 - [AccessLint/voiceover.js - A CLI and TypeScript interface for VoiceOver screen reader on macOS.](https://github.com/AccessLint/voiceover.js)
 - [AccessLint/auto-vo](https://github.com/AccessLint/auto-vo)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [microsoft/GlobalMLBuildingFootprints - Worldwide building footprints derived from satellite imagery ](https://github.com/microsoft/GlobalMLBuildingFootprints)
 - [adobe/leonardo - Generate colors based on a desired contrast ratio](https://github.com/adobe/leonardo)
 - [limhenry/incognito-medium - A simple Chrome Extension thats always open medium.com in incognito mode.](https://github.com/limhenry/incognito-medium)
-- [blahblahblah-/subwaydle-hk](https://github.com/blahblahblah-/subwaydle-hk)
-- [blahblahblah-/subwaydle-london](https://github.com/blahblahblah-/subwaydle-london)
-- [MarketingPipeline/Markdown-Tag - Add Markdown to any HTML using a <md> tag](https://github.com/MarketingPipeline/Markdown-Tag)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
