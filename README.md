@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antfu/ni - 💡 Use the right package manager](https://github.com/antfu/ni)
+- [sturdy-dev/codeball-action - CODEBALL 🔮](https://github.com/sturdy-dev/codeball-action)
+- [dai-shi/react-hooks-global-state - Simple global state for React with Hooks API without Context API](https://github.com/dai-shi/react-hooks-global-state)
 - [ellenhp/headway - Self-hostable maps stack, powered by OpenStreetMap.](https://github.com/ellenhp/headway)
 - [pkgjs/parseargs - Polyfill of future proposal for `util.parseArgs()`](https://github.com/pkgjs/parseargs)
 - [ospfranco/react-native-quick-sqlite - Fast SQLite for react-native.](https://github.com/ospfranco/react-native-quick-sqlite)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [LegendApp/legend-motion - Legend Motion is a declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.](https://github.com/LegendApp/legend-motion)
 - [cyberalien/line-md - Material Line Icons. Icons that use SVG animations to animate stroke in shapes.](https://github.com/cyberalien/line-md)
 - [kiding/wanna-see-a-whiter-white - CSS trick/bug to display a brighter white by exploiting browsers' HDR capability and Apple's EDR system](https://github.com/kiding/wanna-see-a-whiter-white)
-- [ehmicky/wild-wild-path - 🤠 Object property paths with wildcards and regexps 🌵](https://github.com/ehmicky/wild-wild-path)
-- [microsoft/GlobalMLBuildingFootprints - Worldwide building footprints derived from satellite imagery ](https://github.com/microsoft/GlobalMLBuildingFootprints)
-- [adobe/leonardo - Generate colors based on a desired contrast ratio](https://github.com/adobe/leonardo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
