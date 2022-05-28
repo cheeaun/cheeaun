@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ellenhp/headway - Self-hostable maps stack, powered by OpenStreetMap.](https://github.com/ellenhp/headway)
 - [pkgjs/parseargs - Polyfill of future proposal for `util.parseArgs()`](https://github.com/pkgjs/parseargs)
 - [ospfranco/react-native-quick-sqlite - Fast SQLite for react-native.](https://github.com/ospfranco/react-native-quick-sqlite)
 - [qwtel/base64-encoding - Fast Base64 encoding and decoding powered by WebAssembly.](https://github.com/qwtel/base64-encoding)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [ehmicky/wild-wild-path - 🤠 Object property paths with wildcards and regexps 🌵](https://github.com/ehmicky/wild-wild-path)
 - [microsoft/GlobalMLBuildingFootprints - Worldwide building footprints derived from satellite imagery ](https://github.com/microsoft/GlobalMLBuildingFootprints)
 - [adobe/leonardo - Generate colors based on a desired contrast ratio](https://github.com/adobe/leonardo)
-- [limhenry/incognito-medium - A simple Chrome Extension thats always open medium.com in incognito mode.](https://github.com/limhenry/incognito-medium)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
