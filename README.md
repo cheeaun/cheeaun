@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [neondatabase/neon - The serverless open source alternative to AWS Aurora Postgres.](https://github.com/neondatabase/neon)
 - [antfu/ni - 💡 Use the right package manager](https://github.com/antfu/ni)
 - [sturdy-dev/codeball-action - CODEBALL 🔮](https://github.com/sturdy-dev/codeball-action)
 - [dai-shi/react-hooks-global-state - Simple global state for React with Hooks API without Context API](https://github.com/dai-shi/react-hooks-global-state)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [PostHog/squeak - A Q&A widget for your docs](https://github.com/PostHog/squeak)
 - [LegendApp/legend-motion - Legend Motion is a declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.](https://github.com/LegendApp/legend-motion)
 - [cyberalien/line-md - Material Line Icons. Icons that use SVG animations to animate stroke in shapes.](https://github.com/cyberalien/line-md)
-- [kiding/wanna-see-a-whiter-white - CSS trick/bug to display a brighter white by exploiting browsers' HDR capability and Apple's EDR system](https://github.com/kiding/wanna-see-a-whiter-white)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
