@@ -29,7 +29,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 <!-- starred repos start -->
 - [neondatabase/neon - The serverless open source alternative to AWS Aurora Postgres.](https://github.com/neondatabase/neon)
 - [antfu/ni - 💡 Use the right package manager](https://github.com/antfu/ni)
-- [sturdy-dev/codeball-action - Codeball - AI Code Review](https://github.com/sturdy-dev/codeball-action)
+- [sturdy-dev/codeball-action - CODEBALL – AI CODE REVIEW 🔮](https://github.com/sturdy-dev/codeball-action)
 - [dai-shi/react-hooks-global-state - Simple global state for React with Hooks API without Context API](https://github.com/dai-shi/react-hooks-global-state)
 - [ellenhp/headway - Self-hostable maps stack, powered by OpenStreetMap.](https://github.com/ellenhp/headway)
 - [pkgjs/parseargs - Polyfill of future proposal for `util.parseArgs()`](https://github.com/pkgjs/parseargs)
