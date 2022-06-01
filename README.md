@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jamiebuilds/tinykeys - A tiny (~400 B) & modern library for keybindings.](https://github.com/jamiebuilds/tinykeys)
 - [lucacasonato/deno-gfm - Server-side GitHub Flavored Markdown rendering for Deno](https://github.com/lucacasonato/deno-gfm)
 - [neondatabase/neon - The serverless open source alternative to AWS Aurora Postgres.](https://github.com/neondatabase/neon)
 - [antfu/ni - 💡 Use the right package manager](https://github.com/antfu/ni)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [AccessLint/auto-vo](https://github.com/AccessLint/auto-vo)
 - [renzhezhilu/gifsicle-wasm-browser - Run Gifsicle in browser，Compress, rotate, crop and other operations on Gif images](https://github.com/renzhezhilu/gifsicle-wasm-browser)
 - [PostHog/squeak - A Q&A widget for your docs](https://github.com/PostHog/squeak)
-- [LegendApp/legend-motion - Legend Motion is a declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.](https://github.com/LegendApp/legend-motion)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
