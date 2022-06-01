@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [GAM-team/got-your-back - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.](https://github.com/GAM-team/got-your-back)
+- [samapriya/awesome-gee-community-datasets - Community Datasets added by users and made available for use at large](https://github.com/samapriya/awesome-gee-community-datasets)
 - [jamiebuilds/tinykeys - A tiny (~400 B) & modern library for keybindings.](https://github.com/jamiebuilds/tinykeys)
 - [lucacasonato/deno-gfm - Server-side GitHub Flavored Markdown rendering for Deno](https://github.com/lucacasonato/deno-gfm)
 - [neondatabase/neon - The serverless open source alternative to AWS Aurora Postgres.](https://github.com/neondatabase/neon)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [AccessLint/accesslint.js - Keep accessibility errors in check.](https://github.com/AccessLint/accesslint.js)
 - [AccessLint/voiceover.js - A CLI and TypeScript interface for VoiceOver screen reader on macOS.](https://github.com/AccessLint/voiceover.js)
 - [AccessLint/auto-vo](https://github.com/AccessLint/auto-vo)
-- [renzhezhilu/gifsicle-wasm-browser - Run Gifsicle in browser，Compress, rotate, crop and other operations on Gif images](https://github.com/renzhezhilu/gifsicle-wasm-browser)
-- [PostHog/squeak - A Q&A widget for your docs](https://github.com/PostHog/squeak)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
