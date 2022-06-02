@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oslabs-beta/Svelvet - A lightweight Svelte component library for building interactive node-based flow diagrams](https://github.com/oslabs-beta/Svelvet)
 - [GAM-team/got-your-back - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.](https://github.com/GAM-team/got-your-back)
 - [samapriya/awesome-gee-community-datasets - Community Datasets added by users and made available for use at large](https://github.com/samapriya/awesome-gee-community-datasets)
 - [jamiebuilds/tinykeys - A tiny (~400 B) & modern library for keybindings.](https://github.com/jamiebuilds/tinykeys)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [qwtel/base64-encoding - Fast Base64 encoding and decoding powered by WebAssembly.](https://github.com/qwtel/base64-encoding)
 - [AccessLint/accesslint.js - Keep accessibility errors in check.](https://github.com/AccessLint/accesslint.js)
 - [AccessLint/voiceover.js - A CLI and TypeScript interface for VoiceOver screen reader on macOS.](https://github.com/AccessLint/voiceover.js)
-- [AccessLint/auto-vo](https://github.com/AccessLint/auto-vo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
