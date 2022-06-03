@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/json-watch - A Proxy based alternative to json-watch module.](https://github.com/WebReflection/json-watch)
+- [dianaow/d3-responsive-timeseries](https://github.com/dianaow/d3-responsive-timeseries)
+- [StupidHackTH/6 - ៦](https://github.com/StupidHackTH/6)
 - [oslabs-beta/Svelvet - A lightweight Svelte component library for building interactive node-based flow diagrams](https://github.com/oslabs-beta/Svelvet)
 - [GAM-team/got-your-back - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.](https://github.com/GAM-team/got-your-back)
 - [samapriya/awesome-gee-community-datasets - Community Datasets added by users and made available for use at large](https://github.com/samapriya/awesome-gee-community-datasets)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [headwaymaps/headway - Self-hostable maps stack, powered by OpenStreetMap.](https://github.com/headwaymaps/headway)
 - [pkgjs/parseargs - Polyfill of proposal for `util.parseArgs()`](https://github.com/pkgjs/parseargs)
 - [ospfranco/react-native-quick-sqlite - Fast SQLite for react-native.](https://github.com/ospfranco/react-native-quick-sqlite)
-- [qwtel/base64-encoding - Fast Base64 encoding and decoding powered by WebAssembly.](https://github.com/qwtel/base64-encoding)
-- [AccessLint/accesslint.js - Keep accessibility errors in check.](https://github.com/AccessLint/accesslint.js)
-- [AccessLint/voiceover.js - A CLI and TypeScript interface for VoiceOver screen reader on macOS.](https://github.com/AccessLint/voiceover.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
