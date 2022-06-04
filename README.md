@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [senar-ai/web - Website Senar.ai](https://github.com/senar-ai/web)
 - [PlasmoHQ/plasmo - The browser extension framework](https://github.com/PlasmoHQ/plasmo)
 - [WebReflection/json-watch - A Proxy based alternative to json-watch module.](https://github.com/WebReflection/json-watch)
 - [dianaow/d3-responsive-timeseries](https://github.com/dianaow/d3-responsive-timeseries)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sturdy-dev/codeball-action - CODEBALL – AI CODE REVIEW 🔮](https://github.com/sturdy-dev/codeball-action)
 - [dai-shi/react-hooks-global-state - Simple global state for React with Hooks API without Context API](https://github.com/dai-shi/react-hooks-global-state)
 - [headwaymaps/headway - Self-hostable maps stack, powered by OpenStreetMap.](https://github.com/headwaymaps/headway)
-- [pkgjs/parseargs - Polyfill of proposal for `util.parseArgs()`](https://github.com/pkgjs/parseargs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
