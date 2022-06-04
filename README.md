@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [PlasmoHQ/plasmo - The browser extension framework](https://github.com/PlasmoHQ/plasmo)
 - [WebReflection/json-watch - A Proxy based alternative to json-watch module.](https://github.com/WebReflection/json-watch)
 - [dianaow/d3-responsive-timeseries](https://github.com/dianaow/d3-responsive-timeseries)
 - [StupidHackTH/6 - ៦](https://github.com/StupidHackTH/6)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [dai-shi/react-hooks-global-state - Simple global state for React with Hooks API without Context API](https://github.com/dai-shi/react-hooks-global-state)
 - [headwaymaps/headway - Self-hostable maps stack, powered by OpenStreetMap.](https://github.com/headwaymaps/headway)
 - [pkgjs/parseargs - Polyfill of proposal for `util.parseArgs()`](https://github.com/pkgjs/parseargs)
-- [ospfranco/react-native-quick-sqlite - Fast SQLite for react-native.](https://github.com/ospfranco/react-native-quick-sqlite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
