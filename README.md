@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [EvanBacon/react-xib - React for Apple Interface Builder](https://github.com/EvanBacon/react-xib)
+- [kkk669/DNSecure - DNSecure is a configuration tool of DoT and DoH for iOS/iPadOS.](https://github.com/kkk669/DNSecure)
 - [senar-ai/web - Website Senar.ai](https://github.com/senar-ai/web)
 - [PlasmoHQ/plasmo - The browser extension framework](https://github.com/PlasmoHQ/plasmo)
 - [WebReflection/json-watch - A Proxy based alternative to json-watch module.](https://github.com/WebReflection/json-watch)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [neondatabase/neon - The serverless open source alternative to AWS Aurora Postgres.](https://github.com/neondatabase/neon)
 - [antfu/ni - 💡 Use the right package manager](https://github.com/antfu/ni)
 - [sturdy-dev/codeball-action - CODEBALL – AI CODE REVIEW 🔮](https://github.com/sturdy-dev/codeball-action)
-- [dai-shi/react-hooks-global-state - Simple global state for React with Hooks API without Context API](https://github.com/dai-shi/react-hooks-global-state)
-- [headwaymaps/headway - Self-hostable maps stack, powered by OpenStreetMap.](https://github.com/headwaymaps/headway)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
