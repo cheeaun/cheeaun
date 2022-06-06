@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [go-spatial/tegola - Tegola is a Mapbox Vector Tile server written in Go](https://github.com/go-spatial/tegola)
+- [makina-maps/makina-maps - Full Stack to Build, Serve and Update your own Vector and Raster Tiles from OpenStreetMap Data.](https://github.com/makina-maps/makina-maps)
 - [dragonflydb/dragonfly - A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
 - [EvanBacon/react-xib - React for Apple Interface Builder](https://github.com/EvanBacon/react-xib)
 - [kkk669/DNSecure - DNSecure is a configuration tool of DoT and DoH for iOS/iPadOS.](https://github.com/kkk669/DNSecure)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [samapriya/awesome-gee-community-datasets - Community Datasets added by users and made available for use at large](https://github.com/samapriya/awesome-gee-community-datasets)
 - [jamiebuilds/tinykeys - A tiny (~400 B) & modern library for keybindings.](https://github.com/jamiebuilds/tinykeys)
 - [lucacasonato/deno-gfm - Server-side GitHub Flavored Markdown rendering for Deno](https://github.com/lucacasonato/deno-gfm)
-- [neondatabase/neon - The serverless open source alternative to AWS Aurora Postgres.](https://github.com/neondatabase/neon)
-- [antfu/ni - 💡 Use the right package manager](https://github.com/antfu/ni)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
