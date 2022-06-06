@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dragonflydb/dragonfly - A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
 - [EvanBacon/react-xib - React for Apple Interface Builder](https://github.com/EvanBacon/react-xib)
 - [kkk669/DNSecure - DNSecure is a configuration tool of DoT and DoH for iOS/iPadOS.](https://github.com/kkk669/DNSecure)
 - [senar-ai/web - Website Senar.ai](https://github.com/senar-ai/web)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [lucacasonato/deno-gfm - Server-side GitHub Flavored Markdown rendering for Deno](https://github.com/lucacasonato/deno-gfm)
 - [neondatabase/neon - The serverless open source alternative to AWS Aurora Postgres.](https://github.com/neondatabase/neon)
 - [antfu/ni - 💡 Use the right package manager](https://github.com/antfu/ni)
-- [sturdy-dev/codeball-action - CODEBALL – AI CODE REVIEW 🔮](https://github.com/sturdy-dev/codeball-action)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
