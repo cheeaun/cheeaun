@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WenheLI/wasm-gif - JS Gif codec based on Rust & Wasm](https://github.com/WenheLI/wasm-gif)
 - [dlemstra/magick-wasm - The WASM library for ImageMagick](https://github.com/dlemstra/magick-wasm)
 - [scraly/developers-conferences-agenda - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees](https://github.com/scraly/developers-conferences-agenda)
 - [ammarahm-ed/react-native-actions-sheet - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.](https://github.com/ammarahm-ed/react-native-actions-sheet)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [WebReflection/json-watch - A Proxy based alternative to json-watch module.](https://github.com/WebReflection/json-watch)
 - [dianaow/d3-responsive-timeseries](https://github.com/dianaow/d3-responsive-timeseries)
 - [StupidHackTH/6 - ៦](https://github.com/StupidHackTH/6)
-- [oslabs-beta/Svelvet - A lightweight Svelte component library for building interactive node-based flow diagrams](https://github.com/oslabs-beta/Svelvet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
