@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [paoloricciuti/hexwords](https://github.com/paoloricciuti/hexwords)
 - [WenheLI/wasm-gif - JS Gif codec based on Rust & Wasm](https://github.com/WenheLI/wasm-gif)
 - [dlemstra/magick-wasm - The WASM library for ImageMagick](https://github.com/dlemstra/magick-wasm)
 - [scraly/developers-conferences-agenda - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees](https://github.com/scraly/developers-conferences-agenda)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [PlasmoHQ/plasmo - The browser extension framework](https://github.com/PlasmoHQ/plasmo)
 - [WebReflection/json-watch - A Proxy based alternative to json-watch module.](https://github.com/WebReflection/json-watch)
 - [dianaow/d3-responsive-timeseries](https://github.com/dianaow/d3-responsive-timeseries)
-- [StupidHackTH/6 - ៦](https://github.com/StupidHackTH/6)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
