@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [matt-way/gifuct-js - Fastest javascript .GIF decoder/parser](https://github.com/matt-way/gifuct-js)
 - [sindresorhus/is-online - Check if the internet connection is up](https://github.com/sindresorhus/is-online)
 - [paoloricciuti/hexwords](https://github.com/paoloricciuti/hexwords)
 - [WenheLI/wasm-gif - JS Gif codec based on Rust & Wasm](https://github.com/WenheLI/wasm-gif)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [kkk669/DNSecure - DNSecure is a configuration tool of DoT and DoH for iOS/iPadOS.](https://github.com/kkk669/DNSecure)
 - [senar-ai/web - Website Senar.ai](https://github.com/senar-ai/web)
 - [PlasmoHQ/plasmo - The browser extension framework](https://github.com/PlasmoHQ/plasmo)
-- [WebReflection/json-watch - A Proxy based alternative to json-watch module.](https://github.com/WebReflection/json-watch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
