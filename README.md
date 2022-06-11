@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [necolas/styleq - styleQ is a quick, small JavaScript runtime for merging the HTML class names produced by CSS compilers.](https://github.com/necolas/styleq)
 - [matt-way/gifuct-js - Fastest javascript .GIF decoder/parser](https://github.com/matt-way/gifuct-js)
 - [sindresorhus/is-online - Check if the internet connection is up](https://github.com/sindresorhus/is-online)
 - [paoloricciuti/hexwords](https://github.com/paoloricciuti/hexwords)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [EvanBacon/react-xib - React for Apple Interface Builder](https://github.com/EvanBacon/react-xib)
 - [kkk669/DNSecure - DNSecure is a configuration tool of DoT and DoH for iOS/iPadOS.](https://github.com/kkk669/DNSecure)
 - [senar-ai/web - Website Senar.ai](https://github.com/senar-ai/web)
-- [PlasmoHQ/plasmo - The browser extension framework](https://github.com/PlasmoHQ/plasmo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
