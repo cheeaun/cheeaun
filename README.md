@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [w3c/screen-wake-lock - Screen Wake Lock API](https://github.com/w3c/screen-wake-lock)
+- [kriszyp/msgpackr - Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]](https://github.com/kriszyp/msgpackr)
 - [frewsxcv/alert-after - Get a desktop notification after a command finishes executing.](https://github.com/frewsxcv/alert-after)
 - [simonw/url-map - Use URL parameters to generate a map with markers, using Leaflet and OpenStreetMap](https://github.com/simonw/url-map)
 - [Basharath/FormEasy - A simple open source library to receive contact forms for static sites](https://github.com/Basharath/FormEasy)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [scraly/developers-conferences-agenda - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees](https://github.com/scraly/developers-conferences-agenda)
 - [ammarahm-ed/react-native-actions-sheet - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.](https://github.com/ammarahm-ed/react-native-actions-sheet)
 - [5t3ph/smolcss - Minimal snippets for modern CSS layouts and components](https://github.com/5t3ph/smolcss)
-- [go-spatial/tegola - Tegola is a Mapbox Vector Tile server written in Go](https://github.com/go-spatial/tegola)
-- [makina-maps/makina-maps - Full Stack to Build, Serve and Update your own Vector and Raster Tiles from OpenStreetMap Data.](https://github.com/makina-maps/makina-maps)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
