@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [simonw/url-map - Use URL parameters to generate a map with markers, using Leaflet and OpenStreetMap](https://github.com/simonw/url-map)
 - [Basharath/FormEasy - A simple open source library to receive contact forms for static sites](https://github.com/Basharath/FormEasy)
 - [ElMassimo/iles - 🏝 The joyful site generator](https://github.com/ElMassimo/iles)
 - [necolas/styleq - styleQ is a quick, small JavaScript runtime for merging the HTML class names produced by CSS compilers.](https://github.com/necolas/styleq)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [go-spatial/tegola - Tegola is a Mapbox Vector Tile server written in Go](https://github.com/go-spatial/tegola)
 - [makina-maps/makina-maps - Full Stack to Build, Serve and Update your own Vector and Raster Tiles from OpenStreetMap Data.](https://github.com/makina-maps/makina-maps)
 - [dragonflydb/dragonfly - A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
-- [EvanBacon/react-xib - React for Apple Interface Builder](https://github.com/EvanBacon/react-xib)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
