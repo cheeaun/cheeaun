@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [frewsxcv/alert-after - Get a desktop notification after a command finishes executing.](https://github.com/frewsxcv/alert-after)
 - [simonw/url-map - Use URL parameters to generate a map with markers, using Leaflet and OpenStreetMap](https://github.com/simonw/url-map)
 - [Basharath/FormEasy - A simple open source library to receive contact forms for static sites](https://github.com/Basharath/FormEasy)
 - [ElMassimo/iles - 🏝 The joyful site generator](https://github.com/ElMassimo/iles)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [5t3ph/smolcss - Minimal snippets for modern CSS layouts and components](https://github.com/5t3ph/smolcss)
 - [go-spatial/tegola - Tegola is a Mapbox Vector Tile server written in Go](https://github.com/go-spatial/tegola)
 - [makina-maps/makina-maps - Full Stack to Build, Serve and Update your own Vector and Raster Tiles from OpenStreetMap Data.](https://github.com/makina-maps/makina-maps)
-- [dragonflydb/dragonfly - A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
