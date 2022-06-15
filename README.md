@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nandorojo/zeego - Menus for React (Native) done right.](https://github.com/nandorojo/zeego)
 - [w3c/screen-wake-lock - Screen Wake Lock API](https://github.com/w3c/screen-wake-lock)
 - [kriszyp/msgpackr - Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]](https://github.com/kriszyp/msgpackr)
 - [frewsxcv/alert-after - Get a desktop notification after a command finishes executing.](https://github.com/frewsxcv/alert-after)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [dlemstra/magick-wasm - The WASM library for ImageMagick](https://github.com/dlemstra/magick-wasm)
 - [scraly/developers-conferences-agenda - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees](https://github.com/scraly/developers-conferences-agenda)
 - [ammarahm-ed/react-native-actions-sheet - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.](https://github.com/ammarahm-ed/react-native-actions-sheet)
-- [5t3ph/smolcss - Minimal snippets for modern CSS layouts and components](https://github.com/5t3ph/smolcss)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
