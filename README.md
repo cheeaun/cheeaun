@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mariusor/go-littr - Link aggregator inspired by (old)reddit using ActivityPub federation.](https://github.com/mariusor/go-littr)
 - [FormidableLabs/react-native-owl - Visual regression testing for React Native](https://github.com/FormidableLabs/react-native-owl)
 - [nandorojo/swr-react-native - React Native/React Navigation compatibility for Vercel's useSWR hook. 🐮](https://github.com/nandorojo/swr-react-native)
 - [nandorojo/zeego - Menus for React (Native) done right.](https://github.com/nandorojo/zeego)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sindresorhus/is-online - Check if the internet connection is up](https://github.com/sindresorhus/is-online)
 - [paoloricciuti/hexwords](https://github.com/paoloricciuti/hexwords)
 - [WenheLI/wasm-gif - JS Gif codec based on Rust & Wasm](https://github.com/WenheLI/wasm-gif)
-- [dlemstra/magick-wasm - The WASM library for ImageMagick](https://github.com/dlemstra/magick-wasm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
