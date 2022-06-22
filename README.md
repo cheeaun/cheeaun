@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Shopify/react-native-performance - Performance monitoring for React Native apps](https://github.com/Shopify/react-native-performance)
 - [adobe/react-spectrum - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.](https://github.com/adobe/react-spectrum)
 - [RJVB/afsctool - This is a version of "brkirch"'s afsctool utility that allows end-users to leverage HFS+ compression.](https://github.com/RJVB/afsctool)
 - [mariusor/go-littr - Link aggregator inspired by (old)reddit using ActivityPub federation.](https://github.com/mariusor/go-littr)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [ElMassimo/iles - 🏝 The joyful site generator](https://github.com/ElMassimo/iles)
 - [necolas/styleq - styleQ is a quick, small JavaScript runtime for merging the HTML class names produced by CSS compilers.](https://github.com/necolas/styleq)
 - [matt-way/gifuct-js - Fastest javascript .GIF decoder/parser](https://github.com/matt-way/gifuct-js)
-- [sindresorhus/is-online - Check if the internet connection is up](https://github.com/sindresorhus/is-online)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
