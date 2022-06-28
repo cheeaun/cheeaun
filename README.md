@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [paulmillr/encrypted-dns - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur](https://github.com/paulmillr/encrypted-dns)
 - [muxinc/elements - Custom elements for working with media in the browser that Just Work™](https://github.com/muxinc/elements)
 - [omrilotan/isbot - 💻 JavaScript module that detects bots/crawlers/spiders via the user agent](https://github.com/omrilotan/isbot)
 - [Minibrams/svg-path-morph - Smoothly interpolate between variations of SVG paths.](https://github.com/Minibrams/svg-path-morph)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [nandorojo/zeego - Menus for React (Native) done right.](https://github.com/nandorojo/zeego)
 - [w3c/screen-wake-lock - Screen Wake Lock API](https://github.com/w3c/screen-wake-lock)
 - [kriszyp/msgpackr - Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]](https://github.com/kriszyp/msgpackr)
-- [frewsxcv/alert-after - Get a desktop notification after a command finishes executing.](https://github.com/frewsxcv/alert-after)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
