@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [muxinc/elements - Custom elements for working with media in the browser that Just Work™](https://github.com/muxinc/elements)
+- [omrilotan/isbot - 💻 JavaScript module that detects bots/crawlers/spiders via the user agent](https://github.com/omrilotan/isbot)
+- [Minibrams/svg-path-morph - Smoothly interpolate between variations of SVG paths.](https://github.com/Minibrams/svg-path-morph)
 - [bugra9/gdal3.js - Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser.](https://github.com/bugra9/gdal3.js)
 - [ozanyurtsever/verbum - Verbum is a fully flexible text editor based on lexical framework.](https://github.com/ozanyurtsever/verbum)
 - [Shopify/react-native-performance - Performance monitoring for React Native apps](https://github.com/Shopify/react-native-performance)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [w3c/screen-wake-lock - Screen Wake Lock API](https://github.com/w3c/screen-wake-lock)
 - [kriszyp/msgpackr - Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]](https://github.com/kriszyp/msgpackr)
 - [frewsxcv/alert-after - Get a desktop notification after a command finishes executing.](https://github.com/frewsxcv/alert-after)
-- [simonw/url-map - Use URL parameters to generate a map with markers, using Leaflet and OpenStreetMap](https://github.com/simonw/url-map)
-- [Basharath/FormEasy - A simple open source library to receive contact forms for static sites](https://github.com/Basharath/FormEasy)
-- [ElMassimo/iles - 🏝 The joyful site generator](https://github.com/ElMassimo/iles)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
