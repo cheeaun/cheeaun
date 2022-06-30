@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [adobe/balance-text - A plugin for implementing balancing of wrapping text in a web page](https://github.com/adobe/balance-text)
 - [sindresorhus/type-fest - A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 - [paulmillr/encrypted-dns - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur](https://github.com/paulmillr/encrypted-dns)
 - [muxinc/elements - Custom elements for working with media in the browser that Just Work™](https://github.com/muxinc/elements)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [FormidableLabs/react-native-owl - Visual regression testing for React Native](https://github.com/FormidableLabs/react-native-owl)
 - [nandorojo/swr-react-native - React Native/React Navigation compatibility for Vercel's useSWR hook. 🐮](https://github.com/nandorojo/swr-react-native)
 - [nandorojo/zeego - Menus for React (Native) done right.](https://github.com/nandorojo/zeego)
-- [w3c/screen-wake-lock - Screen Wake Lock API](https://github.com/w3c/screen-wake-lock)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
