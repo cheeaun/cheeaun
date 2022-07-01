@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [okikio/bundlejs - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.](https://github.com/okikio/bundlejs)
 - [drifting-in-space/spawner - Session-lived containers for advanced browser-based applications.](https://github.com/drifting-in-space/spawner)
 - [Shopify/flash-list - A better list for React Native](https://github.com/Shopify/flash-list)
 - [adobe/balance-text - A plugin for implementing balancing of wrapping text in a web page](https://github.com/adobe/balance-text)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [adobe/react-spectrum - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.](https://github.com/adobe/react-spectrum)
 - [RJVB/afsctool - This is a version of "brkirch"'s afsctool utility that allows end-users to leverage HFS+ compression.](https://github.com/RJVB/afsctool)
 - [mariusor/go-littr - Link aggregator inspired by (old)reddit using ActivityPub federation.](https://github.com/mariusor/go-littr)
-- [FormidableLabs/react-native-owl - Visual regression testing for React Native](https://github.com/FormidableLabs/react-native-owl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
