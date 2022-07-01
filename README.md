@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [drifting-in-space/spawner - Session-lived containers for advanced browser-based applications.](https://github.com/drifting-in-space/spawner)
 - [Shopify/flash-list - A better list for React Native](https://github.com/Shopify/flash-list)
 - [adobe/balance-text - A plugin for implementing balancing of wrapping text in a web page](https://github.com/adobe/balance-text)
 - [sindresorhus/type-fest - A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [RJVB/afsctool - This is a version of "brkirch"'s afsctool utility that allows end-users to leverage HFS+ compression.](https://github.com/RJVB/afsctool)
 - [mariusor/go-littr - Link aggregator inspired by (old)reddit using ActivityPub federation.](https://github.com/mariusor/go-littr)
 - [FormidableLabs/react-native-owl - Visual regression testing for React Native](https://github.com/FormidableLabs/react-native-owl)
-- [nandorojo/swr-react-native - React Native/React Navigation compatibility for Vercel's useSWR hook. 🐮](https://github.com/nandorojo/swr-react-native)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
