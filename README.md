@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jgm/djot - A light markup language](https://github.com/jgm/djot)
 - [logto-io/logto - 🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.](https://github.com/logto-io/logto)
 - [vercel/virtual-event-starter-kit - Open source demo that Next.js developers can clone, deploy, and fully customize for events.](https://github.com/vercel/virtual-event-starter-kit)
 - [matthewmueller/vscode-proofie - Proofie is an experimental proof-reader for VSCode that helps you write better.](https://github.com/matthewmueller/vscode-proofie)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [Minibrams/svg-path-morph - Smoothly interpolate between variations of SVG paths.](https://github.com/Minibrams/svg-path-morph)
 - [bugra9/gdal3.js - Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser.](https://github.com/bugra9/gdal3.js)
 - [ozanyurtsever/verbum - Verbum is a fully flexible text editor based on lexical framework.](https://github.com/ozanyurtsever/verbum)
-- [Shopify/react-native-performance - Performance monitoring for React Native apps](https://github.com/Shopify/react-native-performance)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
