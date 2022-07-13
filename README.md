@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sonnylazuardi/framer-parallax-cards - A website that showcases parallax interaction effect using the device orientation built using Framer](https://github.com/sonnylazuardi/framer-parallax-cards)
 - [kirillzyusko/react-native-keyboard-controller - Keyboard manager which works in identical way on both iOS and Android](https://github.com/kirillzyusko/react-native-keyboard-controller)
 - [jgm/djot - A light markup language](https://github.com/jgm/djot)
 - [logto-io/logto - 🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.](https://github.com/logto-io/logto)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [muxinc/elements - Custom elements for working with media in the browser that Just Work™](https://github.com/muxinc/elements)
 - [omrilotan/isbot - 💻 JavaScript module that detects bots/crawlers/spiders via the user agent](https://github.com/omrilotan/isbot)
 - [Minibrams/svg-path-morph - Smoothly interpolate between variations of SVG paths.](https://github.com/Minibrams/svg-path-morph)
-- [bugra9/gdal3.js - Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser.](https://github.com/bugra9/gdal3.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
