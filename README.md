@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [parzuko/followedby - get mutual followers on github profiles. website coming soon! (this is still a work in progress)](https://github.com/parzuko/followedby)
 - [banga/git-split-diffs - GitHub style split diffs in your terminal](https://github.com/banga/git-split-diffs)
 - [sonnylazuardi/framer-parallax-cards - A website that showcases parallax interaction effect using the device orientation built using Framer](https://github.com/sonnylazuardi/framer-parallax-cards)
 - [kirillzyusko/react-native-keyboard-controller - Keyboard manager which works in identical way on both iOS and Android](https://github.com/kirillzyusko/react-native-keyboard-controller)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sindresorhus/type-fest - A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 - [paulmillr/encrypted-dns - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur](https://github.com/paulmillr/encrypted-dns)
 - [muxinc/elements - Custom elements for working with media in the browser that Just Work™](https://github.com/muxinc/elements)
-- [omrilotan/isbot - 💻 JavaScript module that detects bots/crawlers/spiders via the user agent](https://github.com/omrilotan/isbot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
