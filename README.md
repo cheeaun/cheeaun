@@ -32,7 +32,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sonnylazuardi/framer-parallax-cards - A website that showcases parallax interaction effect using the device orientation built using Framer](https://github.com/sonnylazuardi/framer-parallax-cards)
 - [kirillzyusko/react-native-keyboard-controller - Keyboard manager which works in identical way on both iOS and Android](https://github.com/kirillzyusko/react-native-keyboard-controller)
 - [jgm/djot - A light markup language](https://github.com/jgm/djot)
-- [logto-io/logto - 🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.](https://github.com/logto-io/logto)
+- [logto-io/logto - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.](https://github.com/logto-io/logto)
 - [vercel/virtual-event-starter-kit - Open source demo that Next.js developers can clone, deploy, and fully customize for events.](https://github.com/vercel/virtual-event-starter-kit)
 - [matthewmueller/vscode-proofie - Proofie is an experimental proof-reader for VSCode that helps you write better.](https://github.com/matthewmueller/vscode-proofie)
 - [okikio/bundlejs - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.](https://github.com/okikio/bundlejs)
