@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pmndrs/react-three-rapier - 🤺 Rapier physics in React](https://github.com/pmndrs/react-three-rapier)
 - [danielroe/magic-regexp - A compiled-away, type-safe, readable RegExp alternative](https://github.com/danielroe/magic-regexp)
 - [paradite/sg-tech-list - List of notable tech companies in Singapore](https://github.com/paradite/sg-tech-list)
 - [parzuko/followedby - get mutual followers on github profiles. website coming soon! (this is still a work in progress)](https://github.com/parzuko/followedby)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [drifting-in-space/spawner - Session-lived containers for advanced browser-based applications.](https://github.com/drifting-in-space/spawner)
 - [Shopify/flash-list - A better list for React Native](https://github.com/Shopify/flash-list)
 - [adobe/balance-text - A plugin for implementing balancing of wrapping text in a web page](https://github.com/adobe/balance-text)
-- [sindresorhus/type-fest - A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
