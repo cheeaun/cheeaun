@@ -29,7 +29,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 <!-- starred repos start -->
 - [pmndrs/react-three-rapier - 🤺 Rapier physics in React](https://github.com/pmndrs/react-three-rapier)
 - [danielroe/magic-regexp - A compiled-away, type-safe, readable RegExp alternative](https://github.com/danielroe/magic-regexp)
-- [paradite/sg-tech-list - List of notable tech companies in Singapore](https://github.com/paradite/sg-tech-list)
+- [paradite/sg-tech-list - :scroll: List of notable tech companies in Singapore](https://github.com/paradite/sg-tech-list)
 - [parzuko/followedby - get mutual followers on github profiles. website coming soon! (this is still a work in progress)](https://github.com/parzuko/followedby)
 - [banga/git-split-diffs - GitHub style split diffs in your terminal](https://github.com/banga/git-split-diffs)
 - [sonnylazuardi/framer-parallax-cards - A website that showcases parallax interaction effect using the device orientation built using Framer](https://github.com/sonnylazuardi/framer-parallax-cards)
