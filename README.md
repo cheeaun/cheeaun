@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [neocarto/bertin - A package to draw maps in javascript](https://github.com/neocarto/bertin)
 - [backpackapp-io/react-native-toast](https://github.com/backpackapp-io/react-native-toast)
 - [pmndrs/react-three-rapier - 🤺 Rapier physics in React](https://github.com/pmndrs/react-three-rapier)
 - [danielroe/magic-regexp - A compiled-away, type-safe, readable RegExp alternative](https://github.com/danielroe/magic-regexp)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [matthewmueller/vscode-proofie - Proofie is an experimental proof-reader for VSCode that helps you write better.](https://github.com/matthewmueller/vscode-proofie)
 - [okikio/bundlejs - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.](https://github.com/okikio/bundlejs)
 - [drifting-in-space/spawner - Session-lived containers for advanced browser-based applications.](https://github.com/drifting-in-space/spawner)
-- [Shopify/flash-list - A better list for React Native](https://github.com/Shopify/flash-list)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
