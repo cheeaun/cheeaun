@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [grammyjs/grammY - The Telegram Bot Framework.](https://github.com/grammyjs/grammY)
 - [DahnJ/Awesome-DEM - Overview of Digital Elevation Model (DEM) datasets](https://github.com/DahnJ/Awesome-DEM)
 - [neocarto/bertin - A package to draw maps in javascript](https://github.com/neocarto/bertin)
 - [backpackapp-io/react-native-toast](https://github.com/backpackapp-io/react-native-toast)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [logto-io/logto - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.](https://github.com/logto-io/logto)
 - [vercel/virtual-event-starter-kit - Open source demo that Next.js developers can clone, deploy, and fully customize for events.](https://github.com/vercel/virtual-event-starter-kit)
 - [matthewmueller/vscode-proofie - Proofie is an experimental proof-reader for VSCode that helps you write better.](https://github.com/matthewmueller/vscode-proofie)
-- [okikio/bundlejs - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.](https://github.com/okikio/bundlejs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
