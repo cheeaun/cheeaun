@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [robmarkcole/satellite-image-deep-learning -  Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 - [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush)
 - [Dashibase/lotion - An open-source Notion UI built with Vue 3 ](https://github.com/Dashibase/lotion)
 - [grammyjs/grammY - The Telegram Bot Framework.](https://github.com/grammyjs/grammY)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sonnylazuardi/framer-parallax-cards - A website that showcases parallax interaction effect using the device orientation built using Framer](https://github.com/sonnylazuardi/framer-parallax-cards)
 - [kirillzyusko/react-native-keyboard-controller - Keyboard manager which works in identical way on both iOS and Android](https://github.com/kirillzyusko/react-native-keyboard-controller)
 - [jgm/djot - A light markup language](https://github.com/jgm/djot)
-- [logto-io/logto - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.](https://github.com/logto-io/logto)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
