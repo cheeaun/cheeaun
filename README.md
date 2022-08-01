@@ -15,11 +15,11 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 ## 📰 Newsletter
 
 <!-- newsletter start -->
+- 31 Jul 2022 - [🕺 Funemployment - 🥫 #11](https://www.getrevue.co/profile/cheeaun/issues/funemployment-11-1247643)
 - 30 Jun 2022 - [🏝️ Last day - 🥫 #10](https://www.getrevue.co/profile/cheeaun/issues/last-day-10-1202564)
 - 31 May 2022 - [🍜 May cravings - 🥫 #9](https://www.getrevue.co/profile/cheeaun/issues/may-cravings-9-1158473)
 - 30 Apr 2022 - [🤔 April Fooled? - 🥫 #8](https://www.getrevue.co/profile/cheeaun/issues/april-fooled-8-1112032)
 - 31 Mar 2022 - [🚶 Long March - 🥫 #7](https://www.getrevue.co/profile/cheeaun/issues/long-march-7-1061697)
-- 28 Feb 2022 - [🔠 Newsletterdle - 🥫 #6](https://www.getrevue.co/profile/cheeaun/issues/newsletterdle-6-1014288)
 <!-- newsletter end -->
 
 Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun 👈👈
