@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [RayMarch/ferris3d - a 3D model of Ferris the rustacean](https://github.com/RayMarch/ferris3d)
+- [nucliweb/image-element - Repository to collect best practices for web images 🏞](https://github.com/nucliweb/image-element)
 - [robmarkcole/satellite-image-deep-learning -  Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 - [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush)
 - [Dashibase/lotion - An open-source Notion UI built with Vue 3 ](https://github.com/Dashibase/lotion)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [parzuko/followedby - ever visit a GitHub profile and wonder — hmm, do we know each other? followedby fetches mutual followers right the profile page!](https://github.com/parzuko/followedby)
 - [banga/git-split-diffs - GitHub style split diffs in your terminal](https://github.com/banga/git-split-diffs)
 - [sonnylazuardi/framer-parallax-cards - A website that showcases parallax interaction effect using the device orientation built using Framer](https://github.com/sonnylazuardi/framer-parallax-cards)
-- [kirillzyusko/react-native-keyboard-controller - Keyboard manager which works in identical way on both iOS and Android](https://github.com/kirillzyusko/react-native-keyboard-controller)
-- [jgm/djot - A light markup language](https://github.com/jgm/djot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
