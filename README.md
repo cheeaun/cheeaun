@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [moyix/fauxpilot - FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
+- [inkeliz/karmem - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.](https://github.com/inkeliz/karmem)
+- [daengdoang/indonesians-who-design - A directory of Indonesians people who design.](https://github.com/daengdoang/indonesians-who-design)
 - [zsh-users/zsh-history-substring-search - 🐠 ZSH port of Fish history search (up arrow)](https://github.com/zsh-users/zsh-history-substring-search)
 - [chriswhong/awesome-mapbox-external-developer-resources - An awesome list of third-party developer resources to help you work with the Mapbox suite of location-based services, APIs, ADKs, libraries, and data.](https://github.com/chriswhong/awesome-mapbox-external-developer-resources)
 - [RayMarch/ferris3d - a 3D model of Ferris the rustacean](https://github.com/RayMarch/ferris3d)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [neocarto/bertin - A package to draw maps in javascript](https://github.com/neocarto/bertin)
 - [backpackapp-io/react-native-toast](https://github.com/backpackapp-io/react-native-toast)
 - [pmndrs/react-three-rapier - 🤺 Rapier physics in React](https://github.com/pmndrs/react-three-rapier)
-- [danielroe/magic-regexp - A compiled-away, type-safe, readable RegExp alternative](https://github.com/danielroe/magic-regexp)
-- [paradite/sg-tech-list - :scroll: List of notable tech companies in Singapore](https://github.com/paradite/sg-tech-list)
-- [parzuko/followedby - ever visit a GitHub profile and wonder — hmm, do we know each other? followedby fetches mutual followers right the profile page!](https://github.com/parzuko/followedby)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
