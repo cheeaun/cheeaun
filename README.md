@@ -32,7 +32,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [daengdoang/indonesians-who-design - A directory of Indonesians people who design.](https://github.com/daengdoang/indonesians-who-design)
 - [zsh-users/zsh-history-substring-search - 🐠 ZSH port of Fish history search (up arrow)](https://github.com/zsh-users/zsh-history-substring-search)
 - [chriswhong/awesome-mapbox-external-developer-resources - An awesome list of third-party developer resources to help you work with the Mapbox suite of location-based services, APIs, ADKs, libraries, and data.](https://github.com/chriswhong/awesome-mapbox-external-developer-resources)
-- [RayMarch/ferris3d - a 3D model of Ferris the rustacean](https://github.com/RayMarch/ferris3d)
+- [RayMarch/ferris3d - A free 3D model of Ferris the rustacean](https://github.com/RayMarch/ferris3d)
 - [nucliweb/image-element - Repository to collect best practices for web images 🏞](https://github.com/nucliweb/image-element)
 - [robmarkcole/satellite-image-deep-learning -  Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 - [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush)
