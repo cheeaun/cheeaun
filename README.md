@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nearform/lyra - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.](https://github.com/nearform/lyra)
 - [moyix/fauxpilot - FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
 - [inkeliz/karmem - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.](https://github.com/inkeliz/karmem)
 - [daengdoang/indonesians-who-design - A directory of Indonesians people who design.](https://github.com/daengdoang/indonesians-who-design)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [DahnJ/Awesome-DEM - Overview of Digital Elevation Model (DEM) datasets](https://github.com/DahnJ/Awesome-DEM)
 - [neocarto/bertin - A package to draw maps in javascript](https://github.com/neocarto/bertin)
 - [backpackapp-io/react-native-toast](https://github.com/backpackapp-io/react-native-toast)
-- [pmndrs/react-three-rapier - 🤺 Rapier physics in React](https://github.com/pmndrs/react-three-rapier)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
