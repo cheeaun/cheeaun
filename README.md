@@ -37,7 +37,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [RayMarch/ferris3d - A free 3D model of Ferris the rustacean](https://github.com/RayMarch/ferris3d)
 - [nucliweb/image-element - Repository to collect best practices for web images 🏞](https://github.com/nucliweb/image-element)
 - [robmarkcole/satellite-image-deep-learning -  Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
-- [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush)
+- [cloudflare/svg-hush - Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
 - [Dashibase/lotion - An open-source Notion UI built with Vue 3 ](https://github.com/Dashibase/lotion)
 - [grammyjs/grammY - The Telegram Bot Framework.](https://github.com/grammyjs/grammY)
 - [DahnJ/Awesome-DEM - Overview of Digital Elevation Model (DEM) datasets](https://github.com/DahnJ/Awesome-DEM)
