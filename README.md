@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tajo/ladle - 🥄 Develop, test and document your React story components faster.](https://github.com/tajo/ladle)
 - [geelen/npx-import](https://github.com/geelen/npx-import)
 - [nearform/lyra - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.](https://github.com/nearform/lyra)
 - [moyix/fauxpilot - FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [Dashibase/lotion - An open-source Notion UI built with Vue 3 ](https://github.com/Dashibase/lotion)
 - [grammyjs/grammY - The Telegram Bot Framework.](https://github.com/grammyjs/grammY)
 - [DahnJ/Awesome-DEM - Overview of Digital Elevation Model (DEM) datasets](https://github.com/DahnJ/Awesome-DEM)
-- [neocarto/bertin - A package to draw maps in javascript](https://github.com/neocarto/bertin)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
