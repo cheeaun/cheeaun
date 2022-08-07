@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sofn-xyz/mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [tajo/ladle - 🥄 Develop, test and document your React story components faster.](https://github.com/tajo/ladle)
 - [geelen/npx-import](https://github.com/geelen/npx-import)
 - [nearform/lyra - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.](https://github.com/nearform/lyra)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [cloudflare/svg-hush - Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
 - [Dashibase/lotion - An open-source Notion UI built with Vue 3 ](https://github.com/Dashibase/lotion)
 - [grammyjs/grammY - The Telegram Bot Framework.](https://github.com/grammyjs/grammY)
-- [DahnJ/Awesome-DEM - Overview of Digital Elevation Model (DEM) datasets](https://github.com/DahnJ/Awesome-DEM)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
