@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 - [sofn-xyz/mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [tajo/ladle - 🥄 Develop, test and document your React story components faster.](https://github.com/tajo/ladle)
 - [geelen/npx-import](https://github.com/geelen/npx-import)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [robmarkcole/satellite-image-deep-learning -  Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 - [cloudflare/svg-hush - Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
 - [Dashibase/lotion - An open-source Notion UI built with Vue 3 ](https://github.com/Dashibase/lotion)
-- [grammyjs/grammY - The Telegram Bot Framework.](https://github.com/grammyjs/grammY)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
