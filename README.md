@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sakofchit/system.css - A design system for building retro Apple interfaces](https://github.com/sakofchit/system.css)
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 - [sofn-xyz/mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [tajo/ladle - 🥄 Develop, test and document your React story components faster.](https://github.com/tajo/ladle)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [nucliweb/image-element - Repository to collect best practices for web images 🏞](https://github.com/nucliweb/image-element)
 - [robmarkcole/satellite-image-deep-learning -  Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 - [cloudflare/svg-hush - Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
-- [Dashibase/lotion - An open-source Notion UI built with Vue 3 ](https://github.com/Dashibase/lotion)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
