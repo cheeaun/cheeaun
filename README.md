@@ -30,7 +30,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [codedgar/Puppertino - A CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
 - [erikdesjardins/snudown-js - reddit's markdown renderer. compiled to javascript.](https://github.com/erikdesjardins/snudown-js)
 - [sakofchit/system.css - A design system for building retro Apple interfaces](https://github.com/sakofchit/system.css)
-- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+- [microsoft/fluentui-emoji - A collection of familiar, friendly, and modern emoji from Microsoft](https://github.com/microsoft/fluentui-emoji)
 - [sofn-xyz/mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [tajo/ladle - 🥄 Develop, test and document your React story components faster.](https://github.com/tajo/ladle)
 - [geelen/npx-import](https://github.com/geelen/npx-import)
