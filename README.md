@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bestofjs/bestofjs-webui - :star: A place to find the best components to build amazing web applications. The best of JavaScript!](https://github.com/bestofjs/bestofjs-webui)
 - [pohzipohzi/awesome-chinese-programming-terms - A list of useful programming terms in chinese](https://github.com/pohzipohzi/awesome-chinese-programming-terms)
 - [codedgar/Puppertino - A CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
 - [erikdesjardins/snudown-js - reddit's markdown renderer. compiled to javascript.](https://github.com/erikdesjardins/snudown-js)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [daengdoang/indonesians-who-design - A directory of Indonesians people who design.](https://github.com/daengdoang/indonesians-who-design)
 - [zsh-users/zsh-history-substring-search - 🐠 ZSH port of Fish history search (up arrow)](https://github.com/zsh-users/zsh-history-substring-search)
 - [chriswhong/awesome-mapbox-external-developer-resources - An awesome list of third-party developer resources to help you work with the Mapbox suite of location-based services, APIs, ADKs, libraries, and data.](https://github.com/chriswhong/awesome-mapbox-external-developer-resources)
-- [RayMarch/ferris3d - A free 3D model of Ferris the rustacean](https://github.com/RayMarch/ferris3d)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
