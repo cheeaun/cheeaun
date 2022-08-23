@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [visioncortex/vtracer - Raster to Vector Graphics Converter](https://github.com/visioncortex/vtracer)
 - [apify/crawlee - Crawlee — The web scraping and browser automation library that helps you build reliable crawlers. Fast.](https://github.com/apify/crawlee)
 - [bestofjs/bestofjs-webui - :star: A place to find the best components to build amazing web applications. The best of JavaScript!](https://github.com/bestofjs/bestofjs-webui)
 - [pohzipohzi/awesome-chinese-programming-terms - A list of useful programming terms in chinese](https://github.com/pohzipohzi/awesome-chinese-programming-terms)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [moyix/fauxpilot - FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
 - [inkeliz/karmem - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.](https://github.com/inkeliz/karmem)
 - [daengdoang/indonesians-who-design - A directory of Indonesians people who design.](https://github.com/daengdoang/indonesians-who-design)
-- [zsh-users/zsh-history-substring-search - 🐠 ZSH port of Fish history search (up arrow)](https://github.com/zsh-users/zsh-history-substring-search)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
