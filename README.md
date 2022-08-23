@@ -38,7 +38,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sofn-xyz/mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [tajo/ladle - 🥄 Develop, test and document your React story components faster.](https://github.com/tajo/ladle)
 - [geelen/npx-import](https://github.com/geelen/npx-import)
-- [nearform/lyra - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.](https://github.com/nearform/lyra)
+- [LyraSearch/lyra - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.](https://github.com/LyraSearch/lyra)
 - [moyix/fauxpilot - FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
 - [inkeliz/karmem - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.](https://github.com/inkeliz/karmem)
 - [daengdoang/indonesians-who-design - A directory of Indonesians people who design.](https://github.com/daengdoang/indonesians-who-design)
