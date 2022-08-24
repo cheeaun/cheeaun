@@ -28,7 +28,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 
 <!-- starred repos start -->
 - [visioncortex/vtracer - Raster to Vector Graphics Converter](https://github.com/visioncortex/vtracer)
-- [apify/crawlee - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.](https://github.com/apify/crawlee)
+- [apify/crawlee - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.](https://github.com/apify/crawlee)
 - [bestofjs/bestofjs-webui - :star: A place to find the best components to build amazing web applications. The best of JavaScript!](https://github.com/bestofjs/bestofjs-webui)
 - [pohzipohzi/awesome-chinese-programming-terms - A list of useful programming terms in chinese](https://github.com/pohzipohzi/awesome-chinese-programming-terms)
 - [codedgar/Puppertino - A CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
