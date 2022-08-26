@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [browserslist/browsersl.ist - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.](https://github.com/browserslist/browsersl.ist)
 - [visioncortex/vtracer - Raster to Vector Graphics Converter](https://github.com/visioncortex/vtracer)
 - [apify/crawlee - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.](https://github.com/apify/crawlee)
 - [bestofjs/bestofjs-webui - :star: A place to find the best components to build amazing web applications. The best of JavaScript!](https://github.com/bestofjs/bestofjs-webui)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [LyraSearch/lyra - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.](https://github.com/LyraSearch/lyra)
 - [moyix/fauxpilot - FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
 - [inkeliz/karmem - Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.](https://github.com/inkeliz/karmem)
-- [daengdoang/indonesians-who-design - A directory of Indonesians people who design.](https://github.com/daengdoang/indonesians-who-design)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
