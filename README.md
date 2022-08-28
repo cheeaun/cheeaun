@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [petakopi/petakopi.my](https://github.com/petakopi/petakopi.my)
+- [chriswhong/awesome-mapbox-webmaps - An Awesome List of Web Map Applications built with Mapbox tools and services.  ](https://github.com/chriswhong/awesome-mapbox-webmaps)
 - [afiiif/pokemon-world - The official pokemon website is not that cool? Here is the alternative 😉](https://github.com/afiiif/pokemon-world)
 - [browserslist/browsersl.ist - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.](https://github.com/browserslist/browsersl.ist)
 - [visioncortex/vtracer - Raster to Vector Graphics Converter](https://github.com/visioncortex/vtracer)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sofn-xyz/mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [tajo/ladle - 🥄 Develop, test and document your React story components faster.](https://github.com/tajo/ladle)
 - [geelen/npx-import](https://github.com/geelen/npx-import)
-- [LyraSearch/lyra - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.](https://github.com/LyraSearch/lyra)
-- [moyix/fauxpilot - FauxPilot - an open-source GitHub Copilot server](https://github.com/moyix/fauxpilot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
