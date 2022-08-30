@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [asciinema/agg - asciinema gif generator](https://github.com/asciinema/agg)
 - [huozhi/bunchee - zero config bundler for js/ts/jsx library](https://github.com/huozhi/bunchee)
 - [petakopi/petakopi.my](https://github.com/petakopi/petakopi.my)
 - [chriswhong/awesome-mapbox-webmaps - An Awesome List of Web Map Applications built with Mapbox tools and services.  ](https://github.com/chriswhong/awesome-mapbox-webmaps)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sakofchit/system.css - A design system for building retro Apple interfaces](https://github.com/sakofchit/system.css)
 - [microsoft/fluentui-emoji - A collection of familiar, friendly, and modern emoji from Microsoft](https://github.com/microsoft/fluentui-emoji)
 - [sofn-xyz/mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
-- [tajo/ladle - 🥄 Develop, test and document your React story components faster.](https://github.com/tajo/ladle)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
