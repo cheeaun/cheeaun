@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alyssaxuu/motionity - The web-based motion graphics editor for everyone 📽](https://github.com/alyssaxuu/motionity)
 - [asciinema/agg - asciinema gif generator](https://github.com/asciinema/agg)
 - [huozhi/bunchee - zero config bundler for js/ts/jsx library](https://github.com/huozhi/bunchee)
 - [petakopi/petakopi.my](https://github.com/petakopi/petakopi.my)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [erikdesjardins/snudown-js - reddit's markdown renderer. compiled to javascript.](https://github.com/erikdesjardins/snudown-js)
 - [sakofchit/system.css - A design system for building retro Apple interfaces](https://github.com/sakofchit/system.css)
 - [microsoft/fluentui-emoji - A collection of familiar, friendly, and modern emoji from Microsoft](https://github.com/microsoft/fluentui-emoji)
-- [sofn-xyz/mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
