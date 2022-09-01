@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [semiosis/prompts - A free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.](https://github.com/semiosis/prompts)
 - [frehner/modern-guide-to-packaging-js-library](https://github.com/frehner/modern-guide-to-packaging-js-library)
 - [WebKit/WebKit - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.](https://github.com/WebKit/WebKit)
 - [jamriska/ebsynth - Fast Example-based Image Synthesis and Style Transfer](https://github.com/jamriska/ebsynth)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [browserslist/browsersl.ist - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.](https://github.com/browserslist/browsersl.ist)
 - [visioncortex/vtracer - Raster to Vector Graphics Converter](https://github.com/visioncortex/vtracer)
 - [apify/crawlee - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.](https://github.com/apify/crawlee)
-- [bestofjs/bestofjs-webui - :star: A place to find the best components to build amazing web applications. The best of JavaScript!](https://github.com/bestofjs/bestofjs-webui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
