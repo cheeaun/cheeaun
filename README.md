@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jamriska/ebsynth - Fast Example-based Image Synthesis and Style Transfer](https://github.com/jamriska/ebsynth)
+- [BurguerJohn/Dain-App - Source code for Dain-App](https://github.com/BurguerJohn/Dain-App)
+- [baowenbo/DAIN - Depth-Aware Video Frame Interpolation (CVPR 2019)](https://github.com/baowenbo/DAIN)
 - [alyssaxuu/motionity - The web-based motion graphics editor for everyone 📽](https://github.com/alyssaxuu/motionity)
 - [asciinema/agg - asciinema gif generator](https://github.com/asciinema/agg)
 - [huozhi/bunchee - zero config bundler for js/ts/jsx library](https://github.com/huozhi/bunchee)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [bestofjs/bestofjs-webui - :star: A place to find the best components to build amazing web applications. The best of JavaScript!](https://github.com/bestofjs/bestofjs-webui)
 - [pohzipohzi/awesome-chinese-programming-terms - A list of useful programming terms in chinese](https://github.com/pohzipohzi/awesome-chinese-programming-terms)
 - [codedgar/Puppertino - A CSS framework based on Human Guidelines from apple](https://github.com/codedgar/Puppertino)
-- [erikdesjardins/snudown-js - reddit's markdown renderer. compiled to javascript.](https://github.com/erikdesjardins/snudown-js)
-- [sakofchit/system.css - A design system for building retro Apple interfaces](https://github.com/sakofchit/system.css)
-- [microsoft/fluentui-emoji - A collection of familiar, friendly, and modern emoji from Microsoft](https://github.com/microsoft/fluentui-emoji)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
