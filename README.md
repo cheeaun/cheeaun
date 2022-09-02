@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ahilss/wavvy](https://github.com/ahilss/wavvy)
 - [simonw/datasette-lite - Datasette running in your browser using WebAssembly and Pyodide](https://github.com/simonw/datasette-lite)
 - [semiosis/prompts - A free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.](https://github.com/semiosis/prompts)
 - [frehner/modern-guide-to-packaging-js-library](https://github.com/frehner/modern-guide-to-packaging-js-library)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [chriswhong/awesome-mapbox-webmaps - An Awesome List of Web Map Applications built with Mapbox tools and services.  ](https://github.com/chriswhong/awesome-mapbox-webmaps)
 - [afiiif/pokemon-world - The official pokemon website is not that cool? Here is the alternative 😉](https://github.com/afiiif/pokemon-world)
 - [browserslist/browsersl.ist - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.](https://github.com/browserslist/browsersl.ist)
-- [visioncortex/vtracer - Raster to Vector Graphics Converter](https://github.com/visioncortex/vtracer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
