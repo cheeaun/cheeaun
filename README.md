@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bluwy/whyframe - Develop components in isolation](https://github.com/bluwy/whyframe)
 - [ahilss/wavvy](https://github.com/ahilss/wavvy)
 - [simonw/datasette-lite - Datasette running in your browser using WebAssembly and Pyodide](https://github.com/simonw/datasette-lite)
 - [semiosis/prompts - A free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.](https://github.com/semiosis/prompts)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [petakopi/petakopi.my](https://github.com/petakopi/petakopi.my)
 - [chriswhong/awesome-mapbox-webmaps - An Awesome List of Web Map Applications built with Mapbox tools and services.  ](https://github.com/chriswhong/awesome-mapbox-webmaps)
 - [afiiif/pokemon-world - The official pokemon website is not that cool? Here is the alternative 😉](https://github.com/afiiif/pokemon-world)
-- [browserslist/browsersl.ist - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.](https://github.com/browserslist/browsersl.ist)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
