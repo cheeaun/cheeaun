@@ -36,7 +36,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [baowenbo/DAIN - Depth-Aware Video Frame Interpolation (CVPR 2019)](https://github.com/baowenbo/DAIN)
 - [alyssaxuu/motionity - The web-based motion graphics editor for everyone 📽](https://github.com/alyssaxuu/motionity)
 - [asciinema/agg - asciinema gif generator](https://github.com/asciinema/agg)
-- [huozhi/bunchee - zero config bundler for js/ts/jsx library](https://github.com/huozhi/bunchee)
+- [huozhi/bunchee - zero config bundler for ECMAScript libraries](https://github.com/huozhi/bunchee)
 - [petakopi/petakopi.my](https://github.com/petakopi/petakopi.my)
 - [chriswhong/awesome-mapbox-webmaps - An Awesome List of Web Map Applications built with Mapbox tools and services.  ](https://github.com/chriswhong/awesome-mapbox-webmaps)
 - [afiiif/pokemon-world - The official pokemon website is not that cool? Here is the alternative 😉](https://github.com/afiiif/pokemon-world)
