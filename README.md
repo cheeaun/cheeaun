@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [evanw/glfx.js - An image effects library for JavaScript using WebGL](https://github.com/evanw/glfx.js)
 - [bluwy/whyframe - Develop components in isolation](https://github.com/bluwy/whyframe)
 - [ahilss/wavvy](https://github.com/ahilss/wavvy)
 - [simonw/datasette-lite - Datasette running in your browser using WebAssembly and Pyodide](https://github.com/simonw/datasette-lite)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [huozhi/bunchee - zero config bundler for ECMAScript libraries](https://github.com/huozhi/bunchee)
 - [petakopi/petakopi.my](https://github.com/petakopi/petakopi.my)
 - [chriswhong/awesome-mapbox-webmaps - An Awesome List of Web Map Applications built with Mapbox tools and services.  ](https://github.com/chriswhong/awesome-mapbox-webmaps)
-- [afiiif/pokemon-world - The official pokemon website is not that cool? Here is the alternative 😉](https://github.com/afiiif/pokemon-world)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
