@@ -31,7 +31,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [ahilss/wavvy](https://github.com/ahilss/wavvy)
 - [simonw/datasette-lite - Datasette running in your browser using WebAssembly and Pyodide](https://github.com/simonw/datasette-lite)
 - [semiosis/prompts - A free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.](https://github.com/semiosis/prompts)
-- [frehner/modern-guide-to-packaging-js-library](https://github.com/frehner/modern-guide-to-packaging-js-library)
+- [frehner/modern-guide-to-packaging-js-library - A guide to help ensure your JavaScript library is the most compatible, fast, and efficient library you can make. ](https://github.com/frehner/modern-guide-to-packaging-js-library)
 - [WebKit/WebKit - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.](https://github.com/WebKit/WebKit)
 - [jamriska/ebsynth - Fast Example-based Image Synthesis and Style Transfer](https://github.com/jamriska/ebsynth)
 - [BurguerJohn/Dain-App - Source code for Dain-App](https://github.com/BurguerJohn/Dain-App)
