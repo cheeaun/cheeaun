@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sw-yx/prompt-eng - notes for prompt engineering](https://github.com/sw-yx/prompt-eng)
 - [evanw/glfx.js - An image effects library for JavaScript using WebGL](https://github.com/evanw/glfx.js)
 - [bluwy/whyframe - Develop components in isolation](https://github.com/bluwy/whyframe)
 - [ahilss/wavvy](https://github.com/ahilss/wavvy)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [asciinema/agg - asciinema gif generator](https://github.com/asciinema/agg)
 - [huozhi/bunchee - zero config bundler for ECMAScript libraries](https://github.com/huozhi/bunchee)
 - [petakopi/petakopi.my](https://github.com/petakopi/petakopi.my)
-- [chriswhong/awesome-mapbox-webmaps - An Awesome List of Web Map Applications built with Mapbox tools and services.  ](https://github.com/chriswhong/awesome-mapbox-webmaps)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
