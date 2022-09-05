@@ -29,7 +29,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 <!-- starred repos start -->
 - [sw-yx/prompt-eng - notes for prompt engineering](https://github.com/sw-yx/prompt-eng)
 - [evanw/glfx.js - An image effects library for JavaScript using WebGL](https://github.com/evanw/glfx.js)
-- [bluwy/whyframe - Develop components in isolation](https://github.com/bluwy/whyframe)
+- [bluwy/whyframe - Develop components in isolation with just an iframe](https://github.com/bluwy/whyframe)
 - [ahilss/wavvy](https://github.com/ahilss/wavvy)
 - [simonw/datasette-lite - Datasette running in your browser using WebAssembly and Pyodide](https://github.com/simonw/datasette-lite)
 - [semiosis/prompts - A free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.](https://github.com/semiosis/prompts)
