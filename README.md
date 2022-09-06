@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pmndrs/drei - 🥉 useful helpers for react-three-fiber](https://github.com/pmndrs/drei)
 - [sw-yx/prompt-eng - notes for prompt engineering](https://github.com/sw-yx/prompt-eng)
 - [evanw/glfx.js - An image effects library for JavaScript using WebGL](https://github.com/evanw/glfx.js)
 - [bluwy/whyframe - Develop components in isolation with just an iframe](https://github.com/bluwy/whyframe)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [alyssaxuu/motionity - The web-based motion graphics editor for everyone 📽](https://github.com/alyssaxuu/motionity)
 - [asciinema/agg - asciinema gif generator](https://github.com/asciinema/agg)
 - [huozhi/bunchee - zero config bundler for ECMAScript libraries](https://github.com/huozhi/bunchee)
-- [petakopi/petakopi.my](https://github.com/petakopi/petakopi.my)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
