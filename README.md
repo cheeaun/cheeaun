@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [creatorsgarten/techcal.dev - 📅💻Calendar of Tech Event in your town](https://github.com/creatorsgarten/techcal.dev)
 - [pmndrs/drei - 🥉 useful helpers for react-three-fiber](https://github.com/pmndrs/drei)
 - [sw-yx/prompt-eng - notes for prompt engineering](https://github.com/sw-yx/prompt-eng)
 - [evanw/glfx.js - An image effects library for JavaScript using WebGL](https://github.com/evanw/glfx.js)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [baowenbo/DAIN - Depth-Aware Video Frame Interpolation (CVPR 2019)](https://github.com/baowenbo/DAIN)
 - [alyssaxuu/motionity - The web-based motion graphics editor for everyone 📽](https://github.com/alyssaxuu/motionity)
 - [asciinema/agg - asciinema gif generator](https://github.com/asciinema/agg)
-- [huozhi/bunchee - zero config bundler for ECMAScript libraries](https://github.com/huozhi/bunchee)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
