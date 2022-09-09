@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cosmograph-org/cosmos - GPU-accelerated force graph layout and rendering](https://github.com/cosmograph-org/cosmos)
 - [alvinsj/mapgl-sg](https://github.com/alvinsj/mapgl-sg)
 - [creatorsgarten/techcal.dev - 📅💻Calendar of Tech Event in your town](https://github.com/creatorsgarten/techcal.dev)
 - [pmndrs/drei - 🥉 useful helpers for react-three-fiber](https://github.com/pmndrs/drei)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jamriska/ebsynth - Fast Example-based Image Synthesis and Style Transfer](https://github.com/jamriska/ebsynth)
 - [BurguerJohn/Dain-App - Source code for Dain-App](https://github.com/BurguerJohn/Dain-App)
 - [baowenbo/DAIN - Depth-Aware Video Frame Interpolation (CVPR 2019)](https://github.com/baowenbo/DAIN)
-- [alyssaxuu/motionity - The web-based motion graphics editor for everyone 📽](https://github.com/alyssaxuu/motionity)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
