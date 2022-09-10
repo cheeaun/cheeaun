@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sausheong/imge - Text-to-image generator](https://github.com/sausheong/imge)
 - [cosmograph-org/cosmos - GPU-accelerated force graph layout and rendering](https://github.com/cosmograph-org/cosmos)
 - [alvinsj/mapgl-sg](https://github.com/alvinsj/mapgl-sg)
 - [creatorsgarten/techcal.dev - 📅💻Calendar of Tech Event in your town](https://github.com/creatorsgarten/techcal.dev)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [WebKit/WebKit - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.](https://github.com/WebKit/WebKit)
 - [jamriska/ebsynth - Fast Example-based Image Synthesis and Style Transfer](https://github.com/jamriska/ebsynth)
 - [BurguerJohn/Dain-App - Source code for Dain-App](https://github.com/BurguerJohn/Dain-App)
-- [baowenbo/DAIN - Depth-Aware Video Frame Interpolation (CVPR 2019)](https://github.com/baowenbo/DAIN)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
