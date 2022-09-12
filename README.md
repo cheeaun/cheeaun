@@ -27,6 +27,10 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [huijing/maybel - Maybel's dinosaur game](https://github.com/huijing/maybel)
+- [SerenityOS/ladybird - Ladybird web browser](https://github.com/SerenityOS/ladybird)
+- [Mortennn/Dozer - Hide menu bar icons on macOS](https://github.com/Mortennn/Dozer)
+- [dwarvesf/hidden - An ultra-light MacOS utility that helps hide menu bar icons](https://github.com/dwarvesf/hidden)
 - [11ty/webc - Single File Web Components](https://github.com/11ty/webc)
 - [nielsmouthaan/ejectify-macos - Ejectify automatically unmounts external volumes when your Mac starts sleeping, and mounts them again after it wakes up.](https://github.com/nielsmouthaan/ejectify-macos)
 - [divamgupta/diffusionbee-stable-diffusion-ui - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
@@ -38,10 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [cosmograph-org/cosmos - GPU-accelerated force graph layout and rendering](https://github.com/cosmograph-org/cosmos)
 - [alvinsj/mapgl-sg](https://github.com/alvinsj/mapgl-sg)
 - [creatorsgarten/techcal.dev - 📅💻Calendar of Tech Event in your town](https://github.com/creatorsgarten/techcal.dev)
-- [pmndrs/drei - 🥉 useful helpers for react-three-fiber](https://github.com/pmndrs/drei)
-- [sw-yx/prompt-eng - notes for prompt engineering](https://github.com/sw-yx/prompt-eng)
-- [evanw/glfx.js - An image effects library for JavaScript using WebGL](https://github.com/evanw/glfx.js)
-- [bluwy/whyframe - Develop components in isolation with just an iframe](https://github.com/bluwy/whyframe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
