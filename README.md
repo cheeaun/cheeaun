@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [11ty/webc - Single File Web Components](https://github.com/11ty/webc)
+- [nielsmouthaan/ejectify-macos - Ejectify automatically unmounts external volumes when your Mac starts sleeping, and mounts them again after it wakes up.](https://github.com/nielsmouthaan/ejectify-macos)
 - [divamgupta/diffusionbee-stable-diffusion-ui - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 - [sausheong/openai - Go package that wraps around OpenAI HTTP APIs](https://github.com/sausheong/openai)
 - [vincentneo/SGTideTimings - Generate tide timing JSONs by web scrapping NEA tables!](https://github.com/vincentneo/SGTideTimings)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sw-yx/prompt-eng - notes for prompt engineering](https://github.com/sw-yx/prompt-eng)
 - [evanw/glfx.js - An image effects library for JavaScript using WebGL](https://github.com/evanw/glfx.js)
 - [bluwy/whyframe - Develop components in isolation with just an iframe](https://github.com/bluwy/whyframe)
-- [ahilss/wavvy](https://github.com/ahilss/wavvy)
-- [simonw/datasette-lite - Datasette running in your browser using WebAssembly and Pyodide](https://github.com/simonw/datasette-lite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
