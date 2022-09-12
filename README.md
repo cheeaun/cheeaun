@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [divamgupta/diffusionbee-stable-diffusion-ui - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 - [sausheong/openai - Go package that wraps around OpenAI HTTP APIs](https://github.com/sausheong/openai)
 - [vincentneo/SGTideTimings - Generate tide timing JSONs by web scrapping NEA tables!](https://github.com/vincentneo/SGTideTimings)
 - [yuanqing/stable-diffusion-rest-api - 🤗 A CLI for running Stable Diffusion locally via a REST API on an M1/M2 MacBook](https://github.com/yuanqing/stable-diffusion-rest-api)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [bluwy/whyframe - Develop components in isolation with just an iframe](https://github.com/bluwy/whyframe)
 - [ahilss/wavvy](https://github.com/ahilss/wavvy)
 - [simonw/datasette-lite - Datasette running in your browser using WebAssembly and Pyodide](https://github.com/simonw/datasette-lite)
-- [semiosis/prompts - A free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.](https://github.com/semiosis/prompts)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
