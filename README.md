@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bjornharrtell/jsts - JavaScript Topology Suite](https://github.com/bjornharrtell/jsts)
 - [huijing/maybel - Maybel's dinosaur game](https://github.com/huijing/maybel)
 - [SerenityOS/ladybird - Ladybird web browser](https://github.com/SerenityOS/ladybird)
 - [Mortennn/Dozer - Hide menu bar icons on macOS](https://github.com/Mortennn/Dozer)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [flackr/scroll-timeline - A polyfill of ScrollTimeline.](https://github.com/flackr/scroll-timeline)
 - [cosmograph-org/cosmos - GPU-accelerated force graph layout and rendering](https://github.com/cosmograph-org/cosmos)
 - [alvinsj/mapgl-sg](https://github.com/alvinsj/mapgl-sg)
-- [creatorsgarten/techcal.dev - 📅💻Calendar of Tech Event in your town](https://github.com/creatorsgarten/techcal.dev)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
