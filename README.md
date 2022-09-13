@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [argyleink/open-props - CSS custom properties to help accelerate adaptive and consistent design.](https://github.com/argyleink/open-props)
 - [bjornharrtell/jsts - JavaScript Topology Suite](https://github.com/bjornharrtell/jsts)
 - [huijing/maybel - Maybel's dinosaur game](https://github.com/huijing/maybel)
 - [SerenityOS/ladybird - Ladybird web browser](https://github.com/SerenityOS/ladybird)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sausheong/goreplicate - This is a simple Go package for interacting with the Replicate (https://replicate.com) HTTP APIs. Replicate is an API service that allows developers to use machine learning models easily through calling APIs.](https://github.com/sausheong/goreplicate)
 - [flackr/scroll-timeline - A polyfill of ScrollTimeline.](https://github.com/flackr/scroll-timeline)
 - [cosmograph-org/cosmos - GPU-accelerated force graph layout and rendering](https://github.com/cosmograph-org/cosmos)
-- [alvinsj/mapgl-sg](https://github.com/alvinsj/mapgl-sg)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
