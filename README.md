@@ -37,7 +37,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [nielsmouthaan/ejectify-macos - Ejectify automatically unmounts external volumes when your Mac starts sleeping, and mounts them again after it wakes up.](https://github.com/nielsmouthaan/ejectify-macos)
 - [divamgupta/diffusionbee-stable-diffusion-ui - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 - [sausheong/openai - Go package that wraps around OpenAI HTTP APIs](https://github.com/sausheong/openai)
-- [vincentneo/SGTideTimings - Generate tide timing JSONs by web scrapping NEA tables!](https://github.com/vincentneo/SGTideTimings)
+- [vincentneo/SGTideTimings - Generate tide timing JSON APIs by web scraping NEA tables!](https://github.com/vincentneo/SGTideTimings)
 - [yuanqing/stable-diffusion-rest-api - 🤗 A CLI for running Stable Diffusion locally via a REST API on an M1/M2 MacBook](https://github.com/yuanqing/stable-diffusion-rest-api)
 - [sausheong/goreplicate - This is a simple Go package for interacting with the Replicate (https://replicate.com) HTTP APIs. Replicate is an API service that allows developers to use machine learning models easily through calling APIs.](https://github.com/sausheong/goreplicate)
 - [flackr/scroll-timeline - A polyfill of ScrollTimeline.](https://github.com/flackr/scroll-timeline)
