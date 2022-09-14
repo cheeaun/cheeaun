@@ -27,7 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [justvanrossum/nabla - Arthur's Isometric COLRv1 Typeface](https://github.com/justvanrossum/nabla)
+- [justvanrossum/nabla - Typearture's Isometric COLRv1 Typeface](https://github.com/justvanrossum/nabla)
 - [codepo8/youtube-embed - An example how to embed YouTube videos in your GitHub Pages](https://github.com/codepo8/youtube-embed)
 - [facebookincubator/memlab - A framework for finding JavaScript memory leaks and analyzing heap snapshots](https://github.com/facebookincubator/memlab)
 - [argyleink/open-props - CSS custom properties to help accelerate adaptive and consistent design.](https://github.com/argyleink/open-props)
