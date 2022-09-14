@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [codepo8/youtube-embed - An example how to embed YouTube videos in your GitHub Pages](https://github.com/codepo8/youtube-embed)
 - [facebookincubator/memlab - A framework for finding JavaScript memory leaks and analyzing heap snapshots](https://github.com/facebookincubator/memlab)
 - [argyleink/open-props - CSS custom properties to help accelerate adaptive and consistent design.](https://github.com/argyleink/open-props)
 - [bjornharrtell/jsts - JavaScript Topology Suite](https://github.com/bjornharrtell/jsts)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [vincentneo/SGTideTimings - Generate tide timing JSON APIs by web scraping NEA tables!](https://github.com/vincentneo/SGTideTimings)
 - [yuanqing/stable-diffusion-rest-api - 🤗 A CLI for running Stable Diffusion locally via a REST API on an M1/M2 MacBook](https://github.com/yuanqing/stable-diffusion-rest-api)
 - [sausheong/goreplicate - This is a simple Go package for interacting with the Replicate (https://replicate.com) HTTP APIs. Replicate is an API service that allows developers to use machine learning models easily through calling APIs.](https://github.com/sausheong/goreplicate)
-- [flackr/scroll-timeline - A polyfill of ScrollTimeline.](https://github.com/flackr/scroll-timeline)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
