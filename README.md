@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dxtips/community-tools - list of tools for community](https://github.com/dxtips/community-tools)
+- [danielealbano/cachegrand - cachegrand - a modern OSS Key-Value store built for today's hardware](https://github.com/danielealbano/cachegrand)
 - [justvanrossum/nabla - Typearture's Isometric COLRv1 Typeface](https://github.com/justvanrossum/nabla)
 - [codepo8/youtube-embed - An example how to embed YouTube videos in your GitHub Pages](https://github.com/codepo8/youtube-embed)
 - [facebookincubator/memlab - A framework for finding JavaScript memory leaks and analyzing heap snapshots](https://github.com/facebookincubator/memlab)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [nielsmouthaan/ejectify-macos - Ejectify automatically unmounts external volumes when your Mac starts sleeping, and mounts them again after it wakes up.](https://github.com/nielsmouthaan/ejectify-macos)
 - [divamgupta/diffusionbee-stable-diffusion-ui - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 - [sausheong/openai - Go package that wraps around OpenAI HTTP APIs](https://github.com/sausheong/openai)
-- [vincentneo/SGTideTimings - Generate tide timing JSON APIs by web scraping NEA tables!](https://github.com/vincentneo/SGTideTimings)
-- [yuanqing/stable-diffusion-rest-api - 🤗 A CLI for running Stable Diffusion locally via a REST API on an M1/M2 MacBook](https://github.com/yuanqing/stable-diffusion-rest-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
