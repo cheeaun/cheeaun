@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bulwarkid/virtual-fido - A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
 - [itgalaxy/favicons - Favicons generator for Node.js](https://github.com/itgalaxy/favicons)
 - [dxtips/community-tools - list of tools for community](https://github.com/dxtips/community-tools)
 - [danielealbano/cachegrand - cachegrand - a modern OSS Key-Value store built for today's hardware](https://github.com/danielealbano/cachegrand)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [dwarvesf/hidden - An ultra-light MacOS utility that helps hide menu bar icons](https://github.com/dwarvesf/hidden)
 - [11ty/webc - Single File Web Components](https://github.com/11ty/webc)
 - [nielsmouthaan/ejectify-macos - Ejectify automatically unmounts external volumes when your Mac starts sleeping, and mounts them again after it wakes up.](https://github.com/nielsmouthaan/ejectify-macos)
-- [divamgupta/diffusionbee-stable-diffusion-ui - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
