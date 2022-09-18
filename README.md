@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [iOSConfSG/deepa - iOSConfSG SwiftUI edition](https://github.com/iOSConfSG/deepa)
+- [cbh123/charl-e - Run Stable Diffusion on your M1 Mac](https://github.com/cbh123/charl-e)
 - [bulwarkid/virtual-fido - A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
 - [itgalaxy/favicons - Favicons generator for Node.js](https://github.com/itgalaxy/favicons)
 - [dxtips/community-tools - list of tools for community](https://github.com/dxtips/community-tools)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [SerenityOS/ladybird - Ladybird web browser](https://github.com/SerenityOS/ladybird)
 - [Mortennn/Dozer - Hide menu bar icons on macOS](https://github.com/Mortennn/Dozer)
 - [dwarvesf/hidden - An ultra-light MacOS utility that helps hide menu bar icons](https://github.com/dwarvesf/hidden)
-- [11ty/webc - Single File Web Components](https://github.com/11ty/webc)
-- [nielsmouthaan/ejectify-macos - Ejectify automatically unmounts external volumes when your Mac starts sleeping, and mounts them again after it wakes up.](https://github.com/nielsmouthaan/ejectify-macos)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
