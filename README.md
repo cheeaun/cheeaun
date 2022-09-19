@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/usignal - An alternative to @preact/signals-core](https://github.com/WebReflection/usignal)
 - [iOSConfSG/deepa - iOSConfSG SwiftUI edition](https://github.com/iOSConfSG/deepa)
 - [cbh123/charl-e - Run Stable Diffusion on your M1 Mac](https://github.com/cbh123/charl-e)
 - [bulwarkid/virtual-fido - A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [huijing/maybel - Maybel's dinosaur game](https://github.com/huijing/maybel)
 - [SerenityOS/ladybird - Ladybird web browser](https://github.com/SerenityOS/ladybird)
 - [Mortennn/Dozer - Hide menu bar icons on macOS](https://github.com/Mortennn/Dozer)
-- [dwarvesf/hidden - An ultra-light MacOS utility that helps hide menu bar icons](https://github.com/dwarvesf/hidden)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
