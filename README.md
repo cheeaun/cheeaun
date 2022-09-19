@@ -27,7 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [WebReflection/usignal - An alternative to @preact/signals-core](https://github.com/WebReflection/usignal)
+- [WebReflection/usignal - A blend of @preact/signals-core and solid-js basic reactivity API](https://github.com/WebReflection/usignal)
 - [iOSConfSG/deepa - iOSConfSG SwiftUI edition](https://github.com/iOSConfSG/deepa)
 - [cbh123/charl-e - Run Stable Diffusion on your M1 Mac](https://github.com/cbh123/charl-e)
 - [bulwarkid/virtual-fido - A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
