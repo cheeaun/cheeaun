@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [openai/whisper](https://github.com/openai/whisper)
+- [hydrosquall/datasette-lite - Datasette + Plugins in your browser, with WebAssembly and Pyodide](https://github.com/hydrosquall/datasette-lite)
+- [AnandChowdhary/location - 📍 Tracking my location in real time](https://github.com/AnandChowdhary/location)
 - [pmndrs/its-fine - 🐶🔥 A collection of escape hatches for React.](https://github.com/pmndrs/its-fine)
 - [WebReflection/usignal - A blend of @preact/signals-core and solid-js basic reactivity API](https://github.com/WebReflection/usignal)
 - [iOSConfSG/deepa - iOSConfSG SwiftUI edition](https://github.com/iOSConfSG/deepa)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [codepo8/youtube-embed - An example how to embed YouTube videos in your GitHub Pages](https://github.com/codepo8/youtube-embed)
 - [facebookincubator/memlab - A framework for finding JavaScript memory leaks and analyzing heap snapshots](https://github.com/facebookincubator/memlab)
 - [argyleink/open-props - CSS custom properties to help accelerate adaptive and consistent design.](https://github.com/argyleink/open-props)
-- [bjornharrtell/jsts - JavaScript Topology Suite](https://github.com/bjornharrtell/jsts)
-- [huijing/maybel - Maybel's dinosaur game](https://github.com/huijing/maybel)
-- [SerenityOS/ladybird - Ladybird web browser](https://github.com/SerenityOS/ladybird)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
