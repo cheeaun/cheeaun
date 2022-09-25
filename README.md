@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [adamziel/wordpress-wasm - Run WordPress in the browser thanks to WebAssembly magic](https://github.com/adamziel/wordpress-wasm)
 - [openai/whisper](https://github.com/openai/whisper)
 - [hydrosquall/datasette-lite - Datasette + Plugins in your browser, with WebAssembly and Pyodide](https://github.com/hydrosquall/datasette-lite)
 - [AnandChowdhary/location - 📍 Tracking my location in real time](https://github.com/AnandChowdhary/location)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [justvanrossum/nabla - Typearture's Isometric COLRv1 Typeface](https://github.com/justvanrossum/nabla)
 - [codepo8/youtube-embed - An example how to embed YouTube videos in your GitHub Pages](https://github.com/codepo8/youtube-embed)
 - [facebookincubator/memlab - A framework for finding JavaScript memory leaks and analyzing heap snapshots](https://github.com/facebookincubator/memlab)
-- [argyleink/open-props - CSS custom properties to help accelerate adaptive and consistent design.](https://github.com/argyleink/open-props)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
