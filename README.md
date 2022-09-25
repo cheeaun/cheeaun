@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac)
+- [simonw/action-transcription - A tool for creating a repository of transcribed videos ](https://github.com/simonw/action-transcription)
+- [m1guelpf/yt-whisper - Using OpenAI's Whisper to automatically generate YouTube subtitles](https://github.com/m1guelpf/yt-whisper)
 - [adamziel/wordpress-wasm - Run WordPress in the browser thanks to WebAssembly magic](https://github.com/adamziel/wordpress-wasm)
 - [openai/whisper](https://github.com/openai/whisper)
 - [hydrosquall/datasette-lite - Datasette + Plugins in your browser, with WebAssembly and Pyodide](https://github.com/hydrosquall/datasette-lite)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [itgalaxy/favicons - Favicons generator for Node.js](https://github.com/itgalaxy/favicons)
 - [dxtips/community-tools - list of tools for community](https://github.com/dxtips/community-tools)
 - [danielealbano/cachegrand - cachegrand - a modern OSS Key-Value store built for today's hardware](https://github.com/danielealbano/cachegrand)
-- [justvanrossum/nabla - Typearture's Isometric COLRv1 Typeface](https://github.com/justvanrossum/nabla)
-- [codepo8/youtube-embed - An example how to embed YouTube videos in your GitHub Pages](https://github.com/codepo8/youtube-embed)
-- [facebookincubator/memlab - A framework for finding JavaScript memory leaks and analyzing heap snapshots](https://github.com/facebookincubator/memlab)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
