@@ -30,7 +30,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac)
 - [simonw/action-transcription - A tool for creating a repository of transcribed videos ](https://github.com/simonw/action-transcription)
 - [m1guelpf/yt-whisper - Using OpenAI's Whisper to automatically generate YouTube subtitles](https://github.com/m1guelpf/yt-whisper)
-- [adamziel/wordpress-wasm - Run WordPress in the browser thanks to WebAssembly magic](https://github.com/adamziel/wordpress-wasm)
+- [WordPress/wordpress-wasm - Run WordPress in the browser thanks to WebAssembly magic](https://github.com/WordPress/wordpress-wasm)
 - [openai/whisper](https://github.com/openai/whisper)
 - [hydrosquall/datasette-lite - Datasette + Plugins in your browser, with WebAssembly and Pyodide](https://github.com/hydrosquall/datasette-lite)
 - [AnandChowdhary/location - 📍 Tracking my location in real time](https://github.com/AnandChowdhary/location)
