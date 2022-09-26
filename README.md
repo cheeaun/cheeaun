@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fonoster/fonoster - 🚀 The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac)
 - [simonw/action-transcription - A tool for creating a repository of transcribed videos ](https://github.com/simonw/action-transcription)
 - [m1guelpf/yt-whisper - Using OpenAI's Whisper to automatically generate YouTube subtitles](https://github.com/m1guelpf/yt-whisper)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [bulwarkid/virtual-fido - A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
 - [itgalaxy/favicons - Favicons generator for Node.js](https://github.com/itgalaxy/favicons)
 - [dxtips/community-tools - list of tools for community](https://github.com/dxtips/community-tools)
-- [danielealbano/cachegrand - cachegrand - a modern OSS Key-Value store built for today's hardware](https://github.com/danielealbano/cachegrand)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
