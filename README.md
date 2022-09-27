@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [blueedgetechno/win11React - Windows 11 in React 💻🌈⚡](https://github.com/blueedgetechno/win11React)
+- [cloudflare/workerd](https://github.com/cloudflare/workerd)
 - [barelyhuman/preact-native - experimental renderer for preact to work with react-native](https://github.com/barelyhuman/preact-native)
 - [dqhieu/deeplinkbuddy-com](https://github.com/dqhieu/deeplinkbuddy-com)
 - [IdreesInc/Monocraft - A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [hydrosquall/datasette-lite - Datasette + Plugins in your browser, with WebAssembly and Pyodide](https://github.com/hydrosquall/datasette-lite)
 - [AnandChowdhary/location - 📍 Tracking my location in real time](https://github.com/AnandChowdhary/location)
 - [pmndrs/its-fine - 🐶🔥 A collection of escape hatches for React.](https://github.com/pmndrs/its-fine)
-- [WebReflection/usignal - A blend of @preact/signals-core and solid-js basic reactivity API](https://github.com/WebReflection/usignal)
-- [iOSConfSG/deepa - iOSConfSG SwiftUI edition](https://github.com/iOSConfSG/deepa)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
