@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [barelyhuman/preact-native - experimental renderer for preact to work with react-native](https://github.com/barelyhuman/preact-native)
+- [dqhieu/deeplinkbuddy-com](https://github.com/dqhieu/deeplinkbuddy-com)
 - [IdreesInc/Monocraft - A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
 - [eugeneyan/1-on-1s - 🌱 1-on-1 questions and resources from my time as a manager.](https://github.com/eugeneyan/1-on-1s)
 - [fonoster/fonoster - 🚀 The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [pmndrs/its-fine - 🐶🔥 A collection of escape hatches for React.](https://github.com/pmndrs/its-fine)
 - [WebReflection/usignal - A blend of @preact/signals-core and solid-js basic reactivity API](https://github.com/WebReflection/usignal)
 - [iOSConfSG/deepa - iOSConfSG SwiftUI edition](https://github.com/iOSConfSG/deepa)
-- [cbh123/charl-e - Run Stable Diffusion on your M1 Mac](https://github.com/cbh123/charl-e)
-- [bulwarkid/virtual-fido - A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
