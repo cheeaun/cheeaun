@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [IdreesInc/Monocraft - A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
+- [eugeneyan/1-on-1s - 🌱 1-on-1 questions and resources from my time as a manager.](https://github.com/eugeneyan/1-on-1s)
 - [fonoster/fonoster - 🚀 The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac)
 - [simonw/action-transcription - A tool for creating a repository of transcribed videos ](https://github.com/simonw/action-transcription)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [iOSConfSG/deepa - iOSConfSG SwiftUI edition](https://github.com/iOSConfSG/deepa)
 - [cbh123/charl-e - Run Stable Diffusion on your M1 Mac](https://github.com/cbh123/charl-e)
 - [bulwarkid/virtual-fido - A Virtual FIDO2 USB Device](https://github.com/bulwarkid/virtual-fido)
-- [itgalaxy/favicons - Favicons generator for Node.js](https://github.com/itgalaxy/favicons)
-- [dxtips/community-tools - list of tools for community](https://github.com/dxtips/community-tools)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
