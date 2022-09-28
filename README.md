@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jianmin-chen/react-native-pokedex - Build a Pokedex with React Native!](https://github.com/jianmin-chen/react-native-pokedex)
 - [vessel-js/vessel - (Coming Soon) Framework-agnostic tool for building & deploying fast apps/docs. Powered by Vite & Vercel.](https://github.com/vessel-js/vessel)
 - [blueedgetechno/win11React - Windows 11 in React 💻🌈⚡](https://github.com/blueedgetechno/win11React)
 - [cloudflare/workerd](https://github.com/cloudflare/workerd)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [WordPress/wordpress-wasm - Run WordPress in the browser thanks to WebAssembly magic](https://github.com/WordPress/wordpress-wasm)
 - [openai/whisper](https://github.com/openai/whisper)
 - [hydrosquall/datasette-lite - Datasette + Plugins in your browser, with WebAssembly and Pyodide](https://github.com/hydrosquall/datasette-lite)
-- [AnandChowdhary/location - 📍 Tracking my location in real time](https://github.com/AnandChowdhary/location)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
