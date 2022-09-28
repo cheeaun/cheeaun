@@ -40,7 +40,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [simonw/action-transcription - A tool for creating a repository of transcribed videos ](https://github.com/simonw/action-transcription)
 - [m1guelpf/yt-whisper - Using OpenAI's Whisper to automatically generate YouTube subtitles](https://github.com/m1guelpf/yt-whisper)
 - [WordPress/wordpress-wasm - Run WordPress in the browser thanks to WebAssembly magic](https://github.com/WordPress/wordpress-wasm)
-- [openai/whisper](https://github.com/openai/whisper)
+- [openai/whisper - Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
 - [hydrosquall/datasette-lite - Datasette + Plugins in your browser, with WebAssembly and Pyodide](https://github.com/hydrosquall/datasette-lite)
 <!-- starred repos end -->
 
