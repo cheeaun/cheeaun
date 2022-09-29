@@ -33,7 +33,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jianmin-chen/react-native-pokedex - Build a Pokedex with React Native!](https://github.com/jianmin-chen/react-native-pokedex)
 - [vessel-js/vessel - (Coming Soon) Framework-agnostic tool for building & deploying fast apps/docs. Powered by Vite & Vercel.](https://github.com/vessel-js/vessel)
 - [blueedgetechno/win11React - Windows 11 in React 💻🌈⚡](https://github.com/blueedgetechno/win11React)
-- [cloudflare/workerd](https://github.com/cloudflare/workerd)
+- [cloudflare/workerd - The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd)
 - [barelyhuman/preact-native - experimental renderer for preact to work with react-native](https://github.com/barelyhuman/preact-native)
 - [dqhieu/deeplinkbuddy-com](https://github.com/dqhieu/deeplinkbuddy-com)
 - [IdreesInc/Monocraft - A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
