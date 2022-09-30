@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mateusz1913/react-native-avoid-softinput - Native solution for common React Native problem of focused views being covered by soft input view.](https://github.com/mateusz1913/react-native-avoid-softinput)
 - [nat/natbot - Drive a browser with GPT-3](https://github.com/nat/natbot)
 - [grantila/awesome-phonenumber - Google's libphonenumber pre-compiled with the closure compiler](https://github.com/grantila/awesome-phonenumber)
 - [erikdkennedy/figtree - A friendly, simple geometric sans serif font](https://github.com/erikdkennedy/figtree)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [IdreesInc/Monocraft - A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
 - [eugeneyan/1-on-1s - 🌱 1-on-1 questions and resources from my time as a manager.](https://github.com/eugeneyan/1-on-1s)
 - [fonoster/fonoster - 🚀 The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
-- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
