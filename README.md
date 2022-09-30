@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nat/natbot - Drive a browser with GPT-3](https://github.com/nat/natbot)
+- [grantila/awesome-phonenumber - Google's libphonenumber pre-compiled with the closure compiler](https://github.com/grantila/awesome-phonenumber)
 - [erikdkennedy/figtree - A friendly, simple geometric sans serif font](https://github.com/erikdkennedy/figtree)
 - [googlefonts/picosvg-rs - A Rust version of picosvg.](https://github.com/googlefonts/picosvg-rs)
 - [expo/router - This is a preview of the new router for React Native apps. It is currently in alpha and is not ready for production use.](https://github.com/expo/router)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [eugeneyan/1-on-1s - 🌱 1-on-1 questions and resources from my time as a manager.](https://github.com/eugeneyan/1-on-1s)
 - [fonoster/fonoster - 🚀 The open-source alternative to Twilio](https://github.com/fonoster/fonoster)
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac)
-- [simonw/action-transcription - A tool for creating a repository of transcribed videos ](https://github.com/simonw/action-transcription)
-- [m1guelpf/yt-whisper - Using OpenAI's Whisper to automatically generate YouTube subtitles](https://github.com/m1guelpf/yt-whisper)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
