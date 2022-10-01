@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google/lyra - A Very Low-Bitrate Codec for Speech Compression](https://github.com/google/lyra)
 - [leeoniya/uFuzzy - A tiny, efficient fuzzy search that doesn't suck](https://github.com/leeoniya/uFuzzy)
 - [mateusz1913/react-native-avoid-softinput - Native solution for common React Native problem of focused views being covered by soft input view.](https://github.com/mateusz1913/react-native-avoid-softinput)
 - [nat/natbot - Drive a browser with GPT-3](https://github.com/nat/natbot)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [barelyhuman/preact-native - experimental renderer for preact to work with react-native](https://github.com/barelyhuman/preact-native)
 - [dqhieu/deeplinkbuddy-com](https://github.com/dqhieu/deeplinkbuddy-com)
 - [IdreesInc/Monocraft - A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
-- [eugeneyan/1-on-1s - 🌱 1-on-1 questions and resources from my time as a manager.](https://github.com/eugeneyan/1-on-1s)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
