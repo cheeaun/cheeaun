@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [photoprism/photoprism - AI-Powered Photos App for the Decentralized Web 🌈💎✨](https://github.com/photoprism/photoprism)
 - [brillout/telefunc - Remote Functions. Instead of API.](https://github.com/brillout/telefunc)
 - [google/lyra - A Very Low-Bitrate Codec for Speech Compression](https://github.com/google/lyra)
 - [leeoniya/uFuzzy - A tiny, efficient fuzzy search that doesn't suck](https://github.com/leeoniya/uFuzzy)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [blueedgetechno/win11React - Windows 11 in React 💻🌈⚡](https://github.com/blueedgetechno/win11React)
 - [cloudflare/workerd - The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd)
 - [barelyhuman/preact-native - experimental renderer for preact to work with react-native](https://github.com/barelyhuman/preact-native)
-- [dqhieu/deeplinkbuddy-com](https://github.com/dqhieu/deeplinkbuddy-com)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
