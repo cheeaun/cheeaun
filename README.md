@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [brillout/telefunc - Remote Functions. Instead of API.](https://github.com/brillout/telefunc)
 - [google/lyra - A Very Low-Bitrate Codec for Speech Compression](https://github.com/google/lyra)
 - [leeoniya/uFuzzy - A tiny, efficient fuzzy search that doesn't suck](https://github.com/leeoniya/uFuzzy)
 - [mateusz1913/react-native-avoid-softinput - Native solution for common React Native problem of focused views being covered by soft input view.](https://github.com/mateusz1913/react-native-avoid-softinput)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [cloudflare/workerd - The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd)
 - [barelyhuman/preact-native - experimental renderer for preact to work with react-native](https://github.com/barelyhuman/preact-native)
 - [dqhieu/deeplinkbuddy-com](https://github.com/dqhieu/deeplinkbuddy-com)
-- [IdreesInc/Monocraft - A programming font based on the typeface used in Minecraft](https://github.com/IdreesInc/Monocraft)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
