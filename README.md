@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [errata-ai/vale - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.](https://github.com/errata-ai/vale)
 - [LIJI32/SameBoy - Game Boy and Game Boy Color emulator written in C](https://github.com/LIJI32/SameBoy)
 - [photoprism/photoprism - AI-Powered Photos App for the Decentralized Web 🌈💎✨](https://github.com/photoprism/photoprism)
 - [brillout/telefunc - Remote Functions. Instead of API.](https://github.com/brillout/telefunc)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jianmin-chen/react-native-pokedex - Build a Pokedex with React Native!](https://github.com/jianmin-chen/react-native-pokedex)
 - [vessel-js/vessel - (Coming Soon) Framework-agnostic tool for building & deploying fast apps/docs. Powered by Vite & Vercel.](https://github.com/vessel-js/vessel)
 - [blueedgetechno/win11React - Windows 11 in React 💻🌈⚡](https://github.com/blueedgetechno/win11React)
-- [cloudflare/workerd - The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
