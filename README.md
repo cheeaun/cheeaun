@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LIJI32/SameBoy - Game Boy and Game Boy Color emulator written in C](https://github.com/LIJI32/SameBoy)
 - [photoprism/photoprism - AI-Powered Photos App for the Decentralized Web 🌈💎✨](https://github.com/photoprism/photoprism)
 - [brillout/telefunc - Remote Functions. Instead of API.](https://github.com/brillout/telefunc)
 - [google/lyra - A Very Low-Bitrate Codec for Speech Compression](https://github.com/google/lyra)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [vessel-js/vessel - (Coming Soon) Framework-agnostic tool for building & deploying fast apps/docs. Powered by Vite & Vercel.](https://github.com/vessel-js/vessel)
 - [blueedgetechno/win11React - Windows 11 in React 💻🌈⚡](https://github.com/blueedgetechno/win11React)
 - [cloudflare/workerd - The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd)
-- [barelyhuman/preact-native - experimental renderer for preact to work with react-native](https://github.com/barelyhuman/preact-native)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
