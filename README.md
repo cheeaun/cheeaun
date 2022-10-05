@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ryanfox/video-to-sqlite - Extract metadata from a video to an sqlite database](https://github.com/ryanfox/video-to-sqlite)
+- [surma/jsxx](https://github.com/surma/jsxx)
 - [weiweihuanghuang/fragment-mono - Helvetica Monospace Coding Font](https://github.com/weiweihuanghuang/fragment-mono)
 - [errata-ai/vale - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.](https://github.com/errata-ai/vale)
 - [LIJI32/SameBoy - Game Boy and Game Boy Color emulator written in C](https://github.com/LIJI32/SameBoy)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [erikdkennedy/figtree - A friendly, simple geometric sans serif font](https://github.com/erikdkennedy/figtree)
 - [googlefonts/picosvg-rs - A Rust version of picosvg.](https://github.com/googlefonts/picosvg-rs)
 - [expo/router - This is a preview of the new router for React Native apps. It is currently in alpha and is not ready for production use.](https://github.com/expo/router)
-- [jianmin-chen/react-native-pokedex - Build a Pokedex with React Native!](https://github.com/jianmin-chen/react-native-pokedex)
-- [vessel-js/vessel - (Coming Soon) Framework-agnostic tool for building & deploying fast apps/docs. Powered by Vite & Vercel.](https://github.com/vessel-js/vessel)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
