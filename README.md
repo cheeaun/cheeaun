@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [michelf/sim-daltonism - A color blindness simulator for Mac and iOS](https://github.com/michelf/sim-daltonism)
 - [lyqht/awesome-supabase - Official + Community Starters & Resources on Supabase ⚡️ ](https://github.com/lyqht/awesome-supabase)
 - [ryanfox/video-to-sqlite - Extract metadata from a video to an sqlite database](https://github.com/ryanfox/video-to-sqlite)
 - [surma/jsxx](https://github.com/surma/jsxx)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [nat/natbot - Drive a browser with GPT-3](https://github.com/nat/natbot)
 - [grantila/awesome-phonenumber - Google's libphonenumber pre-compiled with the closure compiler](https://github.com/grantila/awesome-phonenumber)
 - [erikdkennedy/figtree - A friendly, simple geometric sans serif font](https://github.com/erikdkennedy/figtree)
-- [googlefonts/picosvg-rs - A Rust version of picosvg.](https://github.com/googlefonts/picosvg-rs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
