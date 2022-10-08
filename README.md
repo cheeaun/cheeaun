@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ted-piotrowski/mapbox-gl-shadow-simulator - Simulate terrain and structure shadows in a custom map layer](https://github.com/ted-piotrowski/mapbox-gl-shadow-simulator)
 - [sandydoo/flux - An open-source tribute to the macOS Drift screensaver](https://github.com/sandydoo/flux)
 - [antfu/retypewriter - Replay the steps of your changes at ease.](https://github.com/antfu/retypewriter)
 - [michelf/sim-daltonism - A color blindness simulator for Mac and iOS](https://github.com/michelf/sim-daltonism)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [google/lyra - A Very Low-Bitrate Codec for Speech Compression](https://github.com/google/lyra)
 - [leeoniya/uFuzzy - A tiny, efficient fuzzy search that doesn't suck](https://github.com/leeoniya/uFuzzy)
 - [mateusz1913/react-native-avoid-softinput - Native solution for common React Native problem of focused views being covered by soft input view.](https://github.com/mateusz1913/react-native-avoid-softinput)
-- [nat/natbot - Drive a browser with GPT-3](https://github.com/nat/natbot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
