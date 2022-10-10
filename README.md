@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [deniseyu/tech-talking - Resources for both beginners and seasoned public speakers to hone their technical speaking skills!](https://github.com/deniseyu/tech-talking)
 - [splinetool/react-spline - React component for Spline scenes.](https://github.com/splinetool/react-spline)
 - [ted-piotrowski/mapbox-gl-shadow-simulator - Simulate terrain and structure shadows in a custom map layer](https://github.com/ted-piotrowski/mapbox-gl-shadow-simulator)
 - [sandydoo/flux - An open-source tribute to the macOS Drift screensaver](https://github.com/sandydoo/flux)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [photoprism/photoprism - AI-Powered Photos App for the Decentralized Web 🌈💎✨](https://github.com/photoprism/photoprism)
 - [brillout/telefunc - Remote Functions. Instead of API.](https://github.com/brillout/telefunc)
 - [google/lyra - A Very Low-Bitrate Codec for Speech Compression](https://github.com/google/lyra)
-- [leeoniya/uFuzzy - A tiny, efficient fuzzy search that doesn't suck](https://github.com/leeoniya/uFuzzy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
