@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel/satori - Enlightened library to convert HTML and CSS to SVG](https://github.com/vercel/satori)
 - [deniseyu/tech-talking - Resources for both beginners and seasoned public speakers to hone their technical speaking skills!](https://github.com/deniseyu/tech-talking)
 - [splinetool/react-spline - React component for Spline scenes.](https://github.com/splinetool/react-spline)
 - [ted-piotrowski/mapbox-gl-shadow-simulator - Simulate terrain and structure shadows in a custom map layer](https://github.com/ted-piotrowski/mapbox-gl-shadow-simulator)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [LIJI32/SameBoy - Game Boy and Game Boy Color emulator written in C](https://github.com/LIJI32/SameBoy)
 - [photoprism/photoprism - AI-Powered Photos App for the Decentralized Web 🌈💎✨](https://github.com/photoprism/photoprism)
 - [brillout/telefunc - Remote Functions. Instead of API.](https://github.com/brillout/telefunc)
-- [google/lyra - A Very Low-Bitrate Codec for Speech Compression](https://github.com/google/lyra)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
