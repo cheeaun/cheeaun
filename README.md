@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dflex-js/dflex - The sophisticated Drag and Drop library you've been waiting for 🥳](https://github.com/dflex-js/dflex)
 - [vercel/satori - Enlightened library to convert HTML and CSS to SVG](https://github.com/vercel/satori)
 - [deniseyu/tech-talking - Resources for both beginners and seasoned public speakers to hone their technical speaking skills!](https://github.com/deniseyu/tech-talking)
 - [splinetool/react-spline - React component for Spline scenes.](https://github.com/splinetool/react-spline)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [errata-ai/vale - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.](https://github.com/errata-ai/vale)
 - [LIJI32/SameBoy - Game Boy and Game Boy Color emulator written in C](https://github.com/LIJI32/SameBoy)
 - [photoprism/photoprism - AI-Powered Photos App for the Decentralized Web 🌈💎✨](https://github.com/photoprism/photoprism)
-- [brillout/telefunc - Remote Functions. Instead of API.](https://github.com/brillout/telefunc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
