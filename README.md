@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chriswhong/awesome-mapboxgl-demos - An Awesome List of Web Map Demos built with Mapbox tools and services.](https://github.com/chriswhong/awesome-mapboxgl-demos)
+- [lyqht/nomnomwhere - Find & add imaginary restaurants 🍔](https://github.com/lyqht/nomnomwhere)
 - [zernonia/supabase-vscode-extension](https://github.com/zernonia/supabase-vscode-extension)
 - [brillout/vite-plugin-ssr - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.](https://github.com/brillout/vite-plugin-ssr)
 - [dflex-js/dflex - The sophisticated Drag and Drop library you've been waiting for 🥳](https://github.com/dflex-js/dflex)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [lyqht/awesome-supabase - Official + Community Starters & Resources on Supabase ⚡️ ](https://github.com/lyqht/awesome-supabase)
 - [ryanfox/video-to-sqlite - Extract metadata from a video to an sqlite database](https://github.com/ryanfox/video-to-sqlite)
 - [surma/jsxx](https://github.com/surma/jsxx)
-- [weiweihuanghuang/fragment-mono - Helvetica Monospace Coding Font](https://github.com/weiweihuanghuang/fragment-mono)
-- [errata-ai/vale - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.](https://github.com/errata-ai/vale)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
