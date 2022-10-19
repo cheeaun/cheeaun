@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dotlottie/player-component](https://github.com/dotlottie/player-component)
 - [dimforge/rapier - 2D and 3D physics engines focused on performance.](https://github.com/dimforge/rapier)
 - [splinetool/r3f-spline - Hook to load Spline scenes into react-three-fiber](https://github.com/splinetool/r3f-spline)
 - [chriswhong/awesome-mapboxgl-demos - An Awesome List of Web Map Demos built with Mapbox tools and services.](https://github.com/chriswhong/awesome-mapboxgl-demos)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [sandydoo/flux - An open-source tribute to the macOS Drift screensaver](https://github.com/sandydoo/flux)
 - [antfu/retypewriter - Replay the steps of your changes at ease.](https://github.com/antfu/retypewriter)
 - [michelf/sim-daltonism - A color blindness simulator for Mac and iOS](https://github.com/michelf/sim-daltonism)
-- [lyqht/awesome-supabase - Official + Community Starters & Resources on Supabase ⚡️ ](https://github.com/lyqht/awesome-supabase)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
