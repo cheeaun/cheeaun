@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [celestiary/web - Astronomical simulator of solar system and local stars](https://github.com/celestiary/web)
 - [wailsapp/wails - Create beautiful applications using Go](https://github.com/wailsapp/wails)
 - [dotlottie/player-component](https://github.com/dotlottie/player-component)
 - [dimforge/rapier - 2D and 3D physics engines focused on performance.](https://github.com/dimforge/rapier)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [splinetool/react-spline - React component for Spline scenes.](https://github.com/splinetool/react-spline)
 - [ted-piotrowski/mapbox-gl-shadow-simulator - Simulate terrain and structure shadows in a custom map layer](https://github.com/ted-piotrowski/mapbox-gl-shadow-simulator)
 - [sandydoo/flux - An open-source tribute to the macOS Drift screensaver](https://github.com/sandydoo/flux)
-- [antfu/retypewriter - Replay the steps of your changes at ease.](https://github.com/antfu/retypewriter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
