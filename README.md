@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kenjinp/hello-worlds - Virtual javascript worlds at planetary scales for your threejs or react-three-fiber scene 👋🌐](https://github.com/kenjinp/hello-worlds)
 - [celestiary/web - Astronomical simulator of solar system and local stars](https://github.com/celestiary/web)
 - [wailsapp/wails - Create beautiful applications using Go](https://github.com/wailsapp/wails)
 - [dotlottie/player-component](https://github.com/dotlottie/player-component)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [deniseyu/tech-talking - Resources for both beginners and seasoned public speakers to hone their technical speaking skills!](https://github.com/deniseyu/tech-talking)
 - [splinetool/react-spline - React component for Spline scenes.](https://github.com/splinetool/react-spline)
 - [ted-piotrowski/mapbox-gl-shadow-simulator - Simulate terrain and structure shadows in a custom map layer](https://github.com/ted-piotrowski/mapbox-gl-shadow-simulator)
-- [sandydoo/flux - An open-source tribute to the macOS Drift screensaver](https://github.com/sandydoo/flux)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
