@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 - [trevorjay/Jerrica - Jerrica is a small, bare bones, 100% scheduled, web audio native, MOD player designed to be embedded in Javascript games](https://github.com/trevorjay/Jerrica)
 - [Flet/github-slugger - :octocat: Generate a slug just like GitHub does for markdown headings.](https://github.com/Flet/github-slugger)
 - [Rezmason/matrix - matrix (web-based green code rain, made with love)](https://github.com/Rezmason/matrix)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [chriswhong/awesome-mapboxgl-demos - An Awesome List of Web Map Demos built with Mapbox tools and services.](https://github.com/chriswhong/awesome-mapboxgl-demos)
 - [lyqht/nomnomwhere - Find & add imaginary restaurants 🍔](https://github.com/lyqht/nomnomwhere)
 - [zernonia/supabase-vscode-extension - Unofficial Supabase Extension](https://github.com/zernonia/supabase-vscode-extension)
-- [brillout/vite-plugin-ssr - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.](https://github.com/brillout/vite-plugin-ssr)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
