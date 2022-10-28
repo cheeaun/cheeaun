@@ -27,7 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
+- [simeydotme/pokemon-cards-css - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.](https://github.com/simeydotme/pokemon-cards-css)
 - [trevorjay/Jerrica - Jerrica is a small, bare bones, 100% scheduled, web audio native, MOD player designed to be embedded in Javascript games](https://github.com/trevorjay/Jerrica)
 - [Flet/github-slugger - :octocat: Generate a slug just like GitHub does for markdown headings.](https://github.com/Flet/github-slugger)
 - [Rezmason/matrix - matrix (web-based green code rain, made with love)](https://github.com/Rezmason/matrix)
