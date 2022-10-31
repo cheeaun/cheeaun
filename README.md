@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bufbuild/protobuf-es - Protocol Buffers for ECMAScript.](https://github.com/bufbuild/protobuf-es)
 - [mifi/editly - Slick, declarative command line video editing & API](https://github.com/mifi/editly)
 - [thevahidal/soul - A SQLite RESTful server](https://github.com/thevahidal/soul)
 - [simeydotme/pokemon-cards-css - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.](https://github.com/simeydotme/pokemon-cards-css)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [dotlottie/player-component](https://github.com/dotlottie/player-component)
 - [dimforge/rapier - 2D and 3D physics engines focused on performance.](https://github.com/dimforge/rapier)
 - [splinetool/r3f-spline - Hook to load Spline scenes into react-three-fiber](https://github.com/splinetool/r3f-spline)
-- [chriswhong/awesome-mapboxgl-demos - An Awesome List of Web Map Demos built with Mapbox tools and services.](https://github.com/chriswhong/awesome-mapboxgl-demos)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
