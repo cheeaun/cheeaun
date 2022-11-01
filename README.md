@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [simonw/playing-with-github-pages - Trying things out with GitHub Pages](https://github.com/simonw/playing-with-github-pages)
 - [bufbuild/protobuf-es - Protocol Buffers for ECMAScript.](https://github.com/bufbuild/protobuf-es)
 - [mifi/editly - Slick, declarative command line video editing & API](https://github.com/mifi/editly)
 - [thevahidal/soul - A SQLite RESTful server](https://github.com/thevahidal/soul)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [wailsapp/wails - Create beautiful applications using Go](https://github.com/wailsapp/wails)
 - [dotlottie/player-component](https://github.com/dotlottie/player-component)
 - [dimforge/rapier - 2D and 3D physics engines focused on performance.](https://github.com/dimforge/rapier)
-- [splinetool/r3f-spline - Hook to load Spline scenes into react-three-fiber](https://github.com/splinetool/r3f-spline)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
