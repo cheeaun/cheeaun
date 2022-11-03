@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [hackclub/sprig - 🍃 Learn to code by making games in a JavaScript web-based game editor.](https://github.com/hackclub/sprig)
 - [soulverteam/SoulverCore - A powerful Swift framework for evaluating mathematical expressions](https://github.com/soulverteam/SoulverCore)
 - [kellyjonbrazil/jc - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.](https://github.com/kellyjonbrazil/jc)
 - [cidcom/SatelliteCloudGenerator - A PyTorch-based tool to generate clouds for satellite images.](https://github.com/cidcom/SatelliteCloudGenerator)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [protomaps/go-pmtiles - Single-file executable tool for creating, reading and uploading PMTiles archives](https://github.com/protomaps/go-pmtiles)
 - [nvh95/vitest-preview - Debug your Vitest tests. Effortlessly. 🧪🖼⚡️](https://github.com/nvh95/vitest-preview)
 - [kenjinp/hello-worlds - Virtual javascript worlds at planetary scales for your threejs or react-three-fiber scene 👋🌐](https://github.com/kenjinp/hello-worlds)
-- [celestiary/web - Astronomical simulator of solar system and local stars](https://github.com/celestiary/web)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
