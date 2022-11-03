@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kellyjonbrazil/jc - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.](https://github.com/kellyjonbrazil/jc)
 - [cidcom/SatelliteCloudGenerator - A PyTorch-based tool to generate clouds for satellite images.](https://github.com/cidcom/SatelliteCloudGenerator)
 - [simonw/playing-with-github-pages - Trying things out with GitHub Pages](https://github.com/simonw/playing-with-github-pages)
 - [bufbuild/protobuf-es - Protocol Buffers for ECMAScript.](https://github.com/bufbuild/protobuf-es)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [kenjinp/hello-worlds - Virtual javascript worlds at planetary scales for your threejs or react-three-fiber scene 👋🌐](https://github.com/kenjinp/hello-worlds)
 - [celestiary/web - Astronomical simulator of solar system and local stars](https://github.com/celestiary/web)
 - [wailsapp/wails - Create beautiful applications using Go](https://github.com/wailsapp/wails)
-- [dotlottie/player-component](https://github.com/dotlottie/player-component)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
