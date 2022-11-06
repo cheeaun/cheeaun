@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CloudCannon/pagefind - Static low-bandwidth search at scale](https://github.com/CloudCannon/pagefind)
+- [jj811208/watching-you - Watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://github.com/jj811208/watching-you)
+- [4lejandrito/creepyface - The JavaScript library that makes your face look at the pointer. 🤪🖱️👆](https://github.com/4lejandrito/creepyface)
 - [devongovett/parcel-vs-vite-vs-turbopack-hmr - Benchmarking Parcel vs. Vite vs. Turbopack HMR performance](https://github.com/devongovett/parcel-vs-vite-vs-turbopack-hmr)
 - [petermekhaeil/remix-commerce - Performant e-commerce that runs on the edge. Built using Remix running on Cloudflare Workers. ](https://github.com/petermekhaeil/remix-commerce)
 - [hackclub/sprig - 🍃 Learn to code by making games in a JavaScript web-based game editor.](https://github.com/hackclub/sprig)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [thevahidal/soul - A SQLite REST and realtime server](https://github.com/thevahidal/soul)
 - [simeydotme/pokemon-cards-css - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.](https://github.com/simeydotme/pokemon-cards-css)
 - [trevorjay/Jerrica - Jerrica is a small, bare bones, 100% scheduled, web audio native, MOD player designed to be embedded in Javascript games](https://github.com/trevorjay/Jerrica)
-- [Flet/github-slugger - :octocat: Generate a slug just like GitHub does for markdown headings.](https://github.com/Flet/github-slugger)
-- [Rezmason/matrix - matrix (web-based green code rain, made with love)](https://github.com/Rezmason/matrix)
-- [protomaps/go-pmtiles - Single-file executable tool for creating, reading and uploading PMTiles archives](https://github.com/protomaps/go-pmtiles)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
