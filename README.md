@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [devongovett/parcel-vs-vite-vs-turbopack-hmr - Benchmarking Parcel vs. Vite vs. Turbopack HMR performance](https://github.com/devongovett/parcel-vs-vite-vs-turbopack-hmr)
+- [petermekhaeil/remix-commerce - Performant e-commerce that runs on the edge. Built using Remix running on Cloudflare Workers. ](https://github.com/petermekhaeil/remix-commerce)
 - [hackclub/sprig - 🍃 Learn to code by making games in a JavaScript web-based game editor.](https://github.com/hackclub/sprig)
 - [soulverteam/SoulverCore - A powerful Swift framework for evaluating mathematical expressions](https://github.com/soulverteam/SoulverCore)
 - [kellyjonbrazil/jc - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.](https://github.com/kellyjonbrazil/jc)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [Flet/github-slugger - :octocat: Generate a slug just like GitHub does for markdown headings.](https://github.com/Flet/github-slugger)
 - [Rezmason/matrix - matrix (web-based green code rain, made with love)](https://github.com/Rezmason/matrix)
 - [protomaps/go-pmtiles - Single-file executable tool for creating, reading and uploading PMTiles archives](https://github.com/protomaps/go-pmtiles)
-- [nvh95/vitest-preview - Debug your Vitest tests. Effortlessly. 🧪🖼⚡️](https://github.com/nvh95/vitest-preview)
-- [kenjinp/hello-worlds - Virtual javascript worlds at planetary scales for your threejs or react-three-fiber scene 👋🌐](https://github.com/kenjinp/hello-worlds)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
