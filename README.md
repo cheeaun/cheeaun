@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [natemoo-re/micromorph - A very tiny library for diffing DOM nodes](https://github.com/natemoo-re/micromorph)
 - [CloudCannon/pagefind - Static low-bandwidth search at scale](https://github.com/CloudCannon/pagefind)
 - [jj811208/watching-you - Watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://github.com/jj811208/watching-you)
 - [4lejandrito/creepyface - The JavaScript library that makes your face look at the pointer. 🤪🖱️👆](https://github.com/4lejandrito/creepyface)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [mifi/editly - Slick, declarative command line video editing & API](https://github.com/mifi/editly)
 - [thevahidal/soul - A SQLite REST and realtime server](https://github.com/thevahidal/soul)
 - [simeydotme/pokemon-cards-css - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.](https://github.com/simeydotme/pokemon-cards-css)
-- [trevorjay/Jerrica - Jerrica is a small, bare bones, 100% scheduled, web audio native, MOD player designed to be embedded in Javascript games](https://github.com/trevorjay/Jerrica)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
