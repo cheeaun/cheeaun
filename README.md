@@ -29,7 +29,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 <!-- starred repos start -->
 - [natemoo-re/micromorph - A very tiny library for diffing DOM nodes](https://github.com/natemoo-re/micromorph)
 - [CloudCannon/pagefind - Static low-bandwidth search at scale](https://github.com/CloudCannon/pagefind)
-- [jj811208/watching-you - Watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://github.com/jj811208/watching-you)
+- [jj811208/watching-you - watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://github.com/jj811208/watching-you)
 - [4lejandrito/creepyface - The JavaScript library that makes your face look at the pointer. 🤪🖱️👆](https://github.com/4lejandrito/creepyface)
 - [devongovett/parcel-vs-vite-vs-turbopack-hmr - Benchmarking Parcel vs. Vite vs. Turbopack HMR performance](https://github.com/devongovett/parcel-vs-vite-vs-turbopack-hmr)
 - [petermekhaeil/remix-commerce - Performant e-commerce that runs on the edge. Built using Remix running on Cloudflare Workers. ](https://github.com/petermekhaeil/remix-commerce)
