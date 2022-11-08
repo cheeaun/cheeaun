@@ -40,7 +40,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [simonw/playing-with-github-pages - Trying things out with GitHub Pages](https://github.com/simonw/playing-with-github-pages)
 - [bufbuild/protobuf-es - Protocol Buffers for ECMAScript.](https://github.com/bufbuild/protobuf-es)
 - [mifi/editly - Slick, declarative command line video editing & API](https://github.com/mifi/editly)
-- [thevahidal/soul - A SQLite REST and realtime server](https://github.com/thevahidal/soul)
+- [thevahidal/soul - 🕉 A SQLite REST and realtime server](https://github.com/thevahidal/soul)
 - [simeydotme/pokemon-cards-css - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.](https://github.com/simeydotme/pokemon-cards-css)
 <!-- starred repos end -->
 
