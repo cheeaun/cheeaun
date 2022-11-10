@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [timhutton/twitter-archive-parser - Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
 - [renatolond/mastodon-twitter-poster - Crossposter to post statuses between Mastodon and Twitter](https://github.com/renatolond/mastodon-twitter-poster)
 - [natemoo-re/micromorph - A very tiny library for diffing DOM nodes](https://github.com/natemoo-re/micromorph)
 - [CloudCannon/pagefind - Static low-bandwidth search at scale](https://github.com/CloudCannon/pagefind)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [simonw/playing-with-github-pages - Trying things out with GitHub Pages](https://github.com/simonw/playing-with-github-pages)
 - [bufbuild/protobuf-es - Protocol Buffers for ECMAScript.](https://github.com/bufbuild/protobuf-es)
 - [mifi/editly - Slick, declarative command line video editing & API](https://github.com/mifi/editly)
-- [thevahidal/soul - 🕉 A SQLite REST and realtime server](https://github.com/thevahidal/soul)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
