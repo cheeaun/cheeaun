@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fathyb/html2svg - Convert HTML and `<canvas>` to SVG using Chromium](https://github.com/fathyb/html2svg)
 - [klausi/mastodon-twitter-sync - Synchronizes posts from Mastodon to Twitter and back](https://github.com/klausi/mastodon-twitter-sync)
 - [timhutton/twitter-archive-parser - Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
 - [renatolond/mastodon-twitter-poster - Crossposter to post statuses between Mastodon and Twitter](https://github.com/renatolond/mastodon-twitter-poster)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [kellyjonbrazil/jc - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.](https://github.com/kellyjonbrazil/jc)
 - [cidcom/SatelliteCloudGenerator - A PyTorch-based tool to generate clouds for satellite images.](https://github.com/cidcom/SatelliteCloudGenerator)
 - [simonw/playing-with-github-pages - Trying things out with GitHub Pages](https://github.com/simonw/playing-with-github-pages)
-- [bufbuild/protobuf-es - Protocol Buffers for ECMAScript.](https://github.com/bufbuild/protobuf-es)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
