@@ -27,7 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [fathyb/html2svg - Convert HTML and `<canvas>` to SVG using Chromium](https://github.com/fathyb/html2svg)
+- [fathyb/html2svg - Convert HTML and `<canvas>` to SVG and PDF using Chromium](https://github.com/fathyb/html2svg)
 - [klausi/mastodon-twitter-sync - Synchronizes posts from Mastodon to Twitter and back](https://github.com/klausi/mastodon-twitter-sync)
 - [timhutton/twitter-archive-parser - Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
 - [renatolond/mastodon-twitter-poster - Crossposter to post statuses between Mastodon and Twitter](https://github.com/renatolond/mastodon-twitter-poster)
