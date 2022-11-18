@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nolanlawson/pinafore - Alternative web client for Mastodon](https://github.com/nolanlawson/pinafore)
+- [panva/oauth4webapi - OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes](https://github.com/panva/oauth4webapi)
 - [abhagsain/ai-cli - Get answers for CLI commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
 - [neet/masto.js - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers](https://github.com/neet/masto.js)
 - [mfranzke/datalist-polyfill - Minimal and dependency-free vanilla JavaScript polyfill for the awesome datalist-functionality](https://github.com/mfranzke/datalist-polyfill)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [4lejandrito/creepyface - The JavaScript library that makes your face look at the pointer. 🤪🖱️👆](https://github.com/4lejandrito/creepyface)
 - [devongovett/parcel-vs-vite-vs-turbopack-hmr - Benchmarking Parcel vs. Vite vs. Turbopack HMR performance](https://github.com/devongovett/parcel-vs-vite-vs-turbopack-hmr)
 - [petermekhaeil/remix-commerce - Performant e-commerce that runs on the edge. Built using Remix running on Cloudflare Workers. ](https://github.com/petermekhaeil/remix-commerce)
-- [hackclub/sprig - 🍃 Learn to code by making games in a JavaScript web-based game editor.](https://github.com/hackclub/sprig)
-- [soulverteam/SoulverCore - A powerful Swift framework for evaluating mathematical expressions](https://github.com/soulverteam/SoulverCore)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
