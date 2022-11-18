@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [abhagsain/ai-cli - Get answers for CLI commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
 - [neet/masto.js - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers](https://github.com/neet/masto.js)
 - [mfranzke/datalist-polyfill - Minimal and dependency-free vanilla JavaScript polyfill for the awesome datalist-functionality](https://github.com/mfranzke/datalist-polyfill)
 - [fathyb/html2svg - Convert HTML and `<canvas>` to SVG and PDF using Chromium](https://github.com/fathyb/html2svg)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [petermekhaeil/remix-commerce - Performant e-commerce that runs on the edge. Built using Remix running on Cloudflare Workers. ](https://github.com/petermekhaeil/remix-commerce)
 - [hackclub/sprig - 🍃 Learn to code by making games in a JavaScript web-based game editor.](https://github.com/hackclub/sprig)
 - [soulverteam/SoulverCore - A powerful Swift framework for evaluating mathematical expressions](https://github.com/soulverteam/SoulverCore)
-- [kellyjonbrazil/jc - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.](https://github.com/kellyjonbrazil/jc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
