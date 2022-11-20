@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [notpresident35/awesome-learn-gamedev - A curated collection of game development learning resources](https://github.com/notpresident35/awesome-learn-gamedev)
 - [cloudsecurityalliance/webfinger-cloudflare-worker - webfinger-cloudflare-worker](https://github.com/cloudsecurityalliance/webfinger-cloudflare-worker)
 - [nolanlawson/pinafore - Alternative web client for Mastodon](https://github.com/nolanlawson/pinafore)
 - [panva/oauth4webapi - OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes](https://github.com/panva/oauth4webapi)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [CloudCannon/pagefind - Static low-bandwidth search at scale](https://github.com/CloudCannon/pagefind)
 - [jj811208/watching-you - watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://github.com/jj811208/watching-you)
 - [4lejandrito/creepyface - The JavaScript library that makes your face look at the pointer. 🤪🖱️👆](https://github.com/4lejandrito/creepyface)
-- [devongovett/parcel-vs-vite-vs-turbopack-hmr - Benchmarking Parcel vs. Vite vs. Turbopack HMR performance](https://github.com/devongovett/parcel-vs-vite-vs-turbopack-hmr)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
