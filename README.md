@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ualsg/Visual-soundscapes - Sensing soundscapes from street view imagery](https://github.com/ualsg/Visual-soundscapes)
+- [jonschlinkert/maintainers-guide-to-staying-positive - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 - [nagix/japan-eq-locator - An earthquake epicenter map of Japan](https://github.com/nagix/japan-eq-locator)
 - [notpresident35/awesome-learn-gamedev - A curated collection of game development learning resources](https://github.com/notpresident35/awesome-learn-gamedev)
 - [cloudsecurityalliance/webfinger-cloudflare-worker - webfinger-cloudflare-worker](https://github.com/cloudsecurityalliance/webfinger-cloudflare-worker)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [timhutton/twitter-archive-parser - Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
 - [renatolond/mastodon-twitter-poster - Crossposter to post statuses between Mastodon and Twitter](https://github.com/renatolond/mastodon-twitter-poster)
 - [natemoo-re/micromorph - A very tiny library for diffing DOM nodes](https://github.com/natemoo-re/micromorph)
-- [CloudCannon/pagefind - Static low-bandwidth search at scale](https://github.com/CloudCannon/pagefind)
-- [jj811208/watching-you - watching-you is a javascript library for building animations that watch anything on DOM 👀.](https://github.com/jj811208/watching-you)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
