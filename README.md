@@ -29,7 +29,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 <!-- starred repos start -->
 - [ualsg/Visual-soundscapes - Sensing soundscapes from street view imagery](https://github.com/ualsg/Visual-soundscapes)
 - [jonschlinkert/maintainers-guide-to-staying-positive - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
-- [nagix/japan-eq-locator - An earthquake epicenter map of Japan](https://github.com/nagix/japan-eq-locator)
+- [nagix/japan-eq-locator - An earthquake hypocenter map of Japan](https://github.com/nagix/japan-eq-locator)
 - [notpresident35/awesome-learn-gamedev - A curated collection of game development learning resources](https://github.com/notpresident35/awesome-learn-gamedev)
 - [cloudsecurityalliance/webfinger-cloudflare-worker - webfinger-cloudflare-worker](https://github.com/cloudsecurityalliance/webfinger-cloudflare-worker)
 - [nolanlawson/pinafore - Alternative web client for Mastodon](https://github.com/nolanlawson/pinafore)
