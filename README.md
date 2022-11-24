@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TechSupportz/transito-flutter - A bus timing application to view your bus arrival timings in Singapore swiftly. Built using Flutter with a Firestore database](https://github.com/TechSupportz/transito-flutter)
 - [Stability-AI/stablediffusion - High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/Stability-AI/stablediffusion)
 - [niutech/jxl.js - JPEG XL decoder in JavaScript using WebAssembly (WASM)](https://github.com/niutech/jxl.js)
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [abhagsain/ai-cli - Get answers for CLI commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
 - [neet/masto.js - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers](https://github.com/neet/masto.js)
 - [mfranzke/datalist-polyfill - Minimal and dependency-free vanilla JavaScript polyfill for the awesome datalist-functionality](https://github.com/mfranzke/datalist-polyfill)
-- [fathyb/html2svg - Convert HTML and `<canvas>` to SVG and PDF using Chromium](https://github.com/fathyb/html2svg)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
