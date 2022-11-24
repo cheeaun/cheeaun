@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Stability-AI/stablediffusion - High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/Stability-AI/stablediffusion)
 - [niutech/jxl.js - JPEG XL decoder in JavaScript using WebAssembly (WASM)](https://github.com/niutech/jxl.js)
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 - [tweetback/tweetback-canonical - A package to resolve twitter URLs to new canonically hosted twitter backups](https://github.com/tweetback/tweetback-canonical)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [neet/masto.js - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers](https://github.com/neet/masto.js)
 - [mfranzke/datalist-polyfill - Minimal and dependency-free vanilla JavaScript polyfill for the awesome datalist-functionality](https://github.com/mfranzke/datalist-polyfill)
 - [fathyb/html2svg - Convert HTML and `<canvas>` to SVG and PDF using Chromium](https://github.com/fathyb/html2svg)
-- [klausi/mastodon-twitter-sync - Synchronizes posts from Mastodon to Twitter and back](https://github.com/klausi/mastodon-twitter-sync)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
