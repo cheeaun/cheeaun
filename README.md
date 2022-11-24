@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [i18next/i18next-v4-format-converter - This package helps to convert old i18next translation resources to the new i18next v4 json format.](https://github.com/i18next/i18next-v4-format-converter)
 - [TechSupportz/transito-flutter - A bus timing application to view your bus arrival timings in Singapore swiftly. Built using Flutter with a Firestore database](https://github.com/TechSupportz/transito-flutter)
 - [Stability-AI/stablediffusion - High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/Stability-AI/stablediffusion)
 - [niutech/jxl.js - JPEG XL decoder in JavaScript using WebAssembly (WASM)](https://github.com/niutech/jxl.js)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [panva/oauth4webapi - OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes](https://github.com/panva/oauth4webapi)
 - [abhagsain/ai-cli - Get answers for CLI commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli)
 - [neet/masto.js - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers](https://github.com/neet/masto.js)
-- [mfranzke/datalist-polyfill - Minimal and dependency-free vanilla JavaScript polyfill for the awesome datalist-functionality](https://github.com/mfranzke/datalist-polyfill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
