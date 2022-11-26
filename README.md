@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [toddsundsted/ktistec - Single user ActivityPub (https://www.w3.org/TR/activitypub/) server.](https://github.com/toddsundsted/ktistec)
 - [ataber/mesh-simplify - Surface Simplification via Quadric Error Metrics](https://github.com/ataber/mesh-simplify)
 - [tukuyo/AirPodsPro-Motion-Sampler - This project is a sample to get the motion sensor values of the AirPods Pro(1st or 2nd gen) / AirPods Max / AirPods(3rd gen) or Beats Fit Pro.](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)
 - [i18next/i18next-v4-format-converter - This package helps to convert old i18next translation resources to the new i18next v4 json format.](https://github.com/i18next/i18next-v4-format-converter)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [notpresident35/awesome-learn-gamedev - A curated collection of game development learning resources](https://github.com/notpresident35/awesome-learn-gamedev)
 - [cloudsecurityalliance/webfinger-cloudflare-worker - webfinger-cloudflare-worker](https://github.com/cloudsecurityalliance/webfinger-cloudflare-worker)
 - [nolanlawson/pinafore - Alternative web client for Mastodon](https://github.com/nolanlawson/pinafore)
-- [panva/oauth4webapi - OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes](https://github.com/panva/oauth4webapi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
