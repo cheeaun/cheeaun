@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fterh/sneakpeek - Reddit bot to preview and post hyperlinks as comments](https://github.com/fterh/sneakpeek)
 - [toddsundsted/ktistec - Single user ActivityPub (https://www.w3.org/TR/activitypub/) server.](https://github.com/toddsundsted/ktistec)
 - [ataber/mesh-simplify - Surface Simplification via Quadric Error Metrics](https://github.com/ataber/mesh-simplify)
 - [tukuyo/AirPodsPro-Motion-Sampler - This project is a sample to get the motion sensor values of the AirPods Pro(1st or 2nd gen) / AirPods Max / AirPods(3rd gen) or Beats Fit Pro.](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [nagix/japan-eq-locator - An earthquake hypocenter map of Japan](https://github.com/nagix/japan-eq-locator)
 - [notpresident35/awesome-learn-gamedev - A curated collection of game development learning resources](https://github.com/notpresident35/awesome-learn-gamedev)
 - [cloudsecurityalliance/webfinger-cloudflare-worker - webfinger-cloudflare-worker](https://github.com/cloudsecurityalliance/webfinger-cloudflare-worker)
-- [nolanlawson/pinafore - Alternative web client for Mastodon](https://github.com/nolanlawson/pinafore)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
