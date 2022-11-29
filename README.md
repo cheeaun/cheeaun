@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill)
 - [fterh/sneakpeek - Reddit bot to preview and post hyperlinks as comments](https://github.com/fterh/sneakpeek)
 - [toddsundsted/ktistec - Single user ActivityPub (https://www.w3.org/TR/activitypub/) server.](https://github.com/toddsundsted/ktistec)
 - [ataber/mesh-simplify - Surface Simplification via Quadric Error Metrics](https://github.com/ataber/mesh-simplify)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jonschlinkert/maintainers-guide-to-staying-positive - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 - [nagix/japan-eq-locator - An earthquake hypocenter map of Japan](https://github.com/nagix/japan-eq-locator)
 - [notpresident35/awesome-learn-gamedev - A curated collection of game development learning resources](https://github.com/notpresident35/awesome-learn-gamedev)
-- [cloudsecurityalliance/webfinger-cloudflare-worker - webfinger-cloudflare-worker](https://github.com/cloudsecurityalliance/webfinger-cloudflare-worker)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
