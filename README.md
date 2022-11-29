@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JamieMason/blurhash-to-css - Convert BlurHashes to CSS Objects using TypeScript, Rust, and WebAssembly.](https://github.com/JamieMason/blurhash-to-css)
 - [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill)
 - [fterh/sneakpeek - Reddit bot to preview and post hyperlinks as comments](https://github.com/fterh/sneakpeek)
 - [toddsundsted/ktistec - Single user ActivityPub (https://www.w3.org/TR/activitypub/) server.](https://github.com/toddsundsted/ktistec)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [ualsg/Visual-soundscapes - Sensing soundscapes from street view imagery](https://github.com/ualsg/Visual-soundscapes)
 - [jonschlinkert/maintainers-guide-to-staying-positive - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 - [nagix/japan-eq-locator - An earthquake hypocenter map of Japan](https://github.com/nagix/japan-eq-locator)
-- [notpresident35/awesome-learn-gamedev - A curated collection of game development learning resources](https://github.com/notpresident35/awesome-learn-gamedev)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
