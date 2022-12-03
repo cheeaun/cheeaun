@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zurb/tribute - ES6 Native @mentions](https://github.com/zurb/tribute)
 - [apple/ml-stable-diffusion - Stable Diffusion with Core ML on Apple Silicon](https://github.com/apple/ml-stable-diffusion)
 - [JamieMason/blurhash-to-css - Convert BlurHashes to CSS Objects using TypeScript, Rust, and WebAssembly.](https://github.com/JamieMason/blurhash-to-css)
 - [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 - [tweetback/tweetback-canonical - A package to resolve twitter URLs to new canonically hosted twitter backups](https://github.com/tweetback/tweetback-canonical)
 - [ualsg/Visual-soundscapes - Sensing soundscapes from street view imagery](https://github.com/ualsg/Visual-soundscapes)
-- [jonschlinkert/maintainers-guide-to-staying-positive - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
