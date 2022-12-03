@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jacobbuck/react-use-keypress - :point_down: React hook which listens for pressed keys.](https://github.com/jacobbuck/react-use-keypress)
 - [zurb/tribute - ES6 Native @mentions](https://github.com/zurb/tribute)
 - [apple/ml-stable-diffusion - Stable Diffusion with Core ML on Apple Silicon](https://github.com/apple/ml-stable-diffusion)
 - [JamieMason/blurhash-to-css - Convert BlurHashes to CSS Objects using TypeScript, Rust, and WebAssembly.](https://github.com/JamieMason/blurhash-to-css)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [niutech/jxl.js - JPEG XL decoder in JavaScript using WebAssembly (WASM)](https://github.com/niutech/jxl.js)
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 - [tweetback/tweetback-canonical - A package to resolve twitter URLs to new canonically hosted twitter backups](https://github.com/tweetback/tweetback-canonical)
-- [ualsg/Visual-soundscapes - Sensing soundscapes from street view imagery](https://github.com/ualsg/Visual-soundscapes)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
