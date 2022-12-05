@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [github/details-menu-element - A menu opened with <details>.](https://github.com/github/details-menu-element)
+- [github/text-expander-element - Activates a suggestion menu to expand text snippets as you type.](https://github.com/github/text-expander-element)
+- [github/auto-complete-element - Auto-complete input values from server search results.](https://github.com/github/auto-complete-element)
 - [jacobbuck/react-use-keypress - :point_down: React hook which listens for pressed keys.](https://github.com/jacobbuck/react-use-keypress)
 - [zurb/tribute - ES6 Native @mentions](https://github.com/zurb/tribute)
 - [apple/ml-stable-diffusion - Stable Diffusion with Core ML on Apple Silicon](https://github.com/apple/ml-stable-diffusion)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [i18next/i18next-v4-format-converter - This package helps to convert old i18next translation resources to the new i18next v4 json format.](https://github.com/i18next/i18next-v4-format-converter)
 - [TechSupportz/transito-flutter - A bus timing application to view your bus arrival timings in Singapore swiftly. Built using Flutter with a Firestore database](https://github.com/TechSupportz/transito-flutter)
 - [Stability-AI/stablediffusion - High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/Stability-AI/stablediffusion)
-- [niutech/jxl.js - JPEG XL decoder in JavaScript using WebAssembly (WASM)](https://github.com/niutech/jxl.js)
-- [trungdq88/Awesome-Black-Friday-Cyber-Monday - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
-- [tweetback/tweetback-canonical - A package to resolve twitter URLs to new canonically hosted twitter backups](https://github.com/tweetback/tweetback-canonical)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
