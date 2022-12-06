@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jackmoore/autosize - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.](https://github.com/jackmoore/autosize)
+- [dudyn5ky1/select-pure - 🎉 Custom JavaScript <select> component. Easy-to-use, accessible, mobile friendly and super efficient.](https://github.com/dudyn5ky1/select-pure)
 - [github/details-menu-element - A menu opened with <details>.](https://github.com/github/details-menu-element)
 - [github/text-expander-element - Activates a suggestion menu to expand text snippets as you type.](https://github.com/github/text-expander-element)
 - [github/auto-complete-element - Auto-complete input values from server search results.](https://github.com/github/auto-complete-element)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [ataber/mesh-simplify - Surface Simplification via Quadric Error Metrics](https://github.com/ataber/mesh-simplify)
 - [tukuyo/AirPodsPro-Motion-Sampler - This project is a sample to get the motion sensor values of the AirPods Pro(1st or 2nd gen) / AirPods Max / AirPods(3rd gen) or Beats Fit Pro.](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)
 - [i18next/i18next-v4-format-converter - This package helps to convert old i18next translation resources to the new i18next v4 json format.](https://github.com/i18next/i18next-v4-format-converter)
-- [TechSupportz/transito-flutter - A bus timing application to view your bus arrival timings in Singapore swiftly. Built using Flutter with a Firestore database](https://github.com/TechSupportz/transito-flutter)
-- [Stability-AI/stablediffusion - High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/Stability-AI/stablediffusion)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
