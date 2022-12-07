@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [insidegui/NoiseBuddy - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.](https://github.com/insidegui/NoiseBuddy)
+- [insidegui/DarkModeBuddy - Switch your Mac's system theme based on the ambient light intensity.](https://github.com/insidegui/DarkModeBuddy)
 - [jackmoore/autosize - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.](https://github.com/jackmoore/autosize)
 - [dudyn5ky1/select-pure - 🎉 Custom JavaScript <select> component. Easy-to-use, accessible, mobile friendly and super efficient.](https://github.com/dudyn5ky1/select-pure)
 - [github/details-menu-element - A menu opened with <details>.](https://github.com/github/details-menu-element)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [fterh/sneakpeek - Reddit bot to preview and post hyperlinks as comments](https://github.com/fterh/sneakpeek)
 - [toddsundsted/ktistec - Single user ActivityPub (https://www.w3.org/TR/activitypub/) server.](https://github.com/toddsundsted/ktistec)
 - [ataber/mesh-simplify - Surface Simplification via Quadric Error Metrics](https://github.com/ataber/mesh-simplify)
-- [tukuyo/AirPodsPro-Motion-Sampler - This project is a sample to get the motion sensor values of the AirPods Pro(1st or 2nd gen) / AirPods Max / AirPods(3rd gen) or Beats Fit Pro.](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)
-- [i18next/i18next-v4-format-converter - This package helps to convert old i18next translation resources to the new i18next v4 json format.](https://github.com/i18next/i18next-v4-format-converter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
