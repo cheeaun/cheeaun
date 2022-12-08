@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [joyeusenoelle/GuideToMastodon - An increasingly less-brief guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
+- [tleb/awesome-mastodon - Curated list of awesome Mastodon-related stuff!](https://github.com/tleb/awesome-mastodon)
 - [LBrian/content-visibility - Web Component uses CSS content-visibility and fallback Intersection Observer](https://github.com/LBrian/content-visibility)
 - [inokawa/rich-textarea - A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.](https://github.com/inokawa/rich-textarea)
 - [insidegui/NoiseBuddy - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.](https://github.com/insidegui/NoiseBuddy)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [zurb/tribute - ES6 Native @mentions](https://github.com/zurb/tribute)
 - [apple/ml-stable-diffusion - Stable Diffusion with Core ML on Apple Silicon](https://github.com/apple/ml-stable-diffusion)
 - [JamieMason/blurhash-to-css - Convert BlurHashes to CSS Objects using TypeScript, Rust, and WebAssembly.](https://github.com/JamieMason/blurhash-to-css)
-- [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill)
-- [fterh/sneakpeek - Reddit bot to preview and post hyperlinks as comments](https://github.com/fterh/sneakpeek)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
