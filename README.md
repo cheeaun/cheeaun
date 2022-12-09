@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ehmicky/string-byte-length - Get the UTF-8 byte length of a string.](https://github.com/ehmicky/string-byte-length)
 - [joyeusenoelle/GuideToMastodon - An increasingly less-brief guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
 - [tleb/awesome-mastodon - Curated list of awesome Mastodon-related stuff!](https://github.com/tleb/awesome-mastodon)
 - [LBrian/content-visibility - Web Component uses CSS content-visibility and fallback Intersection Observer](https://github.com/LBrian/content-visibility)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jacobbuck/react-use-keypress - :point_down: React hook which listens for pressed keys.](https://github.com/jacobbuck/react-use-keypress)
 - [zurb/tribute - ES6 Native @mentions](https://github.com/zurb/tribute)
 - [apple/ml-stable-diffusion - Stable Diffusion with Core ML on Apple Silicon](https://github.com/apple/ml-stable-diffusion)
-- [JamieMason/blurhash-to-css - Convert BlurHashes to CSS Objects using TypeScript, Rust, and WebAssembly.](https://github.com/JamieMason/blurhash-to-css)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
