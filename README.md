@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LemmyNet/lemmy - 🐀 A link aggregator and forum for the fediverse](https://github.com/LemmyNet/lemmy)
 - [sindresorhus/string-length - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes](https://github.com/sindresorhus/string-length)
 - [flmnt/graphemer - Unicode character splitter](https://github.com/flmnt/graphemer)
 - [ehmicky/string-byte-length - Get the UTF-8 byte length of a string.](https://github.com/ehmicky/string-byte-length)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [github/details-menu-element - A menu opened with <details>.](https://github.com/github/details-menu-element)
 - [github/text-expander-element - Activates a suggestion menu to expand text snippets as you type.](https://github.com/github/text-expander-element)
 - [github/auto-complete-element - Auto-complete input values from server search results.](https://github.com/github/auto-complete-element)
-- [jacobbuck/react-use-keypress - :point_down: React hook which listens for pressed keys.](https://github.com/jacobbuck/react-use-keypress)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
