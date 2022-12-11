@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tnwinc/htmldiff.js - Diff algorithm that understands HTML, in the browser.](https://github.com/tnwinc/htmldiff.js)
+- [Teamwork/visual-dom-diff - Highlight differences between two DOM trees.](https://github.com/Teamwork/visual-dom-diff)
 - [LemmyNet/lemmy - 🐀 A link aggregator and forum for the fediverse](https://github.com/LemmyNet/lemmy)
 - [sindresorhus/string-length - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes](https://github.com/sindresorhus/string-length)
 - [flmnt/graphemer - Unicode character splitter](https://github.com/flmnt/graphemer)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jackmoore/autosize - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.](https://github.com/jackmoore/autosize)
 - [dudyn5ky1/select-pure - 🎉 Custom JavaScript <select> component. Easy-to-use, accessible, mobile friendly and super efficient.](https://github.com/dudyn5ky1/select-pure)
 - [github/details-menu-element - A menu opened with <details>.](https://github.com/github/details-menu-element)
-- [github/text-expander-element - Activates a suggestion menu to expand text snippets as you type.](https://github.com/github/text-expander-element)
-- [github/auto-complete-element - Auto-complete input values from server search results.](https://github.com/github/auto-complete-element)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
