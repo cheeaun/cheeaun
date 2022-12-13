@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sonnylazuardi/chatgpt-desktop - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust](https://github.com/sonnylazuardi/chatgpt-desktop)
 - [BDX-town/Mangane - Alternative frontend for Akkoma](https://github.com/BDX-town/Mangane)
 - [tnwinc/htmldiff.js - Diff algorithm that understands HTML, in the browser.](https://github.com/tnwinc/htmldiff.js)
 - [Teamwork/visual-dom-diff - Highlight differences between two DOM trees.](https://github.com/Teamwork/visual-dom-diff)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [insidegui/NoiseBuddy - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.](https://github.com/insidegui/NoiseBuddy)
 - [insidegui/DarkModeBuddy - Switch your Mac's system theme based on the ambient light intensity.](https://github.com/insidegui/DarkModeBuddy)
 - [jackmoore/autosize - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.](https://github.com/jackmoore/autosize)
-- [dudyn5ky1/select-pure - 🎉 Custom JavaScript <select> component. Easy-to-use, accessible, mobile friendly and super efficient.](https://github.com/dudyn5ky1/select-pure)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
