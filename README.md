@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zhenyi/black-ranger - Safari extension that "summons the Mastodon".](https://github.com/zhenyi/black-ranger)
 - [silentroach/tweet.md - Render tweet into beautiful markdown](https://github.com/silentroach/tweet.md)
 - [silentroach/twitter-regexps - Twitter precompiled regexps](https://github.com/silentroach/twitter-regexps)
 - [sonnylazuardi/chatgpt-desktop - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust](https://github.com/sonnylazuardi/chatgpt-desktop)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [tleb/awesome-mastodon - Curated list of awesome Mastodon-related stuff!](https://github.com/tleb/awesome-mastodon)
 - [LBrian/content-visibility - Web Component uses CSS content-visibility and fallback Intersection Observer](https://github.com/LBrian/content-visibility)
 - [inokawa/rich-textarea - A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.](https://github.com/inokawa/rich-textarea)
-- [insidegui/NoiseBuddy - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.](https://github.com/insidegui/NoiseBuddy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
