@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [silentroach/tweet.md - Render tweet into beautiful markdown](https://github.com/silentroach/tweet.md)
+- [silentroach/twitter-regexps - Twitter precompiled regexps](https://github.com/silentroach/twitter-regexps)
 - [sonnylazuardi/chatgpt-desktop - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust](https://github.com/sonnylazuardi/chatgpt-desktop)
 - [BDX-town/Mangane - Alternative frontend for Akkoma](https://github.com/BDX-town/Mangane)
 - [tnwinc/htmldiff.js - Diff algorithm that understands HTML, in the browser.](https://github.com/tnwinc/htmldiff.js)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [LBrian/content-visibility - Web Component uses CSS content-visibility and fallback Intersection Observer](https://github.com/LBrian/content-visibility)
 - [inokawa/rich-textarea - A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.](https://github.com/inokawa/rich-textarea)
 - [insidegui/NoiseBuddy - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.](https://github.com/insidegui/NoiseBuddy)
-- [insidegui/DarkModeBuddy - Switch your Mac's system theme based on the ambient light intensity.](https://github.com/insidegui/DarkModeBuddy)
-- [jackmoore/autosize - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.](https://github.com/jackmoore/autosize)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
