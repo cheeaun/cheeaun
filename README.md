@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google/forma - An efficient vector-graphics renderer](https://github.com/google/forma)
 - [yowainwright/shave - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁](https://github.com/yowainwright/shave)
 - [willymaps/sveltemapscroll - Mapbox scrollytelling example using Svelte](https://github.com/willymaps/sveltemapscroll)
 - [zhenyi/black-ranger - Safari extension that "summons the Mastodon".](https://github.com/zhenyi/black-ranger)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [flmnt/graphemer - Unicode character splitter](https://github.com/flmnt/graphemer)
 - [ehmicky/string-byte-length - Get the UTF-8 byte length of a string.](https://github.com/ehmicky/string-byte-length)
 - [joyeusenoelle/GuideToMastodon - An increasingly less-brief guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
-- [tleb/awesome-mastodon - Curated list of awesome Mastodon-related stuff!](https://github.com/tleb/awesome-mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
