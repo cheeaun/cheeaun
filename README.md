@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dariusk/twitter-archiver - Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
 - [smallsco/macstodon - A basic Mastodon client for Classic Mac OS](https://github.com/smallsco/macstodon)
 - [slightlyoff/share-button - A web component for sharing on infrequently.org](https://github.com/slightlyoff/share-button)
 - [junhoyeo/iphone - 🏝️ iPhone 14 Pro with dynamic island, on the web.](https://github.com/junhoyeo/iphone)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [BDX-town/Mangane - Alternative frontend for Akkoma](https://github.com/BDX-town/Mangane)
 - [tnwinc/htmldiff.js - Diff algorithm that understands HTML, in the browser.](https://github.com/tnwinc/htmldiff.js)
 - [Teamwork/visual-dom-diff - Highlight differences between two DOM trees.](https://github.com/Teamwork/visual-dom-diff)
-- [LemmyNet/lemmy - 🐀 A link aggregator and forum for the fediverse](https://github.com/LemmyNet/lemmy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
