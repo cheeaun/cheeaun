@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [slightlyoff/share-button - A web component for sharing on infrequently.org](https://github.com/slightlyoff/share-button)
 - [junhoyeo/iphone - 🏝️ iPhone 14 Pro with dynamic island, on the web.](https://github.com/junhoyeo/iphone)
 - [Richard9394/MingCute - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.](https://github.com/Richard9394/MingCute)
 - [google/forma - An efficient vector-graphics renderer](https://github.com/google/forma)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [Teamwork/visual-dom-diff - Highlight differences between two DOM trees.](https://github.com/Teamwork/visual-dom-diff)
 - [LemmyNet/lemmy - 🐀 A link aggregator and forum for the fediverse](https://github.com/LemmyNet/lemmy)
 - [sindresorhus/string-length - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes](https://github.com/sindresorhus/string-length)
-- [flmnt/graphemer - Unicode character splitter](https://github.com/flmnt/graphemer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
