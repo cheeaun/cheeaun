@@ -28,7 +28,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 
 <!-- starred repos start -->
 - [godly-devotion/mochi-diffusion - Run Stable Diffusion on Apple Silicon Macs natively](https://github.com/godly-devotion/mochi-diffusion)
-- [elk-zone/elk-desktop - Elk + Tauri FTW](https://github.com/elk-zone/elk-desktop)
+- [elk-zone/elk-native - Elk + Tauri FTW](https://github.com/elk-zone/elk-native)
 - [pixelfed/pixelfed - Photo Sharing. For Everyone.](https://github.com/pixelfed/pixelfed)
 - [marcbouchenoire/symbolist - 🔣 A collection of every symbol from SF Symbols.](https://github.com/marcbouchenoire/symbolist)
 - [hemanth/awesome-pwa - Awesome list of progressive web apps! (PR welcomed ;))](https://github.com/hemanth/awesome-pwa)
