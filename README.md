@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [godly-devotion/mochi-diffusion - Run Stable Diffusion on Apple Silicon Macs natively](https://github.com/godly-devotion/mochi-diffusion)
+- [elk-zone/elk-desktop - Elk + Tauri FTW](https://github.com/elk-zone/elk-desktop)
+- [pixelfed/pixelfed - Photo Sharing. For Everyone.](https://github.com/pixelfed/pixelfed)
 - [marcbouchenoire/symbolist - 🔣 A collection of every symbol from SF Symbols.](https://github.com/marcbouchenoire/symbolist)
 - [hemanth/awesome-pwa - Awesome list of progressive web apps! (PR welcomed ;))](https://github.com/hemanth/awesome-pwa)
 - [histoire-dev/histoire - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite ](https://github.com/histoire-dev/histoire)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [google/forma - An efficient vector-graphics renderer](https://github.com/google/forma)
 - [yowainwright/shave - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁](https://github.com/yowainwright/shave)
 - [willymaps/sveltemapscroll - Mapbox scrollytelling example using Svelte](https://github.com/willymaps/sveltemapscroll)
-- [zhenyi/black-ranger - Safari extension that "summons the Mastodon".](https://github.com/zhenyi/black-ranger)
-- [silentroach/tweet.md - Render tweet into beautiful markdown](https://github.com/silentroach/tweet.md)
-- [silentroach/twitter-regexps - Twitter precompiled regexps](https://github.com/silentroach/twitter-regexps)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
