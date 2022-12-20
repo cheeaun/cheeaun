@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [marcbouchenoire/symbolist - 🔣 A collection of every symbol from SF Symbols.](https://github.com/marcbouchenoire/symbolist)
 - [hemanth/awesome-pwa - Awesome list of progressive web apps! (PR welcomed ;))](https://github.com/hemanth/awesome-pwa)
 - [histoire-dev/histoire - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite ](https://github.com/histoire-dev/histoire)
 - [remotion-dev/github-unwrapped-2022 - Your coding year in review #GitHubUnwrapped](https://github.com/remotion-dev/github-unwrapped-2022)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [zhenyi/black-ranger - Safari extension that "summons the Mastodon".](https://github.com/zhenyi/black-ranger)
 - [silentroach/tweet.md - Render tweet into beautiful markdown](https://github.com/silentroach/tweet.md)
 - [silentroach/twitter-regexps - Twitter precompiled regexps](https://github.com/silentroach/twitter-regexps)
-- [sonnylazuardi/chatgpt-desktop - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust](https://github.com/sonnylazuardi/chatgpt-desktop)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
