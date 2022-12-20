@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [hemanth/awesome-pwa - Awesome list of progressive web apps! (PR welcomed ;))](https://github.com/hemanth/awesome-pwa)
 - [histoire-dev/histoire - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite ](https://github.com/histoire-dev/histoire)
 - [remotion-dev/github-unwrapped-2022 - Your coding year in review #GitHubUnwrapped](https://github.com/remotion-dev/github-unwrapped-2022)
 - [dariusk/twitter-archiver - Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [silentroach/tweet.md - Render tweet into beautiful markdown](https://github.com/silentroach/tweet.md)
 - [silentroach/twitter-regexps - Twitter precompiled regexps](https://github.com/silentroach/twitter-regexps)
 - [sonnylazuardi/chatgpt-desktop - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust](https://github.com/sonnylazuardi/chatgpt-desktop)
-- [BDX-town/Mangane - Alternative frontend for Akkoma](https://github.com/BDX-town/Mangane)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
