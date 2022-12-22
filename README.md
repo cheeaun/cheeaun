@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dequelabs/axe-core - Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 - [jointakahe/takahe - An ActivityPub/Fediverse server](https://github.com/jointakahe/takahe)
 - [superseriousbusiness/gotosocial - **ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.](https://github.com/superseriousbusiness/gotosocial)
 - [f5/unovis - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript](https://github.com/f5/unovis)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [hemanth/awesome-pwa - Awesome list of progressive web apps! (PR welcomed ;))](https://github.com/hemanth/awesome-pwa)
 - [histoire-dev/histoire - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite ](https://github.com/histoire-dev/histoire)
 - [remotion-dev/github-unwrapped-2022 - Your coding year in review #GitHubUnwrapped](https://github.com/remotion-dev/github-unwrapped-2022)
-- [dariusk/twitter-archiver - Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
