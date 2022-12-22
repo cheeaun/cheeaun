@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jointakahe/takahe - An ActivityPub/Fediverse server](https://github.com/jointakahe/takahe)
+- [superseriousbusiness/gotosocial - **ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.](https://github.com/superseriousbusiness/gotosocial)
+- [f5/unovis - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript](https://github.com/f5/unovis)
 - [farzher/fuzzysort - Fast SublimeText-like fuzzy search for JavaScript.](https://github.com/farzher/fuzzysort)
 - [nicoespeon/gitgraph.js - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser](https://github.com/nicoespeon/gitgraph.js)
 - [jnsmalm/pixi3d - The 3D renderer for PixiJS. Seamless integration with 2D applications.](https://github.com/jnsmalm/pixi3d)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [histoire-dev/histoire - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite ](https://github.com/histoire-dev/histoire)
 - [remotion-dev/github-unwrapped-2022 - Your coding year in review #GitHubUnwrapped](https://github.com/remotion-dev/github-unwrapped-2022)
 - [dariusk/twitter-archiver - Make your own simple, public, searchable Twitter archive](https://github.com/dariusk/twitter-archiver)
-- [smallsco/macstodon - A basic Mastodon client for Classic Mac OS](https://github.com/smallsco/macstodon)
-- [slightlyoff/share-button - A web component for sharing on infrequently.org](https://github.com/slightlyoff/share-button)
-- [junhoyeo/iphone - 🏝️ iPhone 14 Pro with dynamic island, on the web.](https://github.com/junhoyeo/iphone)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
