@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Lartsch/FediAct - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own. ](https://github.com/Lartsch/FediAct)
 - [motiz88/react-native-midi - [WIP] Web MIDI implementation for React Native using Expo Modules](https://github.com/motiz88/react-native-midi)
 - [HYPD/flow-typeface - Flow is a font made for abstracting content and code used in design work, presentations, and websites.](https://github.com/HYPD/flow-typeface)
 - [dequelabs/axe-core - Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [elk-zone/elk-native - Elk + Tauri FTW](https://github.com/elk-zone/elk-native)
 - [pixelfed/pixelfed - Photo Sharing. For Everyone.](https://github.com/pixelfed/pixelfed)
 - [marcbouchenoire/symbolist - 🔣 A collection of every symbol from SF Symbols.](https://github.com/marcbouchenoire/symbolist)
-- [hemanth/awesome-pwa - Awesome list of progressive web apps! (PR welcomed ;))](https://github.com/hemanth/awesome-pwa)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
