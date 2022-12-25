@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [apvarun/toastify-js - Pure JavaScript library for better notification messages](https://github.com/apvarun/toastify-js)
+- [abdmmar/wc-toast - Add notifications component to your javascript projects easily using wc-toast.](https://github.com/abdmmar/wc-toast)
 - [pqina/filepond - 🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
 - [Lartsch/FediAct - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own. ](https://github.com/Lartsch/FediAct)
 - [motiz88/react-native-midi - [WIP] Web MIDI implementation for React Native using Expo Modules](https://github.com/motiz88/react-native-midi)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jnsmalm/pixi3d - The 3D renderer for PixiJS. Seamless integration with 2D applications.](https://github.com/jnsmalm/pixi3d)
 - [leggett/simplify-mastodon](https://github.com/leggett/simplify-mastodon)
 - [godly-devotion/mochi-diffusion - Run Stable Diffusion on Apple Silicon Macs natively](https://github.com/godly-devotion/mochi-diffusion)
-- [elk-zone/elk-native - Elk + Tauri FTW](https://github.com/elk-zone/elk-native)
-- [pixelfed/pixelfed - Photo Sharing. For Everyone.](https://github.com/pixelfed/pixelfed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
