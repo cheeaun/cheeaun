@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pqina/filepond - 🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
 - [Lartsch/FediAct - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own. ](https://github.com/Lartsch/FediAct)
 - [motiz88/react-native-midi - [WIP] Web MIDI implementation for React Native using Expo Modules](https://github.com/motiz88/react-native-midi)
 - [HYPD/flow-typeface - Flow is a font made for abstracting content and code used in design work, presentations, and websites.](https://github.com/HYPD/flow-typeface)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [godly-devotion/mochi-diffusion - Run Stable Diffusion on Apple Silicon Macs natively](https://github.com/godly-devotion/mochi-diffusion)
 - [elk-zone/elk-native - Elk + Tauri FTW](https://github.com/elk-zone/elk-native)
 - [pixelfed/pixelfed - Photo Sharing. For Everyone.](https://github.com/pixelfed/pixelfed)
-- [marcbouchenoire/symbolist - 🔣 A collection of every symbol from SF Symbols.](https://github.com/marcbouchenoire/symbolist)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
