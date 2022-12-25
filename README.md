@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Dimillian/IceCubesApp - A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
 - [apvarun/toastify-js - Pure JavaScript library for better notification messages](https://github.com/apvarun/toastify-js)
 - [abdmmar/wc-toast - Add notifications component to your javascript projects easily using wc-toast.](https://github.com/abdmmar/wc-toast)
 - [pqina/filepond - 🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [nicoespeon/gitgraph.js - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser](https://github.com/nicoespeon/gitgraph.js)
 - [jnsmalm/pixi3d - The 3D renderer for PixiJS. Seamless integration with 2D applications.](https://github.com/jnsmalm/pixi3d)
 - [leggett/simplify-mastodon](https://github.com/leggett/simplify-mastodon)
-- [godly-devotion/mochi-diffusion - Run Stable Diffusion on Apple Silicon Macs natively](https://github.com/godly-devotion/mochi-diffusion)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
