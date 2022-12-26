@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alexanderkroner/saliency - Contextual Encoder-Decoder Network for Visual Saliency Prediction [Neural Networks 2020]](https://github.com/alexanderkroner/saliency)
+- [twitter-research/image-crop-analysis - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency](https://github.com/twitter-research/image-crop-analysis)
 - [Dimillian/IceCubesApp - A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
 - [apvarun/toastify-js - Pure JavaScript library for better notification messages](https://github.com/apvarun/toastify-js)
 - [abdmmar/wc-toast - Add notifications component to your javascript projects easily using wc-toast.](https://github.com/abdmmar/wc-toast)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [f5/unovis - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript](https://github.com/f5/unovis)
 - [farzher/fuzzysort - Fast SublimeText-like fuzzy search for JavaScript.](https://github.com/farzher/fuzzysort)
 - [nicoespeon/gitgraph.js - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser](https://github.com/nicoespeon/gitgraph.js)
-- [jnsmalm/pixi3d - The 3D renderer for PixiJS. Seamless integration with 2D applications.](https://github.com/jnsmalm/pixi3d)
-- [leggett/simplify-mastodon](https://github.com/leggett/simplify-mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
