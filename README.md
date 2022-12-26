@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jaabberwocky/sg-mapbox-taxi](https://github.com/jaabberwocky/sg-mapbox-taxi)
 - [alexanderkroner/saliency - Contextual Encoder-Decoder Network for Visual Saliency Prediction [Neural Networks 2020]](https://github.com/alexanderkroner/saliency)
 - [twitter-research/image-crop-analysis - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency](https://github.com/twitter-research/image-crop-analysis)
 - [Dimillian/IceCubesApp - A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [superseriousbusiness/gotosocial - **ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.](https://github.com/superseriousbusiness/gotosocial)
 - [f5/unovis - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript](https://github.com/f5/unovis)
 - [farzher/fuzzysort - Fast SublimeText-like fuzzy search for JavaScript.](https://github.com/farzher/fuzzysort)
-- [nicoespeon/gitgraph.js - 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser](https://github.com/nicoespeon/gitgraph.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
