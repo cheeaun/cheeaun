@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [magicstone-dev/ecko - Community-driven fork of Mastodon's federated social network software](https://github.com/magicstone-dev/ecko)
 - [jvns/manage-boosts - manage mastodon boosts](https://github.com/jvns/manage-boosts)
 - [vlcn-io/cr-sqlite - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 - [bundlewatch/bundlewatch - Keep watch of your bundle size](https://github.com/bundlewatch/bundlewatch)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [motiz88/react-native-midi - [WIP] Web MIDI implementation for React Native using Expo Modules](https://github.com/motiz88/react-native-midi)
 - [HYPD/flow-typeface - Flow is a font made for abstracting content and code used in design work, presentations, and websites.](https://github.com/HYPD/flow-typeface)
 - [dequelabs/axe-core - Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
-- [jointakahe/takahe - An ActivityPub/Fediverse server](https://github.com/jointakahe/takahe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
