@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kinduff/dogapi.dog -  The Dog API provides dog facts as a service! ](https://github.com/kinduff/dogapi.dog)
+- [microfeed/microfeed - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.](https://github.com/microfeed/microfeed)
+- [antfu/bumpp - Interactive CLI that bumps your version numbers and more](https://github.com/antfu/bumpp)
 - [magicstone-dev/ecko - Community-driven fork of Mastodon's federated social network software](https://github.com/magicstone-dev/ecko)
 - [jvns/manage-boosts - manage mastodon boosts](https://github.com/jvns/manage-boosts)
 - [vlcn-io/cr-sqlite - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [abdmmar/wc-toast - Add notifications component to your javascript projects easily using wc-toast.](https://github.com/abdmmar/wc-toast)
 - [pqina/filepond - 🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
 - [Lartsch/FediAct - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own. ](https://github.com/Lartsch/FediAct)
-- [motiz88/react-native-midi - [WIP] Web MIDI implementation for React Native using Expo Modules](https://github.com/motiz88/react-native-midi)
-- [HYPD/flow-typeface - Flow is a font made for abstracting content and code used in design work, presentations, and websites.](https://github.com/HYPD/flow-typeface)
-- [dequelabs/axe-core - Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
