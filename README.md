@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vlcn-io/cr-sqlite - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 - [bundlewatch/bundlewatch - Keep watch of your bundle size](https://github.com/bundlewatch/bundlewatch)
 - [jaabberwocky/sg-mapbox-taxi](https://github.com/jaabberwocky/sg-mapbox-taxi)
 - [alexanderkroner/saliency - Contextual Encoder-Decoder Network for Visual Saliency Prediction [Neural Networks 2020]](https://github.com/alexanderkroner/saliency)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [dequelabs/axe-core - Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 - [jointakahe/takahe - An ActivityPub/Fediverse server](https://github.com/jointakahe/takahe)
 - [superseriousbusiness/gotosocial - **ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.](https://github.com/superseriousbusiness/gotosocial)
-- [f5/unovis - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript](https://github.com/f5/unovis)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
