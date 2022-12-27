@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mburakerman/hrjs - 🔄 Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://github.com/mburakerman/hrjs)
 - [kinduff/dogapi.dog -  The Dog API provides dog facts as a service! ](https://github.com/kinduff/dogapi.dog)
 - [microfeed/microfeed - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.](https://github.com/microfeed/microfeed)
 - [antfu/bumpp - Interactive CLI that bumps your version numbers and more](https://github.com/antfu/bumpp)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [apvarun/toastify-js - Pure JavaScript library for better notification messages](https://github.com/apvarun/toastify-js)
 - [abdmmar/wc-toast - Add notifications component to your javascript projects easily using wc-toast.](https://github.com/abdmmar/wc-toast)
 - [pqina/filepond - 🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
-- [Lartsch/FediAct - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own. ](https://github.com/Lartsch/FediAct)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
