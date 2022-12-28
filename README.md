@@ -28,7 +28,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 
 <!-- starred repos start -->
 - [justjake/Gauss - Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
-- [bwasti/img2emoji - personal project to render webcam data directly as emoji 😃](https://github.com/bwasti/img2emoji)
+- [bwasti/emojicam - personal project to render webcam data directly as emoji 😃](https://github.com/bwasti/emojicam)
 - [john-doherty/long-press-event - Adds `long-press` event to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/long-press-event)
 - [john-doherty/swiped-events - Adds `swiped` events to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/swiped-events)
 - [digitalbazaar/jsonld.js - A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js)
