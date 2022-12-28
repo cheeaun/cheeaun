@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [glitch-soc/mastodon - A glitchy but lovable microblogging server](https://github.com/glitch-soc/mastodon)
+- [xdesro/personalsit.es - 📇 A little directory of people's personal sites](https://github.com/xdesro/personalsit.es)
 - [mburakerman/hrjs - 🔄 Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://github.com/mburakerman/hrjs)
 - [kinduff/dogapi.dog -  The Dog API provides dog facts as a service! ](https://github.com/kinduff/dogapi.dog)
 - [microfeed/microfeed - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.](https://github.com/microfeed/microfeed)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [twitter-research/image-crop-analysis - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency](https://github.com/twitter-research/image-crop-analysis)
 - [Dimillian/IceCubesApp - A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
 - [apvarun/toastify-js - Pure JavaScript library for better notification messages](https://github.com/apvarun/toastify-js)
-- [abdmmar/wc-toast - Add notifications component to your javascript projects easily using wc-toast.](https://github.com/abdmmar/wc-toast)
-- [pqina/filepond - 🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
