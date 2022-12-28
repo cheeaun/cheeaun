@@ -27,6 +27,10 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bwasti/img2emoji](https://github.com/bwasti/img2emoji)
+- [john-doherty/long-press-event - Adds `long-press` event to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/long-press-event)
+- [john-doherty/swiped-events - Adds `swiped` events to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/swiped-events)
+- [digitalbazaar/jsonld.js - A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js)
 - [glitch-soc/mastodon - A glitchy but lovable microblogging server](https://github.com/glitch-soc/mastodon)
 - [xdesro/personalsit.es - 📇 A little directory of people's personal sites](https://github.com/xdesro/personalsit.es)
 - [mburakerman/hrjs - 🔄 Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://github.com/mburakerman/hrjs)
@@ -38,10 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [vlcn-io/cr-sqlite - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 - [bundlewatch/bundlewatch - Keep watch of your bundle size](https://github.com/bundlewatch/bundlewatch)
 - [jaabberwocky/sg-mapbox-taxi](https://github.com/jaabberwocky/sg-mapbox-taxi)
-- [alexanderkroner/saliency - Contextual Encoder-Decoder Network for Visual Saliency Prediction [Neural Networks 2020]](https://github.com/alexanderkroner/saliency)
-- [twitter-research/image-crop-analysis - Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency](https://github.com/twitter-research/image-crop-analysis)
-- [Dimillian/IceCubesApp - A SwiftUI Mastodon client](https://github.com/Dimillian/IceCubesApp)
-- [apvarun/toastify-js - Pure JavaScript library for better notification messages](https://github.com/apvarun/toastify-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
