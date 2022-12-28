@@ -27,7 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [bwasti/img2emoji](https://github.com/bwasti/img2emoji)
+- [justjake/Gauss - Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
+- [bwasti/img2emoji - personal project to render webcam data directly as emoji 😃](https://github.com/bwasti/img2emoji)
 - [john-doherty/long-press-event - Adds `long-press` event to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/long-press-event)
 - [john-doherty/swiped-events - Adds `swiped` events to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/swiped-events)
 - [digitalbazaar/jsonld.js - A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [jvns/manage-boosts - manage mastodon boosts](https://github.com/jvns/manage-boosts)
 - [vlcn-io/cr-sqlite - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 - [bundlewatch/bundlewatch - Keep watch of your bundle size](https://github.com/bundlewatch/bundlewatch)
-- [jaabberwocky/sg-mapbox-taxi](https://github.com/jaabberwocky/sg-mapbox-taxi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
