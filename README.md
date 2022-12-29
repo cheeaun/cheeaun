@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shuding/react-wrap-balancer - Simple React Component That Makes Titles More Readable](https://github.com/shuding/react-wrap-balancer)
 - [retyui/react-quick-pinch-zoom - A react component that providing multi-touch gestures for zooming and dragging on any DOM element.](https://github.com/retyui/react-quick-pinch-zoom)
 - [devongovett/napi-wasm - An implementation of the napi API for WASM. ](https://github.com/devongovett/napi-wasm)
 - [justjake/Gauss - Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [microfeed/microfeed - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.](https://github.com/microfeed/microfeed)
 - [antfu/bumpp - Interactive CLI that bumps your version numbers and more](https://github.com/antfu/bumpp)
 - [magicstone-dev/ecko - Community-driven fork of Mastodon's federated social network software](https://github.com/magicstone-dev/ecko)
-- [jvns/manage-boosts - manage mastodon boosts](https://github.com/jvns/manage-boosts)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
