@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [retyui/react-quick-pinch-zoom - A react component that providing multi-touch gestures for zooming and dragging on any DOM element.](https://github.com/retyui/react-quick-pinch-zoom)
+- [devongovett/napi-wasm - An implementation of the napi API for WASM. ](https://github.com/devongovett/napi-wasm)
 - [justjake/Gauss - Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
 - [bwasti/emojicam - personal project to render webcam data directly as emoji 😃](https://github.com/bwasti/emojicam)
 - [john-doherty/long-press-event - Adds `long-press` event to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/long-press-event)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [antfu/bumpp - Interactive CLI that bumps your version numbers and more](https://github.com/antfu/bumpp)
 - [magicstone-dev/ecko - Community-driven fork of Mastodon's federated social network software](https://github.com/magicstone-dev/ecko)
 - [jvns/manage-boosts - manage mastodon boosts](https://github.com/jvns/manage-boosts)
-- [vlcn-io/cr-sqlite - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
-- [bundlewatch/bundlewatch - Keep watch of your bundle size](https://github.com/bundlewatch/bundlewatch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
