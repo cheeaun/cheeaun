@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [worka/vanilla-js-wheel-zoom - Image resizing using mouse wheel (pinch to zoom) + drag scrollable image (as well as any HTML content)](https://github.com/worka/vanilla-js-wheel-zoom)
 - [nickytonline/get-revue-newsletters - Gets your getrevue.co Newsletters](https://github.com/nickytonline/get-revue-newsletters)
 - [shuding/react-wrap-balancer - Simple React Component That Makes Titles More Readable](https://github.com/shuding/react-wrap-balancer)
 - [retyui/react-quick-pinch-zoom - A react component that providing multi-touch gestures for zooming and dragging on any DOM element.](https://github.com/retyui/react-quick-pinch-zoom)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [mburakerman/hrjs - 🔄 Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://github.com/mburakerman/hrjs)
 - [kinduff/dogapi.dog -  The Dog API provides dog facts as a service! ](https://github.com/kinduff/dogapi.dog)
 - [microfeed/microfeed - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.](https://github.com/microfeed/microfeed)
-- [antfu/bumpp - Interactive CLI that bumps your version numbers and more](https://github.com/antfu/bumpp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
