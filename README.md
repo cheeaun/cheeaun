@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zerodevx/zero-md - Ridiculously simple zero-config markdown displayer](https://github.com/zerodevx/zero-md)
 - [FormidableLabs/react-live - A flexible playground for live editing React components](https://github.com/FormidableLabs/react-live)
 - [tamagui/tamagui - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄](https://github.com/tamagui/tamagui)
 - [Richienb/char-regex - A regex to match any full character, considering weird character ranges.](https://github.com/Richienb/char-regex)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [john-doherty/swiped-events - Adds `swiped` events to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/swiped-events)
 - [digitalbazaar/jsonld.js - A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js)
 - [glitch-soc/mastodon - A glitchy but lovable microblogging server](https://github.com/glitch-soc/mastodon)
-- [xdesro/personalsit.es - 📇 A little directory of people's personal sites](https://github.com/xdesro/personalsit.es)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
