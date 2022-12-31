@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tamagui/tamagui - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄](https://github.com/tamagui/tamagui)
+- [Richienb/char-regex - A regex to match any full character, considering weird character ranges.](https://github.com/Richienb/char-regex)
 - [worka/vanilla-js-wheel-zoom - Image resizing using mouse wheel (pinch to zoom) + drag scrollable image (as well as any HTML content)](https://github.com/worka/vanilla-js-wheel-zoom)
 - [nickytonline/get-revue-newsletters - Gets your getrevue.co Newsletters](https://github.com/nickytonline/get-revue-newsletters)
 - [shuding/react-wrap-balancer - Simple React Component That Makes Titles More Readable](https://github.com/shuding/react-wrap-balancer)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [glitch-soc/mastodon - A glitchy but lovable microblogging server](https://github.com/glitch-soc/mastodon)
 - [xdesro/personalsit.es - 📇 A little directory of people's personal sites](https://github.com/xdesro/personalsit.es)
 - [mburakerman/hrjs - 🔄 Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://github.com/mburakerman/hrjs)
-- [kinduff/dogapi.dog -  The Dog API provides dog facts as a service! ](https://github.com/kinduff/dogapi.dog)
-- [microfeed/microfeed - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.](https://github.com/microfeed/microfeed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
