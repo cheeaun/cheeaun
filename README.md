@@ -27,6 +27,8 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [GewoonJaap/svg-to-png-cf-worker - SVG to PNG as Cloudflare Worker](https://github.com/GewoonJaap/svg-to-png-cf-worker)
+- [xtuc/svg-to-png-worker - SVG to PNG converter in Cloudflare Workers](https://github.com/xtuc/svg-to-png-worker)
 - [prest/prest - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new](https://github.com/prest/prest)
 - [dai-shi/valtio-signal - Another React binding for Valtio proxy state](https://github.com/dai-shi/valtio-signal)
 - [preactjs/signals - Manage state with style in every framework](https://github.com/preactjs/signals)
@@ -40,8 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [retyui/react-quick-pinch-zoom - A react component that providing multi-touch gestures for zooming and dragging on any DOM element.](https://github.com/retyui/react-quick-pinch-zoom)
 - [devongovett/napi-wasm - An implementation of the napi API for WASM. ](https://github.com/devongovett/napi-wasm)
 - [justjake/Gauss - Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
-- [bwasti/emojicam - personal project to render webcam data directly as emoji 😃](https://github.com/bwasti/emojicam)
-- [john-doherty/long-press-event - Adds `long-press` event to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/long-press-event)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
