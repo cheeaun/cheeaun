@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [prest/prest - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new](https://github.com/prest/prest)
+- [dai-shi/valtio-signal - Another React binding for Valtio proxy state](https://github.com/dai-shi/valtio-signal)
+- [preactjs/signals - Manage state with style in every framework](https://github.com/preactjs/signals)
 - [zerodevx/zero-md - Ridiculously simple zero-config markdown displayer](https://github.com/zerodevx/zero-md)
 - [FormidableLabs/react-live - A flexible playground for live editing React components](https://github.com/FormidableLabs/react-live)
 - [tamagui/tamagui - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄](https://github.com/tamagui/tamagui)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [justjake/Gauss - Stable Diffusion macOS native app](https://github.com/justjake/Gauss)
 - [bwasti/emojicam - personal project to render webcam data directly as emoji 😃](https://github.com/bwasti/emojicam)
 - [john-doherty/long-press-event - Adds `long-press` event to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/long-press-event)
-- [john-doherty/swiped-events - Adds `swiped` events to the DOM in 1k of pure JavaScript](https://github.com/john-doherty/swiped-events)
-- [digitalbazaar/jsonld.js - A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js)
-- [glitch-soc/mastodon - A glitchy but lovable microblogging server](https://github.com/glitch-soc/mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
