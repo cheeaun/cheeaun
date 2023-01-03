@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stevenpetryk/mafs - React components for interactive math](https://github.com/stevenpetryk/mafs)
 - [vjeux/mp4-h264-re-encode - Pure re-encoding of an mp4-h264 video file with the web APIs as well as in-depth description of how it works.](https://github.com/vjeux/mp4-h264-re-encode)
 - [GewoonJaap/svg-to-png-cf-worker - SVG to PNG as Cloudflare Worker](https://github.com/GewoonJaap/svg-to-png-cf-worker)
 - [xtuc/svg-to-png-worker - SVG to PNG converter in Cloudflare Workers](https://github.com/xtuc/svg-to-png-worker)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [nickytonline/get-revue-newsletters - Gets your getrevue.co Newsletters](https://github.com/nickytonline/get-revue-newsletters)
 - [shuding/react-wrap-balancer - Simple React Component That Makes Titles More Readable](https://github.com/shuding/react-wrap-balancer)
 - [retyui/react-quick-pinch-zoom - A react component that providing multi-touch gestures for zooming and dragging on any DOM element.](https://github.com/retyui/react-quick-pinch-zoom)
-- [devongovett/napi-wasm - An implementation of the napi API for WASM. ](https://github.com/devongovett/napi-wasm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
