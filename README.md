@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [georgemandis/bubo-rss - An irrationally minimalist, static feed reader (RSS, Atom, JSON) you can instantly deploy on Netlify, Glitch or your own server.](https://github.com/georgemandis/bubo-rss)
 - [kueblc/LDT - Lightweight in browser syntax highlighting](https://github.com/kueblc/LDT)
 - [stevenpetryk/mafs - React components for interactive math](https://github.com/stevenpetryk/mafs)
 - [vjeux/mp4-h264-re-encode - Pure re-encoding of an mp4-h264 video file with the web APIs as well as in-depth description of how it works.](https://github.com/vjeux/mp4-h264-re-encode)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [Richienb/char-regex - A regex to match any full character, considering weird character ranges.](https://github.com/Richienb/char-regex)
 - [worka/vanilla-js-wheel-zoom - Image resizing using mouse wheel (pinch to zoom) + drag scrollable image (as well as any HTML content)](https://github.com/worka/vanilla-js-wheel-zoom)
 - [nickytonline/get-revue-newsletters - Gets your getrevue.co Newsletters](https://github.com/nickytonline/get-revue-newsletters)
-- [shuding/react-wrap-balancer - Simple React Component That Makes Titles More Readable](https://github.com/shuding/react-wrap-balancer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
