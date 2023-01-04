@@ -27,6 +27,13 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [PaulKinlan/is-it-a-button-web-app](https://github.com/PaulKinlan/is-it-a-button-web-app)
+- [shadeed/rtl-styling - An extensive guide on how to style for RTL in CSS](https://github.com/shadeed/rtl-styling)
+- [BetterTyped/hyper-fetch - ⚡ Backend agnostic data-exchange framework for any javascript environment. Take advantage of caching, queuing, persistence, offline first support, request deduplication, authentication, progress tracking, architecture guidelines and more!](https://github.com/BetterTyped/hyper-fetch)
+- [Kaiteki-Fedi/Kaiteki - A cross-platform client for micro-blogging services](https://github.com/Kaiteki-Fedi/Kaiteki)
+- [web-padawan/awesome-web-components - A curated list of awesome Web Components resources.](https://github.com/web-padawan/awesome-web-components)
+- [cbrgm/mastodon-github-action - Use this Action to send a toot (message) from a GitHub actions workflow to Mastodon.](https://github.com/cbrgm/mastodon-github-action)
+- [catppuccin/catppuccin - 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin)
 - [georgemandis/bubo-rss - An irrationally minimalist, static feed reader (RSS, Atom, JSON) you can instantly deploy on Netlify, Glitch or your own server.](https://github.com/georgemandis/bubo-rss)
 - [kueblc/LDT - Lightweight in browser syntax highlighting](https://github.com/kueblc/LDT)
 - [stevenpetryk/mafs - React components for interactive math](https://github.com/stevenpetryk/mafs)
@@ -35,13 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [xtuc/svg-to-png-worker - SVG to PNG converter in Cloudflare Workers](https://github.com/xtuc/svg-to-png-worker)
 - [prest/prest - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new](https://github.com/prest/prest)
 - [dai-shi/valtio-signal - Another React binding for Valtio proxy state](https://github.com/dai-shi/valtio-signal)
-- [preactjs/signals - Manage state with style in every framework](https://github.com/preactjs/signals)
-- [zerodevx/zero-md - Ridiculously simple zero-config markdown displayer](https://github.com/zerodevx/zero-md)
-- [FormidableLabs/react-live - A flexible playground for live editing React components](https://github.com/FormidableLabs/react-live)
-- [tamagui/tamagui - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄](https://github.com/tamagui/tamagui)
-- [Richienb/char-regex - A regex to match any full character, considering weird character ranges.](https://github.com/Richienb/char-regex)
-- [worka/vanilla-js-wheel-zoom - Image resizing using mouse wheel (pinch to zoom) + drag scrollable image (as well as any HTML content)](https://github.com/worka/vanilla-js-wheel-zoom)
-- [nickytonline/get-revue-newsletters - Gets your getrevue.co Newsletters](https://github.com/nickytonline/get-revue-newsletters)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
