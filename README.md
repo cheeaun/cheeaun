@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cliener/EnviroLogger - Raspberry Pi Sense Hat Environment Logger](https://github.com/cliener/EnviroLogger)
 - [zernonia/vista - Add animated subtitle to your video automatically](https://github.com/zernonia/vista)
 - [mity/md4c - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.](https://github.com/mity/md4c)
 - [rsms/markdown-wasm - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c](https://github.com/rsms/markdown-wasm)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [catppuccin/catppuccin - 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin)
 - [georgemandis/bubo-rss - An irrationally minimalist, static feed reader (RSS, Atom, JSON) you can instantly deploy on Netlify, Glitch or your own server.](https://github.com/georgemandis/bubo-rss)
 - [kueblc/LDT - Lightweight in browser syntax highlighting](https://github.com/kueblc/LDT)
-- [stevenpetryk/mafs - React components for interactive math](https://github.com/stevenpetryk/mafs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
