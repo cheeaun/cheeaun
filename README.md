@@ -27,10 +27,14 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mity/md4c - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.](https://github.com/mity/md4c)
+- [rsms/markdown-wasm - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c](https://github.com/rsms/markdown-wasm)
+- [davecheney/pub - pub, a tiny ActivityPub to Mastodon bridge](https://github.com/davecheney/pub)
+- [mitotic/pinafore-mahoot - Curating web client for Mastodon](https://github.com/mitotic/pinafore-mahoot)
 - [PaulKinlan/is-it-a-button-web-app](https://github.com/PaulKinlan/is-it-a-button-web-app)
 - [shadeed/rtl-styling - An extensive guide on how to style for RTL in CSS](https://github.com/shadeed/rtl-styling)
 - [BetterTyped/hyper-fetch - ⚡ Backend agnostic data-exchange framework for any javascript environment. Take advantage of caching, queuing, persistence, offline first support, request deduplication, authentication, progress tracking, architecture guidelines and more!](https://github.com/BetterTyped/hyper-fetch)
-- [Kaiteki-Fedi/Kaiteki - A cross-platform client for micro-blogging services](https://github.com/Kaiteki-Fedi/Kaiteki)
+- [Kaiteki-Fedi/Kaiteki - A comfy cross-platform client for microblogging services](https://github.com/Kaiteki-Fedi/Kaiteki)
 - [web-padawan/awesome-web-components - A curated list of awesome Web Components resources.](https://github.com/web-padawan/awesome-web-components)
 - [cbrgm/mastodon-github-action - Use this Action to send a toot (message) from a GitHub actions workflow to Mastodon.](https://github.com/cbrgm/mastodon-github-action)
 - [catppuccin/catppuccin - 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin)
@@ -38,10 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [kueblc/LDT - Lightweight in browser syntax highlighting](https://github.com/kueblc/LDT)
 - [stevenpetryk/mafs - React components for interactive math](https://github.com/stevenpetryk/mafs)
 - [vjeux/mp4-h264-re-encode - Pure re-encoding of an mp4-h264 video file with the web APIs as well as in-depth description of how it works.](https://github.com/vjeux/mp4-h264-re-encode)
-- [GewoonJaap/svg-to-png-cf-worker - SVG to PNG as Cloudflare Worker](https://github.com/GewoonJaap/svg-to-png-cf-worker)
-- [xtuc/svg-to-png-worker - SVG to PNG converter in Cloudflare Workers](https://github.com/xtuc/svg-to-png-worker)
-- [prest/prest - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new](https://github.com/prest/prest)
-- [dai-shi/valtio-signal - Another React binding for Valtio proxy state](https://github.com/dai-shi/valtio-signal)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
