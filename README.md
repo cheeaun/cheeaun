@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [neocarto/geotoolbox - geojson toolbox](https://github.com/neocarto/geotoolbox)
 - [cliener/EnviroLogger - Raspberry Pi Sense Hat Environment Logger](https://github.com/cliener/EnviroLogger)
 - [zernonia/vista - Add animated subtitle to your video automatically](https://github.com/zernonia/vista)
 - [mity/md4c - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.](https://github.com/mity/md4c)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [cbrgm/mastodon-github-action - Use this Action to send a toot (message) from a GitHub actions workflow to Mastodon.](https://github.com/cbrgm/mastodon-github-action)
 - [catppuccin/catppuccin - 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin)
 - [georgemandis/bubo-rss - An irrationally minimalist, static feed reader (RSS, Atom, JSON) you can instantly deploy on Netlify, Glitch or your own server.](https://github.com/georgemandis/bubo-rss)
-- [kueblc/LDT - Lightweight in browser syntax highlighting](https://github.com/kueblc/LDT)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
