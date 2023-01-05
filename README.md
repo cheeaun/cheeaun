@@ -27,6 +27,7 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zernonia/vista - Add animated subtitle to your video automatically](https://github.com/zernonia/vista)
 - [mity/md4c - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.](https://github.com/mity/md4c)
 - [rsms/markdown-wasm - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c](https://github.com/rsms/markdown-wasm)
 - [davecheney/pub - pub, a tiny ActivityPub to Mastodon bridge](https://github.com/davecheney/pub)
@@ -41,7 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [georgemandis/bubo-rss - An irrationally minimalist, static feed reader (RSS, Atom, JSON) you can instantly deploy on Netlify, Glitch or your own server.](https://github.com/georgemandis/bubo-rss)
 - [kueblc/LDT - Lightweight in browser syntax highlighting](https://github.com/kueblc/LDT)
 - [stevenpetryk/mafs - React components for interactive math](https://github.com/stevenpetryk/mafs)
-- [vjeux/mp4-h264-re-encode - Pure re-encoding of an mp4-h264 video file with the web APIs as well as in-depth description of how it works.](https://github.com/vjeux/mp4-h264-re-encode)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
