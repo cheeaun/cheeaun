@@ -22,7 +22,7 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 - 31 Aug 2022 - [🎏 National month 🥫 #12](https://cheeaun.substack.com/p/national-month-12-1289556)
 <!-- newsletter end -->
 
-Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun 👈👈
+Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 ## 🌟 Recently starred repositories
 
