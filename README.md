@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [natemoo-re/ultrafetch - RFC-7234 compliant caching for any `fetch` implementation](https://github.com/natemoo-re/ultrafetch)
+- [natemoo-re/ultramark](https://github.com/natemoo-re/ultramark)
+- [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml)
 - [Owez/yark - YouTube archiving made simple](https://github.com/Owez/yark)
 - [jakearchibald/idb - IndexedDB, but with promises](https://github.com/jakearchibald/idb)
 - [dexie/Dexie.js - A Minimalistic Wrapper for IndexedDB](https://github.com/dexie/Dexie.js)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [davecheney/pub - pub, a tiny ActivityPub to Mastodon bridge](https://github.com/davecheney/pub)
 - [mitotic/pinafore-mahoot - Curating web client for Mastodon](https://github.com/mitotic/pinafore-mahoot)
 - [PaulKinlan/is-it-a-button-web-app](https://github.com/PaulKinlan/is-it-a-button-web-app)
-- [shadeed/rtl-styling - An extensive guide on how to style for RTL in CSS](https://github.com/shadeed/rtl-styling)
-- [BetterTyped/hyper-fetch - ⚡ Backend agnostic data-exchange framework for any javascript environment. Take advantage of caching, queuing, persistence, offline first support, request deduplication, authentication, progress tracking, architecture guidelines and more!](https://github.com/BetterTyped/hyper-fetch)
-- [Kaiteki-Fedi/Kaiteki - A comfy cross-platform client for microblogging services](https://github.com/Kaiteki-Fedi/Kaiteki)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
