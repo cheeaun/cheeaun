@@ -27,6 +27,9 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Owez/yark - YouTube archiving made simple](https://github.com/Owez/yark)
+- [jakearchibald/idb - IndexedDB, but with promises](https://github.com/jakearchibald/idb)
+- [dexie/Dexie.js - A Minimalistic Wrapper for IndexedDB](https://github.com/dexie/Dexie.js)
 - [css-doodle/postcss-doodle - PostCSS plugin that enables the use of css-doodle generators](https://github.com/css-doodle/postcss-doodle)
 - [neocarto/geotoolbox - geojson toolbox](https://github.com/neocarto/geotoolbox)
 - [cliener/EnviroLogger - Raspberry Pi Sense Hat Environment Logger](https://github.com/cliener/EnviroLogger)
@@ -39,9 +42,6 @@ Subscribe to my newsletter! 👉👉 https://www.getrevue.co/profile/cheeaun �
 - [shadeed/rtl-styling - An extensive guide on how to style for RTL in CSS](https://github.com/shadeed/rtl-styling)
 - [BetterTyped/hyper-fetch - ⚡ Backend agnostic data-exchange framework for any javascript environment. Take advantage of caching, queuing, persistence, offline first support, request deduplication, authentication, progress tracking, architecture guidelines and more!](https://github.com/BetterTyped/hyper-fetch)
 - [Kaiteki-Fedi/Kaiteki - A comfy cross-platform client for microblogging services](https://github.com/Kaiteki-Fedi/Kaiteki)
-- [web-padawan/awesome-web-components - A curated list of awesome Web Components resources.](https://github.com/web-padawan/awesome-web-components)
-- [cbrgm/mastodon-github-action - Use this Action to send a toot (message) from a GitHub actions workflow to Mastodon.](https://github.com/cbrgm/mastodon-github-action)
-- [catppuccin/catppuccin - 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
