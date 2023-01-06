@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [GoogleChromeLabs/wasm-feature-detect - A small library to detect which features of WebAssembly are supported.](https://github.com/GoogleChromeLabs/wasm-feature-detect)
 - [natemoo-re/ultrafetch - RFC-7234 compliant caching for any `fetch` implementation](https://github.com/natemoo-re/ultrafetch)
 - [natemoo-re/ultramark](https://github.com/natemoo-re/ultramark)
 - [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rsms/markdown-wasm - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c](https://github.com/rsms/markdown-wasm)
 - [davecheney/pub - pub, a tiny ActivityPub to Mastodon bridge](https://github.com/davecheney/pub)
 - [mitotic/pinafore-mahoot - Curating web client for Mastodon](https://github.com/mitotic/pinafore-mahoot)
-- [PaulKinlan/is-it-a-button-web-app](https://github.com/PaulKinlan/is-it-a-button-web-app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
