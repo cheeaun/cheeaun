@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://www.getrevue.co/profile/cheeaun?format=rss'
+          url: 'https://cheeaun.substack.com/feed'
           file: 'README.md'
           start_flag: '<!-- newsletter start -->'
           end_flag: '<!-- newsletter end -->'
