@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [SuperIlu/DOStodon - MS-DOS Mastodon client](https://github.com/SuperIlu/DOStodon)
 - [petakopi/petakopi-ios](https://github.com/petakopi/petakopi-ios)
 - [llun/activities.next - A Next.JS ActivityPub server.](https://github.com/llun/activities.next)
 - [GoogleChromeLabs/wasm-feature-detect - A small library to detect which features of WebAssembly are supported.](https://github.com/GoogleChromeLabs/wasm-feature-detect)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cliener/EnviroLogger - Raspberry Pi Sense Hat Environment Logger](https://github.com/cliener/EnviroLogger)
 - [zernonia/vista - Add animated subtitle to your video automatically](https://github.com/zernonia/vista)
 - [mity/md4c - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.](https://github.com/mity/md4c)
-- [rsms/markdown-wasm - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c](https://github.com/rsms/markdown-wasm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
