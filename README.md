@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [petakopi/petakopi-ios](https://github.com/petakopi/petakopi-ios)
 - [llun/activities.next](https://github.com/llun/activities.next)
 - [GoogleChromeLabs/wasm-feature-detect - A small library to detect which features of WebAssembly are supported.](https://github.com/GoogleChromeLabs/wasm-feature-detect)
 - [natemoo-re/ultrafetch - RFC-7234 compliant caching for any `fetch` implementation](https://github.com/natemoo-re/ultrafetch)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zernonia/vista - Add animated subtitle to your video automatically](https://github.com/zernonia/vista)
 - [mity/md4c - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.](https://github.com/mity/md4c)
 - [rsms/markdown-wasm - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c](https://github.com/rsms/markdown-wasm)
-- [davecheney/pub - pub, a tiny ActivityPub to Mastodon bridge](https://github.com/davecheney/pub)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
