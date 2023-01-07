@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [petakopi/petakopi-ios](https://github.com/petakopi/petakopi-ios)
-- [llun/activities.next](https://github.com/llun/activities.next)
+- [llun/activities.next - A Next.JS ActivityPub server.](https://github.com/llun/activities.next)
 - [GoogleChromeLabs/wasm-feature-detect - A small library to detect which features of WebAssembly are supported.](https://github.com/GoogleChromeLabs/wasm-feature-detect)
 - [natemoo-re/ultrafetch - RFC-7234 compliant caching for any `fetch` implementation](https://github.com/natemoo-re/ultrafetch)
 - [natemoo-re/ultramark](https://github.com/natemoo-re/ultramark)
