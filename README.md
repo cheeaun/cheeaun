@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alicerunsonfedora/fedigardens - A simplified, discussion-driven Mastodon app for iOS](https://github.com/alicerunsonfedora/fedigardens)
 - [SuperIlu/DOStodon - MS-DOS Mastodon client](https://github.com/SuperIlu/DOStodon)
 - [petakopi/petakopi-ios](https://github.com/petakopi/petakopi-ios)
 - [llun/activities.next - A Next.JS ActivityPub server.](https://github.com/llun/activities.next)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [neocarto/geotoolbox - geojson toolbox](https://github.com/neocarto/geotoolbox)
 - [cliener/EnviroLogger - Raspberry Pi Sense Hat Environment Logger](https://github.com/cliener/EnviroLogger)
 - [zernonia/vista - Add animated subtitle to your video automatically](https://github.com/zernonia/vista)
-- [mity/md4c - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.](https://github.com/mity/md4c)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
