@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels)
 - [alicerunsonfedora/fedigardens - A simplified, discussion-driven Mastodon app for iOS](https://github.com/alicerunsonfedora/fedigardens)
 - [SuperIlu/DOStodon - MS-DOS Mastodon client](https://github.com/SuperIlu/DOStodon)
 - [petakopi/petakopi-ios](https://github.com/petakopi/petakopi-ios)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [css-doodle/postcss-doodle - PostCSS plugin that enables the use of css-doodle generators](https://github.com/css-doodle/postcss-doodle)
 - [neocarto/geotoolbox - geojson toolbox](https://github.com/neocarto/geotoolbox)
 - [cliener/EnviroLogger - Raspberry Pi Sense Hat Environment Logger](https://github.com/cliener/EnviroLogger)
-- [zernonia/vista - Add animated subtitle to your video automatically](https://github.com/zernonia/vista)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
