@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lukeed/uid - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length](https://github.com/lukeed/uid)
+- [lukeed/hexoid - A tiny (190B) and extremely fast utility to generate random IDs of fixed length](https://github.com/lukeed/hexoid)
 - [rqlite/rqlite - The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
 - [NanaMorse/Cuckoo.Plus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/NanaMorse/Cuckoo.Plus)
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml)
 - [Owez/yark - YouTube archiving made simple](https://github.com/Owez/yark)
 - [jakearchibald/idb - IndexedDB, but with promises](https://github.com/jakearchibald/idb)
-- [dexie/Dexie.js - A Minimalistic Wrapper for IndexedDB](https://github.com/dexie/Dexie.js)
-- [css-doodle/postcss-doodle - PostCSS plugin that enables the use of css-doodle generators](https://github.com/css-doodle/postcss-doodle)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
