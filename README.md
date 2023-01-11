@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tolgee/tolgee-platform - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others. ](https://github.com/tolgee/tolgee-platform)
+- [tolgee/tolgee-js - Tolgee JavaScript libraries monorepo](https://github.com/tolgee/tolgee-js)
 - [lukeed/uid - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length](https://github.com/lukeed/uid)
 - [lukeed/hexoid - A tiny (190B) and extremely fast utility to generate random IDs of fixed length](https://github.com/lukeed/hexoid)
 - [rqlite/rqlite - The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [natemoo-re/ultrafetch - RFC-7234 compliant caching for any `fetch` implementation](https://github.com/natemoo-re/ultrafetch)
 - [natemoo-re/ultramark](https://github.com/natemoo-re/ultramark)
 - [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml)
-- [Owez/yark - YouTube archiving made simple](https://github.com/Owez/yark)
-- [jakearchibald/idb - IndexedDB, but with promises](https://github.com/jakearchibald/idb)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
