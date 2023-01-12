@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [elk-zone/elk - A nimble Mastodon web client](https://github.com/elk-zone/elk)
 - [tolgee/tolgee-platform - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others. ](https://github.com/tolgee/tolgee-platform)
 - [tolgee/tolgee-js - Tolgee JavaScript libraries monorepo](https://github.com/tolgee/tolgee-js)
 - [lukeed/uid - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length](https://github.com/lukeed/uid)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [GoogleChromeLabs/wasm-feature-detect - A small library to detect which features of WebAssembly are supported.](https://github.com/GoogleChromeLabs/wasm-feature-detect)
 - [natemoo-re/ultrafetch - RFC-7234 compliant caching for any `fetch` implementation](https://github.com/natemoo-re/ultrafetch)
 - [natemoo-re/ultramark](https://github.com/natemoo-re/ultramark)
-- [natemoo-re/ultrahtml](https://github.com/natemoo-re/ultrahtml)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
