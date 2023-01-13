@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [larsenwork/postcss-easing-gradients - PostCSS plugin to create smooth linear-gradients that approximate easing functions.](https://github.com/larsenwork/postcss-easing-gradients)
+- [n1k0/tooty - An alternative multi-accounts Web client for Mastodon. ](https://github.com/n1k0/tooty)
 - [cloudflare/wildebeest - Wildebeest is an ActivityPub and Mastodon-compatible server](https://github.com/cloudflare/wildebeest)
 - [elk-zone/elk - A nimble Mastodon web client](https://github.com/elk-zone/elk)
 - [tolgee/tolgee-platform - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others. ](https://github.com/tolgee/tolgee-platform)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [SuperIlu/DOStodon - MS-DOS Mastodon client](https://github.com/SuperIlu/DOStodon)
 - [petakopi/petakopi-ios](https://github.com/petakopi/petakopi-ios)
 - [llun/activities.next - A Next.JS ActivityPub server.](https://github.com/llun/activities.next)
-- [GoogleChromeLabs/wasm-feature-detect - A small library to detect which features of WebAssembly are supported.](https://github.com/GoogleChromeLabs/wasm-feature-detect)
-- [natemoo-re/ultrafetch - RFC-7234 compliant caching for any `fetch` implementation](https://github.com/natemoo-re/ultrafetch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
