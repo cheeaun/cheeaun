@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NoriginMedia/Norigin-Spatial-Navigation - React Hooks based Spatial Navigation (Key & Remote Control Navigation) / Web Browsers, Smart TVs and Connected TVs](https://github.com/NoriginMedia/Norigin-Spatial-Navigation)
 - [larsenwork/postcss-easing-gradients - PostCSS plugin to create smooth linear-gradients that approximate easing functions.](https://github.com/larsenwork/postcss-easing-gradients)
 - [n1k0/tooty - An alternative multi-accounts Web client for Mastodon. ](https://github.com/n1k0/tooty)
 - [cloudflare/wildebeest - Wildebeest is an ActivityPub and Mastodon-compatible server](https://github.com/cloudflare/wildebeest)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [alicerunsonfedora/fedigardens - A simplified, discussion-driven Mastodon app for iOS](https://github.com/alicerunsonfedora/fedigardens)
 - [SuperIlu/DOStodon - MS-DOS Mastodon client](https://github.com/SuperIlu/DOStodon)
 - [petakopi/petakopi-ios](https://github.com/petakopi/petakopi-ios)
-- [llun/activities.next - A Next.JS ActivityPub server.](https://github.com/llun/activities.next)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
