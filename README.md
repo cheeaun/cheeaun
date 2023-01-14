@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tseijp/glre - glre is GLSL Reactive Engine demo: https://codesandbox.io/s/glre-test3-ntlk3l](https://github.com/tseijp/glre)
+- [songjiachao/vite-plugin-inspector - jump to local IDE source code while click the element of browser automatically.](https://github.com/songjiachao/vite-plugin-inspector)
+- [sudongyuer/vite-plugin-react-inspector - 🦋 Jump to local IDE source code while click the element of browser automatically](https://github.com/sudongyuer/vite-plugin-react-inspector)
 - [NoriginMedia/Norigin-Spatial-Navigation - React Hooks based Spatial Navigation (Key & Remote Control Navigation) / Web Browsers, Smart TVs and Connected TVs](https://github.com/NoriginMedia/Norigin-Spatial-Navigation)
 - [larsenwork/postcss-easing-gradients - PostCSS plugin to create smooth linear-gradients that approximate easing functions.](https://github.com/larsenwork/postcss-easing-gradients)
 - [n1k0/tooty - An alternative multi-accounts Web client for Mastodon. ](https://github.com/n1k0/tooty)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rqlite/rqlite - The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
 - [NanaMorse/Cuckoo.Plus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/NanaMorse/Cuckoo.Plus)
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels)
-- [alicerunsonfedora/fedigardens - A simplified, discussion-driven Mastodon app for iOS](https://github.com/alicerunsonfedora/fedigardens)
-- [SuperIlu/DOStodon - MS-DOS Mastodon client](https://github.com/SuperIlu/DOStodon)
-- [petakopi/petakopi-ios](https://github.com/petakopi/petakopi-ios)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
