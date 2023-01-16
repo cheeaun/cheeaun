@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/udomsay - A stricter, signals driven, ESX based library](https://github.com/WebReflection/udomsay)
 - [tseijp/glre - glre is GLSL Reactive Engine demo: https://codesandbox.io/s/glre-test3-ntlk3l](https://github.com/tseijp/glre)
 - [songjiachao/vite-plugin-inspector - jump to local IDE source code while click the element of browser automatically.](https://github.com/songjiachao/vite-plugin-inspector)
 - [sudongyuer/vite-plugin-react-inspector - 🦋 Jump to local IDE source code while click the element of browser automatically](https://github.com/sudongyuer/vite-plugin-react-inspector)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lukeed/hexoid - A tiny (190B) and extremely fast utility to generate random IDs of fixed length](https://github.com/lukeed/hexoid)
 - [rqlite/rqlite - The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
 - [NanaMorse/Cuckoo.Plus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/NanaMorse/Cuckoo.Plus)
-- [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
