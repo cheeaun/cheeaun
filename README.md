@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fedibird/mastodon - Mastodonの機能開発への貢献と、様々な理由で標準搭載されていない機能を共有するためのリポジトリです。](https://github.com/fedibird/mastodon)
+- [wittman/fedthreader - Turn a complete text thread into slices ready to copy and post.](https://github.com/wittman/fedthreader)
+- [jvns/mastodon-threaded-replies](https://github.com/jvns/mastodon-threaded-replies)
 - [WebReflection/udomsay - A stricter, signals driven, ESX based library](https://github.com/WebReflection/udomsay)
 - [tseijp/glre - glre is GLSL Reactive Engine demo: https://codesandbox.io/s/glre-test3-ntlk3l](https://github.com/tseijp/glre)
 - [songjiachao/vite-plugin-inspector - jump to local IDE source code while click the element of browser automatically.](https://github.com/songjiachao/vite-plugin-inspector)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tolgee/tolgee-platform - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others. ](https://github.com/tolgee/tolgee-platform)
 - [tolgee/tolgee-js - Tolgee JavaScript libraries monorepo](https://github.com/tolgee/tolgee-js)
 - [lukeed/uid - A tiny (130B to 205B) and fast utility to generate random IDs of fixed length](https://github.com/lukeed/uid)
-- [lukeed/hexoid - A tiny (190B) and extremely fast utility to generate random IDs of fixed length](https://github.com/lukeed/hexoid)
-- [rqlite/rqlite - The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
-- [NanaMorse/Cuckoo.Plus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/NanaMorse/Cuckoo.Plus)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
