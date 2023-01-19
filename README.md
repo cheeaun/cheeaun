@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [atelier-anchor/smiley-sans - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体](https://github.com/atelier-anchor/smiley-sans)
 - [matthewhowell/reasonable-colors - Reasonable Colors is an open-source color system that makes it easy to build accessible, nice-looking color palettes.](https://github.com/matthewhowell/reasonable-colors)
 - [liangleslie/weathersg - Simple python module to simulate json response from data.gov.sg weather APIs](https://github.com/liangleslie/weathersg)
 - [neetlab/docker-mastodon-dev](https://github.com/neetlab/docker-mastodon-dev)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [larsenwork/postcss-easing-gradients - PostCSS plugin to create smooth linear-gradients that approximate easing functions.](https://github.com/larsenwork/postcss-easing-gradients)
 - [n1k0/tooty - An alternative multi-accounts Web client for Mastodon. ](https://github.com/n1k0/tooty)
 - [cloudflare/wildebeest - Wildebeest is an ActivityPub and Mastodon-compatible server](https://github.com/cloudflare/wildebeest)
-- [elk-zone/elk - A nimble Mastodon web client](https://github.com/elk-zone/elk)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
