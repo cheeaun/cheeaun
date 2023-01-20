@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [danqing/Pinch - One-click fix for Mac trackpad pinch to zoom gesture](https://github.com/danqing/Pinch)
 - [jackdomleo7/Checka11y.css - A CSS stylesheet to quickly highlight a11y concerns.](https://github.com/jackdomleo7/Checka11y.css)
 - [hueyy/awesome-mastodon - Up-to-date and curated list of awesome Mastodon-related stuff!](https://github.com/hueyy/awesome-mastodon)
 - [atelier-anchor/smiley-sans - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体](https://github.com/atelier-anchor/smiley-sans)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [songjiachao/vite-plugin-inspector - jump to local IDE source code while click the element of browser automatically.](https://github.com/songjiachao/vite-plugin-inspector)
 - [sudongyuer/vite-plugin-react-inspector - 🦋 Jump to local IDE source code while click the element of browser automatically](https://github.com/sudongyuer/vite-plugin-react-inspector)
 - [NoriginMedia/Norigin-Spatial-Navigation - React Hooks based Spatial Navigation (Key & Remote Control Navigation) / Web Browsers, Smart TVs and Connected TVs](https://github.com/NoriginMedia/Norigin-Spatial-Navigation)
-- [larsenwork/postcss-easing-gradients - PostCSS plugin to create smooth linear-gradients that approximate easing functions.](https://github.com/larsenwork/postcss-easing-gradients)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
