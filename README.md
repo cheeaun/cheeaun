@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ihabunek/toot - toot - Mastodon CLI & TUI](https://github.com/ihabunek/toot)
+- [h3poteto/megalodon - Mastodon, Pleroma and Misskey API client library for node.js and browser](https://github.com/h3poteto/megalodon)
 - [danqing/Pinch - One-click fix for Mac trackpad pinch to zoom gesture](https://github.com/danqing/Pinch)
 - [jackdomleo7/Checka11y.css - A CSS stylesheet to quickly highlight a11y concerns.](https://github.com/jackdomleo7/Checka11y.css)
 - [hueyy/awesome-mastodon - Up-to-date and curated list of awesome Mastodon-related stuff!](https://github.com/hueyy/awesome-mastodon)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WebReflection/udomsay - A stricter, signals driven, ESX based library](https://github.com/WebReflection/udomsay)
 - [tseijp/glre - glre is GLSL Reactive Engine demo: https://codesandbox.io/s/glre-test3-ntlk3l](https://github.com/tseijp/glre)
 - [songjiachao/vite-plugin-inspector - jump to local IDE source code while click the element of browser automatically.](https://github.com/songjiachao/vite-plugin-inspector)
-- [sudongyuer/vite-plugin-react-inspector - 🦋 Jump to local IDE source code while click the element of browser automatically](https://github.com/sudongyuer/vite-plugin-react-inspector)
-- [NoriginMedia/Norigin-Spatial-Navigation - React Hooks based Spatial Navigation (Key & Remote Control Navigation) / Web Browsers, Smart TVs and Connected TVs](https://github.com/NoriginMedia/Norigin-Spatial-Navigation)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
