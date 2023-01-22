@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NickColley/semaphore - Accessible, simple and fast web client for Mastodon](https://github.com/NickColley/semaphore)
 - [ihabunek/toot - toot - Mastodon CLI & TUI](https://github.com/ihabunek/toot)
 - [h3poteto/megalodon - Mastodon, Pleroma and Misskey API client library for node.js and browser](https://github.com/h3poteto/megalodon)
 - [danqing/Pinch - One-click fix for Mac trackpad pinch to zoom gesture](https://github.com/danqing/Pinch)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jvns/mastodon-threaded-replies](https://github.com/jvns/mastodon-threaded-replies)
 - [WebReflection/udomsay - A stricter, signals driven, ESX based library](https://github.com/WebReflection/udomsay)
 - [tseijp/glre - glre is GLSL Reactive Engine demo: https://codesandbox.io/s/glre-test3-ntlk3l](https://github.com/tseijp/glre)
-- [songjiachao/vite-plugin-inspector - jump to local IDE source code while click the element of browser automatically.](https://github.com/songjiachao/vite-plugin-inspector)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
