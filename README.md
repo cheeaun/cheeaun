@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tooot-app/app](https://github.com/tooot-app/app)
+- [mobile-dev-inc/maestro - Painless Mobile UI Automation](https://github.com/mobile-dev-inc/maestro)
 - [NickColley/semaphore - Accessible, simple and fast web client for Mastodon](https://github.com/NickColley/semaphore)
 - [ihabunek/toot - toot - Mastodon CLI & TUI](https://github.com/ihabunek/toot)
 - [h3poteto/megalodon - Mastodon, Pleroma and Misskey API client library for node.js and browser](https://github.com/h3poteto/megalodon)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fedibird/mastodon - Mastodonの機能開発への貢献と、様々な理由で標準搭載されていない機能を共有するためのリポジトリです。](https://github.com/fedibird/mastodon)
 - [wittman/fedthreader - Turn a complete text thread into slices ready to copy and post.](https://github.com/wittman/fedthreader)
 - [jvns/mastodon-threaded-replies](https://github.com/jvns/mastodon-threaded-replies)
-- [WebReflection/udomsay - A stricter, signals driven, ESX based library](https://github.com/WebReflection/udomsay)
-- [tseijp/glre - glre is GLSL Reactive Engine demo: https://codesandbox.io/s/glre-test3-ntlk3l](https://github.com/tseijp/glre)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
