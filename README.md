@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dexterleng/homerow - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.](https://github.com/dexterleng/homerow)
 - [tooot-app/app](https://github.com/tooot-app/app)
 - [mobile-dev-inc/maestro - Painless Mobile UI Automation](https://github.com/mobile-dev-inc/maestro)
 - [NickColley/semaphore - Accessible, simple and fast web client for Mastodon](https://github.com/NickColley/semaphore)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [neetlab/docker-mastodon-dev](https://github.com/neetlab/docker-mastodon-dev)
 - [fedibird/mastodon - Mastodonの機能開発への貢献と、様々な理由で標準搭載されていない機能を共有するためのリポジトリです。](https://github.com/fedibird/mastodon)
 - [wittman/fedthreader - Turn a complete text thread into slices ready to copy and post.](https://github.com/wittman/fedthreader)
-- [jvns/mastodon-threaded-replies](https://github.com/jvns/mastodon-threaded-replies)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
