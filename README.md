@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wopian/smooth-corners - CSS superellipse masks using the Houdini API](https://github.com/wopian/smooth-corners)
+- [DJanoskova/react-smooth-corners - Leverage the CSS Houdini API to create a rounded corner look for your React elements](https://github.com/DJanoskova/react-smooth-corners)
 - [szhsin/react-menu - React component for building accessible menu, dropdown, submenu, context menu and more.](https://github.com/szhsin/react-menu)
 - [dexterleng/homerow - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.](https://github.com/dexterleng/homerow)
 - [tooot-app/app](https://github.com/tooot-app/app)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [atelier-anchor/smiley-sans - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体](https://github.com/atelier-anchor/smiley-sans)
 - [matthewhowell/reasonable-colors - Reasonable Colors is an open-source color system that makes it easy to build accessible, nice-looking color palettes.](https://github.com/matthewhowell/reasonable-colors)
 - [liangleslie/weathersg - Simple python module to simulate json response from data.gov.sg weather APIs](https://github.com/liangleslie/weathersg)
-- [neetlab/docker-mastodon-dev](https://github.com/neetlab/docker-mastodon-dev)
-- [fedibird/mastodon - Mastodonの機能開発への貢献と、様々な理由で標準搭載されていない機能を共有するためのリポジトリです。](https://github.com/fedibird/mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
