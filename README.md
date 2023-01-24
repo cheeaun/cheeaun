@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [szhsin/react-menu - React component for building accessible menu, dropdown, submenu, context menu and more.](https://github.com/szhsin/react-menu)
 - [dexterleng/homerow - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.](https://github.com/dexterleng/homerow)
 - [tooot-app/app](https://github.com/tooot-app/app)
 - [mobile-dev-inc/maestro - Painless Mobile UI Automation](https://github.com/mobile-dev-inc/maestro)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [liangleslie/weathersg - Simple python module to simulate json response from data.gov.sg weather APIs](https://github.com/liangleslie/weathersg)
 - [neetlab/docker-mastodon-dev](https://github.com/neetlab/docker-mastodon-dev)
 - [fedibird/mastodon - Mastodonの機能開発への貢献と、様々な理由で標準搭載されていない機能を共有するためのリポジトリです。](https://github.com/fedibird/mastodon)
-- [wittman/fedthreader - Turn a complete text thread into slices ready to copy and post.](https://github.com/wittman/fedthreader)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
