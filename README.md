@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sk22/megalodon - Pink modification of the official Mastodon for Android app](https://github.com/sk22/megalodon)
 - [gizmo-ds/misstodon - misskey api proxy (WIP)](https://github.com/gizmo-ds/misstodon)
 - [wopian/smooth-corners - CSS superellipse masks using the Houdini API](https://github.com/wopian/smooth-corners)
 - [DJanoskova/react-smooth-corners - Leverage the CSS Houdini API to create a rounded corner look for your React elements](https://github.com/DJanoskova/react-smooth-corners)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jackdomleo7/Checka11y.css - A CSS stylesheet to quickly highlight a11y concerns.](https://github.com/jackdomleo7/Checka11y.css)
 - [hueyy/awesome-mastodon - Up-to-date and curated list of awesome Mastodon-related stuff!](https://github.com/hueyy/awesome-mastodon)
 - [atelier-anchor/smiley-sans - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体](https://github.com/atelier-anchor/smiley-sans)
-- [matthewhowell/reasonable-colors - Reasonable Colors is an open-source color system that makes it easy to build accessible, nice-looking color palettes.](https://github.com/matthewhowell/reasonable-colors)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
