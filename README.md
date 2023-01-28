@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [terhechte/twitvault - Easily Archive and Search Your Twitter Data with our Syncable Desktop App](https://github.com/terhechte/twitvault)
+- [stephank/castling.club - Challenge someone to a game of chess using toots!](https://github.com/stephank/castling.club)
 - [felt/tippecanoe - Build vector tilesets from large collections of GeoJSON features.](https://github.com/felt/tippecanoe)
 - [sk22/megalodon - Pink modification of the official Mastodon for Android app](https://github.com/sk22/megalodon)
 - [gizmo-ds/misstodon - misskey api proxy (WIP)](https://github.com/gizmo-ds/misstodon)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ihabunek/toot - toot - Mastodon CLI & TUI](https://github.com/ihabunek/toot)
 - [h3poteto/megalodon - Mastodon, Pleroma and Misskey API client library for node.js and browser](https://github.com/h3poteto/megalodon)
 - [danqing/Pinch - One-click fix for Mac trackpad pinch to zoom gesture](https://github.com/danqing/Pinch)
-- [jackdomleo7/Checka11y.css - A CSS stylesheet to quickly highlight a11y concerns.](https://github.com/jackdomleo7/Checka11y.css)
-- [hueyy/awesome-mastodon - Up-to-date and curated list of awesome Mastodon-related stuff!](https://github.com/hueyy/awesome-mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
