@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Afif13/CSS-Pattern - A collection of background patterns powered by CSS gradients](https://github.com/Afif13/CSS-Pattern)
 - [terhechte/twitvault - Easily Archive and Search Your Twitter Data with our Syncable Desktop App](https://github.com/terhechte/twitvault)
 - [stephank/castling.club - Challenge someone to a game of chess using toots!](https://github.com/stephank/castling.club)
 - [felt/tippecanoe - Build vector tilesets from large collections of GeoJSON features.](https://github.com/felt/tippecanoe)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [NickColley/semaphore - Accessible, simple and fast web client for Mastodon](https://github.com/NickColley/semaphore)
 - [ihabunek/toot - toot - Mastodon CLI & TUI](https://github.com/ihabunek/toot)
 - [h3poteto/megalodon - Mastodon, Pleroma and Misskey API client library for node.js and browser](https://github.com/h3poteto/megalodon)
-- [danqing/Pinch - One-click fix for Mac trackpad pinch to zoom gesture](https://github.com/danqing/Pinch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
