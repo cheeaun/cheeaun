@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [signavio/react-mentions - @mention people in a textarea](https://github.com/signavio/react-mentions)
+- [fathyb/carbonyl - Chromium running inside your terminal](https://github.com/fathyb/carbonyl)
 - [dglazkov/polymath](https://github.com/dglazkov/polymath)
 - [raineorshine/npm-check-updates - Find newer versions of package dependencies than what your package.json allows](https://github.com/raineorshine/npm-check-updates)
 - [catamphetamine/virtual-scroller - A component for efficiently rendering large lists of variable height items](https://github.com/catamphetamine/virtual-scroller)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [DJanoskova/react-smooth-corners - Leverage the CSS Houdini API to create a rounded corner look for your React elements](https://github.com/DJanoskova/react-smooth-corners)
 - [szhsin/react-menu - React component for building accessible menu, dropdown, submenu, context menu and more.](https://github.com/szhsin/react-menu)
 - [dexterleng/homerow - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.](https://github.com/dexterleng/homerow)
-- [tooot-app/app](https://github.com/tooot-app/app)
-- [mobile-dev-inc/maestro - Painless Mobile UI Automation](https://github.com/mobile-dev-inc/maestro)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
