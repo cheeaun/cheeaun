@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dglazkov/polymath](https://github.com/dglazkov/polymath)
 - [raineorshine/npm-check-updates - Find newer versions of package dependencies than what your package.json allows](https://github.com/raineorshine/npm-check-updates)
 - [catamphetamine/virtual-scroller - A component for efficiently rendering large lists of variable height items](https://github.com/catamphetamine/virtual-scroller)
 - [Afif13/CSS-Pattern - A collection of background patterns powered by CSS gradients](https://github.com/Afif13/CSS-Pattern)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dexterleng/homerow - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.](https://github.com/dexterleng/homerow)
 - [tooot-app/app](https://github.com/tooot-app/app)
 - [mobile-dev-inc/maestro - Painless Mobile UI Automation](https://github.com/mobile-dev-inc/maestro)
-- [NickColley/semaphore - Accessible, simple and fast web client for Mastodon](https://github.com/NickColley/semaphore)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
