@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [raineorshine/npm-check-updates - Find newer versions of package dependencies than what your package.json allows](https://github.com/raineorshine/npm-check-updates)
+- [catamphetamine/virtual-scroller - A component for efficiently rendering large lists of variable height items](https://github.com/catamphetamine/virtual-scroller)
 - [Afif13/CSS-Pattern - A collection of background patterns powered by CSS gradients](https://github.com/Afif13/CSS-Pattern)
 - [terhechte/twitvault - Easily Archive and Search Your Twitter Data with our Syncable Desktop App](https://github.com/terhechte/twitvault)
 - [stephank/castling.club - Challenge someone to a game of chess using toots!](https://github.com/stephank/castling.club)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tooot-app/app](https://github.com/tooot-app/app)
 - [mobile-dev-inc/maestro - Painless Mobile UI Automation](https://github.com/mobile-dev-inc/maestro)
 - [NickColley/semaphore - Accessible, simple and fast web client for Mastodon](https://github.com/NickColley/semaphore)
-- [ihabunek/toot - toot - Mastodon CLI & TUI](https://github.com/ihabunek/toot)
-- [h3poteto/megalodon - Mastodon, Pleroma and Misskey API client library for node.js and browser](https://github.com/h3poteto/megalodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
