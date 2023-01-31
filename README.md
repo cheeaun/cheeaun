@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [eemeli/make-plural - Translates Unicode CLDR pluralization rules to executable JavaScript](https://github.com/eemeli/make-plural)
+- [elysiajs/elysia - Fast, and friendly Bun web framework](https://github.com/elysiajs/elysia)
 - [csstools/postcss-plugins - PostCSS Tools and Plugins](https://github.com/csstools/postcss-plugins)
 - [signavio/react-mentions - @mention people in a textarea](https://github.com/signavio/react-mentions)
 - [fathyb/carbonyl - Chromium running inside your terminal](https://github.com/fathyb/carbonyl)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sk22/megalodon - Pink modification of the official Mastodon for Android app](https://github.com/sk22/megalodon)
 - [gizmo-ds/misstodon - misskey api proxy (WIP)](https://github.com/gizmo-ds/misstodon)
 - [wopian/smooth-corners - CSS superellipse masks using the Houdini API](https://github.com/wopian/smooth-corners)
-- [DJanoskova/react-smooth-corners - Leverage the CSS Houdini API to create a rounded corner look for your React elements](https://github.com/DJanoskova/react-smooth-corners)
-- [szhsin/react-menu - React component for building accessible menu, dropdown, submenu, context menu and more.](https://github.com/szhsin/react-menu)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
