@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [csstools/postcss-plugins - PostCSS Tools and Plugins](https://github.com/csstools/postcss-plugins)
 - [signavio/react-mentions - @mention people in a textarea](https://github.com/signavio/react-mentions)
 - [fathyb/carbonyl - Chromium running inside your terminal](https://github.com/fathyb/carbonyl)
 - [dglazkov/polymath](https://github.com/dglazkov/polymath)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wopian/smooth-corners - CSS superellipse masks using the Houdini API](https://github.com/wopian/smooth-corners)
 - [DJanoskova/react-smooth-corners - Leverage the CSS Houdini API to create a rounded corner look for your React elements](https://github.com/DJanoskova/react-smooth-corners)
 - [szhsin/react-menu - React component for building accessible menu, dropdown, submenu, context menu and more.](https://github.com/szhsin/react-menu)
-- [dexterleng/homerow - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.](https://github.com/dexterleng/homerow)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
