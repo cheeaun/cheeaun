@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [thegreenwebfoundation/co2.js - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services](https://github.com/thegreenwebfoundation/co2.js)
 - [astoilkov/p-signal - Better way to cancel promises using AbortSignal](https://github.com/astoilkov/p-signal)
 - [aheze/Squirrel - Enable scrolling in the Xcode Simulator!](https://github.com/aheze/Squirrel)
 - [eemeli/make-plural - Translates Unicode CLDR pluralization rules to executable JavaScript](https://github.com/eemeli/make-plural)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [terhechte/twitvault - Easily Archive and Search Your Twitter Data with our Syncable Desktop App](https://github.com/terhechte/twitvault)
 - [stephank/castling.club - Challenge someone to a game of chess using toots!](https://github.com/stephank/castling.club)
 - [felt/tippecanoe - Build vector tilesets from large collections of GeoJSON features.](https://github.com/felt/tippecanoe)
-- [sk22/megalodon - Pink modification of the official Mastodon for Android app](https://github.com/sk22/megalodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
