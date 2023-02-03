@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aheze/Squirrel - Enable scrolling in the Xcode Simulator!](https://github.com/aheze/Squirrel)
 - [eemeli/make-plural - Translates Unicode CLDR pluralization rules to executable JavaScript](https://github.com/eemeli/make-plural)
 - [elysiajs/elysia - Fast, and friendly Bun web framework](https://github.com/elysiajs/elysia)
 - [csstools/postcss-plugins - PostCSS Tools and Plugins](https://github.com/csstools/postcss-plugins)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [felt/tippecanoe - Build vector tilesets from large collections of GeoJSON features.](https://github.com/felt/tippecanoe)
 - [sk22/megalodon - Pink modification of the official Mastodon for Android app](https://github.com/sk22/megalodon)
 - [gizmo-ds/misstodon - misskey api proxy (WIP)](https://github.com/gizmo-ds/misstodon)
-- [wopian/smooth-corners - CSS superellipse masks using the Houdini API](https://github.com/wopian/smooth-corners)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
