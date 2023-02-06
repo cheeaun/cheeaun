@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [h3poteto/whalebird-desktop - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux](https://github.com/h3poteto/whalebird-desktop)
 - [ayoayco/twists-and-shapes-and-turns - A crazy invention by Kahel and Ayo](https://github.com/ayoayco/twists-and-shapes-and-turns)
 - [h3poteto/fedistar - Multi-column Mastodon and Pleroma client for desktop](https://github.com/h3poteto/fedistar)
 - [thegreenwebfoundation/co2.js - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services](https://github.com/thegreenwebfoundation/co2.js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [raineorshine/npm-check-updates - Find newer versions of package dependencies than what your package.json allows](https://github.com/raineorshine/npm-check-updates)
 - [catamphetamine/virtual-scroller - A component for efficiently rendering large lists of variable height items](https://github.com/catamphetamine/virtual-scroller)
 - [Afif13/CSS-Pattern - A collection of background patterns powered by CSS gradients](https://github.com/Afif13/CSS-Pattern)
-- [terhechte/twitvault - Easily Archive and Search Your Twitter Data with our Syncable Desktop App](https://github.com/terhechte/twitvault)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
