@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [h3poteto/whalebird-desktop - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux](https://github.com/h3poteto/whalebird-desktop)
-- [ayoayco/twists-and-shapes-and-turns - A crazy invention by Kahel and Ayo](https://github.com/ayoayco/twists-and-shapes-and-turns)
+- [ayoayco/twists-and-shapes-and-turns - A crazy invention by Kahel and Ayo - https://kaboom.ayco.io/](https://github.com/ayoayco/twists-and-shapes-and-turns)
 - [h3poteto/fedistar - Multi-column Mastodon and Pleroma client for desktop](https://github.com/h3poteto/fedistar)
 - [thegreenwebfoundation/co2.js - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services](https://github.com/thegreenwebfoundation/co2.js)
 - [astoilkov/p-signal - Better way to cancel promises using AbortSignal](https://github.com/astoilkov/p-signal)
