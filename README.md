@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [szhsin/reactish-state - Simple, decentralized state management for React.](https://github.com/szhsin/reactish-state)
 - [marcellobarile/multilang-sentiment - Multi language AFINN-based sentiment analysis for Node.js.](https://github.com/marcellobarile/multilang-sentiment)
 - [h3poteto/whalebird-desktop - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux](https://github.com/h3poteto/whalebird-desktop)
 - [ayoayco/twists-and-shapes-and-turns - A crazy invention by Kahel and Ayo: https://kaboom.ayco.io/](https://github.com/ayoayco/twists-and-shapes-and-turns)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fathyb/carbonyl - Chromium running inside your terminal](https://github.com/fathyb/carbonyl)
 - [dglazkov/polymath](https://github.com/dglazkov/polymath)
 - [raineorshine/npm-check-updates - Find newer versions of package dependencies than what your package.json allows](https://github.com/raineorshine/npm-check-updates)
-- [catamphetamine/virtual-scroller - A component for efficiently rendering large lists of variable height items](https://github.com/catamphetamine/virtual-scroller)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
