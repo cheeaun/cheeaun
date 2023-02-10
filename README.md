@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [teddyber/toob](https://github.com/teddyber/toob)
+- [colelawrence/tooot.to - Universal Mastodon link router built with Deno](https://github.com/colelawrence/tooot.to)
 - [szhsin/reactish-state - Simple, decentralized state management for React.](https://github.com/szhsin/reactish-state)
 - [marcellobarile/multilang-sentiment - Multi language AFINN-based sentiment analysis for Node.js.](https://github.com/marcellobarile/multilang-sentiment)
 - [h3poteto/whalebird-desktop - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux](https://github.com/h3poteto/whalebird-desktop)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [csstools/postcss-plugins - PostCSS Tools and Plugins](https://github.com/csstools/postcss-plugins)
 - [signavio/react-mentions - @mention people in a textarea](https://github.com/signavio/react-mentions)
 - [fathyb/carbonyl - Chromium running inside your terminal](https://github.com/fathyb/carbonyl)
-- [dglazkov/polymath](https://github.com/dglazkov/polymath)
-- [raineorshine/npm-check-updates - Find newer versions of package dependencies than what your package.json allows](https://github.com/raineorshine/npm-check-updates)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
