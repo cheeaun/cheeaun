@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [twofas/2fas-ios - Source code for 2FAS iOS app](https://github.com/twofas/2fas-ios)
 - [teddyber/toob](https://github.com/teddyber/toob)
 - [colelawrence/tooot.to - Universal Mastodon link router built with Deno](https://github.com/colelawrence/tooot.to)
 - [szhsin/reactish-state - Simple, decentralized state management for React.](https://github.com/szhsin/reactish-state)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [elysiajs/elysia - Fast, and friendly Bun web framework](https://github.com/elysiajs/elysia)
 - [csstools/postcss-plugins - PostCSS Tools and Plugins](https://github.com/csstools/postcss-plugins)
 - [signavio/react-mentions - @mention people in a textarea](https://github.com/signavio/react-mentions)
-- [fathyb/carbonyl - Chromium running inside your terminal](https://github.com/fathyb/carbonyl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
