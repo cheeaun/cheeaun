@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mastotron/mastotron - A different interface to mastodon, and other experiments in social media](https://github.com/mastotron/mastotron)
 - [twofas/2fas-ios - Source code for 2FAS iOS app](https://github.com/twofas/2fas-ios)
 - [teddyber/toob](https://github.com/teddyber/toob)
 - [colelawrence/tooot.to - Universal Mastodon link router built with Deno](https://github.com/colelawrence/tooot.to)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [eemeli/make-plural - Translates Unicode CLDR pluralization rules to executable JavaScript](https://github.com/eemeli/make-plural)
 - [elysiajs/elysia - Fast, and friendly Bun web framework](https://github.com/elysiajs/elysia)
 - [csstools/postcss-plugins - PostCSS Tools and Plugins](https://github.com/csstools/postcss-plugins)
-- [signavio/react-mentions - @mention people in a textarea](https://github.com/signavio/react-mentions)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
