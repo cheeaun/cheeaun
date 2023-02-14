@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Applelo/vite-plugin-inject-preload - A Vite plugin for injecting <link rel='preload'> ](https://github.com/Applelo/vite-plugin-inject-preload)
 - [pmndrs/react-xr - 🤳 VR/AR with react-three-fiber](https://github.com/pmndrs/react-xr)
 - [studio-freight/lenis - How smooth scroll should be](https://github.com/studio-freight/lenis)
 - [14islands/r3f-scroll-rig - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.](https://github.com/14islands/r3f-scroll-rig)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [h3poteto/fedistar - Multi-column Mastodon and Pleroma client for desktop](https://github.com/h3poteto/fedistar)
 - [thegreenwebfoundation/co2.js - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services](https://github.com/thegreenwebfoundation/co2.js)
 - [astoilkov/p-signal - Better way to cancel promises using AbortSignal](https://github.com/astoilkov/p-signal)
-- [aheze/Squirrel - Enable scrolling in the Xcode Simulator!](https://github.com/aheze/Squirrel)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
