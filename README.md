@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shyamsn97/mario-gpt - Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981](https://github.com/shyamsn97/mario-gpt)
 - [Applelo/vite-plugin-inject-preload - A Vite plugin for injecting <link rel='preload'> ](https://github.com/Applelo/vite-plugin-inject-preload)
 - [pmndrs/react-xr - 🤳 VR/AR with react-three-fiber](https://github.com/pmndrs/react-xr)
 - [studio-freight/lenis - How smooth scroll should be](https://github.com/studio-freight/lenis)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ayoayco/twists-and-shapes-and-turns - A crazy invention by Kahel and Ayo: https://kaboom.ayco.io/](https://github.com/ayoayco/twists-and-shapes-and-turns)
 - [h3poteto/fedistar - Multi-column Mastodon and Pleroma client for desktop](https://github.com/h3poteto/fedistar)
 - [thegreenwebfoundation/co2.js - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services](https://github.com/thegreenwebfoundation/co2.js)
-- [astoilkov/p-signal - Better way to cancel promises using AbortSignal](https://github.com/astoilkov/p-signal)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
