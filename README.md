@@ -36,7 +36,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [twofas/2fas-ios - Source code for 2FAS iOS app](https://github.com/twofas/2fas-ios)
 - [teddyber/toob](https://github.com/teddyber/toob)
 - [colelawrence/tooot.to - Universal Mastodon link router built with Deno](https://github.com/colelawrence/tooot.to)
-- [szhsin/reactish-state - Simple, decentralized state management for React.](https://github.com/szhsin/reactish-state)
+- [szhsin/reactish-state - Simple, decentralized state management for React](https://github.com/szhsin/reactish-state)
 - [marcellobarile/multilang-sentiment - Multi language AFINN-based sentiment analysis for Node.js.](https://github.com/marcellobarile/multilang-sentiment)
 - [h3poteto/whalebird-desktop - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux](https://github.com/h3poteto/whalebird-desktop)
 - [ayoayco/twists-and-shapes-and-turns - A crazy invention by Kahel and Ayo: https://kaboom.ayco.io/](https://github.com/ayoayco/twists-and-shapes-and-turns)
