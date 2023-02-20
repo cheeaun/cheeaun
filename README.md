@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [willymaps/daytime - 24-hour range slider based on latitude and longitude](https://github.com/willymaps/daytime)
 - [shyamsn97/mario-gpt - Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981](https://github.com/shyamsn97/mario-gpt)
 - [Applelo/vite-plugin-inject-preload - A Vite plugin for injecting <link rel='preload'> ](https://github.com/Applelo/vite-plugin-inject-preload)
 - [pmndrs/react-xr - 🤳 VR/AR with react-three-fiber](https://github.com/pmndrs/react-xr)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [h3poteto/whalebird-desktop - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux](https://github.com/h3poteto/whalebird-desktop)
 - [ayoayco/twists-and-shapes-and-turns - A crazy invention by Kahel and Ayo: https://kaboom.ayco.io/](https://github.com/ayoayco/twists-and-shapes-and-turns)
 - [h3poteto/fedistar - Multi-column Mastodon and Pleroma client for desktop](https://github.com/h3poteto/fedistar)
-- [thegreenwebfoundation/co2.js - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services](https://github.com/thegreenwebfoundation/co2.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
