@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [remirror/remirror - ProseMirror toolkit for React 🎉](https://github.com/remirror/remirror)
 - [crutchcorn/houseform - Simple to use React forms, where your validation and UI code live together in harmony.](https://github.com/crutchcorn/houseform)
 - [willymaps/daytime - 24-hour range slider based on latitude and longitude](https://github.com/willymaps/daytime)
 - [shyamsn97/mario-gpt - Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981](https://github.com/shyamsn97/mario-gpt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [szhsin/reactish-state - Simple, decentralized state management for React](https://github.com/szhsin/reactish-state)
 - [marcellobarile/multilang-sentiment - Multi language AFINN-based sentiment analysis for Node.js.](https://github.com/marcellobarile/multilang-sentiment)
 - [h3poteto/whalebird-desktop - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux](https://github.com/h3poteto/whalebird-desktop)
-- [ayoayco/twists-and-shapes-and-turns - A crazy invention by Kahel and Ayo: https://kaboom.ayco.io/](https://github.com/ayoayco/twists-and-shapes-and-turns)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
