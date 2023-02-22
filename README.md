@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aralroca/next-translate - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!](https://github.com/aralroca/next-translate)
 - [AvdLee/Roadmap - Publish your roadmap inside your app and allow users to vote for upcoming features](https://github.com/AvdLee/Roadmap)
 - [ascorbic/unpic-img - Multi-framework responsive image component](https://github.com/ascorbic/unpic-img)
 - [remirror/remirror - ProseMirror toolkit for React 🎉](https://github.com/remirror/remirror)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [twofas/2fas-ios - Source code for 2FAS iOS app](https://github.com/twofas/2fas-ios)
 - [teddyber/toob](https://github.com/teddyber/toob)
 - [colelawrence/tooot.to - Universal Mastodon link router built with Deno](https://github.com/colelawrence/tooot.to)
-- [szhsin/reactish-state - Simple, decentralized state management for React](https://github.com/szhsin/reactish-state)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
