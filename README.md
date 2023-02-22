@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AvdLee/Roadmap - Publish your roadmap inside your app and allow users to vote for upcoming features](https://github.com/AvdLee/Roadmap)
+- [ascorbic/unpic-img - Multi-framework responsive image component](https://github.com/ascorbic/unpic-img)
 - [remirror/remirror - ProseMirror toolkit for React 🎉](https://github.com/remirror/remirror)
 - [crutchcorn/houseform - Simple to use React forms, where your validation and UI code live together in harmony.](https://github.com/crutchcorn/houseform)
 - [willymaps/daytime - 24-hour range slider based on latitude and longitude](https://github.com/willymaps/daytime)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [teddyber/toob](https://github.com/teddyber/toob)
 - [colelawrence/tooot.to - Universal Mastodon link router built with Deno](https://github.com/colelawrence/tooot.to)
 - [szhsin/reactish-state - Simple, decentralized state management for React](https://github.com/szhsin/reactish-state)
-- [marcellobarile/multilang-sentiment - Multi language AFINN-based sentiment analysis for Node.js.](https://github.com/marcellobarile/multilang-sentiment)
-- [h3poteto/whalebird-desktop - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux](https://github.com/h3poteto/whalebird-desktop)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
