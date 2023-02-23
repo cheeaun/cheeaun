@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NicolasConstant/sengi - Mastodon & Pleroma Multi-account Desktop Client](https://github.com/NicolasConstant/sengi)
 - [OctoPrint/OctoPrint - OctoPrint is the snappy web interface for your 3D printer!](https://github.com/OctoPrint/OctoPrint)
 - [aralroca/next-translate - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!](https://github.com/aralroca/next-translate)
 - [AvdLee/Roadmap - Publish your roadmap inside your app and allow users to vote for upcoming features](https://github.com/AvdLee/Roadmap)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [14islands/r3f-scroll-rig - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.](https://github.com/14islands/r3f-scroll-rig)
 - [mastotron/mastotron - A different interface to mastodon, and other experiments in social media](https://github.com/mastotron/mastotron)
 - [twofas/2fas-ios - Source code for 2FAS iOS app](https://github.com/twofas/2fas-ios)
-- [teddyber/toob](https://github.com/teddyber/toob)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
