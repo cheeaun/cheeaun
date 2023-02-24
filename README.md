@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wooorm/mdxjs-rs - Compile MDX to JavaScript in Rust](https://github.com/wooorm/mdxjs-rs)
+- [wooorm/markdown-rs - CommonMark compliant markdown parser in Rust with ASTs and extensions](https://github.com/wooorm/markdown-rs)
 - [emilkowalski/sonner - An opinionated toast component for React.](https://github.com/emilkowalski/sonner)
 - [NicolasConstant/sengi - Mastodon & Pleroma Multi-account Desktop Client](https://github.com/NicolasConstant/sengi)
 - [OctoPrint/OctoPrint - OctoPrint is the snappy web interface for your 3D printer!](https://github.com/OctoPrint/OctoPrint)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Applelo/vite-plugin-inject-preload - A Vite plugin for injecting <link rel='preload'> ](https://github.com/Applelo/vite-plugin-inject-preload)
 - [pmndrs/react-xr - 🤳 VR/AR with react-three-fiber](https://github.com/pmndrs/react-xr)
 - [studio-freight/lenis - How smooth scroll should be](https://github.com/studio-freight/lenis)
-- [14islands/r3f-scroll-rig - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.](https://github.com/14islands/r3f-scroll-rig)
-- [mastotron/mastotron - A different interface to mastodon, and other experiments in social media](https://github.com/mastotron/mastotron)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
