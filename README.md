@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TheBLVD/mammoth](https://github.com/TheBLVD/mammoth)
+- [TheBLVD/moth.social - moth.social](https://github.com/TheBLVD/moth.social)
 - [wooorm/mdxjs-rs - Compile MDX to JavaScript in Rust](https://github.com/wooorm/mdxjs-rs)
 - [wooorm/markdown-rs - CommonMark compliant markdown parser in Rust with ASTs and extensions](https://github.com/wooorm/markdown-rs)
 - [emilkowalski/sonner - An opinionated toast component for React.](https://github.com/emilkowalski/sonner)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [willymaps/daytime - 24-hour range slider based on latitude and longitude](https://github.com/willymaps/daytime)
 - [shyamsn97/mario-gpt - Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981](https://github.com/shyamsn97/mario-gpt)
 - [Applelo/vite-plugin-inject-preload - A Vite plugin for injecting <link rel='preload'> ](https://github.com/Applelo/vite-plugin-inject-preload)
-- [pmndrs/react-xr - 🤳 VR/AR with react-three-fiber](https://github.com/pmndrs/react-xr)
-- [studio-freight/lenis - How smooth scroll should be](https://github.com/studio-freight/lenis)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
