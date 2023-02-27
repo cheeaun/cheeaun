@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [insidegui/encodeformastodon - Simple command-line tool for macOS that encodes videos in a format suitable for publishing to Mastodon](https://github.com/insidegui/encodeformastodon)
+- [hometown-fork/hometown - A supported fork of Mastodon that provides local posting and a wider range of content types.](https://github.com/hometown-fork/hometown)
 - [godly-devotion/charge-limiter - macOS app to set battery charge limit for Intel MacBooks](https://github.com/godly-devotion/charge-limiter)
 - [cure53/DOMPurify - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:](https://github.com/cure53/DOMPurify)
 - [markdown-it/linkify-it - Links recognition library with full unicode support](https://github.com/markdown-it/linkify-it)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [aralroca/next-translate - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!](https://github.com/aralroca/next-translate)
 - [AvdLee/Roadmap - Publish your roadmap inside your app and allow users to vote for upcoming features](https://github.com/AvdLee/Roadmap)
 - [ascorbic/unpic-img - Multi-framework responsive image component](https://github.com/ascorbic/unpic-img)
-- [remirror/remirror - ProseMirror toolkit for React 🎉](https://github.com/remirror/remirror)
-- [crutchcorn/houseform - Simple to use React forms, where your validation and UI code live together in harmony.](https://github.com/crutchcorn/houseform)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
