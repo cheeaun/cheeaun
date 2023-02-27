@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [godly-devotion/charge-limiter - macOS app to set battery charge limit for Intel MacBooks](https://github.com/godly-devotion/charge-limiter)
 - [cure53/DOMPurify - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:](https://github.com/cure53/DOMPurify)
 - [markdown-it/linkify-it - Links recognition library with full unicode support](https://github.com/markdown-it/linkify-it)
 - [TheBLVD/mammoth](https://github.com/TheBLVD/mammoth)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ascorbic/unpic-img - Multi-framework responsive image component](https://github.com/ascorbic/unpic-img)
 - [remirror/remirror - ProseMirror toolkit for React 🎉](https://github.com/remirror/remirror)
 - [crutchcorn/houseform - Simple to use React forms, where your validation and UI code live together in harmony.](https://github.com/crutchcorn/houseform)
-- [willymaps/daytime - 24-hour range slider based on latitude and longitude](https://github.com/willymaps/daytime)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
