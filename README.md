@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [davidwernhart/AlDente-Charge-Limiter - macOS tool to limit maximum charging percentage](https://github.com/davidwernhart/AlDente-Charge-Limiter)
 - [insidegui/encodeformastodon - Simple command-line tool for macOS that encodes videos in a format suitable for publishing to Mastodon](https://github.com/insidegui/encodeformastodon)
 - [hometown-fork/hometown - A supported fork of Mastodon that provides local posting and a wider range of content types.](https://github.com/hometown-fork/hometown)
 - [godly-devotion/charge-limiter - macOS app to set battery charge limit for Intel MacBooks](https://github.com/godly-devotion/charge-limiter)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [OctoPrint/OctoPrint - OctoPrint is the snappy web interface for your 3D printer!](https://github.com/OctoPrint/OctoPrint)
 - [aralroca/next-translate - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!](https://github.com/aralroca/next-translate)
 - [AvdLee/Roadmap - Publish your roadmap inside your app and allow users to vote for upcoming features](https://github.com/AvdLee/Roadmap)
-- [ascorbic/unpic-img - Multi-framework responsive image component](https://github.com/ascorbic/unpic-img)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
