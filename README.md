@@ -15,11 +15,11 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 ## 📰 Newsletter
 
 <!-- newsletter start -->
+- 28 Feb 2023 - [Such a short month - 🥫 #18](https://cheeaun.substack.com/p/such-a-short-month-18)
 - 31 Jan 2023 - [🧧 Rabbit or cat? - 🥫 #17](https://cheeaun.substack.com/p/rabbit-or-cat-17)
 - 31 Dec 2022 - [📬 Moving to Substack - 🥫 #16](https://cheeaun.substack.com/p/moving-to-substack-16)
 - 30 Nov 2022 - [😱 It's already Nov?! - 🥫 #15](https://cheeaun.substack.com/p/it-s-already-nov-15-1433832)
 - 31 Oct 2022 - [🖍️ 3D-tober - 🥫 #14](https://cheeaun.substack.com/p/3d-tober-14-1385284)
-- 30 Sep 2022 - [🍎 Techtember - 🥫 #13](https://cheeaun.substack.com/p/techtember-13-1335515)
 <!-- newsletter end -->
 
 Subscribe to my [newsletter](https://cheeaun.substack.com/)!
