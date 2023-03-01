@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/nonchalance - The easiest way to augment DOM builtin elements.](https://github.com/WebReflection/nonchalance)
 - [stipsan/react-spring-bottom-sheet - Accessible ♿️, Delightful ✨, & Fast 🚀](https://github.com/stipsan/react-spring-bottom-sheet)
 - [woofers/react-sheet-slide - 🏞️ 🎢 🛝 A responsive React draggable sheet and dialog component ](https://github.com/woofers/react-sheet-slide)
 - [davidwernhart/AlDente-Charge-Limiter - macOS tool to limit maximum charging percentage](https://github.com/davidwernhart/AlDente-Charge-Limiter)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wooorm/markdown-rs - CommonMark compliant markdown parser in Rust with ASTs and extensions](https://github.com/wooorm/markdown-rs)
 - [emilkowalski/sonner - An opinionated toast component for React.](https://github.com/emilkowalski/sonner)
 - [NicolasConstant/sengi - Mastodon & Pleroma Multi-account Desktop Client](https://github.com/NicolasConstant/sengi)
-- [OctoPrint/OctoPrint - OctoPrint is the snappy web interface for your 3D printer!](https://github.com/OctoPrint/OctoPrint)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
