@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oneearedrabbit/badger-system-ii - Tinkering with Badger 2040.](https://github.com/oneearedrabbit/badger-system-ii)
 - [WebReflection/nonchalance - The easiest way to augment DOM builtin elements.](https://github.com/WebReflection/nonchalance)
 - [stipsan/react-spring-bottom-sheet - Accessible ♿️, Delightful ✨, & Fast 🚀](https://github.com/stipsan/react-spring-bottom-sheet)
 - [woofers/react-sheet-slide - 🏞️ 🎢 🛝 A responsive React draggable sheet and dialog component ](https://github.com/woofers/react-sheet-slide)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wooorm/mdxjs-rs - Compile MDX to JavaScript in Rust](https://github.com/wooorm/mdxjs-rs)
 - [wooorm/markdown-rs - CommonMark compliant markdown parser in Rust with ASTs and extensions](https://github.com/wooorm/markdown-rs)
 - [emilkowalski/sonner - An opinionated toast component for React.](https://github.com/emilkowalski/sonner)
-- [NicolasConstant/sengi - Mastodon & Pleroma Multi-account Desktop Client](https://github.com/NicolasConstant/sengi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
