@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [potproject/ikuradon - Mastodon client app for React Native(Expo App)](https://github.com/potproject/ikuradon)
+- [wellyshen/react-cool-virtual - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.](https://github.com/wellyshen/react-cool-virtual)
+- [petyosi/react-virtuoso - The most powerful virtual list component for React](https://github.com/petyosi/react-virtuoso)
 - [oneearedrabbit/badger-system-ii - Tinkering with Badger 2040.](https://github.com/oneearedrabbit/badger-system-ii)
 - [WebReflection/nonchalance - The easiest way to augment DOM builtin elements.](https://github.com/WebReflection/nonchalance)
 - [stipsan/react-spring-bottom-sheet - Accessible ♿️, Delightful ✨, & Fast 🚀](https://github.com/stipsan/react-spring-bottom-sheet)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [markdown-it/linkify-it - Links recognition library with full unicode support](https://github.com/markdown-it/linkify-it)
 - [TheBLVD/mammoth](https://github.com/TheBLVD/mammoth)
 - [TheBLVD/moth.social - moth.social](https://github.com/TheBLVD/moth.social)
-- [wooorm/mdxjs-rs - Compile MDX to JavaScript in Rust](https://github.com/wooorm/mdxjs-rs)
-- [wooorm/markdown-rs - CommonMark compliant markdown parser in Rust with ASTs and extensions](https://github.com/wooorm/markdown-rs)
-- [emilkowalski/sonner - An opinionated toast component for React.](https://github.com/emilkowalski/sonner)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
