@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LucasGGamerM/moshidon - Better modification of the official Mastodon for Android app](https://github.com/LucasGGamerM/moshidon)
+- [wellyshen/react-cool-inview - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).](https://github.com/wellyshen/react-cool-inview)
+- [wellyshen/react-cool-img - 😎 🏞 A React <Img /> component let you handle image UX and performance as a Pro!](https://github.com/wellyshen/react-cool-img)
 - [potproject/ikuradon - Mastodon client app for React Native(Expo App)](https://github.com/potproject/ikuradon)
 - [wellyshen/react-cool-virtual - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.](https://github.com/wellyshen/react-cool-virtual)
 - [petyosi/react-virtuoso - The most powerful virtual list component for React](https://github.com/petyosi/react-virtuoso)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hometown-fork/hometown - A supported fork of Mastodon that provides local posting and a wider range of content types.](https://github.com/hometown-fork/hometown)
 - [godly-devotion/charge-limiter - macOS app to set battery charge limit for Intel MacBooks](https://github.com/godly-devotion/charge-limiter)
 - [cure53/DOMPurify - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:](https://github.com/cure53/DOMPurify)
-- [markdown-it/linkify-it - Links recognition library with full unicode support](https://github.com/markdown-it/linkify-it)
-- [TheBLVD/mammoth](https://github.com/TheBLVD/mammoth)
-- [TheBLVD/moth.social - moth.social](https://github.com/TheBLVD/moth.social)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
