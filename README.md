@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [thedaviddelta/lingva-scraper - Google Translate scraper for Lingva Translate](https://github.com/thedaviddelta/lingva-scraper)
 - [SFSafeSymbols/SFSafeSymbols - Safely access Apple's SF Symbols using static typing](https://github.com/SFSafeSymbols/SFSafeSymbols)
 - [LucasGGamerM/moshidon - Better modification of the official Mastodon for Android app](https://github.com/LucasGGamerM/moshidon)
 - [wellyshen/react-cool-inview - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).](https://github.com/wellyshen/react-cool-inview)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [davidwernhart/AlDente-Charge-Limiter - macOS tool to limit maximum charging percentage](https://github.com/davidwernhart/AlDente-Charge-Limiter)
 - [insidegui/encodeformastodon - Simple command-line tool for macOS that encodes videos in a format suitable for publishing to Mastodon](https://github.com/insidegui/encodeformastodon)
 - [hometown-fork/hometown - A supported fork of Mastodon that provides local posting and a wider range of content types.](https://github.com/hometown-fork/hometown)
-- [godly-devotion/charge-limiter - macOS app to set battery charge limit for Intel MacBooks](https://github.com/godly-devotion/charge-limiter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
