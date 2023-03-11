@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rolldown-rs/rolldown - Rollup Rust implementation with 100% API compatible](https://github.com/rolldown-rs/rolldown)
 - [upstash/ratelimit - Rate limiting library for serverless runtimes](https://github.com/upstash/ratelimit)
 - [wstaeblein/texthighlighter - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality](https://github.com/wstaeblein/texthighlighter)
 - [web-infra-dev/rspack - A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wellyshen/react-cool-virtual - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.](https://github.com/wellyshen/react-cool-virtual)
 - [petyosi/react-virtuoso - The most powerful virtual list component for React](https://github.com/petyosi/react-virtuoso)
 - [oneearedrabbit/badger-system-ii - Tinkering with Badger 2040.](https://github.com/oneearedrabbit/badger-system-ii)
-- [WebReflection/nonchalance - The easiest way to augment DOM builtin elements.](https://github.com/WebReflection/nonchalance)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
