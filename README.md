@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [rolldown-rs/rolldown - Rollup Rust implementation with 100% API compatible](https://github.com/rolldown-rs/rolldown)
+- [rolldown-rs/rolldown - Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.](https://github.com/rolldown-rs/rolldown)
 - [upstash/ratelimit - Rate limiting library for serverless runtimes](https://github.com/upstash/ratelimit)
 - [wstaeblein/texthighlighter - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality](https://github.com/wstaeblein/texthighlighter)
 - [web-infra-dev/rspack - A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
