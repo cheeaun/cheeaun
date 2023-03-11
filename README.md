@@ -29,7 +29,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 <!-- starred repos start -->
 - [upstash/ratelimit - Rate limiting library for serverless runtimes](https://github.com/upstash/ratelimit)
 - [wstaeblein/texthighlighter - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality](https://github.com/wstaeblein/texthighlighter)
-- [web-infra-dev/rspack - A fast Rust-based web bundler.](https://github.com/web-infra-dev/rspack)
+- [web-infra-dev/rspack - A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
 - [microsoft/visual-chatgpt - VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
 - [dtinth/ThreadGPT - Alternative frontend to ChatGPT (gpt-3.5-turbo) with a thread-based interface](https://github.com/dtinth/ThreadGPT)
 - [thedaviddelta/lingva-scraper - Google Translate scraper for Lingva Translate](https://github.com/thedaviddelta/lingva-scraper)
