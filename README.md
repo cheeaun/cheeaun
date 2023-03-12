@@ -27,11 +27,12 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kona314/transit-fedilerts - ActivityPub-compliant server for distributing transit service alerts](https://github.com/kona314/transit-fedilerts)
 - [rolldown-rs/rolldown - Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.](https://github.com/rolldown-rs/rolldown)
 - [upstash/ratelimit - Rate limiting library for serverless runtimes](https://github.com/upstash/ratelimit)
 - [wstaeblein/texthighlighter - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality](https://github.com/wstaeblein/texthighlighter)
 - [web-infra-dev/rspack - A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
-- [microsoft/visual-chatgpt - VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
+- [microsoft/visual-chatgpt - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://github.com/microsoft/visual-chatgpt)
 - [dtinth/ThreadGPT - Alternative frontend to ChatGPT (gpt-3.5-turbo) with a thread-based interface](https://github.com/dtinth/ThreadGPT)
 - [thedaviddelta/lingva-scraper - Google Translate scraper for Lingva Translate](https://github.com/thedaviddelta/lingva-scraper)
 - [SFSafeSymbols/SFSafeSymbols - Safely access Apple's SF Symbols using static typing](https://github.com/SFSafeSymbols/SFSafeSymbols)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [potproject/ikuradon - Mastodon client app for React Native(Expo App)](https://github.com/potproject/ikuradon)
 - [wellyshen/react-cool-virtual - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.](https://github.com/wellyshen/react-cool-virtual)
 - [petyosi/react-virtuoso - The most powerful virtual list component for React](https://github.com/petyosi/react-virtuoso)
-- [oneearedrabbit/badger-system-ii - Tinkering with Badger 2040.](https://github.com/oneearedrabbit/badger-system-ii)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
