@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ryngonzalez/ChatGPT-for-Mac - A simple Mac app wrapper for ChatGPT! Hacky AF, but pretty.](https://github.com/ryngonzalez/ChatGPT-for-Mac)
+- [kensanata/mastodon-archive - Archive your statuses, favorites and media using the Mastodon API (i.e. login required)](https://github.com/kensanata/mastodon-archive)
+- [ronilaukkarinen/mastodon-bird-ui - 🐘🐦 Mastodon, but strongly inspired by Twitter.](https://github.com/ronilaukkarinen/mastodon-bird-ui)
 - [kona314/transit-fedilerts - ActivityPub-compliant server for distributing transit service alerts](https://github.com/kona314/transit-fedilerts)
 - [rolldown-rs/rolldown - Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.](https://github.com/rolldown-rs/rolldown)
 - [upstash/ratelimit - Rate limiting library for serverless runtimes](https://github.com/upstash/ratelimit)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [LucasGGamerM/moshidon - Better modification of the official Mastodon for Android app](https://github.com/LucasGGamerM/moshidon)
 - [wellyshen/react-cool-inview - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).](https://github.com/wellyshen/react-cool-inview)
 - [wellyshen/react-cool-img - 😎 🏞 A React <Img /> component let you handle image UX and performance as a Pro!](https://github.com/wellyshen/react-cool-img)
-- [potproject/ikuradon - Mastodon client app for React Native(Expo App)](https://github.com/potproject/ikuradon)
-- [wellyshen/react-cool-virtual - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.](https://github.com/wellyshen/react-cool-virtual)
-- [petyosi/react-virtuoso - The most powerful virtual list component for React](https://github.com/petyosi/react-virtuoso)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
