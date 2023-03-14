@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rileytestut/Delta - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.](https://github.com/rileytestut/Delta)
 - [ryngonzalez/ChatGPT-for-Mac - A simple Mac app wrapper for ChatGPT! Hacky AF, but pretty.](https://github.com/ryngonzalez/ChatGPT-for-Mac)
 - [kensanata/mastodon-archive - Archive your statuses, favorites and media using the Mastodon API (i.e. login required)](https://github.com/kensanata/mastodon-archive)
 - [ronilaukkarinen/mastodon-bird-ui - 🐘🐦 Mastodon, but strongly inspired by Twitter.](https://github.com/ronilaukkarinen/mastodon-bird-ui)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [SFSafeSymbols/SFSafeSymbols - Safely access Apple's SF Symbols using static typing](https://github.com/SFSafeSymbols/SFSafeSymbols)
 - [LucasGGamerM/moshidon - Better modification of the official Mastodon for Android app](https://github.com/LucasGGamerM/moshidon)
 - [wellyshen/react-cool-inview - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).](https://github.com/wellyshen/react-cool-inview)
-- [wellyshen/react-cool-img - 😎 🏞 A React <Img /> component let you handle image UX and performance as a Pro!](https://github.com/wellyshen/react-cool-img)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
