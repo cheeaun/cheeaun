@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CodyJasonBennett/preact-reconciler - Custom renderers for Preact in <1KB.](https://github.com/CodyJasonBennett/preact-reconciler)
+- [gajus/turbowatch - Extremely fast file change detector and task orchestrator for Node.js.](https://github.com/gajus/turbowatch)
 - [rileytestut/Delta - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.](https://github.com/rileytestut/Delta)
 - [ryngonzalez/ChatGPT-for-Mac - A simple Mac app wrapper for ChatGPT! Hacky AF, but pretty.](https://github.com/ryngonzalez/ChatGPT-for-Mac)
 - [kensanata/mastodon-archive - Archive your statuses, favorites and media using the Mastodon API (i.e. login required)](https://github.com/kensanata/mastodon-archive)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dtinth/ThreadGPT - Alternative frontend to ChatGPT (gpt-3.5-turbo) with a thread-based interface](https://github.com/dtinth/ThreadGPT)
 - [thedaviddelta/lingva-scraper - Google Translate scraper for Lingva Translate](https://github.com/thedaviddelta/lingva-scraper)
 - [SFSafeSymbols/SFSafeSymbols - Safely access Apple's SF Symbols using static typing](https://github.com/SFSafeSymbols/SFSafeSymbols)
-- [LucasGGamerM/moshidon - Better modification of the official Mastodon for Android app](https://github.com/LucasGGamerM/moshidon)
-- [wellyshen/react-cool-inview - 😎 🖥️ React hook to monitor an element enters or leaves the viewport (or another element).](https://github.com/wellyshen/react-cool-inview)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
