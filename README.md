@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zachleat/speedlify - Benchmark the web performance and accessibility of sites over time.](https://github.com/zachleat/speedlify)
 - [neodb-social/neodb - Mark the things you love.](https://github.com/neodb-social/neodb)
 - [CodyJasonBennett/preact-reconciler - Custom renderers for Preact in <1KB.](https://github.com/CodyJasonBennett/preact-reconciler)
 - [gajus/turbowatch - Extremely fast file change detector and task orchestrator for Node.js.](https://github.com/gajus/turbowatch)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [web-infra-dev/rspack - A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
 - [microsoft/visual-chatgpt - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://github.com/microsoft/visual-chatgpt)
 - [dtinth/ThreadGPT - Alternative frontend to ChatGPT (gpt-3.5-turbo) with a thread-based interface](https://github.com/dtinth/ThreadGPT)
-- [thedaviddelta/lingva-scraper - Google Translate scraper for Lingva Translate](https://github.com/thedaviddelta/lingva-scraper)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
