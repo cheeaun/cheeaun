@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [benbrown/shuttlecraft - a single user activitypub server - join the federation!](https://github.com/benbrown/shuttlecraft)
+- [system-fonts/modern-font-stacks - System font stack CSS organized by typeface classification for every modern operating system](https://github.com/system-fonts/modern-font-stacks)
 - [zachleat/speedlify - Benchmark the web performance and accessibility of sites over time.](https://github.com/zachleat/speedlify)
 - [neodb-social/neodb - Mark the things you love.](https://github.com/neodb-social/neodb)
 - [CodyJasonBennett/preact-reconciler - Custom renderers for Preact in <1KB.](https://github.com/CodyJasonBennett/preact-reconciler)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [upstash/ratelimit - Rate limiting library for serverless runtimes](https://github.com/upstash/ratelimit)
 - [wstaeblein/texthighlighter - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality](https://github.com/wstaeblein/texthighlighter)
 - [web-infra-dev/rspack - A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
-- [microsoft/visual-chatgpt - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://github.com/microsoft/visual-chatgpt)
-- [dtinth/ThreadGPT - Alternative frontend to ChatGPT (gpt-3.5-turbo / gpt-4) with a thread-based interface](https://github.com/dtinth/ThreadGPT)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
