@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [translate-tools/linguist - Linguist is a powerful browser extension for translate pages and text, which are ready to replace your favorite translate service](https://github.com/translate-tools/linguist)
+- [salesforce/BLIP - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ](https://github.com/salesforce/BLIP)
 - [daybrush/gesto - You can set up drag, pinch events in any browser.](https://github.com/daybrush/gesto)
 - [komodojp/tinyld - Simple and Performant Language detection library for NodeJS](https://github.com/komodojp/tinyld)
 - [benbrown/shuttlecraft - a single user activitypub server - join the federation!](https://github.com/benbrown/shuttlecraft)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kensanata/mastodon-archive - Archive your statuses, favorites and media using the Mastodon API (i.e. login required)](https://github.com/kensanata/mastodon-archive)
 - [ronilaukkarinen/mastodon-bird-ui - 🐘🐦 Mastodon, but strongly inspired by Twitter.](https://github.com/ronilaukkarinen/mastodon-bird-ui)
 - [kona314/transit-fedilerts - ActivityPub-compliant server for distributing transit service alerts](https://github.com/kona314/transit-fedilerts)
-- [rolldown-rs/rolldown - Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.](https://github.com/rolldown-rs/rolldown)
-- [upstash/ratelimit - Rate limiting library for serverless runtimes](https://github.com/upstash/ratelimit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
