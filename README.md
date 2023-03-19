@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [daybrush/gesto - You can set up drag, pinch events in any browser.](https://github.com/daybrush/gesto)
+- [komodojp/tinyld - Simple and Performant Language detection library for NodeJS](https://github.com/komodojp/tinyld)
 - [benbrown/shuttlecraft - a single user activitypub server - join the federation!](https://github.com/benbrown/shuttlecraft)
 - [system-fonts/modern-font-stacks - System font stack CSS organized by typeface classification for every modern operating system](https://github.com/system-fonts/modern-font-stacks)
 - [zachleat/speedlify - Benchmark the web performance and accessibility of sites over time.](https://github.com/zachleat/speedlify)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kona314/transit-fedilerts - ActivityPub-compliant server for distributing transit service alerts](https://github.com/kona314/transit-fedilerts)
 - [rolldown-rs/rolldown - Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.](https://github.com/rolldown-rs/rolldown)
 - [upstash/ratelimit - Rate limiting library for serverless runtimes](https://github.com/upstash/ratelimit)
-- [wstaeblein/texthighlighter - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality](https://github.com/wstaeblein/texthighlighter)
-- [web-infra-dev/rspack - A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
