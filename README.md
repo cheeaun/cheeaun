@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nuclearfog/Shitter - Lightweight Android app for Twitter/Mastodon](https://github.com/nuclearfog/Shitter)
 - [translate-tools/linguist - Linguist is a powerful browser extension for translate pages and text, which are ready to replace your favorite translate service](https://github.com/translate-tools/linguist)
 - [salesforce/BLIP - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ](https://github.com/salesforce/BLIP)
 - [daybrush/gesto - You can set up drag, pinch events in any browser.](https://github.com/daybrush/gesto)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ryngonzalez/ChatGPT-for-Mac - A simple Mac app wrapper for ChatGPT! Hacky AF, but pretty.](https://github.com/ryngonzalez/ChatGPT-for-Mac)
 - [kensanata/mastodon-archive - Archive your statuses, favorites and media using the Mastodon API (i.e. login required)](https://github.com/kensanata/mastodon-archive)
 - [ronilaukkarinen/mastodon-bird-ui - 🐘🐦 Mastodon, but strongly inspired by Twitter.](https://github.com/ronilaukkarinen/mastodon-bird-ui)
-- [kona314/transit-fedilerts - ActivityPub-compliant server for distributing transit service alerts](https://github.com/kona314/transit-fedilerts)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
