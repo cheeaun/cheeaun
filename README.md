@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [earth-genome/ChatGeoPT - A very basic, very brittle proof of concept for an AI assistant for geospatial search](https://github.com/earth-genome/ChatGeoPT)
 - [nuclearfog/Shitter - Lightweight Android app for Twitter/Mastodon](https://github.com/nuclearfog/Shitter)
 - [translate-tools/linguist - Linguist is a powerful browser extension for translate pages and text, which are ready to replace your favorite translate service](https://github.com/translate-tools/linguist)
 - [salesforce/BLIP - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ](https://github.com/salesforce/BLIP)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rileytestut/Delta - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.](https://github.com/rileytestut/Delta)
 - [ryngonzalez/ChatGPT-for-Mac - A simple Mac app wrapper for ChatGPT! Hacky AF, but pretty.](https://github.com/ryngonzalez/ChatGPT-for-Mac)
 - [kensanata/mastodon-archive - Archive your statuses, favorites and media using the Mastodon API (i.e. login required)](https://github.com/kensanata/mastodon-archive)
-- [ronilaukkarinen/mastodon-bird-ui - 🐘🐦 Mastodon, but strongly inspired by Twitter.](https://github.com/ronilaukkarinen/mastodon-bird-ui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
