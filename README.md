@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Charca/view-transitions-live - View Transitions API Demo](https://github.com/Charca/view-transitions-live)
 - [prc5/react-zoom-pan-pinch - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like <img> and <div>](https://github.com/prc5/react-zoom-pan-pinch)
 - [earth-genome/ChatGeoPT - A very basic, very brittle proof of concept for an AI assistant for geospatial search](https://github.com/earth-genome/ChatGeoPT)
 - [nuclearfog/Shitter - Lightweight Android app for Twitter/Mastodon](https://github.com/nuclearfog/Shitter)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [CodyJasonBennett/preact-reconciler - Custom renderers for Preact in <1KB.](https://github.com/CodyJasonBennett/preact-reconciler)
 - [gajus/turbowatch - Extremely fast file change detector and task orchestrator for Node.js.](https://github.com/gajus/turbowatch)
 - [rileytestut/Delta - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.](https://github.com/rileytestut/Delta)
-- [ryngonzalez/ChatGPT-for-Mac - A simple Mac app wrapper for ChatGPT! Hacky AF, but pretty.](https://github.com/ryngonzalez/ChatGPT-for-Mac)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
