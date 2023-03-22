@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [evanw/thumbhash - A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
 - [TeamPiped/Piped - An alternative privacy-friendly YouTube frontend which is efficient by design.](https://github.com/TeamPiped/Piped)
 - [humanwhocodes/toot - CLI for posting to Mastodon](https://github.com/humanwhocodes/toot)
 - [Charca/view-transitions-live - View Transitions API Demo](https://github.com/Charca/view-transitions-live)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [system-fonts/modern-font-stacks - System font stack CSS organized by typeface classification for every modern operating system](https://github.com/system-fonts/modern-font-stacks)
 - [zachleat/speedlify - Benchmark the web performance and accessibility of sites over time.](https://github.com/zachleat/speedlify)
 - [neodb-social/neodb - Mark the things you love.](https://github.com/neodb-social/neodb)
-- [CodyJasonBennett/preact-reconciler - Custom renderers for Preact in <1KB.](https://github.com/CodyJasonBennett/preact-reconciler)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
