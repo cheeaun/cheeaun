@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TeamPiped/Piped - An alternative privacy-friendly YouTube frontend which is efficient by design.](https://github.com/TeamPiped/Piped)
 - [humanwhocodes/toot - CLI for posting to Mastodon](https://github.com/humanwhocodes/toot)
 - [Charca/view-transitions-live - View Transitions API Demo](https://github.com/Charca/view-transitions-live)
 - [prc5/react-zoom-pan-pinch - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like <img> and <div>](https://github.com/prc5/react-zoom-pan-pinch)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zachleat/speedlify - Benchmark the web performance and accessibility of sites over time.](https://github.com/zachleat/speedlify)
 - [neodb-social/neodb - Mark the things you love.](https://github.com/neodb-social/neodb)
 - [CodyJasonBennett/preact-reconciler - Custom renderers for Preact in <1KB.](https://github.com/CodyJasonBennett/preact-reconciler)
-- [gajus/turbowatch - Extremely fast file change detector and task orchestrator for Node.js.](https://github.com/gajus/turbowatch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
