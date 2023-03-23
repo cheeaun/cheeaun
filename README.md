@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tldraw/tldraw - A tiny little drawing app.](https://github.com/tldraw/tldraw)
+- [facebook/lexical-ios - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.](https://github.com/facebook/lexical-ios)
 - [transitive-bullshit/lqip-modern - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.](https://github.com/transitive-bullshit/lqip-modern)
 - [basetenlabs/alpaca-7b-truss](https://github.com/basetenlabs/alpaca-7b-truss)
 - [evanw/thumbhash - A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [salesforce/BLIP - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ](https://github.com/salesforce/BLIP)
 - [daybrush/gesto - You can set up drag, pinch events in any browser.](https://github.com/daybrush/gesto)
 - [komodojp/tinyld - Simple and Performant Language detection library for NodeJS](https://github.com/komodojp/tinyld)
-- [benbrown/shuttlecraft - a single user activitypub server - join the federation!](https://github.com/benbrown/shuttlecraft)
-- [system-fonts/modern-font-stacks - System font stack CSS organized by typeface classification for every modern operating system](https://github.com/system-fonts/modern-font-stacks)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
