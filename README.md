@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [transitive-bullshit/lqip-modern - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.](https://github.com/transitive-bullshit/lqip-modern)
 - [basetenlabs/alpaca-7b-truss](https://github.com/basetenlabs/alpaca-7b-truss)
 - [evanw/thumbhash - A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
 - [TeamPiped/Piped - An alternative privacy-friendly YouTube frontend which is efficient by design.](https://github.com/TeamPiped/Piped)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [komodojp/tinyld - Simple and Performant Language detection library for NodeJS](https://github.com/komodojp/tinyld)
 - [benbrown/shuttlecraft - a single user activitypub server - join the federation!](https://github.com/benbrown/shuttlecraft)
 - [system-fonts/modern-font-stacks - System font stack CSS organized by typeface classification for every modern operating system](https://github.com/system-fonts/modern-font-stacks)
-- [zachleat/speedlify - Benchmark the web performance and accessibility of sites over time.](https://github.com/zachleat/speedlify)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
