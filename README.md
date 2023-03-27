@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sjbat/mangan - Fork of Mangane, fork Soapbox, fork of Mastodon UI](https://github.com/sjbat/mangan)
 - [fairdataihub/alt-text-generator - Generate alt text descriptions for images](https://github.com/fairdataihub/alt-text-generator)
 - [cawfree/react-native-webassembly - ⚛️ 🏎 WebAssembly for React Native powered by C++ TurboModules.](https://github.com/cawfree/react-native-webassembly)
 - [tldraw/tldraw - A tiny little drawing app.](https://github.com/tldraw/tldraw)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [earth-genome/ChatGeoPT - A very basic, very brittle proof of concept for an AI assistant for geospatial search](https://github.com/earth-genome/ChatGeoPT)
 - [nuclearfog/Shitter - Lightweight Android app for Twitter/Mastodon](https://github.com/nuclearfog/Shitter)
 - [translate-tools/linguist - Linguist is a powerful browser extension for translate pages and text, which are ready to replace your favorite translate service](https://github.com/translate-tools/linguist)
-- [salesforce/BLIP - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ](https://github.com/salesforce/BLIP)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
