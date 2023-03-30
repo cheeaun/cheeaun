@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nanojsx/nano - 🎯 SSR first, lightweight 1kB JSX library.](https://github.com/nanojsx/nano)
 - [sjbat/mangan - Fork of Mangane, fork Soapbox, fork of Mastodon UI](https://github.com/sjbat/mangan)
 - [fairdataihub/alt-text-generator - Generate alt text descriptions for images](https://github.com/fairdataihub/alt-text-generator)
 - [cawfree/react-native-webassembly - ⚛️ 🏎 WebAssembly for React Native powered by C++ TurboModules.](https://github.com/cawfree/react-native-webassembly)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [prc5/react-zoom-pan-pinch - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like <img> and <div>](https://github.com/prc5/react-zoom-pan-pinch)
 - [earth-genome/ChatGeoPT - A very basic, very brittle proof of concept for an AI assistant for geospatial search](https://github.com/earth-genome/ChatGeoPT)
 - [nuclearfog/Shitter - Lightweight Android app for Twitter/Mastodon](https://github.com/nuclearfog/Shitter)
-- [translate-tools/linguist - Linguist is a powerful browser extension for translate pages and text, which are ready to replace your favorite translate service](https://github.com/translate-tools/linguist)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
