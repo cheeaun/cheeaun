@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jackyef/animate-transcript](https://github.com/jackyef/animate-transcript)
 - [koyuspace/litterbox - A simple fediverse client](https://github.com/koyuspace/litterbox)
 - [yeokm1/doschgpt - A proof-of-concept ChatGPT client for DOS.](https://github.com/yeokm1/doschgpt)
 - [berbaquero/zapkeys - Fastest and simplest way to add keyboard shortcuts to pages](https://github.com/berbaquero/zapkeys)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [evanw/thumbhash - A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
 - [TeamPiped/Piped - An alternative privacy-friendly YouTube frontend which is efficient by design.](https://github.com/TeamPiped/Piped)
 - [humanwhocodes/toot - CLI for posting to Mastodon](https://github.com/humanwhocodes/toot)
-- [Charca/view-transitions-live - View Transitions API Demo](https://github.com/Charca/view-transitions-live)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
