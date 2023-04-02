@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [BlitterStudio/amidon - A Mastodon client for Amiga computers](https://github.com/BlitterStudio/amidon)
 - [jackyef/animate-transcript](https://github.com/jackyef/animate-transcript)
 - [koyuspace/litterbox - A simple fediverse client](https://github.com/koyuspace/litterbox)
 - [yeokm1/doschgpt - A proof-of-concept ChatGPT client for DOS.](https://github.com/yeokm1/doschgpt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [basetenlabs/alpaca-7b-truss](https://github.com/basetenlabs/alpaca-7b-truss)
 - [evanw/thumbhash - A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
 - [TeamPiped/Piped - An alternative privacy-friendly YouTube frontend which is efficient by design.](https://github.com/TeamPiped/Piped)
-- [humanwhocodes/toot - CLI for posting to Mastodon](https://github.com/humanwhocodes/toot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
