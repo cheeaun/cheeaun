@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sujjeee/imagealt - Create alt text for any image in a few clicks with this free and open-source tool. Improve the accessibility and SEO of your content with this simple and effective tool!](https://github.com/sujjeee/imagealt)
 - [BlitterStudio/amidon - A Mastodon client for Amiga computers](https://github.com/BlitterStudio/amidon)
 - [jackyef/animate-transcript](https://github.com/jackyef/animate-transcript)
 - [koyuspace/litterbox - A simple fediverse client](https://github.com/koyuspace/litterbox)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [transitive-bullshit/lqip-modern - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.](https://github.com/transitive-bullshit/lqip-modern)
 - [basetenlabs/alpaca-7b-truss](https://github.com/basetenlabs/alpaca-7b-truss)
 - [evanw/thumbhash - A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
-- [TeamPiped/Piped - An alternative privacy-friendly YouTube frontend which is efficient by design.](https://github.com/TeamPiped/Piped)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
