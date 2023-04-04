@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pkreissel/fedifeed - Display Mastodon Posts in a curated feed with an user-customisable algorithm](https://github.com/pkreissel/fedifeed)
+- [code-hike/bright - React Server Component for syntax highlighting ](https://github.com/code-hike/bright)
 - [sujjeee/imagealt - Create alt text for any image in a few clicks with this free and open-source tool. Improve the accessibility and SEO of your content with this simple and effective tool!](https://github.com/sujjeee/imagealt)
 - [BlitterStudio/amidon - A Mastodon client for Amiga computers](https://github.com/BlitterStudio/amidon)
 - [jackyef/animate-transcript](https://github.com/jackyef/animate-transcript)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tldraw/tldraw - A tiny little drawing app.](https://github.com/tldraw/tldraw)
 - [facebook/lexical-ios - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.](https://github.com/facebook/lexical-ios)
 - [transitive-bullshit/lqip-modern - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.](https://github.com/transitive-bullshit/lqip-modern)
-- [basetenlabs/alpaca-7b-truss](https://github.com/basetenlabs/alpaca-7b-truss)
-- [evanw/thumbhash - A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
