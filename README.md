@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/magicast - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.](https://github.com/unjs/magicast)
 - [pkreissel/fedifeed - Display Mastodon Posts in a curated feed with an user-customisable algorithm](https://github.com/pkreissel/fedifeed)
 - [code-hike/bright - React Server Component for syntax highlighting ](https://github.com/code-hike/bright)
 - [sujjeee/imagealt - Create alt text for any image in a few clicks with this free and open-source tool. Improve the accessibility and SEO of your content with this simple and effective tool!](https://github.com/sujjeee/imagealt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cawfree/react-native-webassembly - ⚛️ 🏎 WebAssembly for React Native powered by C++ TurboModules.](https://github.com/cawfree/react-native-webassembly)
 - [tldraw/tldraw - A tiny little drawing app.](https://github.com/tldraw/tldraw)
 - [facebook/lexical-ios - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.](https://github.com/facebook/lexical-ios)
-- [transitive-bullshit/lqip-modern - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.](https://github.com/transitive-bullshit/lqip-modern)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
