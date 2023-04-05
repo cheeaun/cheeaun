@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chakra-ui/ark - Universal headless UI components for the web. Powered by Zag.js](https://github.com/chakra-ui/ark)
 - [unjs/magicast - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.](https://github.com/unjs/magicast)
 - [pkreissel/fedifeed - Display Mastodon Posts in a curated feed with an user-customisable algorithm](https://github.com/pkreissel/fedifeed)
 - [code-hike/bright - React Server Component for syntax highlighting ](https://github.com/code-hike/bright)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fairdataihub/alt-text-generator - Generate alt text descriptions for images](https://github.com/fairdataihub/alt-text-generator)
 - [cawfree/react-native-webassembly - ⚛️ 🏎 WebAssembly for React Native powered by C++ TurboModules.](https://github.com/cawfree/react-native-webassembly)
 - [tldraw/tldraw - A tiny little drawing app.](https://github.com/tldraw/tldraw)
-- [facebook/lexical-ios - Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit.](https://github.com/facebook/lexical-ios)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
