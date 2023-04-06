@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [divriots/jampack - Optimizes static websites for best user experience and best Core Web Vitals scores.](https://github.com/divriots/jampack)
 - [chakra-ui/ark - Universal headless UI components for the web. Powered by Zag.js](https://github.com/chakra-ui/ark)
 - [unjs/magicast - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.](https://github.com/unjs/magicast)
 - [pkreissel/fedifeed - Display Mastodon Posts in a curated feed with an user-customisable algorithm](https://github.com/pkreissel/fedifeed)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sjbat/mangan - Fork of Mangane, fork Soapbox, fork of Mastodon UI](https://github.com/sjbat/mangan)
 - [fairdataihub/alt-text-generator - Generate alt text descriptions for images](https://github.com/fairdataihub/alt-text-generator)
 - [cawfree/react-native-webassembly - ⚛️ 🏎 WebAssembly for React Native powered by C++ TurboModules.](https://github.com/cawfree/react-native-webassembly)
-- [tldraw/tldraw - A tiny little drawing app.](https://github.com/tldraw/tldraw)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
