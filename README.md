@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ForkAwesome/Fork-Awesome - A fork of the iconic font and CSS toolkit](https://github.com/ForkAwesome/Fork-Awesome)
 - [divriots/jampack - Optimizes static websites for best user experience and best Core Web Vitals scores.](https://github.com/divriots/jampack)
 - [chakra-ui/ark - Universal headless UI components for the web. Powered by Zag.js](https://github.com/chakra-ui/ark)
 - [unjs/magicast - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.](https://github.com/unjs/magicast)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nanojsx/nano - 🎯 SSR first, lightweight 1kB JSX library.](https://github.com/nanojsx/nano)
 - [sjbat/mangan - Fork of Mangane, fork Soapbox, fork of Mastodon UI](https://github.com/sjbat/mangan)
 - [fairdataihub/alt-text-generator - Generate alt text descriptions for images](https://github.com/fairdataihub/alt-text-generator)
-- [cawfree/react-native-webassembly - ⚛️ 🏎 WebAssembly for React Native powered by C++ TurboModules.](https://github.com/cawfree/react-native-webassembly)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
