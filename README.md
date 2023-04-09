@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wenyan-lang/wenyan - 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
 - [jakex7/react-native-localization-settings - React Native module to expose per-app language preferences API on iOS and Android.](https://github.com/jakex7/react-native-localization-settings)
 - [Hydrock/AhemFont - Ahem - Test Font](https://github.com/Hydrock/AhemFont)
 - [los-gordos/BLOKK - BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.](https://github.com/los-gordos/BLOKK)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jackyef/animate-transcript](https://github.com/jackyef/animate-transcript)
 - [koyuspace/litterbox - A simple fediverse client](https://github.com/koyuspace/litterbox)
 - [yeokm1/doschgpt - A proof-of-concept ChatGPT client for DOS.](https://github.com/yeokm1/doschgpt)
-- [berbaquero/zapkeys - Fastest and simplest way to add keyboard shortcuts to pages](https://github.com/berbaquero/zapkeys)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
