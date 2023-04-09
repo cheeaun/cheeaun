@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [michaelcpuckett/activitypub-core - An attempt to build a spec-compliant ActivityPub core library.](https://github.com/michaelcpuckett/activitypub-core)
 - [projectfluent/fluent.js - JavaScript implementation of Project Fluent](https://github.com/projectfluent/fluent.js)
 - [wenyan-lang/wenyan - 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
 - [jakex7/react-native-localization-settings - React Native module to expose per-app language preferences API on iOS and Android.](https://github.com/jakex7/react-native-localization-settings)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sujjeee/imagealt - Create alt text for any image in a few clicks with this free and open-source tool. Improve the accessibility and SEO of your content with this simple and effective tool!](https://github.com/sujjeee/imagealt)
 - [BlitterStudio/amidon - A Mastodon client for Amiga computers](https://github.com/BlitterStudio/amidon)
 - [jackyef/animate-transcript](https://github.com/jackyef/animate-transcript)
-- [koyuspace/litterbox - A simple fediverse client](https://github.com/koyuspace/litterbox)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
