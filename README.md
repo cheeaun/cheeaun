@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [projectfluent/fluent.js - JavaScript implementation of Project Fluent](https://github.com/projectfluent/fluent.js)
 - [wenyan-lang/wenyan - 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
 - [jakex7/react-native-localization-settings - React Native module to expose per-app language preferences API on iOS and Android.](https://github.com/jakex7/react-native-localization-settings)
 - [Hydrock/AhemFont - Ahem - Test Font](https://github.com/Hydrock/AhemFont)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [BlitterStudio/amidon - A Mastodon client for Amiga computers](https://github.com/BlitterStudio/amidon)
 - [jackyef/animate-transcript](https://github.com/jackyef/animate-transcript)
 - [koyuspace/litterbox - A simple fediverse client](https://github.com/koyuspace/litterbox)
-- [yeokm1/doschgpt - A proof-of-concept ChatGPT client for DOS.](https://github.com/yeokm1/doschgpt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
