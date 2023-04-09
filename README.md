@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jakex7/react-native-localization-settings - React Native module to expose per-app language preferences API on iOS and Android.](https://github.com/jakex7/react-native-localization-settings)
+- [Hydrock/AhemFont - Ahem - Test Font](https://github.com/Hydrock/AhemFont)
+- [los-gordos/BLOKK - BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.](https://github.com/los-gordos/BLOKK)
 - [ForkAwesome/Fork-Awesome - A fork of the iconic font and CSS toolkit](https://github.com/ForkAwesome/Fork-Awesome)
 - [divriots/jampack - Optimizes static websites for best user experience and best Core Web Vitals scores.](https://github.com/divriots/jampack)
 - [chakra-ui/ark - Universal headless UI components for the web. Powered by Zag.js](https://github.com/chakra-ui/ark)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [koyuspace/litterbox - A simple fediverse client](https://github.com/koyuspace/litterbox)
 - [yeokm1/doschgpt - A proof-of-concept ChatGPT client for DOS.](https://github.com/yeokm1/doschgpt)
 - [berbaquero/zapkeys - Fastest and simplest way to add keyboard shortcuts to pages](https://github.com/berbaquero/zapkeys)
-- [nanojsx/nano - 🎯 SSR first, lightweight 1kB JSX library.](https://github.com/nanojsx/nano)
-- [sjbat/mangan - Fork of Mangane, fork Soapbox, fork of Mastodon UI](https://github.com/sjbat/mangan)
-- [fairdataihub/alt-text-generator - Generate alt text descriptions for images](https://github.com/fairdataihub/alt-text-generator)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
