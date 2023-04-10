@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tweetback/tweetback - Take ownership of your Twitter data and get your tweets back](https://github.com/tweetback/tweetback)
+- [unjs/ufo - 🔗 URL utils for humans](https://github.com/unjs/ufo)
 - [michaelcpuckett/activitypub-core - An attempt to build a spec-compliant ActivityPub core library.](https://github.com/michaelcpuckett/activitypub-core)
 - [projectfluent/fluent.js - JavaScript implementation of Project Fluent](https://github.com/projectfluent/fluent.js)
 - [wenyan-lang/wenyan - 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pkreissel/fedifeed - Display Mastodon Posts in a curated feed with an user-customisable algorithm](https://github.com/pkreissel/fedifeed)
 - [code-hike/bright - React Server Component for syntax highlighting ](https://github.com/code-hike/bright)
 - [sujjeee/imagealt - Create alt text for any image in a few clicks with this free and open-source tool. Improve the accessibility and SEO of your content with this simple and effective tool!](https://github.com/sujjeee/imagealt)
-- [BlitterStudio/amidon - A Mastodon client for Amiga computers](https://github.com/BlitterStudio/amidon)
-- [jackyef/animate-transcript](https://github.com/jackyef/animate-transcript)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
