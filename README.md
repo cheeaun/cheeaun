@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ektogamat/AutoFocusDOF - Autofocus DOF component for React Three Fiber](https://github.com/ektogamat/AutoFocusDOF)
 - [Hexagon/croner - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.](https://github.com/Hexagon/croner)
 - [geoarrow/geoarrow - Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geoarrow/geoarrow)
 - [tweetback/tweetback - Take ownership of your Twitter data and get your tweets back](https://github.com/tweetback/tweetback)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [divriots/jampack - Optimizes static websites for best user experience and best Core Web Vitals scores.](https://github.com/divriots/jampack)
 - [chakra-ui/ark - Universal headless UI components for the web. Powered by Zag.js](https://github.com/chakra-ui/ark)
 - [unjs/magicast - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.](https://github.com/unjs/magicast)
-- [pkreissel/fedifeed - Display Mastodon Posts in a curated feed with an user-customisable algorithm](https://github.com/pkreissel/fedifeed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
