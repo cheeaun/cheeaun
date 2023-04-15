@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [johannschopplich/unlazy - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs](https://github.com/johannschopplich/unlazy)
 - [ektogamat/AutoFocusDOF - Autofocus DOF component for React Three Fiber](https://github.com/ektogamat/AutoFocusDOF)
 - [Hexagon/croner - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.](https://github.com/Hexagon/croner)
 - [geoarrow/geoarrow - Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geoarrow/geoarrow)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ForkAwesome/Fork-Awesome - A fork of the iconic font and CSS toolkit](https://github.com/ForkAwesome/Fork-Awesome)
 - [divriots/jampack - Optimizes static websites for best user experience and best Core Web Vitals scores.](https://github.com/divriots/jampack)
 - [chakra-ui/ark - Universal headless UI components for the web. Powered by Zag.js](https://github.com/chakra-ui/ark)
-- [unjs/magicast - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.](https://github.com/unjs/magicast)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
