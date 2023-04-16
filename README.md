@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [insidegui/VirtualBuddy - Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
+- [mlc-ai/web-llm - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.](https://github.com/mlc-ai/web-llm)
 - [johannschopplich/unlazy - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs](https://github.com/johannschopplich/unlazy)
 - [ektogamat/AutoFocusDOF - Autofocus DOF component for React Three Fiber](https://github.com/ektogamat/AutoFocusDOF)
 - [Hexagon/croner - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.](https://github.com/Hexagon/croner)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Hydrock/AhemFont - Ahem - Test Font](https://github.com/Hydrock/AhemFont)
 - [los-gordos/BLOKK - BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.](https://github.com/los-gordos/BLOKK)
 - [ForkAwesome/Fork-Awesome - A fork of the iconic font and CSS toolkit](https://github.com/ForkAwesome/Fork-Awesome)
-- [divriots/jampack - Optimizes static websites for best user experience and best Core Web Vitals scores.](https://github.com/divriots/jampack)
-- [chakra-ui/ark - Universal headless UI components for the web. Powered by Zag.js](https://github.com/chakra-ui/ark)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
