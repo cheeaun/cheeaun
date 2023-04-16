@@ -35,7 +35,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [geoarrow/geoarrow - Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geoarrow/geoarrow)
 - [tweetback/tweetback - Take ownership of your Twitter data and get your tweets back](https://github.com/tweetback/tweetback)
 - [unjs/ufo - 🔗 URL utils for humans](https://github.com/unjs/ufo)
-- [michaelcpuckett/activitypub-core - An attempt to build a spec-compliant ActivityPub core library.](https://github.com/michaelcpuckett/activitypub-core)
+- [michaelcpuckett/activity-kit - An attempt to build a spec-compliant ActivityPub core library.](https://github.com/michaelcpuckett/activity-kit)
 - [projectfluent/fluent.js - JavaScript implementation of Project Fluent](https://github.com/projectfluent/fluent.js)
 - [wenyan-lang/wenyan - 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
 - [jakex7/react-native-localization-settings - React Native module to expose per-app language preferences API on iOS and Android.](https://github.com/jakex7/react-native-localization-settings)
