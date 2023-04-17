@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lgarron/folderify - :file_folder: Generate pixel-perfect macOS folder icons in the native style.](https://github.com/lgarron/folderify)
 - [insidegui/VirtualBuddy - Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
 - [mlc-ai/web-llm - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.](https://github.com/mlc-ai/web-llm)
 - [johannschopplich/unlazy - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs](https://github.com/johannschopplich/unlazy)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jakex7/react-native-localization-settings - React Native module to expose per-app language preferences API on iOS and Android.](https://github.com/jakex7/react-native-localization-settings)
 - [Hydrock/AhemFont - Ahem - Test Font](https://github.com/Hydrock/AhemFont)
 - [los-gordos/BLOKK - BLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.](https://github.com/los-gordos/BLOKK)
-- [ForkAwesome/Fork-Awesome - A fork of the iconic font and CSS toolkit](https://github.com/ForkAwesome/Fork-Awesome)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
