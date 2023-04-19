@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [haxtra/liquery - Powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases](https://github.com/haxtra/liquery)
 - [brave/brave-browser - Next generation Brave browser for Android, Linux, macOS, Windows.](https://github.com/brave/brave-browser)
 - [lgarron/folderify - :file_folder: Generate pixel-perfect macOS folder icons in the native style.](https://github.com/lgarron/folderify)
 - [insidegui/VirtualBuddy - Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [projectfluent/fluent.js - JavaScript implementation of Project Fluent](https://github.com/projectfluent/fluent.js)
 - [wenyan-lang/wenyan - 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
 - [jakex7/react-native-localization-settings - React Native module to expose per-app language preferences API on iOS and Android.](https://github.com/jakex7/react-native-localization-settings)
-- [Hydrock/AhemFont - Ahem - Test Font](https://github.com/Hydrock/AhemFont)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
