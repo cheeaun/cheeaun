@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nandorojo/burnt - Crunchy toasts for React Native. 🍞](https://github.com/nandorojo/burnt)
 - [haxtra/liquery - Powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases](https://github.com/haxtra/liquery)
 - [brave/brave-browser - Next generation Brave browser for Android, Linux, macOS, Windows.](https://github.com/brave/brave-browser)
 - [lgarron/folderify - :file_folder: Generate pixel-perfect macOS folder icons in the native style.](https://github.com/lgarron/folderify)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [michaelcpuckett/activity-kit - An attempt to build a spec-compliant ActivityPub core library.](https://github.com/michaelcpuckett/activity-kit)
 - [projectfluent/fluent.js - JavaScript implementation of Project Fluent](https://github.com/projectfluent/fluent.js)
 - [wenyan-lang/wenyan - 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
-- [jakex7/react-native-localization-settings - React Native module to expose per-app language preferences API on iOS and Android.](https://github.com/jakex7/react-native-localization-settings)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
