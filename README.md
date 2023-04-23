@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [heiseonline/embetty - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.](https://github.com/heiseonline/embetty)
 - [nandorojo/burnt - Crunchy toasts for React Native. 🍞](https://github.com/nandorojo/burnt)
 - [haxtra/liquery - Powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases](https://github.com/haxtra/liquery)
 - [brave/brave-browser - Next generation Brave browser for Android, Linux, macOS, Windows.](https://github.com/brave/brave-browser)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unjs/ufo - 🔗 URL utils for humans](https://github.com/unjs/ufo)
 - [michaelcpuckett/activity-kit - An attempt to build a spec-compliant ActivityPub core library.](https://github.com/michaelcpuckett/activity-kit)
 - [projectfluent/fluent.js - JavaScript implementation of Project Fluent](https://github.com/projectfluent/fluent.js)
-- [wenyan-lang/wenyan - 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
