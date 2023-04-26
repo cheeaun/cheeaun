@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [igordanchenko/yet-another-react-lightbox - Modern React lightbox component](https://github.com/igordanchenko/yet-another-react-lightbox)
 - [misskey-dev/mfm.js - An MFM parser implementation with TypeScript.](https://github.com/misskey-dev/mfm.js)
 - [heiseonline/embetty - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.](https://github.com/heiseonline/embetty)
 - [nandorojo/burnt - Crunchy toasts for React Native. 🍞](https://github.com/nandorojo/burnt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [geoarrow/geoarrow - Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geoarrow/geoarrow)
 - [tweetback/tweetback - Take ownership of your Twitter data and get your tweets back](https://github.com/tweetback/tweetback)
 - [unjs/ufo - 🔗 URL utils for humans](https://github.com/unjs/ufo)
-- [michaelcpuckett/activity-kit - An attempt to build a spec-compliant ActivityPub core library.](https://github.com/michaelcpuckett/activity-kit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
