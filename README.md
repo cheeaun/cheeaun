@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [casualwriter/casual-markdown - A very lightweight regexp-based markdown parser, with TOC and scrollspy support](https://github.com/casualwriter/casual-markdown)
+- [nickdenardis/social-visual-alt-text - Browser extension to visually show image alt text on social](https://github.com/nickdenardis/social-visual-alt-text)
+- [dromru/react-photoswipe-gallery - 🏙 React component wrapper around PhotoSwipe](https://github.com/dromru/react-photoswipe-gallery)
+- [opengeos/segment-geospatial - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)](https://github.com/opengeos/segment-geospatial)
 - [igordanchenko/yet-another-react-lightbox - Modern React lightbox component](https://github.com/igordanchenko/yet-another-react-lightbox)
 - [misskey-dev/mfm.js - An MFM parser implementation with TypeScript.](https://github.com/misskey-dev/mfm.js)
 - [heiseonline/embetty - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.](https://github.com/heiseonline/embetty)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mlc-ai/web-llm - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.](https://github.com/mlc-ai/web-llm)
 - [johannschopplich/unlazy - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs](https://github.com/johannschopplich/unlazy)
 - [ektogamat/AutoFocusDOF - Autofocus DOF component for React Three Fiber](https://github.com/ektogamat/AutoFocusDOF)
-- [Hexagon/croner - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.](https://github.com/Hexagon/croner)
-- [geoarrow/geoarrow - Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geoarrow/geoarrow)
-- [tweetback/tweetback - Take ownership of your Twitter data and get your tweets back](https://github.com/tweetback/tweetback)
-- [unjs/ufo - 🔗 URL utils for humans](https://github.com/unjs/ufo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
