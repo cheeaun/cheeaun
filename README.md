@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rustodon/rustodon - A Mastodon-compatible, ActivityPub-speaking server in Rust](https://github.com/rustodon/rustodon)
 - [editablejs/editable - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.](https://github.com/editablejs/editable)
 - [casualwriter/casual-markdown - A very lightweight regexp-based markdown parser, with TOC and scrollspy support](https://github.com/casualwriter/casual-markdown)
 - [nickdenardis/social-visual-alt-text - Browser extension to visually show image alt text on social](https://github.com/nickdenardis/social-visual-alt-text)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lgarron/folderify - :file_folder: Generate pixel-perfect macOS folder icons in the native style.](https://github.com/lgarron/folderify)
 - [insidegui/VirtualBuddy - Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
 - [mlc-ai/web-llm - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.](https://github.com/mlc-ai/web-llm)
-- [johannschopplich/unlazy - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs](https://github.com/johannschopplich/unlazy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
