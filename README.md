@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bluesky-social/atproto - Social networking technology created by Bluesky](https://github.com/bluesky-social/atproto)
 - [DigitalZebra/react-native-caemitterlayer](https://github.com/DigitalZebra/react-native-caemitterlayer)
 - [pnpm/only-allow - Force a specific package manager to be used on a project](https://github.com/pnpm/only-allow)
 - [bluwy/refined-github-comments](https://github.com/bluwy/refined-github-comments)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [misskey-dev/mfm.js - An MFM parser implementation with TypeScript.](https://github.com/misskey-dev/mfm.js)
 - [heiseonline/embetty - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.](https://github.com/heiseonline/embetty)
 - [nandorojo/burnt - Crunchy toasts for React Native. 🍞](https://github.com/nandorojo/burnt)
-- [haxtra/liquery - Powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases](https://github.com/haxtra/liquery)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
