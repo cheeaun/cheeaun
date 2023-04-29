@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [potatoqualitee/fossilize - Mastodon Backup GitHub Action](https://github.com/potatoqualitee/fossilize)
 - [FixTweet/FixTweet - Embed Twitter videos, polls, and more on Discord and Telegram](https://github.com/FixTweet/FixTweet)
 - [eramdam/tweet-forker - A manual tweet crossposter that supports Mastodon, Cohost and Bluesky](https://github.com/eramdam/tweet-forker)
 - [bluesky-social/atproto - Social networking technology created by Bluesky](https://github.com/bluesky-social/atproto)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dromru/react-photoswipe-gallery - 🏙 React component wrapper around PhotoSwipe](https://github.com/dromru/react-photoswipe-gallery)
 - [opengeos/segment-geospatial - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)](https://github.com/opengeos/segment-geospatial)
 - [igordanchenko/yet-another-react-lightbox - Modern React lightbox component](https://github.com/igordanchenko/yet-another-react-lightbox)
-- [misskey-dev/mfm.js - An MFM parser implementation with TypeScript.](https://github.com/misskey-dev/mfm.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
