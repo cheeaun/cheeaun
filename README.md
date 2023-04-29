@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [FixTweet/FixTweet - Embed Twitter videos, polls, and more on Discord and Telegram](https://github.com/FixTweet/FixTweet)
+- [eramdam/tweet-forker - A manual tweet crossposter that supports Mastodon, Cohost and Bluesky](https://github.com/eramdam/tweet-forker)
 - [bluesky-social/atproto - Social networking technology created by Bluesky](https://github.com/bluesky-social/atproto)
 - [DigitalZebra/react-native-caemitterlayer](https://github.com/DigitalZebra/react-native-caemitterlayer)
 - [pnpm/only-allow - Force a specific package manager to be used on a project](https://github.com/pnpm/only-allow)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [opengeos/segment-geospatial - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)](https://github.com/opengeos/segment-geospatial)
 - [igordanchenko/yet-another-react-lightbox - Modern React lightbox component](https://github.com/igordanchenko/yet-another-react-lightbox)
 - [misskey-dev/mfm.js - An MFM parser implementation with TypeScript.](https://github.com/misskey-dev/mfm.js)
-- [heiseonline/embetty - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.](https://github.com/heiseonline/embetty)
-- [nandorojo/burnt - Crunchy toasts for React Native. 🍞](https://github.com/nandorojo/burnt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
