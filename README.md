@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DigitalZebra/react-native-caemitterlayer](https://github.com/DigitalZebra/react-native-caemitterlayer)
+- [pnpm/only-allow - Force a specific package manager to be used on a project](https://github.com/pnpm/only-allow)
 - [bluwy/refined-github-comments](https://github.com/bluwy/refined-github-comments)
 - [mapbox/supercluster - A very fast geospatial point clustering library for browsers and Node.](https://github.com/mapbox/supercluster)
 - [rustodon/rustodon - A Mastodon-compatible, ActivityPub-speaking server in Rust](https://github.com/rustodon/rustodon)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [heiseonline/embetty - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.](https://github.com/heiseonline/embetty)
 - [nandorojo/burnt - Crunchy toasts for React Native. 🍞](https://github.com/nandorojo/burnt)
 - [haxtra/liquery - Powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases](https://github.com/haxtra/liquery)
-- [brave/brave-browser - Next generation Brave browser for Android, Linux, macOS, Windows.](https://github.com/brave/brave-browser)
-- [lgarron/folderify - :file_folder: Generate pixel-perfect macOS folder icons in the native style.](https://github.com/lgarron/folderify)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
