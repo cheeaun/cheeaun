@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dddddddddzzzz/OpenHeart - The Open Heart protocol.](https://github.com/dddddddddzzzz/OpenHeart)
+- [dddddddddzzzz/open-heart-element - A button to POST an emoji to an endpoint.](https://github.com/dddddddddzzzz/open-heart-element)
+- [dddddddddzzzz/OpenStories - The Open Stories format.](https://github.com/dddddddddzzzz/OpenStories)
 - [okikio/spring-easing - Quick and easy spring animation. Works with other animation libraries (gsap, animejs, framer motion, motion one, @okikio/animate, etc...)  or the Web Animation API (WAAPI).](https://github.com/okikio/spring-easing)
 - [wallabag/wallabag - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.](https://github.com/wallabag/wallabag)
 - [potatoqualitee/fossilize - Mastodon Backup GitHub Action](https://github.com/potatoqualitee/fossilize)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mapbox/supercluster - A very fast geospatial point clustering library for browsers and Node.](https://github.com/mapbox/supercluster)
 - [rustodon/rustodon - A Mastodon-compatible, ActivityPub-speaking server in Rust](https://github.com/rustodon/rustodon)
 - [editablejs/editable - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.](https://github.com/editablejs/editable)
-- [casualwriter/casual-markdown - A very lightweight regexp-based markdown parser, with TOC and scrollspy support](https://github.com/casualwriter/casual-markdown)
-- [nickdenardis/social-visual-alt-text - Browser extension to visually show image alt text on social](https://github.com/nickdenardis/social-visual-alt-text)
-- [dromru/react-photoswipe-gallery - 🏙 React component wrapper around PhotoSwipe](https://github.com/dromru/react-photoswipe-gallery)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
