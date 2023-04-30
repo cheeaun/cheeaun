@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [okikio/spring-easing - Quick and easy spring animation. Works with other animation libraries (gsap, animejs, framer motion, motion one, @okikio/animate, etc...)  or the Web Animation API (WAAPI).](https://github.com/okikio/spring-easing)
+- [wallabag/wallabag - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.](https://github.com/wallabag/wallabag)
 - [potatoqualitee/fossilize - Mastodon Backup GitHub Action](https://github.com/potatoqualitee/fossilize)
 - [FixTweet/FixTweet - Embed Twitter videos, polls, and more on Discord and Telegram](https://github.com/FixTweet/FixTweet)
 - [eramdam/tweet-forker - A manual tweet crossposter that supports Mastodon, Cohost and Bluesky](https://github.com/eramdam/tweet-forker)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [casualwriter/casual-markdown - A very lightweight regexp-based markdown parser, with TOC and scrollspy support](https://github.com/casualwriter/casual-markdown)
 - [nickdenardis/social-visual-alt-text - Browser extension to visually show image alt text on social](https://github.com/nickdenardis/social-visual-alt-text)
 - [dromru/react-photoswipe-gallery - 🏙 React component wrapper around PhotoSwipe](https://github.com/dromru/react-photoswipe-gallery)
-- [opengeos/segment-geospatial - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)](https://github.com/opengeos/segment-geospatial)
-- [igordanchenko/yet-another-react-lightbox - Modern React lightbox component](https://github.com/igordanchenko/yet-another-react-lightbox)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
