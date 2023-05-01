@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yetone/openai-translator - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.](https://github.com/yetone/openai-translator)
 - [dddddddddzzzz/OpenHeart - The Open Heart protocol.](https://github.com/dddddddddzzzz/OpenHeart)
 - [dddddddddzzzz/open-heart-element - A button to POST an emoji to an endpoint.](https://github.com/dddddddddzzzz/open-heart-element)
 - [dddddddddzzzz/OpenStories - The Open Stories format.](https://github.com/dddddddddzzzz/OpenStories)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bluwy/refined-github-comments](https://github.com/bluwy/refined-github-comments)
 - [mapbox/supercluster - A very fast geospatial point clustering library for browsers and Node.](https://github.com/mapbox/supercluster)
 - [rustodon/rustodon - A Mastodon-compatible, ActivityPub-speaking server in Rust](https://github.com/rustodon/rustodon)
-- [editablejs/editable - Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance.](https://github.com/editablejs/editable)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
