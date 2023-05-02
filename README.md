@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [denoland/fastwebsockets - A fast RFC6455 WebSocket implementation](https://github.com/denoland/fastwebsockets)
 - [jgw96/mammoth-app - Mammoth is an ai-enhanced cross-platform Mastodon Client](https://github.com/jgw96/mammoth-app)
 - [yetone/openai-translator - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.](https://github.com/yetone/openai-translator)
 - [dddddddddzzzz/OpenHeart - The Open Heart protocol.](https://github.com/dddddddddzzzz/OpenHeart)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [DigitalZebra/react-native-caemitterlayer](https://github.com/DigitalZebra/react-native-caemitterlayer)
 - [pnpm/only-allow - Force a specific package manager to be used on a project](https://github.com/pnpm/only-allow)
 - [bluwy/refined-github-comments](https://github.com/bluwy/refined-github-comments)
-- [mapbox/supercluster - A very fast geospatial point clustering library for browsers and Node.](https://github.com/mapbox/supercluster)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
