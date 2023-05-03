@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jcsalterego/Sky.app](https://github.com/jcsalterego/Sky.app)
+- [rauchg/how-is-this-not-illegal - A demo of using RSC and Vercel Postgres, legally](https://github.com/rauchg/how-is-this-not-illegal)
 - [denoland/fastwebsockets - A fast RFC6455 WebSocket implementation](https://github.com/denoland/fastwebsockets)
 - [jgw96/mammoth-app - Mammoth is an ai-enhanced cross-platform Mastodon Client](https://github.com/jgw96/mammoth-app)
 - [yetone/openai-translator - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.](https://github.com/yetone/openai-translator)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [eramdam/tweet-forker - A manual tweet crossposter that supports Mastodon, Cohost and Bluesky](https://github.com/eramdam/tweet-forker)
 - [bluesky-social/atproto - Social networking technology created by Bluesky](https://github.com/bluesky-social/atproto)
 - [DigitalZebra/react-native-caemitterlayer](https://github.com/DigitalZebra/react-native-caemitterlayer)
-- [pnpm/only-allow - Force a specific package manager to be used on a project](https://github.com/pnpm/only-allow)
-- [bluwy/refined-github-comments](https://github.com/bluwy/refined-github-comments)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
