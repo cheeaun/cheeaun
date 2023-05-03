@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pqina/snaptext - Snap a picture of HTML text](https://github.com/pqina/snaptext)
 - [jcsalterego/Sky.app](https://github.com/jcsalterego/Sky.app)
 - [rauchg/how-is-this-not-illegal - A demo of using RSC and Vercel Postgres, legally](https://github.com/rauchg/how-is-this-not-illegal)
 - [denoland/fastwebsockets - A fast RFC6455 WebSocket implementation](https://github.com/denoland/fastwebsockets)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [FixTweet/FixTweet - Embed Twitter videos, polls, and more on Discord and Telegram](https://github.com/FixTweet/FixTweet)
 - [eramdam/tweet-forker - A manual tweet crossposter that supports Mastodon, Cohost and Bluesky](https://github.com/eramdam/tweet-forker)
 - [bluesky-social/atproto - Social networking technology created by Bluesky](https://github.com/bluesky-social/atproto)
-- [DigitalZebra/react-native-caemitterlayer](https://github.com/DigitalZebra/react-native-caemitterlayer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
