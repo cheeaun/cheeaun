@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [penpenpng/skylight - Minimal bsky.social web client implementation.](https://github.com/penpenpng/skylight)
 - [retrospectmike/MacDock - Like the macOS Dock... but for System 7](https://github.com/retrospectmike/MacDock)
 - [callmearta/kite - a BlueSky web client](https://github.com/callmearta/kite)
 - [pqina/snaptext - Snap a picture of HTML text](https://github.com/pqina/snaptext)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [okikio/spring-easing - Quick and easy spring animation. Works with other animation libraries (gsap, animejs, framer motion, motion one, @okikio/animate, etc...)  or the Web Animation API (WAAPI).](https://github.com/okikio/spring-easing)
 - [wallabag/wallabag - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.](https://github.com/wallabag/wallabag)
 - [potatoqualitee/fossilize - Mastodon Backup GitHub Action](https://github.com/potatoqualitee/fossilize)
-- [FixTweet/FixTweet - Embed Twitter videos, polls, and more on Discord and Telegram](https://github.com/FixTweet/FixTweet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
