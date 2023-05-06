@@ -33,7 +33,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [retrospectmike/MacDock - Like the macOS Dock... but for System 7](https://github.com/retrospectmike/MacDock)
 - [callmearta/kite - a BlueSky web client](https://github.com/callmearta/kite)
 - [pqina/snaptext - Snap a picture of HTML text](https://github.com/pqina/snaptext)
-- [jcsalterego/Sky.app](https://github.com/jcsalterego/Sky.app)
+- [jcsalterego/Sky.app - Sky.app for MacOS is a container for the Bluesky Social website, featuring keyboard shortcuts, Dark Mode Sync, and notification badges.](https://github.com/jcsalterego/Sky.app)
 - [rauchg/how-is-this-not-illegal - A demo of using RSC and Vercel Postgres, legally](https://github.com/rauchg/how-is-this-not-illegal)
 - [denoland/fastwebsockets - A fast RFC6455 WebSocket implementation](https://github.com/denoland/fastwebsockets)
 - [jgw96/mammoth-app - Mammoth is an ai-enhanced cross-platform Mastodon Client](https://github.com/jgw96/mammoth-app)
