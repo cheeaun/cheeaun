@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ellie/atuin - 🐢 Magical shell history](https://github.com/ellie/atuin)
 - [williamd1k0/misbrands - The world's most hated IT stickers](https://github.com/williamd1k0/misbrands)
 - [penpenpng/skylight - Minimal bsky.social web client implementation.](https://github.com/penpenpng/skylight)
 - [retrospectmike/MacDock - Like the macOS Dock... but for System 7](https://github.com/retrospectmike/MacDock)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dddddddddzzzz/open-heart-element - A button to POST an emoji to an endpoint.](https://github.com/dddddddddzzzz/open-heart-element)
 - [dddddddddzzzz/OpenStories - The Open Stories format.](https://github.com/dddddddddzzzz/OpenStories)
 - [okikio/spring-easing - Quick and easy spring animation. Works with other animation libraries (gsap, animejs, framer motion, motion one, @okikio/animate, etc...)  or the Web Animation API (WAAPI).](https://github.com/okikio/spring-easing)
-- [wallabag/wallabag - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.](https://github.com/wallabag/wallabag)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
