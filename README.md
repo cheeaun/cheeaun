@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [networld-to/fediverse-helper - Typescript/Javascript library that provides useful API calls and utility function to interact with the Fediverse](https://github.com/networld-to/fediverse-helper)
+- [videah/SkyBridge - A work in progress bridge/proxy that lets you use Mastodon apps with Bluesky.](https://github.com/videah/SkyBridge)
 - [browsermt/bergamot-translator - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device. ](https://github.com/browsermt/bergamot-translator)
 - [ellie/atuin - 🐢 Magical shell history](https://github.com/ellie/atuin)
 - [williamd1k0/misbrands - The world's most hated IT stickers](https://github.com/williamd1k0/misbrands)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jgw96/mammoth-app - Mammoth is an ai-enhanced cross-platform Mastodon Client](https://github.com/jgw96/mammoth-app)
 - [yetone/openai-translator - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.](https://github.com/yetone/openai-translator)
 - [dddddddddzzzz/OpenHeart - The Open Heart protocol.](https://github.com/dddddddddzzzz/OpenHeart)
-- [dddddddddzzzz/open-heart-element - A button to POST an emoji to an endpoint.](https://github.com/dddddddddzzzz/open-heart-element)
-- [dddddddddzzzz/OpenStories - The Open Stories format.](https://github.com/dddddddddzzzz/OpenStories)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
