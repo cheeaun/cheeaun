@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pkreissel/fedialgo - Alpha of Fedialgo](https://github.com/pkreissel/fedialgo)
 - [CartoDB/tiles3d-demo](https://github.com/CartoDB/tiles3d-demo)
 - [googlemaps/extended-component-library](https://github.com/googlemaps/extended-component-library)
 - [networld-to/fediverse-helper - Typescript/Javascript library that provides useful API calls and utility function to interact with the Fediverse](https://github.com/networld-to/fediverse-helper)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jcsalterego/Sky.app - Sky.app for MacOS is a container for the Bluesky Social website, featuring keyboard shortcuts, Dark Mode Sync, and notification badges.](https://github.com/jcsalterego/Sky.app)
 - [rauchg/how-is-this-not-illegal - A demo of using RSC and Vercel Postgres, legally](https://github.com/rauchg/how-is-this-not-illegal)
 - [denoland/fastwebsockets - A fast RFC6455 WebSocket implementation](https://github.com/denoland/fastwebsockets)
-- [jgw96/mammoth-app - Mammoth is an ai-enhanced cross-platform Mastodon Client](https://github.com/jgw96/mammoth-app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
