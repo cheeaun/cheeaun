@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lyqht/deepL-demo](https://github.com/lyqht/deepL-demo)
 - [pkreissel/fedialgo - Alpha of Fedialgo](https://github.com/pkreissel/fedialgo)
 - [CartoDB/tiles3d-demo](https://github.com/CartoDB/tiles3d-demo)
 - [googlemaps/extended-component-library](https://github.com/googlemaps/extended-component-library)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pqina/snaptext - Snap a picture of HTML text](https://github.com/pqina/snaptext)
 - [jcsalterego/Sky.app - Sky.app is a great way to use Bluesky Social on MacOS, featuring keyboard shortcuts, Dark Mode Sync, and notification badges.](https://github.com/jcsalterego/Sky.app)
 - [rauchg/how-is-this-not-illegal - A demo of using RSC and Vercel Postgres, legally](https://github.com/rauchg/how-is-this-not-illegal)
-- [denoland/fastwebsockets - A fast RFC6455 WebSocket implementation](https://github.com/denoland/fastwebsockets)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
