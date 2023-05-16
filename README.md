@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [r2d4/react-llm - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().](https://github.com/r2d4/react-llm)
+- [bluesky-social/social-app - The Bluesky Social application for Web, iOS, and Android](https://github.com/bluesky-social/social-app)
+- [halcy/Mastodon.py - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.](https://github.com/halcy/Mastodon.py)
 - [lyqht/deepL-demo](https://github.com/lyqht/deepL-demo)
 - [pkreissel/fedialgo - Alpha of Fedialgo](https://github.com/pkreissel/fedialgo)
 - [CartoDB/tiles3d-demo](https://github.com/CartoDB/tiles3d-demo)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [penpenpng/skylight - Minimal bsky.social web client implementation.](https://github.com/penpenpng/skylight)
 - [retrospectmike/MacDock - Like the macOS Dock... but for System 7](https://github.com/retrospectmike/MacDock)
 - [callmearta/kite - a BlueSky web client](https://github.com/callmearta/kite)
-- [pqina/snaptext - Snap a picture of HTML text](https://github.com/pqina/snaptext)
-- [jcsalterego/Sky.app - Sky.app is a great way to use Bluesky Social on MacOS, featuring keyboard shortcuts, Dark Mode Sync, and notification badges.](https://github.com/jcsalterego/Sky.app)
-- [rauchg/how-is-this-not-illegal - A demo of using RSC and Vercel Postgres, legally](https://github.com/rauchg/how-is-this-not-illegal)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
