@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Cykelero/table-of-contents - See the list of a webpage's headings, and jump to any](https://github.com/Cykelero/table-of-contents)
 - [loro-dev/crdt-richtext - Rich text CRDT that implements Peritext and Fugue](https://github.com/loro-dev/crdt-richtext)
 - [r2d4/react-llm - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().](https://github.com/r2d4/react-llm)
 - [bluesky-social/social-app - The Bluesky Social application for Web, iOS, and Android](https://github.com/bluesky-social/social-app)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ellie/atuin - 🐢 Magical shell history](https://github.com/ellie/atuin)
 - [williamd1k0/misbrands - The world's most hated IT stickers](https://github.com/williamd1k0/misbrands)
 - [penpenpng/skylight - Minimal bsky.social web client implementation.](https://github.com/penpenpng/skylight)
-- [retrospectmike/MacDock - Like the macOS Dock... but for System 7](https://github.com/retrospectmike/MacDock)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
