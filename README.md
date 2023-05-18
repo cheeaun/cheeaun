@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Shinigami92/hsml - A pug-inspired HTML preprocessor](https://github.com/Shinigami92/hsml)
+- [shi-works/Photorealistic-3DTiles-on-deck.gl](https://github.com/shi-works/Photorealistic-3DTiles-on-deck.gl)
 - [Cykelero/table-of-contents - See the list of a webpage's headings, and jump to any](https://github.com/Cykelero/table-of-contents)
 - [loro-dev/crdt-richtext - Rich text CRDT that implements Peritext and Fugue](https://github.com/loro-dev/crdt-richtext)
 - [r2d4/react-llm - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().](https://github.com/r2d4/react-llm)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [videah/SkyBridge - A work in progress bridge/proxy that lets you use Mastodon apps with Bluesky.](https://github.com/videah/SkyBridge)
 - [browsermt/bergamot-translator - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device. ](https://github.com/browsermt/bergamot-translator)
 - [ellie/atuin - 🐢 Magical shell history](https://github.com/ellie/atuin)
-- [williamd1k0/misbrands - The world's most hated IT stickers](https://github.com/williamd1k0/misbrands)
-- [penpenpng/skylight - Minimal bsky.social web client implementation.](https://github.com/penpenpng/skylight)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
