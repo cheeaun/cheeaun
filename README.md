@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zxch3n/tidy - A tree visualization tool written in Rust](https://github.com/zxch3n/tidy)
 - [Shinigami92/hsml - A pug-inspired HTML preprocessor](https://github.com/Shinigami92/hsml)
 - [shi-works/Photorealistic-3DTiles-on-deck.gl](https://github.com/shi-works/Photorealistic-3DTiles-on-deck.gl)
 - [Cykelero/table-of-contents - See the list of a webpage's headings, and jump to any](https://github.com/Cykelero/table-of-contents)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [networld-to/fediverse-helper - Typescript/Javascript library that provides useful API calls and utility function to interact with the Fediverse](https://github.com/networld-to/fediverse-helper)
 - [videah/SkyBridge - A work in progress bridge/proxy that lets you use Mastodon apps with Bluesky.](https://github.com/videah/SkyBridge)
 - [browsermt/bergamot-translator - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device. ](https://github.com/browsermt/bergamot-translator)
-- [ellie/atuin - 🐢 Magical shell history](https://github.com/ellie/atuin)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
