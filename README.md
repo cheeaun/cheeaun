@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [video-dev/can-autoplay - The auto-play feature detection in HTMLMediaElement (<audio> or <video>).](https://github.com/video-dev/can-autoplay)
 - [baku89/bndr-js](https://github.com/baku89/bndr-js)
 - [zxch3n/tidy - A tree visualization tool written in Rust](https://github.com/zxch3n/tidy)
 - [Shinigami92/hsml - A pug-inspired HTML preprocessor](https://github.com/Shinigami92/hsml)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [CartoDB/tiles3d-demo](https://github.com/CartoDB/tiles3d-demo)
 - [googlemaps/extended-component-library](https://github.com/googlemaps/extended-component-library)
 - [networld-to/fediverse-helper - Typescript/Javascript library that provides useful API calls and utility function to interact with the Fediverse](https://github.com/networld-to/fediverse-helper)
-- [videah/SkyBridge - A work in progress bridge/proxy that lets you use Mastodon apps with Bluesky.](https://github.com/videah/SkyBridge)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
