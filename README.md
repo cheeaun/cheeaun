@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antfu/unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack and Rollup](https://github.com/antfu/unplugin-auto-import)
 - [video-dev/can-autoplay - The auto-play feature detection in HTMLMediaElement (<audio> or <video>).](https://github.com/video-dev/can-autoplay)
 - [baku89/bndr-js](https://github.com/baku89/bndr-js)
 - [zxch3n/tidy - A tree visualization tool written in Rust](https://github.com/zxch3n/tidy)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pkreissel/fedialgo - Alpha of Fedialgo](https://github.com/pkreissel/fedialgo)
 - [CartoDB/tiles3d-demo](https://github.com/CartoDB/tiles3d-demo)
 - [googlemaps/extended-component-library](https://github.com/googlemaps/extended-component-library)
-- [networld-to/fediverse-helper - Typescript/Javascript library that provides useful API calls and utility function to interact with the Fediverse](https://github.com/networld-to/fediverse-helper)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
