@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [PeterTYLiu/toaster - Pure CSS 3D editor](https://github.com/PeterTYLiu/toaster)
+- [GeopJr/Tuba - Browse the Fediverse](https://github.com/GeopJr/Tuba)
 - [antfu/unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack and Rollup](https://github.com/antfu/unplugin-auto-import)
 - [video-dev/can-autoplay - The auto-play feature detection in HTMLMediaElement (<audio> or <video>).](https://github.com/video-dev/can-autoplay)
 - [baku89/bndr-js](https://github.com/baku89/bndr-js)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [halcy/Mastodon.py - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.](https://github.com/halcy/Mastodon.py)
 - [lyqht/deepL-demo](https://github.com/lyqht/deepL-demo)
 - [pkreissel/fedialgo - Alpha of Fedialgo](https://github.com/pkreissel/fedialgo)
-- [CartoDB/tiles3d-demo](https://github.com/CartoDB/tiles3d-demo)
-- [googlemaps/extended-component-library](https://github.com/googlemaps/extended-component-library)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
