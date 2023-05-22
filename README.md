@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cpojer/remdx - Beautiful React & MDX Presentations](https://github.com/cpojer/remdx)
 - [datopian/flowershow - 💐 Publish your digital garden or any markdown site easily and elegantly.](https://github.com/datopian/flowershow)
 - [sausheong/carpark-cgpt - ChatGPT plugin for Singapore HDB car park availability](https://github.com/sausheong/carpark-cgpt)
 - [PeterTYLiu/toaster - Pure CSS 3D editor](https://github.com/PeterTYLiu/toaster)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [loro-dev/crdt-richtext - Rich text CRDT that implements Peritext and Fugue](https://github.com/loro-dev/crdt-richtext)
 - [r2d4/react-llm - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().](https://github.com/r2d4/react-llm)
 - [bluesky-social/social-app - The Bluesky Social application for Web, iOS, and Android](https://github.com/bluesky-social/social-app)
-- [halcy/Mastodon.py - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.](https://github.com/halcy/Mastodon.py)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
