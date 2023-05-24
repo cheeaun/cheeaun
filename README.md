@@ -30,7 +30,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cpojer/remdx - Beautiful React & MDX Presentations](https://github.com/cpojer/remdx)
 - [datopian/flowershow - 💐 Publish your digital garden or any markdown site easily and elegantly.](https://github.com/datopian/flowershow)
 - [sausheong/carpark-cgpt - ChatGPT plugin for Singapore HDB car park availability](https://github.com/sausheong/carpark-cgpt)
-- [PeterTYLiu/toaster - Pure CSS 3D editor](https://github.com/PeterTYLiu/toaster)
+- [PeterTYLiu/toaster - 3D editor for modelling in pure CSS+HTML; no canvas, no WebGL](https://github.com/PeterTYLiu/toaster)
 - [GeopJr/Tuba - Browse the Fediverse](https://github.com/GeopJr/Tuba)
 - [antfu/unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack and Rollup](https://github.com/antfu/unplugin-auto-import)
 - [video-dev/can-autoplay - The auto-play feature detection in HTMLMediaElement (<audio> or <video>).](https://github.com/video-dev/can-autoplay)
