@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [libarchive/libarchive - Multi-format archive and compression library](https://github.com/libarchive/libarchive)
 - [cpojer/remdx - Beautiful React & MDX Presentations](https://github.com/cpojer/remdx)
 - [datopian/flowershow - 💐 Publish your digital garden or any markdown site easily and elegantly.](https://github.com/datopian/flowershow)
 - [sausheong/carpark-cgpt - ChatGPT plugin for Singapore HDB car park availability](https://github.com/sausheong/carpark-cgpt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Cykelero/table-of-contents - See the list of a webpage's headings, and jump to any](https://github.com/Cykelero/table-of-contents)
 - [loro-dev/crdt-richtext - Rich text CRDT that implements Peritext and Fugue](https://github.com/loro-dev/crdt-richtext)
 - [r2d4/react-llm - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. Just useLLM().](https://github.com/r2d4/react-llm)
-- [bluesky-social/social-app - The Bluesky Social application for Web, iOS, and Android](https://github.com/bluesky-social/social-app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
