@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ryanslikesocool/AppLibrary - A lightweight app launcher for macOS](https://github.com/ryanslikesocool/AppLibrary)
 - [nanostores/nanostores - A tiny (313 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores](https://github.com/nanostores/nanostores)
 - [libarchive/libarchive - Multi-format archive and compression library](https://github.com/libarchive/libarchive)
 - [cpojer/remdx - Beautiful React & MDX Presentations](https://github.com/cpojer/remdx)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Shinigami92/hsml - A pug-inspired HTML preprocessor](https://github.com/Shinigami92/hsml)
 - [shi-works/Photorealistic-3DTiles-on-deck.gl](https://github.com/shi-works/Photorealistic-3DTiles-on-deck.gl)
 - [Cykelero/table-of-contents - See the list of a webpage's headings, and jump to any](https://github.com/Cykelero/table-of-contents)
-- [loro-dev/crdt-richtext - Rich text CRDT that implements Peritext and Fugue](https://github.com/loro-dev/crdt-richtext)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
