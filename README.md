@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [PatBall1/detectree2 - Python package for automatic tree crown delineation based on the Detectron2 implementation of Mask R-CNN](https://github.com/PatBall1/detectree2)
 - [ryanslikesocool/AppLibrary - A lightweight app launcher for macOS](https://github.com/ryanslikesocool/AppLibrary)
 - [nanostores/nanostores - A tiny (313 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores](https://github.com/nanostores/nanostores)
 - [libarchive/libarchive - Multi-format archive and compression library](https://github.com/libarchive/libarchive)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zxch3n/tidy - A tree visualization tool written in Rust](https://github.com/zxch3n/tidy)
 - [Shinigami92/hsml - A pug-inspired HTML preprocessor](https://github.com/Shinigami92/hsml)
 - [shi-works/Photorealistic-3DTiles-on-deck.gl](https://github.com/shi-works/Photorealistic-3DTiles-on-deck.gl)
-- [Cykelero/table-of-contents - See the list of a webpage's headings, and jump to any](https://github.com/Cykelero/table-of-contents)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
