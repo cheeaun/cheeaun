@@ -31,7 +31,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ryanslikesocool/AppLibrary - A lightweight app launcher for macOS](https://github.com/ryanslikesocool/AppLibrary)
 - [nanostores/nanostores - A tiny (313 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores](https://github.com/nanostores/nanostores)
 - [libarchive/libarchive - Multi-format archive and compression library](https://github.com/libarchive/libarchive)
-- [cpojer/remdx - Beautiful React & MDX Presentations](https://github.com/cpojer/remdx)
+- [cpojer/remdx - Beautiful Minimalist React & MDX Presentations](https://github.com/cpojer/remdx)
 - [datopian/flowershow - 💐 Publish your digital garden or any markdown site easily and elegantly.](https://github.com/datopian/flowershow)
 - [sausheong/carpark-cgpt - ChatGPT plugin for Singapore HDB car park availability](https://github.com/sausheong/carpark-cgpt)
 - [PeterTYLiu/toaster - 3D editor for modelling in pure CSS+HTML; no canvas, no WebGL](https://github.com/PeterTYLiu/toaster)
