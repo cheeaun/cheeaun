@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Tarikul-Islam-Anik/Animated-Fluent-Emojis - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
 - [pixel-point/fontpie - Get your layout shifts optimized with a CLI-generated piece of CSS](https://github.com/pixel-point/fontpie)
 - [evanw/polywasm](https://github.com/evanw/polywasm)
 - [PatBall1/detectree2 - Python package for automatic tree crown delineation based on the Detectron2 implementation of Mask R-CNN](https://github.com/PatBall1/detectree2)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antfu/unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack and Rollup](https://github.com/antfu/unplugin-auto-import)
 - [video-dev/can-autoplay - The auto-play feature detection in HTMLMediaElement (<audio> or <video>).](https://github.com/video-dev/can-autoplay)
 - [baku89/bndr-js](https://github.com/baku89/bndr-js)
-- [zxch3n/tidy - A tree visualization tool written in Rust](https://github.com/zxch3n/tidy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
