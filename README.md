@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kishikawakatsumi/applelocalization-web](https://github.com/kishikawakatsumi/applelocalization-web)
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
 - [pixel-point/fontpie - Get your layout shifts optimized with a CLI-generated piece of CSS](https://github.com/pixel-point/fontpie)
 - [evanw/polywasm](https://github.com/evanw/polywasm)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [GeopJr/Tuba - Browse the Fediverse](https://github.com/GeopJr/Tuba)
 - [antfu/unplugin-auto-import - Auto import APIs on-demand for Vite, Webpack and Rollup](https://github.com/antfu/unplugin-auto-import)
 - [video-dev/can-autoplay - The auto-play feature detection in HTMLMediaElement (<audio> or <video>).](https://github.com/video-dev/can-autoplay)
-- [baku89/bndr-js](https://github.com/baku89/bndr-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
