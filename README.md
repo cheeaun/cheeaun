@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pixel-point/fontpie - Get your layout shifts optimized with a CLI-generated piece of CSS](https://github.com/pixel-point/fontpie)
 - [evanw/polywasm](https://github.com/evanw/polywasm)
 - [PatBall1/detectree2 - Python package for automatic tree crown delineation based on the Detectron2 implementation of Mask R-CNN](https://github.com/PatBall1/detectree2)
 - [ryanslikesocool/AppLibrary - A lightweight app launcher for macOS](https://github.com/ryanslikesocool/AppLibrary)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [video-dev/can-autoplay - The auto-play feature detection in HTMLMediaElement (<audio> or <video>).](https://github.com/video-dev/can-autoplay)
 - [baku89/bndr-js](https://github.com/baku89/bndr-js)
 - [zxch3n/tidy - A tree visualization tool written in Rust](https://github.com/zxch3n/tidy)
-- [Shinigami92/hsml - A pug-inspired HTML preprocessor](https://github.com/Shinigami92/hsml)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
