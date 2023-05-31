@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rviscomi/capo.js - Get your <head> in order](https://github.com/rviscomi/capo.js)
+- [uidotdev/usehooks - A collection of modern, server-safe React hooks – from the ui.dev team](https://github.com/uidotdev/usehooks)
 - [feditrends/trending-statuses - a filterable feed of statuses trending across the fediverse](https://github.com/feditrends/trending-statuses)
 - [bdube/metatext - A free, open-source iOS Mastodon client.](https://github.com/bdube/metatext)
 - [Distal-Labs/elk - A friendly fork of Elk - the nimble Mastodon web client](https://github.com/Distal-Labs/elk)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ryanslikesocool/AppLibrary - A lightweight app launcher for macOS](https://github.com/ryanslikesocool/AppLibrary)
 - [nanostores/nanostores - A tiny (313 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores](https://github.com/nanostores/nanostores)
 - [libarchive/libarchive - Multi-format archive and compression library](https://github.com/libarchive/libarchive)
-- [cpojer/remdx - Beautiful Minimalist React & MDX Presentations](https://github.com/cpojer/remdx)
-- [datopian/flowershow - 💐 Publish your digital garden or any markdown site easily and elegantly.](https://github.com/datopian/flowershow)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
