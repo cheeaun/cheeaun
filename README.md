@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [feditrends/trending-statuses - a filterable feed of statuses trending across the fediverse](https://github.com/feditrends/trending-statuses)
+- [bdube/metatext - A free, open-source iOS Mastodon client.](https://github.com/bdube/metatext)
+- [Distal-Labs/elk - A friendly fork of Elk - the nimble Mastodon web client](https://github.com/Distal-Labs/elk)
 - [kochrt/qr-designer - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction](https://github.com/kochrt/qr-designer)
 - [ThakurBallary/react-native-radio-buttons-group - Simple, best and easy to use radio buttons for react native apps.](https://github.com/ThakurBallary/react-native-radio-buttons-group)
 - [kishikawakatsumi/applelocalization-web](https://github.com/kishikawakatsumi/applelocalization-web)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [libarchive/libarchive - Multi-format archive and compression library](https://github.com/libarchive/libarchive)
 - [cpojer/remdx - Beautiful Minimalist React & MDX Presentations](https://github.com/cpojer/remdx)
 - [datopian/flowershow - 💐 Publish your digital garden or any markdown site easily and elegantly.](https://github.com/datopian/flowershow)
-- [sausheong/carpark-cgpt - ChatGPT plugin for Singapore HDB car park availability](https://github.com/sausheong/carpark-cgpt)
-- [PeterTYLiu/toaster - 3D editor for modelling in pure CSS+HTML; no canvas, no WebGL](https://github.com/PeterTYLiu/toaster)
-- [GeopJr/Tuba - Browse the Fediverse](https://github.com/GeopJr/Tuba)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
