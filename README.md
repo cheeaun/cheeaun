@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [discourse/discourse-activity-pub - Adds ActivityPub support to Discourse.](https://github.com/discourse/discourse-activity-pub)
+- [ddiu8081/mayday.blue - Mayday lyrics collection webapp.](https://github.com/ddiu8081/mayday.blue)
+- [chriswhong/console-log-geojson - Hijacks `console.log()` and checks for valid geoJSON.  If it exists, prints a simple summary and a link to inspect/edit the geojson in geojson.io.](https://github.com/chriswhong/console-log-geojson)
+- [google/closure-compiler - A JavaScript checker and optimizer.](https://github.com/google/closure-compiler)
 - [postcss/postcss-media-minmax - Writing simple and graceful Media Queries!](https://github.com/postcss/postcss-media-minmax)
 - [rviscomi/capo.js - Get your <head> in order](https://github.com/rviscomi/capo.js)
 - [uidotdev/usehooks - A collection of modern, server-safe React hooks – from the ui.dev team](https://github.com/uidotdev/usehooks)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kishikawakatsumi/applelocalization-web](https://github.com/kishikawakatsumi/applelocalization-web)
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
 - [pixel-point/fontpie - Get your layout shifts optimized with a CLI-generated piece of CSS](https://github.com/pixel-point/fontpie)
-- [evanw/polywasm](https://github.com/evanw/polywasm)
-- [PatBall1/detectree2 - Python package for automatic tree crown delineation based on the Detectron2 implementation of Mask R-CNN](https://github.com/PatBall1/detectree2)
-- [ryanslikesocool/AppLibrary - A lightweight app launcher for macOS](https://github.com/ryanslikesocool/AppLibrary)
-- [nanostores/nanostores - A tiny (313 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores](https://github.com/nanostores/nanostores)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
