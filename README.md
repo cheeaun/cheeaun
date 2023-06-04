@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nagix/sea-level-rise-3d-map - A 3D map of sea level rise simulation](https://github.com/nagix/sea-level-rise-3d-map)
 - [discourse/discourse-activity-pub - Adds ActivityPub support to Discourse.](https://github.com/discourse/discourse-activity-pub)
 - [ddiu8081/mayday.blue - Mayday lyrics collection webapp.](https://github.com/ddiu8081/mayday.blue)
 - [chriswhong/console-log-geojson - Hijacks `console.log()` and checks for valid geoJSON.  If it exists, prints a simple summary and a link to inspect/edit the geojson in geojson.io.](https://github.com/chriswhong/console-log-geojson)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ThakurBallary/react-native-radio-buttons-group - Simple, best and easy to use radio buttons for react native apps.](https://github.com/ThakurBallary/react-native-radio-buttons-group)
 - [kishikawakatsumi/applelocalization-web](https://github.com/kishikawakatsumi/applelocalization-web)
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
-- [pixel-point/fontpie - Get your layout shifts optimized with a CLI-generated piece of CSS](https://github.com/pixel-point/fontpie)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
