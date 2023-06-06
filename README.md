@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vite-pwa/assets-generator - Zero-config PWA Assets Generator](https://github.com/vite-pwa/assets-generator)
 - [gabek/fedidocs - Documentation for the Fediverse](https://github.com/gabek/fedidocs)
 - [ebeaufay/UltraGlobe - A globe in threejs with OGC WMS imagery, OGC 3dtiles and elevation ](https://github.com/ebeaufay/UltraGlobe)
 - [nagix/sea-level-rise-3d-map - A 3D map of sea level rise simulation](https://github.com/nagix/sea-level-rise-3d-map)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bdube/metatext - A free, open-source iOS Mastodon client.](https://github.com/bdube/metatext)
 - [Distal-Labs/elk - A friendly fork of Elk - the nimble Mastodon web client](https://github.com/Distal-Labs/elk)
 - [kochrt/qr-designer - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction](https://github.com/kochrt/qr-designer)
-- [ThakurBallary/react-native-radio-buttons-group - Simple, best and easy to use radio buttons for react native apps.](https://github.com/ThakurBallary/react-native-radio-buttons-group)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
