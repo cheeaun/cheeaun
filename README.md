@@ -27,6 +27,12 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [algolia/autocomplete - 🔮 Fast and full-featured autocomplete library](https://github.com/algolia/autocomplete)
+- [withastro/starlight - 🌟 Build beautiful, high-performance documentation websites with Astro](https://github.com/withastro/starlight)
+- [sindresorhus/react-extras - Useful components and utilities for working with React](https://github.com/sindresorhus/react-extras)
+- [gadomski/antimeridian - Fix GeoJSON polygons that cross the antimeridian](https://github.com/gadomski/antimeridian)
+- [angad/emailgpt.app - emailgpt.app](https://github.com/angad/emailgpt.app)
+- [sausheong/promptscript - PromptScript is an experimental prompting language created by GPT-4](https://github.com/sausheong/promptscript)
 - [vite-pwa/assets-generator - Zero-config PWA Assets Generator](https://github.com/vite-pwa/assets-generator)
 - [gabek/fedidocs - Documentation for the Fediverse](https://github.com/gabek/fedidocs)
 - [ebeaufay/UltraGlobe - A globe in threejs with OGC WMS imagery, OGC 3dtiles and elevation ](https://github.com/ebeaufay/UltraGlobe)
@@ -36,12 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chriswhong/console-log-geojson - Hijacks `console.log()` and checks for valid geoJSON.  If it exists, prints a simple summary and a link to inspect/edit the geojson in geojson.io.](https://github.com/chriswhong/console-log-geojson)
 - [google/closure-compiler - A JavaScript checker and optimizer.](https://github.com/google/closure-compiler)
 - [postcss/postcss-media-minmax - Writing simple and graceful Media Queries!](https://github.com/postcss/postcss-media-minmax)
-- [rviscomi/capo.js - Get your <head> in order](https://github.com/rviscomi/capo.js)
-- [uidotdev/usehooks - A collection of modern, server-safe React hooks – from the ui.dev team](https://github.com/uidotdev/usehooks)
-- [feditrends/trending-statuses - a filterable feed of statuses trending across the fediverse](https://github.com/feditrends/trending-statuses)
-- [bdube/metatext - A free, open-source iOS Mastodon client.](https://github.com/bdube/metatext)
-- [Distal-Labs/elk - A friendly fork of Elk - the nimble Mastodon web client](https://github.com/Distal-Labs/elk)
-- [kochrt/qr-designer - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction](https://github.com/kochrt/qr-designer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
