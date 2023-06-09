@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [avelino/phanpy-app - A minimalistic opinionated Mastodon mobile client, using phanpy web](https://github.com/avelino/phanpy-app)
 - [algolia/autocomplete - 🔮 Fast and full-featured autocomplete library](https://github.com/algolia/autocomplete)
 - [withastro/starlight - 🌟 Build beautiful, high-performance documentation websites with Astro](https://github.com/withastro/starlight)
 - [sindresorhus/react-extras - Useful components and utilities for working with React](https://github.com/sindresorhus/react-extras)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ddiu8081/mayday.blue - Mayday lyrics collection webapp.](https://github.com/ddiu8081/mayday.blue)
 - [chriswhong/console-log-geojson - Hijacks `console.log()` and checks for valid geoJSON.  If it exists, prints a simple summary and a link to inspect/edit the geojson in geojson.io.](https://github.com/chriswhong/console-log-geojson)
 - [google/closure-compiler - A JavaScript checker and optimizer.](https://github.com/google/closure-compiler)
-- [postcss/postcss-media-minmax - Writing simple and graceful Media Queries!](https://github.com/postcss/postcss-media-minmax)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
