@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jc9108/eternity - bypass Reddit's 1000-item listing limits by externally storing your Reddit items (saved, created, upvoted, downvoted, hidden) in your own database](https://github.com/jc9108/eternity)
+- [jc9108/expanse - selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits](https://github.com/jc9108/expanse)
 - [avelino/phanpy-app - A minimalistic opinionated Mastodon mobile client, using phanpy web](https://github.com/avelino/phanpy-app)
 - [algolia/autocomplete - 🔮 Fast and full-featured autocomplete library](https://github.com/algolia/autocomplete)
 - [withastro/starlight - 🌟 Build beautiful, high-performance documentation websites with Astro](https://github.com/withastro/starlight)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nagix/sea-level-rise-3d-map - A 3D map of sea level rise simulation](https://github.com/nagix/sea-level-rise-3d-map)
 - [discourse/discourse-activity-pub - Adds ActivityPub support to Discourse.](https://github.com/discourse/discourse-activity-pub)
 - [ddiu8081/mayday.blue - Mayday lyrics collection webapp.](https://github.com/ddiu8081/mayday.blue)
-- [chriswhong/console-log-geojson - Hijacks `console.log()` and checks for valid geoJSON.  If it exists, prints a simple summary and a link to inspect/edit the geojson in geojson.io.](https://github.com/chriswhong/console-log-geojson)
-- [google/closure-compiler - A JavaScript checker and optimizer.](https://github.com/google/closure-compiler)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
