@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dan-lee/timescape - A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte and Solid.](https://github.com/dan-lee/timescape)
 - [ernestwisniewski/kbin - A reddit-like content aggregator and micro-blogging platform for the fediverse.](https://github.com/ernestwisniewski/kbin)
 - [pure-dns/puredns - Public DNS service that supports DNS over HTTPS, TLS, QUIC, and Tor. Currently available in Singapore & Indonesia.](https://github.com/pure-dns/puredns)
 - [jc9108/eternity - bypass Reddit's 1000-item listing limits by externally storing your Reddit items (saved, created, upvoted, downvoted, hidden) in your own database](https://github.com/jc9108/eternity)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vite-pwa/assets-generator - Zero-config PWA Assets Generator](https://github.com/vite-pwa/assets-generator)
 - [gabek/fedidocs - Documentation for the Fediverse](https://github.com/gabek/fedidocs)
 - [ebeaufay/UltraGlobe - A globe in threejs with OGC WMS imagery, OGC 3dtiles and elevation ](https://github.com/ebeaufay/UltraGlobe)
-- [nagix/sea-level-rise-3d-map - A 3D map of sea level rise simulation](https://github.com/nagix/sea-level-rise-3d-map)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
