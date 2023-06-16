@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [terhechte/Ebou - A cross platform Mastodon Client written in Rust](https://github.com/terhechte/Ebou)
 - [kitsune-soc/kitsune - 🦊 ActivityPub-federated microblogging](https://github.com/kitsune-soc/kitsune)
 - [brycedrennan/imaginAIry - AI imagined images. Pythonic generation of images.](https://github.com/brycedrennan/imaginAIry)
 - [facebookresearch/localrf - An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.](https://github.com/facebookresearch/localrf)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sindresorhus/react-extras - Useful components and utilities for working with React](https://github.com/sindresorhus/react-extras)
 - [gadomski/antimeridian - Fix GeoJSON polygons that cross the antimeridian](https://github.com/gadomski/antimeridian)
 - [angad/emailgpt.app - emailgpt.app](https://github.com/angad/emailgpt.app)
-- [sausheong/promptscript - PromptScript is an experimental prompting language created by GPT-4](https://github.com/sausheong/promptscript)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
