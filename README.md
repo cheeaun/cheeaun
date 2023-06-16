@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [brycedrennan/imaginAIry - AI imagined images. Pythonic generation of images.](https://github.com/brycedrennan/imaginAIry)
+- [facebookresearch/localrf - An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.](https://github.com/facebookresearch/localrf)
 - [dan-lee/timescape - A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte and Solid.](https://github.com/dan-lee/timescape)
 - [ernestwisniewski/kbin - A reddit-like content aggregator and micro-blogging platform for the fediverse.](https://github.com/ernestwisniewski/kbin)
 - [pure-dns/puredns - Public DNS service that supports DNS over HTTPS, TLS, QUIC, and Tor. Currently available in Singapore & Indonesia.](https://github.com/pure-dns/puredns)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [angad/emailgpt.app - emailgpt.app](https://github.com/angad/emailgpt.app)
 - [sausheong/promptscript - PromptScript is an experimental prompting language created by GPT-4](https://github.com/sausheong/promptscript)
 - [vite-pwa/assets-generator - Zero-config PWA Assets Generator](https://github.com/vite-pwa/assets-generator)
-- [gabek/fedidocs - Documentation for the Fediverse](https://github.com/gabek/fedidocs)
-- [ebeaufay/UltraGlobe - A globe in threejs with OGC WMS imagery, OGC 3dtiles and elevation ](https://github.com/ebeaufay/UltraGlobe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
