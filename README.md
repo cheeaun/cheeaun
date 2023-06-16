@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kitsune-soc/kitsune - 🦊 ActivityPub-federated microblogging](https://github.com/kitsune-soc/kitsune)
 - [brycedrennan/imaginAIry - AI imagined images. Pythonic generation of images.](https://github.com/brycedrennan/imaginAIry)
 - [facebookresearch/localrf - An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.](https://github.com/facebookresearch/localrf)
 - [dan-lee/timescape - A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte and Solid.](https://github.com/dan-lee/timescape)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gadomski/antimeridian - Fix GeoJSON polygons that cross the antimeridian](https://github.com/gadomski/antimeridian)
 - [angad/emailgpt.app - emailgpt.app](https://github.com/angad/emailgpt.app)
 - [sausheong/promptscript - PromptScript is an experimental prompting language created by GPT-4](https://github.com/sausheong/promptscript)
-- [vite-pwa/assets-generator - Zero-config PWA Assets Generator](https://github.com/vite-pwa/assets-generator)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
