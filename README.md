@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dtinth/superwhite - display a very bright white color on HDR-enabled displays](https://github.com/dtinth/superwhite)
 - [react95-io/React95-Native - 🌈🕹 Windows 95 style UI component library for React Native](https://github.com/react95-io/React95-Native)
 - [arturbien/smooth-scroll-into-view-if-needed - Smoothly scroll elements into view, cross browser!](https://github.com/arturbien/smooth-scroll-into-view-if-needed)
 - [terhechte/Ebou - A cross platform Mastodon Client written in Rust](https://github.com/terhechte/Ebou)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [avelino/phanpy-app - A minimalistic opinionated Mastodon mobile client, using phanpy web](https://github.com/avelino/phanpy-app)
 - [algolia/autocomplete - 🔮 Fast and full-featured autocomplete library](https://github.com/algolia/autocomplete)
 - [withastro/starlight - 🌟 Build beautiful, high-performance documentation websites with Astro](https://github.com/withastro/starlight)
-- [sindresorhus/react-extras - Useful components and utilities for working with React](https://github.com/sindresorhus/react-extras)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
