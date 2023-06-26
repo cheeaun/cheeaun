@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [daybrush/scenejs - 🎬 Scene.js is JavaScript & CSS timeline-based animation library](https://github.com/daybrush/scenejs)
+- [daybrush/selecto - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.](https://github.com/daybrush/selecto)
+- [mycelial/mycelite - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.](https://github.com/mycelial/mycelite)
 - [aeharding/wefwef - wefwef — a mobile-first Lemmy web client](https://github.com/aeharding/wefwef)
 - [mattiasw/ExifReader - A JavaScript Exif info parser.](https://github.com/mattiasw/ExifReader)
 - [dtinth/superwhite - display a very bright white color on HDR-enabled displays](https://github.com/dtinth/superwhite)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dan-lee/timescape - A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte and Solid.](https://github.com/dan-lee/timescape)
 - [ernestwisniewski/kbin - A reddit-like content aggregator and micro-blogging platform for the fediverse.](https://github.com/ernestwisniewski/kbin)
 - [pure-dns/puredns - Public DNS service that supports DNS over HTTPS, TLS, QUIC, and Tor. Currently available in Singapore & Indonesia.](https://github.com/pure-dns/puredns)
-- [jc9108/eternity - bypass Reddit's 1000-item listing limits by externally storing your Reddit items (saved, created, upvoted, downvoted, hidden) in your own database](https://github.com/jc9108/eternity)
-- [jc9108/expanse - selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits](https://github.com/jc9108/expanse)
-- [avelino/phanpy-app - A minimalistic opinionated Mastodon mobile client, using phanpy web](https://github.com/avelino/phanpy-app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
