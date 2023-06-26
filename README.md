@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aeharding/wefwef - wefwef — a mobile-first Lemmy web client](https://github.com/aeharding/wefwef)
 - [mattiasw/ExifReader - A JavaScript Exif info parser.](https://github.com/mattiasw/ExifReader)
 - [dtinth/superwhite - display a very bright white color on HDR-enabled displays](https://github.com/dtinth/superwhite)
 - [react95-io/React95-Native - 🌈🕹 Windows 95 style UI component library for React Native](https://github.com/react95-io/React95-Native)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jc9108/eternity - bypass Reddit's 1000-item listing limits by externally storing your Reddit items (saved, created, upvoted, downvoted, hidden) in your own database](https://github.com/jc9108/eternity)
 - [jc9108/expanse - selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits](https://github.com/jc9108/expanse)
 - [avelino/phanpy-app - A minimalistic opinionated Mastodon mobile client, using phanpy web](https://github.com/avelino/phanpy-app)
-- [algolia/autocomplete - 🔮 Fast and full-featured autocomplete library](https://github.com/algolia/autocomplete)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
