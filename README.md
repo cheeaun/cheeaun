@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rurza/BatFi - Battery charging limiter for macOS.](https://github.com/rurza/BatFi)
+- [liriliri/eruda - Console for mobile browsers](https://github.com/liriliri/eruda)
+- [keithamus/csslex - A very small and very fast spec compliant css lexer](https://github.com/keithamus/csslex)
+- [pixelfed/pae - Pixelfed ActivityPub Extensions (WIP)](https://github.com/pixelfed/pae)
 - [daybrush/scenejs - 🎬 Scene.js is JavaScript & CSS timeline-based animation library](https://github.com/daybrush/scenejs)
 - [daybrush/selecto - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.](https://github.com/daybrush/selecto)
 - [mycelial/mycelite - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.](https://github.com/mycelial/mycelite)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [terhechte/Ebou - A cross platform Mastodon Client written in Rust](https://github.com/terhechte/Ebou)
 - [kitsune-soc/kitsune - 🦊 ActivityPub-federated microblogging](https://github.com/kitsune-soc/kitsune)
 - [brycedrennan/imaginAIry - AI imagined images. Pythonic generation of images.](https://github.com/brycedrennan/imaginAIry)
-- [facebookresearch/localrf - An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.](https://github.com/facebookresearch/localrf)
-- [dan-lee/timescape - A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte and Solid.](https://github.com/dan-lee/timescape)
-- [ernestwisniewski/kbin - A reddit-like content aggregator and micro-blogging platform for the fediverse.](https://github.com/ernestwisniewski/kbin)
-- [pure-dns/puredns - Public DNS service that supports DNS over HTTPS, TLS, QUIC, and Tor. Currently available in Singapore & Indonesia.](https://github.com/pure-dns/puredns)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
