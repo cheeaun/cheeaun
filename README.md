@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LycheeOrg/Lychee -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.](https://github.com/LycheeOrg/Lychee)
+- [joshuapack/MastoPlus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/joshuapack/MastoPlus)
 - [rurza/BatFi - Battery charging limiter for macOS.](https://github.com/rurza/BatFi)
 - [liriliri/eruda - Console for mobile browsers](https://github.com/liriliri/eruda)
 - [keithamus/csslex - A very small and very fast spec compliant css lexer](https://github.com/keithamus/csslex)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [react95-io/React95-Native - 🌈🕹 Windows 95 style UI component library for React Native](https://github.com/react95-io/React95-Native)
 - [arturbien/smooth-scroll-into-view-if-needed - Smoothly scroll elements into view, cross browser!](https://github.com/arturbien/smooth-scroll-into-view-if-needed)
 - [terhechte/Ebou - A cross platform Mastodon Client written in Rust](https://github.com/terhechte/Ebou)
-- [kitsune-soc/kitsune - 🦊 ActivityPub-federated microblogging](https://github.com/kitsune-soc/kitsune)
-- [brycedrennan/imaginAIry - AI imagined images. Pythonic generation of images.](https://github.com/brycedrennan/imaginAIry)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
