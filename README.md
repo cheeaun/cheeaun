@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [privatenumber/pkg-size.dev - 📦🔍 Find the true size of an npm package](https://github.com/privatenumber/pkg-size.dev)
 - [LycheeOrg/Lychee -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.](https://github.com/LycheeOrg/Lychee)
 - [joshuapack/MastoPlus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/joshuapack/MastoPlus)
 - [rurza/BatFi - Battery charging limiter for macOS.](https://github.com/rurza/BatFi)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dtinth/superwhite - display a very bright white color on HDR-enabled displays](https://github.com/dtinth/superwhite)
 - [react95-io/React95-Native - 🌈🕹 Windows 95 style UI component library for React Native](https://github.com/react95-io/React95-Native)
 - [arturbien/smooth-scroll-into-view-if-needed - Smoothly scroll elements into view, cross browser!](https://github.com/arturbien/smooth-scroll-into-view-if-needed)
-- [terhechte/Ebou - A cross platform Mastodon Client written in Rust](https://github.com/terhechte/Ebou)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
