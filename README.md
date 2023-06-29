@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chakra-ui/panda - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
+- [github/mona-sans - Mona Sans, a variable font from GitHub](https://github.com/github/mona-sans)
+- [imgly/background-removal-js](https://github.com/imgly/background-removal-js)
 - [chat2db/Chat2DB - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)](https://github.com/chat2db/Chat2DB)
 - [privatenumber/pkg-size.dev - 📦🔍 Find the true size of an npm package](https://github.com/privatenumber/pkg-size.dev)
 - [LycheeOrg/Lychee -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.](https://github.com/LycheeOrg/Lychee)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [daybrush/selecto - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.](https://github.com/daybrush/selecto)
 - [mycelial/mycelite - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.](https://github.com/mycelial/mycelite)
 - [aeharding/wefwef - wefwef — a mobile-first Lemmy web client](https://github.com/aeharding/wefwef)
-- [mattiasw/ExifReader - A JavaScript Exif info parser.](https://github.com/mattiasw/ExifReader)
-- [dtinth/superwhite - display a very bright white color on HDR-enabled displays](https://github.com/dtinth/superwhite)
-- [react95-io/React95-Native - 🌈🕹 Windows 95 style UI component library for React Native](https://github.com/react95-io/React95-Native)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
