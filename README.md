@@ -29,7 +29,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 <!-- starred repos start -->
 - [chakra-ui/panda - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
 - [github/mona-sans - Mona Sans, a variable font from GitHub](https://github.com/github/mona-sans)
-- [imgly/background-removal-js](https://github.com/imgly/background-removal-js)
+- [imgly/background-removal-js - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.](https://github.com/imgly/background-removal-js)
 - [chat2db/Chat2DB - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)](https://github.com/chat2db/Chat2DB)
 - [privatenumber/pkg-size.dev - 📦🔍 Find the true size of an npm package](https://github.com/privatenumber/pkg-size.dev)
 - [LycheeOrg/Lychee -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.](https://github.com/LycheeOrg/Lychee)
