@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vasturiano/d3-force-3d - Force-directed graph layout in 1D, 2D or 3D using velocity Verlet integration.](https://github.com/vasturiano/d3-force-3d)
 - [chakra-ui/panda - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
 - [github/mona-sans - Mona Sans, a variable font from GitHub](https://github.com/github/mona-sans)
 - [imgly/background-removal-js - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.](https://github.com/imgly/background-removal-js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [daybrush/scenejs - 🎬 Scene.js is JavaScript & CSS timeline-based animation library](https://github.com/daybrush/scenejs)
 - [daybrush/selecto - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.](https://github.com/daybrush/selecto)
 - [mycelial/mycelite - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.](https://github.com/mycelial/mycelite)
-- [aeharding/wefwef - wefwef — a mobile-first Lemmy web client](https://github.com/aeharding/wefwef)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
