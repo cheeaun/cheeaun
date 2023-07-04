@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mozzius/community-handles - community handles for bluesky](https://github.com/mozzius/community-handles)
+- [rystaf/mlmym - a familiar desktop experience for lemmy](https://github.com/rystaf/mlmym)
 - [chearon/scrollbugs - List of known browser bugs/inconsistencies involving CSS layouts with scrollbars](https://github.com/chearon/scrollbugs)
 - [vasturiano/d3-force-3d - Force-directed graph layout in 1D, 2D or 3D using velocity Verlet integration.](https://github.com/vasturiano/d3-force-3d)
 - [chakra-ui/panda - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [liriliri/eruda - Console for mobile browsers](https://github.com/liriliri/eruda)
 - [keithamus/csslex - A very small and very fast spec compliant css lexer](https://github.com/keithamus/csslex)
 - [pixelfed/pae - Pixelfed ActivityPub Extensions (WIP)](https://github.com/pixelfed/pae)
-- [daybrush/scenejs - 🎬 Scene.js is JavaScript & CSS timeline-based animation library](https://github.com/daybrush/scenejs)
-- [daybrush/selecto - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.](https://github.com/daybrush/selecto)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
