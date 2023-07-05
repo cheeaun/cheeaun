@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kudoai/chatgpt.js - 🤖 A powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
+- [StandingPadAnimations/phanpy-tauri - The phanpy web client, now as a Tauri app!](https://github.com/StandingPadAnimations/phanpy-tauri)
 - [mozzius/community-handles - community handles for bluesky](https://github.com/mozzius/community-handles)
 - [rystaf/mlmym - a familiar desktop experience for lemmy](https://github.com/rystaf/mlmym)
 - [chearon/scrollbugs - List of known browser bugs/inconsistencies involving CSS layouts with scrollbars](https://github.com/chearon/scrollbugs)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [joshuapack/MastoPlus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/joshuapack/MastoPlus)
 - [rurza/BatFi - Battery charging limiter for macOS.](https://github.com/rurza/BatFi)
 - [liriliri/eruda - Console for mobile browsers](https://github.com/liriliri/eruda)
-- [keithamus/csslex - A very small and very fast spec compliant css lexer](https://github.com/keithamus/csslex)
-- [pixelfed/pae - Pixelfed ActivityPub Extensions (WIP)](https://github.com/pixelfed/pae)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
