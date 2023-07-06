@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [junhoyeo/threads-api - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads.](https://github.com/junhoyeo/threads-api)
+- [InternLM/InternLM - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.](https://github.com/InternLM/InternLM)
 - [kudoai/chatgpt.js - 🤖 A powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
 - [StandingPadAnimations/phanpy-tauri - The phanpy web client, now as a Tauri app!](https://github.com/StandingPadAnimations/phanpy-tauri)
 - [mozzius/community-handles - community handles for bluesky](https://github.com/mozzius/community-handles)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [privatenumber/pkg-size.dev - 📦🔍 Find the true size of an npm package](https://github.com/privatenumber/pkg-size.dev)
 - [LycheeOrg/Lychee -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.](https://github.com/LycheeOrg/Lychee)
 - [joshuapack/MastoPlus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/joshuapack/MastoPlus)
-- [rurza/BatFi - Battery charging limiter for macOS.](https://github.com/rurza/BatFi)
-- [liriliri/eruda - Console for mobile browsers](https://github.com/liriliri/eruda)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
