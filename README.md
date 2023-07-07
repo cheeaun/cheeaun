@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [junhoyeo/threads-api - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads.](https://github.com/junhoyeo/threads-api)
+- [junhoyeo/threads-api - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.](https://github.com/junhoyeo/threads-api)
 - [InternLM/InternLM - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.](https://github.com/InternLM/InternLM)
 - [kudoai/chatgpt.js - 🤖 A powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
 - [StandingPadAnimations/phanpy-tauri - The phanpy web client, now as a Tauri app!](https://github.com/StandingPadAnimations/phanpy-tauri)
