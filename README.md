@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Andarist/react-textarea-autosize - <textarea /> component for React which grows with content](https://github.com/Andarist/react-textarea-autosize)
+- [mend/togithub.com](https://github.com/mend/togithub.com)
 - [junhoyeo/threads-api - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.](https://github.com/junhoyeo/threads-api)
 - [InternLM/InternLM - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.](https://github.com/InternLM/InternLM)
 - [kudoai/chatgpt.js - 🤖 A powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [imgly/background-removal-js - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.](https://github.com/imgly/background-removal-js)
 - [chat2db/Chat2DB - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)](https://github.com/chat2db/Chat2DB)
 - [privatenumber/pkg-size.dev - 📦🔍 Find the true size of an npm package](https://github.com/privatenumber/pkg-size.dev)
-- [LycheeOrg/Lychee -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.](https://github.com/LycheeOrg/Lychee)
-- [joshuapack/MastoPlus - A GooglePlus-Like third-party web client for mastodon.](https://github.com/joshuapack/MastoPlus)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
