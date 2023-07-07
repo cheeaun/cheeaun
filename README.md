@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [udecode/plate - The rich-text editor framework for React.](https://github.com/udecode/plate)
+- [remotestorage/remotestorage.js - ⬡ JavaScript client library for integrating remoteStorage in apps](https://github.com/remotestorage/remotestorage.js)
 - [Andarist/react-textarea-autosize - <textarea /> component for React which grows with content](https://github.com/Andarist/react-textarea-autosize)
 - [mend/togithub.com](https://github.com/mend/togithub.com)
 - [junhoyeo/threads-api - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.](https://github.com/junhoyeo/threads-api)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chakra-ui/panda - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
 - [github/mona-sans - Mona Sans, a variable font from GitHub](https://github.com/github/mona-sans)
 - [imgly/background-removal-js - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.](https://github.com/imgly/background-removal-js)
-- [chat2db/Chat2DB - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)](https://github.com/chat2db/Chat2DB)
-- [privatenumber/pkg-size.dev - 📦🔍 Find the true size of an npm package](https://github.com/privatenumber/pkg-size.dev)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
