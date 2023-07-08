@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [junhoyeo/react-threads - Embed Static Threads in your React/Next.js application. UI components for Meta's Threads.](https://github.com/junhoyeo/react-threads)
 - [udecode/plate - The rich-text editor framework for React.](https://github.com/udecode/plate)
 - [remotestorage/remotestorage.js - ⬡ JavaScript client library for integrating remoteStorage in apps](https://github.com/remotestorage/remotestorage.js)
 - [Andarist/react-textarea-autosize - <textarea /> component for React which grows with content](https://github.com/Andarist/react-textarea-autosize)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vasturiano/d3-force-3d - Force-directed graph layout in 1D, 2D or 3D using velocity Verlet integration.](https://github.com/vasturiano/d3-force-3d)
 - [chakra-ui/panda - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
 - [github/mona-sans - Mona Sans, a variable font from GitHub](https://github.com/github/mona-sans)
-- [imgly/background-removal-js - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.](https://github.com/imgly/background-removal-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
