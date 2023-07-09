@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shi-works/ksj-river-map-on-maplibre-gl-js - 国土数値情報の河川データをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/ksj-river-map-on-maplibre-gl-js)
 - [answerdev/answer - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.](https://github.com/answerdev/answer)
 - [junhoyeo/react-threads - Embed Static Threads in your React/Next.js application. UI components for Meta's Threads.](https://github.com/junhoyeo/react-threads)
 - [udecode/plate - The rich-text editor framework for React.](https://github.com/udecode/plate)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rystaf/mlmym - a familiar desktop experience for lemmy](https://github.com/rystaf/mlmym)
 - [chearon/scrollbugs - List of known browser bugs/inconsistencies involving CSS layouts with scrollbars](https://github.com/chearon/scrollbugs)
 - [vasturiano/d3-force-3d - Force-directed graph layout in 1D, 2D or 3D using velocity Verlet integration.](https://github.com/vasturiano/d3-force-3d)
-- [chakra-ui/panda - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
