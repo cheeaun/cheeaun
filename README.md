@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [eobrain/simplodon - Simple Mastodon Web Client](https://github.com/eobrain/simplodon)
+- [LemmyNet/lemmyBB - A federated bulletin board](https://github.com/LemmyNet/lemmyBB)
+- [zedeus/nitter - Alternative Twitter front-end](https://github.com/zedeus/nitter)
 - [React95/React95 - A React components library with Win95 UI](https://github.com/React95/React95)
 - [zhuowei/VisionOSStereoScreenshots - Take 3D stereoscopic screenshots in the visionOS emulator.](https://github.com/zhuowei/VisionOSStereoScreenshots)
 - [m1guelpf/threads-re - Reverse-engineering Instagram's Threads private APIs.](https://github.com/m1guelpf/threads-re)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mend/togithub.com](https://github.com/mend/togithub.com)
 - [junhoyeo/threads-api - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.](https://github.com/junhoyeo/threads-api)
 - [InternLM/InternLM - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.](https://github.com/InternLM/InternLM)
-- [kudoai/chatgpt.js - 🤖 A powerful, open source client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
-- [StandingPadAnimations/phanpy-tauri - The phanpy web client, now as a Tauri app!](https://github.com/StandingPadAnimations/phanpy-tauri)
-- [mozzius/community-handles - community handles for bluesky](https://github.com/mozzius/community-handles)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
