@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kaangiray26/geddit-app - Geddit is an open-source, Reddit client for Android without using their API](https://github.com/kaangiray26/geddit-app)
+- [JakePartusch/psi-action - A GitHub action that utilizes Google's Page Speed Insights to generate a performance report](https://github.com/JakePartusch/psi-action)
 - [harfbuzz/harfbuzz - HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
 - [eobrain/simplodon - Simple Mastodon Web Client](https://github.com/eobrain/simplodon)
 - [LemmyNet/lemmyBB - A federated bulletin board](https://github.com/LemmyNet/lemmyBB)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [udecode/plate - The rich-text editor framework for React.](https://github.com/udecode/plate)
 - [remotestorage/remotestorage.js - ⬡ JavaScript client library for integrating remoteStorage in apps](https://github.com/remotestorage/remotestorage.js)
 - [Andarist/react-textarea-autosize - <textarea /> component for React which grows with content](https://github.com/Andarist/react-textarea-autosize)
-- [mend/togithub.com](https://github.com/mend/togithub.com)
-- [junhoyeo/threads-api - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.](https://github.com/junhoyeo/threads-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
