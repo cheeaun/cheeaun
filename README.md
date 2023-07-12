@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [b123400/TootRain - Display toots on timeline in niconico style](https://github.com/b123400/TootRain)
 - [kaangiray26/geddit-app - Geddit is an open-source, Reddit client for Android without using their API](https://github.com/kaangiray26/geddit-app)
 - [JakePartusch/psi-action - A GitHub action that utilizes Google's Page Speed Insights to generate a performance report](https://github.com/JakePartusch/psi-action)
 - [harfbuzz/harfbuzz - HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [junhoyeo/react-threads - Embed Static Threads in your React/Next.js application. UI components for Meta's Threads.](https://github.com/junhoyeo/react-threads)
 - [udecode/plate - The rich-text editor framework for React.](https://github.com/udecode/plate)
 - [remotestorage/remotestorage.js - ⬡ JavaScript client library for integrating remoteStorage in apps](https://github.com/remotestorage/remotestorage.js)
-- [Andarist/react-textarea-autosize - <textarea /> component for React which grows with content](https://github.com/Andarist/react-textarea-autosize)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
