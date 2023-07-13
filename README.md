@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [forgefed/forgefed - ForgeFed - Federation Protocol for Forge Services](https://github.com/forgefed/forgefed)
 - [b123400/TootRain - Display toots on timeline in niconico style](https://github.com/b123400/TootRain)
 - [kaangiray26/geddit-app - Geddit is an open-source, Reddit client for Android without using their API](https://github.com/kaangiray26/geddit-app)
 - [JakePartusch/psi-action - A GitHub action that utilizes Google's Page Speed Insights to generate a performance report](https://github.com/JakePartusch/psi-action)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [answerdev/answer - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.](https://github.com/answerdev/answer)
 - [junhoyeo/react-threads - Embed Static Threads in your React/Next.js application. UI components for Meta's Threads.](https://github.com/junhoyeo/react-threads)
 - [udecode/plate - The rich-text editor framework for React.](https://github.com/udecode/plate)
-- [remotestorage/remotestorage.js - ⬡ JavaScript client library for integrating remoteStorage in apps](https://github.com/remotestorage/remotestorage.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
