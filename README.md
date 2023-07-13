@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ungap/custom-elements - All inclusive customElements polyfill for every browser](https://github.com/ungap/custom-elements)
 - [forgefed/forgefed - ForgeFed - Federation Protocol for Forge Services](https://github.com/forgefed/forgefed)
 - [b123400/TootRain - Display toots on timeline in niconico style](https://github.com/b123400/TootRain)
 - [kaangiray26/geddit-app - Geddit is an open-source, Reddit client for Android without using their API](https://github.com/kaangiray26/geddit-app)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shi-works/ksj-river-map-on-maplibre-gl-js - 国土数値情報の河川データをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/ksj-river-map-on-maplibre-gl-js)
 - [answerdev/answer - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.](https://github.com/answerdev/answer)
 - [junhoyeo/react-threads - Embed Static Threads in your React/Next.js application. UI components for Meta's Threads.](https://github.com/junhoyeo/react-threads)
-- [udecode/plate - The rich-text editor framework for React.](https://github.com/udecode/plate)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
