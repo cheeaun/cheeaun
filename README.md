@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stevenlafl/threads-web-client - A web client for Meta's new Threads app](https://github.com/stevenlafl/threads-web-client)
+- [threadsjs/threads.js - A Node.js library for the Threads API](https://github.com/threadsjs/threads.js)
 - [cutenode/1x.engineer - The official website of 1x Engineers around the world](https://github.com/cutenode/1x.engineer)
 - [glynnbird/toot - A very simple Mastodon command-line client for posting toots.](https://github.com/glynnbird/toot)
 - [ungap/custom-elements - All inclusive customElements polyfill for every browser](https://github.com/ungap/custom-elements)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zedeus/nitter - Alternative Twitter front-end](https://github.com/zedeus/nitter)
 - [React95/React95 - A React components library with Win95 UI](https://github.com/React95/React95)
 - [zhuowei/VisionOSStereoScreenshots - Take 3D stereoscopic screenshots in the visionOS emulator.](https://github.com/zhuowei/VisionOSStereoScreenshots)
-- [m1guelpf/threads-re - Reverse-engineering Instagram's Threads private APIs.](https://github.com/m1guelpf/threads-re)
-- [shi-works/ksj-river-map-on-maplibre-gl-js - 国土数値情報の河川データをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/ksj-river-map-on-maplibre-gl-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
