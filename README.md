@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kartikk221/hyper-express - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood. ](https://github.com/kartikk221/hyper-express)
+- [4awpawz/fusion.ssg - Minimal SSG Framework For Building Static Websites](https://github.com/4awpawz/fusion.ssg)
 - [mozilla/elk - A nimble Mastodon web client](https://github.com/mozilla/elk)
 - [swarajbachu/threads-web](https://github.com/swarajbachu/threads-web)
 - [stevenlafl/threads-web-client - A web client for Meta's new Threads app](https://github.com/stevenlafl/threads-web-client)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JakePartusch/psi-action - A GitHub action that utilizes Google's Page Speed Insights to generate a performance report](https://github.com/JakePartusch/psi-action)
 - [harfbuzz/harfbuzz - HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
 - [eobrain/simplodon - Simple Mastodon Web Client](https://github.com/eobrain/simplodon)
-- [LemmyNet/lemmyBB - A federated bulletin board](https://github.com/LemmyNet/lemmyBB)
-- [zedeus/nitter - Alternative Twitter front-end](https://github.com/zedeus/nitter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
