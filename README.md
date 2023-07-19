@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mozilla/elk - A nimble Mastodon web client](https://github.com/mozilla/elk)
+- [swarajbachu/threads-web](https://github.com/swarajbachu/threads-web)
 - [stevenlafl/threads-web-client - A web client for Meta's new Threads app](https://github.com/stevenlafl/threads-web-client)
 - [threadsjs/threads.js - A Node.js library for the Threads API](https://github.com/threadsjs/threads.js)
 - [cutenode/1x.engineer - The official website of 1x Engineers around the world](https://github.com/cutenode/1x.engineer)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [eobrain/simplodon - Simple Mastodon Web Client](https://github.com/eobrain/simplodon)
 - [LemmyNet/lemmyBB - A federated bulletin board](https://github.com/LemmyNet/lemmyBB)
 - [zedeus/nitter - Alternative Twitter front-end](https://github.com/zedeus/nitter)
-- [React95/React95 - A React components library with Win95 UI](https://github.com/React95/React95)
-- [zhuowei/VisionOSStereoScreenshots - Take 3D stereoscopic screenshots in the visionOS emulator.](https://github.com/zhuowei/VisionOSStereoScreenshots)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
