@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antfu/qrcode-opencv-wechat - QR Code scanner in JS with Open CV and WeChat's Algorithm ](https://github.com/antfu/qrcode-opencv-wechat)
 - [tinysearch/tinysearch - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm](https://github.com/tinysearch/tinysearch)
 - [sausheong/house - House is a debate simulation between multiple participants, which can be represented by different large language models (LLMs). House is an experiment to use LLMs to debate and discuss a topic and get views from multiple perspectives.](https://github.com/sausheong/house)
 - [kartikk221/hyper-express - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood. ](https://github.com/kartikk221/hyper-express)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [forgefed/forgefed - ForgeFed - Federation Protocol for Forge Services](https://github.com/forgefed/forgefed)
 - [b123400/TootRain - Display toots on timeline in niconico style](https://github.com/b123400/TootRain)
 - [kaangiray26/geddit-app - Geddit is an open-source, Reddit client for Android without using their API](https://github.com/kaangiray26/geddit-app)
-- [JakePartusch/psi-action - A GitHub action that utilizes Google's Page Speed Insights to generate a performance report](https://github.com/JakePartusch/psi-action)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
