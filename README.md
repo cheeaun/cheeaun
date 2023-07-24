@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lf-/clipper - TLS key escrow/interception for debugging](https://github.com/lf-/clipper)
 - [antfu/qrcode-opencv-wechat - QR Code scanner in JS with Open CV and WeChat's Algorithm ](https://github.com/antfu/qrcode-opencv-wechat)
 - [tinysearch/tinysearch - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm](https://github.com/tinysearch/tinysearch)
 - [sausheong/house - House is a debate simulation between multiple participants, which can be represented by different large language models (LLMs). House is an experiment to use LLMs to debate and discuss a topic and get views from multiple perspectives.](https://github.com/sausheong/house)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ungap/custom-elements - All inclusive customElements polyfill for every browser](https://github.com/ungap/custom-elements)
 - [forgefed/forgefed - ForgeFed - Federation Protocol for Forge Services](https://github.com/forgefed/forgefed)
 - [b123400/TootRain - Display toots on timeline in niconico style](https://github.com/b123400/TootRain)
-- [kaangiray26/geddit-app - Geddit is an open-source, Reddit client for Android without using their API](https://github.com/kaangiray26/geddit-app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
