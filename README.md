@@ -27,8 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [emilkowalski/vaul - An unstyled drawer component for React.](https://github.com/emilkowalski/vaul)
+- [jvns/tweets-archive](https://github.com/jvns/tweets-archive)
 - [lf-/clipper - TLS key escrow/interception for debugging](https://github.com/lf-/clipper)
-- [antfu/qrcode-opencv-wechat - QR Code scanner in JS with Open CV and WeChat's Algorithm ](https://github.com/antfu/qrcode-opencv-wechat)
+- [antfu/qr-scanner-wechat - QR Code scanner in JS with Open CV and WeChat's Algorithm ](https://github.com/antfu/qr-scanner-wechat)
 - [tinysearch/tinysearch - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm](https://github.com/tinysearch/tinysearch)
 - [sausheong/house - House is a debate simulation between multiple participants, which can be represented by different large language models (LLMs). House is an experiment to use LLMs to debate and discuss a topic and get views from multiple perspectives.](https://github.com/sausheong/house)
 - [kartikk221/hyper-express - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood. ](https://github.com/kartikk221/hyper-express)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cutenode/1x.engineer - The official website of 1x Engineers around the world](https://github.com/cutenode/1x.engineer)
 - [glynnbird/toot - A very simple Mastodon command-line client for posting toots.](https://github.com/glynnbird/toot)
 - [ungap/custom-elements - All inclusive customElements polyfill for every browser](https://github.com/ungap/custom-elements)
-- [forgefed/forgefed - ForgeFed - Federation Protocol for Forge Services](https://github.com/forgefed/forgefed)
-- [b123400/TootRain - Display toots on timeline in niconico style](https://github.com/b123400/TootRain)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
