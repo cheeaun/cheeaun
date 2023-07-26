@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fabian-hiller/valibot - The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
 - [emilkowalski/vaul - An unstyled drawer component for React.](https://github.com/emilkowalski/vaul)
 - [jvns/tweets-archive](https://github.com/jvns/tweets-archive)
 - [lf-/clipper - TLS key escrow/interception for debugging](https://github.com/lf-/clipper)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [threadsjs/threads.js - A Node.js library for the Threads API](https://github.com/threadsjs/threads.js)
 - [cutenode/1x.engineer - The official website of 1x Engineers around the world](https://github.com/cutenode/1x.engineer)
 - [glynnbird/toot - A very simple Mastodon command-line client for posting toots.](https://github.com/glynnbird/toot)
-- [ungap/custom-elements - All inclusive customElements polyfill for every browser](https://github.com/ungap/custom-elements)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
