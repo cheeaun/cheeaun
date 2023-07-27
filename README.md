@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel/react-tweet - Embed tweets in your React application.](https://github.com/vercel/react-tweet)
 - [fabian-hiller/valibot - The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
 - [emilkowalski/vaul - An unstyled drawer component for React.](https://github.com/emilkowalski/vaul)
 - [jvns/tweets-archive](https://github.com/jvns/tweets-archive)
@@ -36,12 +37,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sausheong/house - House is a debate simulation between multiple participants, which can be represented by different large language models (LLMs). House is an experiment to use LLMs to debate and discuss a topic and get views from multiple perspectives.](https://github.com/sausheong/house)
 - [kartikk221/hyper-express - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood. ](https://github.com/kartikk221/hyper-express)
 - [4awpawz/fusion.ssg - Minimal SSG Framework For Building Static Websites](https://github.com/4awpawz/fusion.ssg)
-- [mozilla/elk - A nimble Mastodon web client](https://github.com/mozilla/elk)
+- [MozillaSocial/elk - A nimble Mastodon web client](https://github.com/MozillaSocial/elk)
 - [swarajbachu/threads-web](https://github.com/swarajbachu/threads-web)
 - [stevenlafl/threads-web-client - A web client for Meta's new Threads app](https://github.com/stevenlafl/threads-web-client)
 - [threadsjs/threads.js - A Node.js library for the Threads API](https://github.com/threadsjs/threads.js)
 - [cutenode/1x.engineer - The official website of 1x Engineers around the world](https://github.com/cutenode/1x.engineer)
-- [glynnbird/toot - A very simple Mastodon command-line client for posting toots.](https://github.com/glynnbird/toot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
