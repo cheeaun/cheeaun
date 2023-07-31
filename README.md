@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors)
 - [bdon/overture-tiles - create tiles from overture data](https://github.com/bdon/overture-tiles)
 - [vercel/react-tweet - Embed tweets in your React application.](https://github.com/vercel/react-tweet)
 - [fabian-hiller/valibot - The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MozillaSocial/elk - A nimble Mastodon web client](https://github.com/MozillaSocial/elk)
 - [swarajbachu/threads-web](https://github.com/swarajbachu/threads-web)
 - [stevenlafl/threads-web-client - A web client for Meta's new Threads app](https://github.com/stevenlafl/threads-web-client)
-- [threadsjs/threads.js - A Node.js library for the Threads API](https://github.com/threadsjs/threads.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
