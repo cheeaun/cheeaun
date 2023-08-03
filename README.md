@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [translate-tools/domtranslator - Translate text in DOM nodes from one language to another](https://github.com/translate-tools/domtranslator)
+- [translate-tools/core - Translators and tools for translate (translate scheduler, batch translating, cache, etc)](https://github.com/translate-tools/core)
 - [maptiler/maptiler-sdk-js - Maps SDK tailored for MapTiler Cloud powered by MapLibre GL JS](https://github.com/maptiler/maptiler-sdk-js)
 - [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors)
 - [bdon/overture-tiles - create tiles from overture data](https://github.com/bdon/overture-tiles)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sausheong/house - House is a debate simulation between multiple participants, which can be represented by different large language models (LLMs). House is an experiment to use LLMs to debate and discuss a topic and get views from multiple perspectives.](https://github.com/sausheong/house)
 - [kartikk221/hyper-express - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood. ](https://github.com/kartikk221/hyper-express)
 - [4awpawz/fusion.ssg - Minimal SSG Framework For Building Static Websites](https://github.com/4awpawz/fusion.ssg)
-- [MozillaSocial/elk - A nimble Mastodon web client](https://github.com/MozillaSocial/elk)
-- [swarajbachu/threads-web](https://github.com/swarajbachu/threads-web)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
