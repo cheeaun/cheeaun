@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maptiler/maptiler-sdk-js - Maps SDK tailored for MapTiler Cloud powered by MapLibre GL JS](https://github.com/maptiler/maptiler-sdk-js)
 - [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors)
 - [bdon/overture-tiles - create tiles from overture data](https://github.com/bdon/overture-tiles)
 - [vercel/react-tweet - Embed tweets in your React application.](https://github.com/vercel/react-tweet)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [4awpawz/fusion.ssg - Minimal SSG Framework For Building Static Websites](https://github.com/4awpawz/fusion.ssg)
 - [MozillaSocial/elk - A nimble Mastodon web client](https://github.com/MozillaSocial/elk)
 - [swarajbachu/threads-web](https://github.com/swarajbachu/threads-web)
-- [stevenlafl/threads-web-client - A web client for Meta's new Threads app](https://github.com/stevenlafl/threads-web-client)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
