@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [raycast/extensions - Everything you need to extend Raycast.](https://github.com/raycast/extensions)
 - [sissbruecker/linkding - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.](https://github.com/sissbruecker/linkding)
 - [Kovah/LinkAce - LinkAce is a self-hosted archive to collect links of your favorite websites.](https://github.com/Kovah/LinkAce)
 - [go-shiori/shiori - Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [emilkowalski/vaul - An unstyled drawer component for React.](https://github.com/emilkowalski/vaul)
 - [jvns/tweets-archive](https://github.com/jvns/tweets-archive)
 - [lf-/clipper - TLS key escrow/interception for debugging](https://github.com/lf-/clipper)
-- [antfu/qr-scanner-wechat - QR Code scanner in JS with Open CV and WeChat's Algorithm ](https://github.com/antfu/qr-scanner-wechat)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
