@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lyqht/styled-qr-code-generator - Web app to generate customized qr codes easily 👾](https://github.com/lyqht/styled-qr-code-generator)
 - [raycast/extensions - Everything you need to extend Raycast.](https://github.com/raycast/extensions)
 - [sissbruecker/linkding - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.](https://github.com/sissbruecker/linkding)
 - [Kovah/LinkAce - LinkAce is a self-hosted archive to collect links of your favorite websites.](https://github.com/Kovah/LinkAce)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fabian-hiller/valibot - The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
 - [emilkowalski/vaul - An unstyled drawer component for React.](https://github.com/emilkowalski/vaul)
 - [jvns/tweets-archive](https://github.com/jvns/tweets-archive)
-- [lf-/clipper - TLS key escrow/interception for debugging](https://github.com/lf-/clipper)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
