@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sissbruecker/linkding - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.](https://github.com/sissbruecker/linkding)
+- [Kovah/LinkAce - LinkAce is a self-hosted archive to collect links of your favorite websites.](https://github.com/Kovah/LinkAce)
+- [go-shiori/shiori - Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
 - [OvertureMaps/data](https://github.com/OvertureMaps/data)
 - [translate-tools/domtranslator - Translate text in DOM nodes from one language to another](https://github.com/translate-tools/domtranslator)
 - [translate-tools/core - Translators and tools for translate (translate scheduler, batch translating, cache, etc)](https://github.com/translate-tools/core)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jvns/tweets-archive](https://github.com/jvns/tweets-archive)
 - [lf-/clipper - TLS key escrow/interception for debugging](https://github.com/lf-/clipper)
 - [antfu/qr-scanner-wechat - QR Code scanner in JS with Open CV and WeChat's Algorithm ](https://github.com/antfu/qr-scanner-wechat)
-- [tinysearch/tinysearch - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm](https://github.com/tinysearch/tinysearch)
-- [sausheong/house - House is a debate simulation between multiple participants, which can be represented by different large language models (LLMs). House is an experiment to use LLMs to debate and discuss a topic and get views from multiple perspectives.](https://github.com/sausheong/house)
-- [kartikk221/hyper-express - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood. ](https://github.com/kartikk221/hyper-express)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
