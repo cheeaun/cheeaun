@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kanrichan/resvg-go - A SVG render written in Go & WASM depended on resvg without CGO](https://github.com/kanrichan/resvg-go)
 - [lyqht/styled-qr-code-generator - Web app to generate customized qr codes easily 👾](https://github.com/lyqht/styled-qr-code-generator)
 - [raycast/extensions - Everything you need to extend Raycast.](https://github.com/raycast/extensions)
 - [sissbruecker/linkding - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.](https://github.com/sissbruecker/linkding)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vercel/react-tweet - Embed tweets in your React application.](https://github.com/vercel/react-tweet)
 - [fabian-hiller/valibot - The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
 - [emilkowalski/vaul - An unstyled drawer component for React.](https://github.com/emilkowalski/vaul)
-- [jvns/tweets-archive](https://github.com/jvns/tweets-archive)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
