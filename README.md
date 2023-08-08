@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [magcius/noclip.website - A digital museum of video game levels](https://github.com/magcius/noclip.website)
 - [Genymobile/scrcpy - Display and control your Android device](https://github.com/Genymobile/scrcpy)
 - [kanrichan/resvg-go - A SVG render written in Go & WASM depended on resvg without CGO](https://github.com/kanrichan/resvg-go)
 - [lyqht/styled-qr-code-generator - Web app to generate customized qr codes easily 👾](https://github.com/lyqht/styled-qr-code-generator)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors)
 - [bdon/overture-tiles - create tiles from overture data](https://github.com/bdon/overture-tiles)
 - [vercel/react-tweet - Embed tweets in your React application.](https://github.com/vercel/react-tweet)
-- [fabian-hiller/valibot - The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
