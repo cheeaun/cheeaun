@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zknill/sqledge - Replicate postgres to SQLite on the edge](https://github.com/zknill/sqledge)
 - [magcius/noclip.website - A digital museum of video game levels](https://github.com/magcius/noclip.website)
 - [Genymobile/scrcpy - Display and control your Android device](https://github.com/Genymobile/scrcpy)
 - [kanrichan/resvg-go - A SVG render written in Go & WASM depended on resvg without CGO](https://github.com/kanrichan/resvg-go)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [maptiler/maptiler-sdk-js - Maps SDK tailored for MapTiler Cloud powered by MapLibre GL JS](https://github.com/maptiler/maptiler-sdk-js)
 - [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors)
 - [bdon/overture-tiles - create tiles from overture data](https://github.com/bdon/overture-tiles)
-- [vercel/react-tweet - Embed tweets in your React application.](https://github.com/vercel/react-tweet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
