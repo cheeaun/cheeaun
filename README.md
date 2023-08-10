@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google/typograms](https://github.com/google/typograms)
+- [oframe/ogl - Minimal WebGL Library](https://github.com/oframe/ogl)
 - [zknill/sqledge - Replicate postgres to SQLite on the edge](https://github.com/zknill/sqledge)
 - [magcius/noclip.website - A digital museum of video game levels](https://github.com/magcius/noclip.website)
 - [Genymobile/scrcpy - Display and control your Android device](https://github.com/Genymobile/scrcpy)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [translate-tools/domtranslator - Translate text in DOM nodes from one language to another](https://github.com/translate-tools/domtranslator)
 - [translate-tools/core - Translators and tools for translate (translate scheduler, batch translating, cache, etc)](https://github.com/translate-tools/core)
 - [maptiler/maptiler-sdk-js - Maps SDK tailored for MapTiler Cloud powered by MapLibre GL JS](https://github.com/maptiler/maptiler-sdk-js)
-- [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors)
-- [bdon/overture-tiles - create tiles from overture data](https://github.com/bdon/overture-tiles)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
