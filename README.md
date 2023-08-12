@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [trpc/trpc - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ](https://github.com/trpc/trpc)
 - [google/typograms](https://github.com/google/typograms)
 - [oframe/ogl - Minimal WebGL Library](https://github.com/oframe/ogl)
 - [zknill/sqledge - Replicate postgres to SQLite on the edge](https://github.com/zknill/sqledge)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [OvertureMaps/data](https://github.com/OvertureMaps/data)
 - [translate-tools/domtranslator - Translate text in DOM nodes from one language to another](https://github.com/translate-tools/domtranslator)
 - [translate-tools/core - Translators and tools for translate (translate scheduler, batch translating, cache, etc)](https://github.com/translate-tools/core)
-- [maptiler/maptiler-sdk-js - Maps SDK tailored for MapTiler Cloud powered by MapLibre GL JS](https://github.com/maptiler/maptiler-sdk-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
