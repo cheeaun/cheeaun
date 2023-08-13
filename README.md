@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antfu/shikiji - An ESM-focused rewrite of shiki, and a little bit more.](https://github.com/antfu/shikiji)
 - [ianstormtaylor/superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)
 - [trpc/trpc - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ](https://github.com/trpc/trpc)
 - [google/typograms](https://github.com/google/typograms)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Kovah/LinkAce - LinkAce is a self-hosted archive to collect links of your favorite websites.](https://github.com/Kovah/LinkAce)
 - [go-shiori/shiori - Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
 - [OvertureMaps/data](https://github.com/OvertureMaps/data)
-- [translate-tools/domtranslator - Translate text in DOM nodes from one language to another](https://github.com/translate-tools/domtranslator)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
