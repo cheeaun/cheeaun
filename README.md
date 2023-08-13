@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ianstormtaylor/superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)
 - [trpc/trpc - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ](https://github.com/trpc/trpc)
 - [google/typograms](https://github.com/google/typograms)
 - [oframe/ogl - Minimal WebGL Library](https://github.com/oframe/ogl)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [go-shiori/shiori - Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
 - [OvertureMaps/data](https://github.com/OvertureMaps/data)
 - [translate-tools/domtranslator - Translate text in DOM nodes from one language to another](https://github.com/translate-tools/domtranslator)
-- [translate-tools/core - Translators and tools for translate (translate scheduler, batch translating, cache, etc)](https://github.com/translate-tools/core)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
