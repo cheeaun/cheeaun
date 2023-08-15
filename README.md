@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [a16z-infra/ai-town - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.](https://github.com/a16z-infra/ai-town)
 - [inokawa/virtua - A zero-config, fast and small (~3kB) virtual list and grid component for React.](https://github.com/inokawa/virtua)
 - [antfu/shikiji - An ESM-focused rewrite of shiki, and a little bit more.](https://github.com/antfu/shikiji)
 - [ianstormtaylor/superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [raycast/extensions - Everything you need to extend Raycast.](https://github.com/raycast/extensions)
 - [sissbruecker/linkding - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.](https://github.com/sissbruecker/linkding)
 - [Kovah/LinkAce - LinkAce is a self-hosted archive to collect links of your favorite websites.](https://github.com/Kovah/LinkAce)
-- [go-shiori/shiori - Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
