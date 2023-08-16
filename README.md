@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [johannschopplich/unpdf - 📄 Utilities to work with PDFs, like extracting text](https://github.com/johannschopplich/unpdf)
 - [chriswhong/nyc-trees-map - An experimental map combining a lidar-based dataset of trees in New York City with the 3D tree models available in Mapbox GL JS v3 and the Mapbox Standard Style.](https://github.com/chriswhong/nyc-trees-map)
 - [JamesLMilner/terra-draw - Cross provider map drawing library, supporting Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box ](https://github.com/JamesLMilner/terra-draw)
 - [adamghill/fediview - Get a digest of popular posts and boosts from your Mastodon (fediverse) timeline.](https://github.com/adamghill/fediview)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [magcius/noclip.website - A digital museum of video game levels](https://github.com/magcius/noclip.website)
 - [Genymobile/scrcpy - Display and control your Android device](https://github.com/Genymobile/scrcpy)
 - [kanrichan/resvg-go - A SVG render written in Go & WASM depended on resvg without CGO](https://github.com/kanrichan/resvg-go)
-- [lyqht/styled-qr-code-generator - Web app to generate customized qr codes easily 👾](https://github.com/lyqht/styled-qr-code-generator)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
