@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chriswhong/nyc-trees-map - An experimental map combining a lidar-based dataset of trees in New York City with the 3D tree models available in Mapbox GL JS v3 and the Mapbox Standard Style.](https://github.com/chriswhong/nyc-trees-map)
 - [JamesLMilner/terra-draw - Cross provider map drawing library, supporting Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box ](https://github.com/JamesLMilner/terra-draw)
 - [adamghill/fediview - Get a digest of popular posts and boosts from your Mastodon (fediverse) timeline.](https://github.com/adamghill/fediview)
 - [a16z-infra/ai-town - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.](https://github.com/a16z-infra/ai-town)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Genymobile/scrcpy - Display and control your Android device](https://github.com/Genymobile/scrcpy)
 - [kanrichan/resvg-go - A SVG render written in Go & WASM depended on resvg without CGO](https://github.com/kanrichan/resvg-go)
 - [lyqht/styled-qr-code-generator - Web app to generate customized qr codes easily 👾](https://github.com/lyqht/styled-qr-code-generator)
-- [raycast/extensions - Everything you need to extend Raycast.](https://github.com/raycast/extensions)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
