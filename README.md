@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tisfeng/Easydict - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统翻译，DeepL，谷歌，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ](https://github.com/tisfeng/Easydict)
 - [webpro/knip - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!](https://github.com/webpro/knip)
 - [paradite/frontend-encyclopedia - Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)
 - [johannschopplich/unpdf - 📄 Utilities to work with PDFs, like extracting text](https://github.com/johannschopplich/unpdf)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [google/typograms](https://github.com/google/typograms)
 - [oframe/ogl - Minimal WebGL Library](https://github.com/oframe/ogl)
 - [zknill/sqledge - Replicate postgres to SQLite on the edge](https://github.com/zknill/sqledge)
-- [magcius/noclip.website - A digital museum of video game levels](https://github.com/magcius/noclip.website)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
