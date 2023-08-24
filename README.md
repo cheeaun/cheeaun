@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [thoughtspile/awesome-tiny-js - A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet](https://github.com/thoughtspile/awesome-tiny-js)
 - [mrousavy/react-native-fast-tflite - 🔥 High-performance TensorFlow Lite library for React Native with GPU acceleration](https://github.com/mrousavy/react-native-fast-tflite)
 - [easrng/enafore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/easrng/enafore)
 - [tisfeng/Easydict - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统翻译，DeepL，谷歌，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ](https://github.com/tisfeng/Easydict)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antfu/shikiji - An ESM-focused rewrite of shiki, and a little bit more.](https://github.com/antfu/shikiji)
 - [ianstormtaylor/superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)
 - [trpc/trpc - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ](https://github.com/trpc/trpc)
-- [google/typograms](https://github.com/google/typograms)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
