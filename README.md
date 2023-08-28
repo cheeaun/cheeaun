@@ -34,7 +34,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tisfeng/Easydict - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统翻译，DeepL，谷歌，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ](https://github.com/tisfeng/Easydict)
 - [webpro/knip - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!](https://github.com/webpro/knip)
 - [paradite/frontend-encyclopedia - Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)
-- [unjs/unpdf - 📄 Utilities to work with PDFs, like extracting text](https://github.com/unjs/unpdf)
+- [unjs/unpdf - 📄 Utilities to work with PDFs in Node.js, browser and workers](https://github.com/unjs/unpdf)
 - [chriswhong/nyc-trees-map - An experimental map combining a lidar-based dataset of trees in New York City with the 3D tree models available in Mapbox GL JS v3 and the Mapbox Standard Style.](https://github.com/chriswhong/nyc-trees-map)
 - [JamesLMilner/terra-draw - Cross provider map drawing library, supporting Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box ](https://github.com/JamesLMilner/terra-draw)
 - [adamghill/fediview - Get a digest of popular posts and boosts from your Mastodon (fediverse) timeline.](https://github.com/adamghill/fediview)
