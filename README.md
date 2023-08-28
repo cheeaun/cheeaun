@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [coolkit-carl/ewelink-api-next - CoolKit v2 API Official Library](https://github.com/coolkit-carl/ewelink-api-next)
 - [thoughtspile/awesome-tiny-js - A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet](https://github.com/thoughtspile/awesome-tiny-js)
 - [mrousavy/react-native-fast-tflite - 🔥 High-performance TensorFlow Lite library for React Native with GPU acceleration](https://github.com/mrousavy/react-native-fast-tflite)
 - [easrng/enafore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/easrng/enafore)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [inokawa/virtua - A zero-config, fast and small (~3kB) virtual list and grid component for React.](https://github.com/inokawa/virtua)
 - [antfu/shikiji - An ESM-focused rewrite of shiki, and a little bit more.](https://github.com/antfu/shikiji)
 - [ianstormtaylor/superstruct - A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)
-- [trpc/trpc - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ](https://github.com/trpc/trpc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
