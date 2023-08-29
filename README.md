@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [moseoridev/WarpShare - An Open-source AirDrop Alternative](https://github.com/moseoridev/WarpShare)
+- [grishka/NearDrop - An unofficial Google Nearby Share app for macOS](https://github.com/grishka/NearDrop)
 - [facebook/Rapid - The OpenStreetMap editor driven by open data, AI, and supercharged features](https://github.com/facebook/Rapid)
 - [coolkit-carl/ewelink-api-next - CoolKit v2 API Official Library](https://github.com/coolkit-carl/ewelink-api-next)
 - [thoughtspile/awesome-tiny-js - A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet](https://github.com/thoughtspile/awesome-tiny-js)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JamesLMilner/terra-draw - Cross provider map drawing library, supporting Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box ](https://github.com/JamesLMilner/terra-draw)
 - [adamghill/fediview - Get a digest of popular posts and boosts from your Mastodon (fediverse) timeline.](https://github.com/adamghill/fediview)
 - [a16z-infra/ai-town - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.](https://github.com/a16z-infra/ai-town)
-- [inokawa/virtua - A zero-config, fast and small (~3kB) virtual list and grid component for React.](https://github.com/inokawa/virtua)
-- [antfu/shikiji - An ESM-focused rewrite of shiki, and a little bit more.](https://github.com/antfu/shikiji)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
