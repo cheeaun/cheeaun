@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [radix-ui/primitives - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.](https://github.com/radix-ui/primitives)
 - [moseoridev/WarpShare - An Open-source AirDrop Alternative](https://github.com/moseoridev/WarpShare)
 - [grishka/NearDrop - An unofficial Google Nearby Share app for macOS](https://github.com/grishka/NearDrop)
 - [facebook/Rapid - The OpenStreetMap editor driven by open data, AI, and supercharged features](https://github.com/facebook/Rapid)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chriswhong/nyc-trees-map - An experimental map combining a lidar-based dataset of trees in New York City with the 3D tree models available in Mapbox GL JS v3 and the Mapbox Standard Style.](https://github.com/chriswhong/nyc-trees-map)
 - [JamesLMilner/terra-draw - Cross provider map drawing library, supporting Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box ](https://github.com/JamesLMilner/terra-draw)
 - [adamghill/fediview - Get a digest of popular posts and boosts from your Mastodon (fediverse) timeline.](https://github.com/adamghill/fediview)
-- [a16z-infra/ai-town - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.](https://github.com/a16z-infra/ai-town)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
