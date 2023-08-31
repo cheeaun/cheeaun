@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Ryujinx/Ryujinx - Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 - [codepo8/mastodon-share - A share to mastodon button](https://github.com/codepo8/mastodon-share)
 - [radix-ui/primitives - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.](https://github.com/radix-ui/primitives)
 - [moseoridev/WarpShare - An Open-source AirDrop Alternative](https://github.com/moseoridev/WarpShare)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [paradite/frontend-encyclopedia - Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)
 - [unjs/unpdf - 📄 Utilities to work with PDFs in Node.js, browser and workers](https://github.com/unjs/unpdf)
 - [chriswhong/nyc-trees-map - An experimental map combining a lidar-based dataset of trees in New York City with the 3D tree models available in Mapbox GL JS v3 and the Mapbox Standard Style.](https://github.com/chriswhong/nyc-trees-map)
-- [JamesLMilner/terra-draw - Cross provider map drawing library, supporting Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box ](https://github.com/JamesLMilner/terra-draw)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
