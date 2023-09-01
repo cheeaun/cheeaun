@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shi-works/tokyo-city-fire-situation-map-on-maplibre-gl-js - 東京市火災動態地図及び自然災害伝承碑をMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/tokyo-city-fire-situation-map-on-maplibre-gl-js)
 - [Ryujinx/Ryujinx - Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 - [codepo8/mastodon-share - A share to mastodon button](https://github.com/codepo8/mastodon-share)
 - [radix-ui/primitives - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.](https://github.com/radix-ui/primitives)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [webpro/knip - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!](https://github.com/webpro/knip)
 - [paradite/frontend-encyclopedia - Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)
 - [unjs/unpdf - 📄 Utilities to work with PDFs in Node.js, browser and workers](https://github.com/unjs/unpdf)
-- [chriswhong/nyc-trees-map - An experimental map combining a lidar-based dataset of trees in New York City with the 3D tree models available in Mapbox GL JS v3 and the Mapbox Standard Style.](https://github.com/chriswhong/nyc-trees-map)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
