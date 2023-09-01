@@ -15,11 +15,11 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 ## 📰 Newsletter
 
 <!-- newsletter start -->
+- 31 Aug 2023 - [🇸🇬 Another national month - 🥫 #24](https://cheeaun.substack.com/p/another-national-month-24)
 - 31 Jul 2023 - [Actually… - 🥫 #23](https://cheeaun.substack.com/p/actually-23)
 - 30 Jun 2023 - [🎂 1 year of (f)unemployment - 🥫 #22](https://cheeaun.substack.com/p/1-year-of-funemployment-22)
 - 31 May 2023 - [🔥 Heatwave - 🥫 #21](https://cheeaun.substack.com/p/heatwave-21)
 - 30 Apr 2023 - [🌞 Summertime - 🥫 #20](https://cheeaun.substack.com/p/summertime-20)
-- 31 Mar 2023 - [😲 oh my oh my god - 🥫 #19](https://cheeaun.substack.com/p/oh-my-oh-my-god-19)
 <!-- newsletter end -->
 
 Subscribe to my [newsletter](https://cheeaun.substack.com/)!
