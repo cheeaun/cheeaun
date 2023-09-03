@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [raikasdev/tusked - Tusked is an (upcoming) modern and customizable Mastodon client for the web](https://github.com/raikasdev/tusked)
+- [raikasdev/mastopoet - The Toot screenshot tool for Mastodon.](https://github.com/raikasdev/mastopoet)
 - [geophree/web-gamepad - HTML Gamepad API compatible web components. Scannable QR code to connect over WebRTC to use a phone as a controller.](https://github.com/geophree/web-gamepad)
 - [danielroe/firstcommit.is - Find your first open-source commit on GitHub](https://github.com/danielroe/firstcommit.is)
 - [shi-works/tokyo-city-fire-situation-map-on-maplibre-gl-js - 東京市火災動態地図及び自然災害伝承碑をMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/tokyo-city-fire-situation-map-on-maplibre-gl-js)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [thoughtspile/awesome-tiny-js - A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet](https://github.com/thoughtspile/awesome-tiny-js)
 - [mrousavy/react-native-fast-tflite - 🔥 High-performance TensorFlow Lite library for React Native with GPU acceleration](https://github.com/mrousavy/react-native-fast-tflite)
 - [easrng/enafore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/easrng/enafore)
-- [tisfeng/Easydict - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统翻译，DeepL，谷歌，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ](https://github.com/tisfeng/Easydict)
-- [webpro/knip - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!](https://github.com/webpro/knip)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
