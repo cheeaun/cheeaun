@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [guidepup/guidepup - Screen reader driver for test automation.](https://github.com/guidepup/guidepup)
 - [raikasdev/tusked - Tusked is an (upcoming) modern and customizable Mastodon client for the web](https://github.com/raikasdev/tusked)
 - [raikasdev/mastopoet - The Toot screenshot tool for Mastodon.](https://github.com/raikasdev/mastopoet)
 - [geophree/web-gamepad - HTML Gamepad API compatible web components. Scannable QR code to connect over WebRTC to use a phone as a controller.](https://github.com/geophree/web-gamepad)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [coolkit-carl/ewelink-api-next - CoolKit v2 API Official Library](https://github.com/coolkit-carl/ewelink-api-next)
 - [thoughtspile/awesome-tiny-js - A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet](https://github.com/thoughtspile/awesome-tiny-js)
 - [mrousavy/react-native-fast-tflite - 🔥 High-performance TensorFlow Lite library for React Native with GPU acceleration](https://github.com/mrousavy/react-native-fast-tflite)
-- [easrng/enafore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/easrng/enafore)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
