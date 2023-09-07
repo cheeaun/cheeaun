@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ckolderup/postmarks - a single-user bookmarking website designed to live on the Fediverse](https://github.com/ckolderup/postmarks)
 - [leeoniya/uDSV - A faster CSV parser in 5KB (min)](https://github.com/leeoniya/uDSV)
 - [guidepup/guidepup - Screen reader driver for test automation.](https://github.com/guidepup/guidepup)
 - [raikasdev/tusked - Tusked is an (upcoming) modern and customizable Mastodon client for the web](https://github.com/raikasdev/tusked)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [grishka/NearDrop - An unofficial Google Nearby Share app for macOS](https://github.com/grishka/NearDrop)
 - [facebook/Rapid - The OpenStreetMap editor driven by open data, AI, and supercharged features](https://github.com/facebook/Rapid)
 - [coolkit-carl/ewelink-api-next - CoolKit v2 API Official Library](https://github.com/coolkit-carl/ewelink-api-next)
-- [thoughtspile/awesome-tiny-js - A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet](https://github.com/thoughtspile/awesome-tiny-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
