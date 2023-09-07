@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [leeoniya/uDSV - A faster CSV parser in 5KB (min)](https://github.com/leeoniya/uDSV)
 - [guidepup/guidepup - Screen reader driver for test automation.](https://github.com/guidepup/guidepup)
 - [raikasdev/tusked - Tusked is an (upcoming) modern and customizable Mastodon client for the web](https://github.com/raikasdev/tusked)
 - [raikasdev/mastopoet - The Toot screenshot tool for Mastodon.](https://github.com/raikasdev/mastopoet)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [facebook/Rapid - The OpenStreetMap editor driven by open data, AI, and supercharged features](https://github.com/facebook/Rapid)
 - [coolkit-carl/ewelink-api-next - CoolKit v2 API Official Library](https://github.com/coolkit-carl/ewelink-api-next)
 - [thoughtspile/awesome-tiny-js - A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet](https://github.com/thoughtspile/awesome-tiny-js)
-- [mrousavy/react-native-fast-tflite - 🔥 High-performance TensorFlow Lite library for React Native with GPU acceleration](https://github.com/mrousavy/react-native-fast-tflite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
