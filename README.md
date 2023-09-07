@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [0x-jerry/mmcq.js - Extract prominent colors from image](https://github.com/0x-jerry/mmcq.js)
 - [ckolderup/postmarks - a single-user bookmarking website designed to live on the Fediverse](https://github.com/ckolderup/postmarks)
 - [leeoniya/uDSV - A faster CSV parser in 5KB (min)](https://github.com/leeoniya/uDSV)
 - [guidepup/guidepup - Screen reader driver for test automation.](https://github.com/guidepup/guidepup)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [moseoridev/WarpShare - An Open-source AirDrop Alternative](https://github.com/moseoridev/WarpShare)
 - [grishka/NearDrop - An unofficial Google Nearby Share app for macOS](https://github.com/grishka/NearDrop)
 - [facebook/Rapid - The OpenStreetMap editor driven by open data, AI, and supercharged features](https://github.com/facebook/Rapid)
-- [coolkit-carl/ewelink-api-next - CoolKit v2 API Official Library](https://github.com/coolkit-carl/ewelink-api-next)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
