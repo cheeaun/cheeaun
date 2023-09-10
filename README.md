@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [uiwjs/react-textarea-code-editor - A simple code editor with syntax highlighting.](https://github.com/uiwjs/react-textarea-code-editor)
 - [sindresorhus/unicode-escapes - Encode and decode Unicode escapes in a string](https://github.com/sindresorhus/unicode-escapes)
 - [fern-api/fern - SDKs and Documentation for your API](https://github.com/fern-api/fern)
 - [0x-jerry/mmcq.js - Extract prominent colors from image](https://github.com/0x-jerry/mmcq.js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Ryujinx/Ryujinx - Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 - [codepo8/mastodon-share - A share to mastodon button](https://github.com/codepo8/mastodon-share)
 - [radix-ui/primitives - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.](https://github.com/radix-ui/primitives)
-- [moseoridev/WarpShare - An Open-source AirDrop Alternative](https://github.com/moseoridev/WarpShare)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
