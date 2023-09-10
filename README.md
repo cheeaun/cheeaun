@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sindresorhus/unicode-escapes - Encode and decode Unicode escapes in a string](https://github.com/sindresorhus/unicode-escapes)
+- [fern-api/fern - SDKs and Documentation for your API](https://github.com/fern-api/fern)
 - [0x-jerry/mmcq.js - Extract prominent colors from image](https://github.com/0x-jerry/mmcq.js)
 - [ckolderup/postmarks - a single-user bookmarking website designed to live on the Fediverse](https://github.com/ckolderup/postmarks)
 - [leeoniya/uDSV - A faster CSV parser in 5KB (min)](https://github.com/leeoniya/uDSV)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [codepo8/mastodon-share - A share to mastodon button](https://github.com/codepo8/mastodon-share)
 - [radix-ui/primitives - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.](https://github.com/radix-ui/primitives)
 - [moseoridev/WarpShare - An Open-source AirDrop Alternative](https://github.com/moseoridev/WarpShare)
-- [grishka/NearDrop - An unofficial Google Nearby Share app for macOS](https://github.com/grishka/NearDrop)
-- [facebook/Rapid - The OpenStreetMap editor driven by open data, AI, and supercharged features](https://github.com/facebook/Rapid)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
