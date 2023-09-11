@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [nginx/unit -  NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages. ](https://github.com/nginx/unit)
+- [nginx/unit - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.](https://github.com/nginx/unit)
 - [uiwjs/react-textarea-code-editor - A simple code editor with syntax highlighting.](https://github.com/uiwjs/react-textarea-code-editor)
 - [sindresorhus/unicode-escapes - Encode and decode Unicode escapes in a string](https://github.com/sindresorhus/unicode-escapes)
 - [fern-api/fern - SDKs and Documentation for your API](https://github.com/fern-api/fern)
