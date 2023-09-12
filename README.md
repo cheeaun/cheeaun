@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [milesj/interweave - 🌀 React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.](https://github.com/milesj/interweave)
+- [milesj/emojibase - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.](https://github.com/milesj/emojibase)
 - [nginx/unit - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.](https://github.com/nginx/unit)
 - [uiwjs/react-textarea-code-editor - A simple code editor with syntax highlighting.](https://github.com/uiwjs/react-textarea-code-editor)
 - [sindresorhus/unicode-escapes - Encode and decode Unicode escapes in a string](https://github.com/sindresorhus/unicode-escapes)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [geophree/web-gamepad - HTML Gamepad API compatible web components. Scannable QR code to connect over WebRTC to use a phone as a controller.](https://github.com/geophree/web-gamepad)
 - [danielroe/firstcommit.is - Find your first open-source commit on GitHub](https://github.com/danielroe/firstcommit.is)
 - [shi-works/tokyo-city-fire-situation-map-on-maplibre-gl-js - 東京市火災動態地図及び自然災害伝承碑をMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/tokyo-city-fire-situation-map-on-maplibre-gl-js)
-- [Ryujinx/Ryujinx - Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-- [codepo8/mastodon-share - A share to mastodon button](https://github.com/codepo8/mastodon-share)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
