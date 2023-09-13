@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [hfg-gmuend/openmoji - Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
 - [isadorasophia/murder - Murder is a pixel art ECS game engine.](https://github.com/isadorasophia/murder)
 - [milesj/interweave - 🌀 React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.](https://github.com/milesj/interweave)
 - [milesj/emojibase - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.](https://github.com/milesj/emojibase)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [raikasdev/tusked - Tusked is an (upcoming) modern and customizable Mastodon client for the web](https://github.com/raikasdev/tusked)
 - [raikasdev/mastopoet - The Toot screenshot tool for Mastodon.](https://github.com/raikasdev/mastopoet)
 - [geophree/web-gamepad - HTML Gamepad API compatible web components. Scannable QR code to connect over WebRTC to use a phone as a controller.](https://github.com/geophree/web-gamepad)
-- [danielroe/firstcommit.is - Find your first open-source commit on GitHub](https://github.com/danielroe/firstcommit.is)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
