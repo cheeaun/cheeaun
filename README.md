@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [askides/react-plock - The 1kB Masonry Grid for React.](https://github.com/askides/react-plock)
+- [ascorbic/unpic-placeholder - Pure-CSS image placeholders](https://github.com/ascorbic/unpic-placeholder)
 - [hfg-gmuend/openmoji - Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
 - [isadorasophia/murder - Murder is a pixel art ECS game engine.](https://github.com/isadorasophia/murder)
 - [milesj/interweave - 🌀 React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.](https://github.com/milesj/interweave)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [leeoniya/uDSV - A faster CSV parser in 5KB (min)](https://github.com/leeoniya/uDSV)
 - [guidepup/guidepup - Screen reader driver for test automation.](https://github.com/guidepup/guidepup)
 - [raikasdev/tusked - Tusked is an (upcoming) modern and customizable Mastodon client for the web](https://github.com/raikasdev/tusked)
-- [raikasdev/mastopoet - The Toot screenshot tool for Mastodon.](https://github.com/raikasdev/mastopoet)
-- [geophree/web-gamepad - HTML Gamepad API compatible web components. Scannable QR code to connect over WebRTC to use a phone as a controller.](https://github.com/geophree/web-gamepad)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
