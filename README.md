@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WrathChaos/react-native-apple-card-views - Customizable and perfect clone of Apple, App Store Card Views for React Native.](https://github.com/WrathChaos/react-native-apple-card-views)
+- [oddbird/css-anchor-positioning - Polyfill for CSS Anchor Positioning](https://github.com/oddbird/css-anchor-positioning)
 - [infinitered/flame - Flame AI: CLI for Interactive AI-Powered React Native Upgrades](https://github.com/infinitered/flame)
 - [askides/react-plock - The 1kB Masonry Grid for React.](https://github.com/askides/react-plock)
 - [ascorbic/unpic-placeholder - Pure-CSS image placeholders](https://github.com/ascorbic/unpic-placeholder)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fern-api/fern - SDKs and Documentation for your API](https://github.com/fern-api/fern)
 - [0x-jerry/mmcq.js - Extract prominent colors from image](https://github.com/0x-jerry/mmcq.js)
 - [ckolderup/postmarks - a single-user bookmarking website designed to live on the Fediverse](https://github.com/ckolderup/postmarks)
-- [leeoniya/uDSV - A faster CSV parser in 5KB (min)](https://github.com/leeoniya/uDSV)
-- [guidepup/guidepup - Screen reader driver for test automation.](https://github.com/guidepup/guidepup)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
