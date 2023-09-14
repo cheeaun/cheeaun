@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [infinitered/flame - Flame AI: CLI for Interactive AI-Powered React Native Upgrades](https://github.com/infinitered/flame)
 - [askides/react-plock - The 1kB Masonry Grid for React.](https://github.com/askides/react-plock)
 - [ascorbic/unpic-placeholder - Pure-CSS image placeholders](https://github.com/ascorbic/unpic-placeholder)
 - [hfg-gmuend/openmoji - Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ckolderup/postmarks - a single-user bookmarking website designed to live on the Fediverse](https://github.com/ckolderup/postmarks)
 - [leeoniya/uDSV - A faster CSV parser in 5KB (min)](https://github.com/leeoniya/uDSV)
 - [guidepup/guidepup - Screen reader driver for test automation.](https://github.com/guidepup/guidepup)
-- [raikasdev/tusked - Tusked is an (upcoming) modern and customizable Mastodon client for the web](https://github.com/raikasdev/tusked)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
