@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ddxv/hackernews-app - Android App for Hacker News and Widget](https://github.com/ddxv/hackernews-app)
+- [ddxv/hackernews-api - Scraper for HN to SQLite DB and Python API returning topics](https://github.com/ddxv/hackernews-api)
+- [fregante/fit-textarea - Automatically expand a <textarea> to fit its content, in a few bytes](https://github.com/fregante/fit-textarea)
+- [fregante/text-field-edit - Insert text in a <textarea> and <input> (supports Firefox and Undo)](https://github.com/fregante/text-field-edit)
+- [fregante/indent-textarea - Add editor-like tab-to-indent functionality to <textarea>, in a few bytes](https://github.com/fregante/indent-textarea)
 - [dahlia/iso639-1 - Type-safe ISO 639-1 language code (a.k.a. two-letter codes) for TypeScript](https://github.com/dahlia/iso639-1)
 - [denoland/dnt - Deno to npm package build tool.](https://github.com/denoland/dnt)
 - [polarsys/b612 - Eclipse B612](https://github.com/polarsys/b612)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [askides/react-plock - The 1kB Masonry Grid for React.](https://github.com/askides/react-plock)
 - [ascorbic/unpic-placeholder - Pure-CSS image placeholders](https://github.com/ascorbic/unpic-placeholder)
 - [hfg-gmuend/openmoji - Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
-- [isadorasophia/murder - Murder is a pixel art ECS game engine.](https://github.com/isadorasophia/murder)
-- [milesj/interweave - 🌀 React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.](https://github.com/milesj/interweave)
-- [milesj/emojibase - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.](https://github.com/milesj/emojibase)
-- [nginx/unit - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.](https://github.com/nginx/unit)
-- [uiwjs/react-textarea-code-editor - A simple code editor with syntax highlighting.](https://github.com/uiwjs/react-textarea-code-editor)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
