@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dahlia/iso639-1 - Type-safe ISO 639-1 language code (a.k.a. two-letter codes) for TypeScript](https://github.com/dahlia/iso639-1)
+- [denoland/dnt - Deno to npm package build tool.](https://github.com/denoland/dnt)
 - [polarsys/b612 - Eclipse B612](https://github.com/polarsys/b612)
 - [nuejs/nuejs - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte](https://github.com/nuejs/nuejs)
 - [WrathChaos/react-native-apple-card-views - Customizable and perfect clone of Apple, App Store Card Views for React Native.](https://github.com/WrathChaos/react-native-apple-card-views)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [milesj/emojibase - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.](https://github.com/milesj/emojibase)
 - [nginx/unit - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.](https://github.com/nginx/unit)
 - [uiwjs/react-textarea-code-editor - A simple code editor with syntax highlighting.](https://github.com/uiwjs/react-textarea-code-editor)
-- [sindresorhus/unicode-escapes - Encode and decode Unicode escapes in a string](https://github.com/sindresorhus/unicode-escapes)
-- [fern-api/fern - SDKs and Documentation for your API](https://github.com/fern-api/fern)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
