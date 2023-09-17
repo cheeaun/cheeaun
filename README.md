@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/codedent - A dedent alternative for just code.](https://github.com/WebReflection/codedent)
 - [uiwjs/react-md-editor - A simple markdown editor with preview, implemented with React.js and TypeScript. ](https://github.com/uiwjs/react-md-editor)
 - [ddxv/hackernews-app - Android App for Hacker News and Widget](https://github.com/ddxv/hackernews-app)
 - [ddxv/hackernews-api - Scraper for HN to SQLite DB and Python API returning topics](https://github.com/ddxv/hackernews-api)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [oddbird/css-anchor-positioning - Polyfill for CSS Anchor Positioning](https://github.com/oddbird/css-anchor-positioning)
 - [infinitered/flame - Flame AI: CLI for Interactive AI-Powered React Native Upgrades](https://github.com/infinitered/flame)
 - [askides/react-plock - The 1kB Masonry Grid for React.](https://github.com/askides/react-plock)
-- [ascorbic/unpic-placeholder - Pure-CSS image placeholders](https://github.com/ascorbic/unpic-placeholder)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
