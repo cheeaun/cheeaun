@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cinnyapp/cinny - Yet another matrix client](https://github.com/cinnyapp/cinny)
 - [ytmdesktop/ytmdesktop - A Desktop App for YouTube Music](https://github.com/ytmdesktop/ytmdesktop)
 - [WebReflection/codedent - A dedent alternative for just code.](https://github.com/WebReflection/codedent)
 - [uiwjs/react-md-editor - A simple markdown editor with preview, implemented with React.js and TypeScript. ](https://github.com/uiwjs/react-md-editor)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nuejs/nuejs - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte](https://github.com/nuejs/nuejs)
 - [WrathChaos/react-native-apple-card-views - Customizable and perfect clone of Apple, App Store Card Views for React Native.](https://github.com/WrathChaos/react-native-apple-card-views)
 - [oddbird/css-anchor-positioning - Polyfill for CSS Anchor Positioning](https://github.com/oddbird/css-anchor-positioning)
-- [infinitered/flame - Flame AI: CLI for Interactive AI-Powered React Native Upgrades](https://github.com/infinitered/flame)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
