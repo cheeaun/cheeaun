@@ -39,7 +39,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dahlia/iso639-1 - Type-safe ISO 639-1 language code (a.k.a. two-letter codes) for TypeScript](https://github.com/dahlia/iso639-1)
 - [denoland/dnt - Deno to npm package build tool.](https://github.com/denoland/dnt)
 - [polarsys/b612 - Eclipse B612](https://github.com/polarsys/b612)
-- [nuejs/nuejs - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte](https://github.com/nuejs/nuejs)
+- [nuejs/nuejs - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte](https://github.com/nuejs/nuejs)
 - [WrathChaos/react-native-apple-card-views - Customizable and perfect clone of Apple, App Store Card Views for React Native.](https://github.com/WrathChaos/react-native-apple-card-views)
 - [oddbird/css-anchor-positioning - Polyfill for CSS Anchor Positioning](https://github.com/oddbird/css-anchor-positioning)
 <!-- starred repos end -->
