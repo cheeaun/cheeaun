@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [humanwhocodes/env - A utility for verifying environment variables are present](https://github.com/humanwhocodes/env)
 - [cinnyapp/cinny - Yet another matrix client](https://github.com/cinnyapp/cinny)
 - [ytmdesktop/ytmdesktop - A Desktop App for YouTube Music](https://github.com/ytmdesktop/ytmdesktop)
 - [WebReflection/codedent - A dedent alternative for just code.](https://github.com/WebReflection/codedent)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [polarsys/b612 - Eclipse B612](https://github.com/polarsys/b612)
 - [nuejs/nuejs - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte](https://github.com/nuejs/nuejs)
 - [WrathChaos/react-native-apple-card-views - Customizable and perfect clone of Apple, App Store Card Views for React Native.](https://github.com/WrathChaos/react-native-apple-card-views)
-- [oddbird/css-anchor-positioning - Polyfill for CSS Anchor Positioning](https://github.com/oddbird/css-anchor-positioning)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
