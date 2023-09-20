@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [michaelwittig/node-i18n-iso-countries - i18n for ISO 3166-1 country codes](https://github.com/michaelwittig/node-i18n-iso-countries)
+- [tada5hi/smob - A zero dependency library to safe merge objects and arrays with customizable behavior.](https://github.com/tada5hi/smob)
 - [humanwhocodes/env - A utility for verifying environment variables are present](https://github.com/humanwhocodes/env)
 - [cinnyapp/cinny - Yet another matrix client](https://github.com/cinnyapp/cinny)
 - [ytmdesktop/ytmdesktop - A Desktop App for YouTube Music](https://github.com/ytmdesktop/ytmdesktop)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dahlia/iso639-1 - Type-safe ISO 639-1 language code (a.k.a. two-letter codes) for TypeScript](https://github.com/dahlia/iso639-1)
 - [denoland/dnt - Deno to npm package build tool.](https://github.com/denoland/dnt)
 - [polarsys/b612 - Eclipse B612](https://github.com/polarsys/b612)
-- [nuejs/nuejs - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte](https://github.com/nuejs/nuejs)
-- [WrathChaos/react-native-apple-card-views - Customizable and perfect clone of Apple, App Store Card Views for React Native.](https://github.com/WrathChaos/react-native-apple-card-views)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
