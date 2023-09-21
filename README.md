@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rlxone/Equinox - 🌇 🌃  Create dynamic wallpapers for macOS.](https://github.com/rlxone/Equinox)
 - [michaelwittig/node-i18n-iso-countries - i18n for ISO 3166-1 country codes](https://github.com/michaelwittig/node-i18n-iso-countries)
 - [tada5hi/smob - A zero dependency library to safe merge objects and arrays with customizable behavior.](https://github.com/tada5hi/smob)
 - [humanwhocodes/env - A utility for verifying environment variables are present](https://github.com/humanwhocodes/env)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fregante/indent-textarea - Add editor-like tab-to-indent functionality to <textarea>, in a few bytes](https://github.com/fregante/indent-textarea)
 - [dahlia/iso639-1 - Type-safe ISO 639-1 language code (a.k.a. two-letter codes) for TypeScript](https://github.com/dahlia/iso639-1)
 - [denoland/dnt - Deno to npm package build tool.](https://github.com/denoland/dnt)
-- [polarsys/b612 - Eclipse B612](https://github.com/polarsys/b612)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
