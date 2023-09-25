@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [privatenumber/pkgroll - 📦 🍣 Next-gen package bundler for TypeScript & ESM](https://github.com/privatenumber/pkgroll)
+- [privatenumber/tasuku - ✅ タスク — The minimal task visualizer for Node.js](https://github.com/privatenumber/tasuku)
+- [wooorm/html-tag-names - List of known HTML tag names](https://github.com/wooorm/html-tag-names)
 - [rlxone/Equinox - 🌇 🌃  Create dynamic wallpapers for macOS.](https://github.com/rlxone/Equinox)
 - [michaelwittig/node-i18n-iso-countries - i18n for ISO 3166-1 country codes](https://github.com/michaelwittig/node-i18n-iso-countries)
 - [tada5hi/smob - A zero dependency library to safe merge objects and arrays with customizable behavior.](https://github.com/tada5hi/smob)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ddxv/hackernews-api - Scraper for HN to SQLite DB and Python API returning topics](https://github.com/ddxv/hackernews-api)
 - [fregante/fit-textarea - Automatically expand a <textarea> to fit its content, in a few bytes](https://github.com/fregante/fit-textarea)
 - [fregante/text-field-edit - Insert text in a <textarea> and <input> (supports Firefox and Undo)](https://github.com/fregante/text-field-edit)
-- [fregante/indent-textarea - Add editor-like tab-to-indent functionality to <textarea>, in a few bytes](https://github.com/fregante/indent-textarea)
-- [dahlia/iso639-1 - Type-safe ISO 639-1 language code (a.k.a. two-letter codes) for TypeScript](https://github.com/dahlia/iso639-1)
-- [denoland/dnt - Deno to npm package build tool.](https://github.com/denoland/dnt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
