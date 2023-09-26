@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tidwall/tg - Geometry library for C - Fast point-in-polygon](https://github.com/tidwall/tg)
 - [privatenumber/pkgroll - 📦 🍣 Next-gen package bundler for TypeScript & ESM](https://github.com/privatenumber/pkgroll)
 - [privatenumber/tasuku - ✅ タスク — The minimal task visualizer for Node.js](https://github.com/privatenumber/tasuku)
 - [wooorm/html-tag-names - List of known HTML tag names](https://github.com/wooorm/html-tag-names)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ddxv/hackernews-app - Android App for Hacker News and Widget](https://github.com/ddxv/hackernews-app)
 - [ddxv/hackernews-api - Scraper for HN to SQLite DB and Python API returning topics](https://github.com/ddxv/hackernews-api)
 - [fregante/fit-textarea - Automatically expand a <textarea> to fit its content, in a few bytes](https://github.com/fregante/fit-textarea)
-- [fregante/text-field-edit - Insert text in a <textarea> and <input> (supports Firefox and Undo)](https://github.com/fregante/text-field-edit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
