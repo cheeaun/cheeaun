@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dai-shi/proxy-memoize - Intuitive magical memoization library with Proxy and WeakMap](https://github.com/dai-shi/proxy-memoize)
 - [TootSDK/TootSDK - Cross-platform Swift library for the Mastodon and the fediverse](https://github.com/TootSDK/TootSDK)
 - [tidwall/tg - Geometry library for C - Fast point-in-polygon](https://github.com/tidwall/tg)
 - [privatenumber/pkgroll - 📦 🍣 Next-gen package bundler for TypeScript & ESM](https://github.com/privatenumber/pkgroll)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WebReflection/codedent - A dedent alternative for just code.](https://github.com/WebReflection/codedent)
 - [uiwjs/react-md-editor - A simple markdown editor with preview, implemented with React.js and TypeScript. ](https://github.com/uiwjs/react-md-editor)
 - [ddxv/hackernews-app - Android App for Hacker News and Widget](https://github.com/ddxv/hackernews-app)
-- [ddxv/hackernews-api - Scraper for HN to SQLite DB and Python API returning topics](https://github.com/ddxv/hackernews-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
