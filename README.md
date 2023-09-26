@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TootSDK/TootSDK - Cross-platform Swift library for the Mastodon and the fediverse](https://github.com/TootSDK/TootSDK)
 - [tidwall/tg - Geometry library for C - Fast point-in-polygon](https://github.com/tidwall/tg)
 - [privatenumber/pkgroll - 📦 🍣 Next-gen package bundler for TypeScript & ESM](https://github.com/privatenumber/pkgroll)
 - [privatenumber/tasuku - ✅ タスク — The minimal task visualizer for Node.js](https://github.com/privatenumber/tasuku)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [uiwjs/react-md-editor - A simple markdown editor with preview, implemented with React.js and TypeScript. ](https://github.com/uiwjs/react-md-editor)
 - [ddxv/hackernews-app - Android App for Hacker News and Widget](https://github.com/ddxv/hackernews-app)
 - [ddxv/hackernews-api - Scraper for HN to SQLite DB and Python API returning topics](https://github.com/ddxv/hackernews-api)
-- [fregante/fit-textarea - Automatically expand a <textarea> to fit its content, in a few bytes](https://github.com/fregante/fit-textarea)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
