@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mozilla/firefox-translations-models - CPU-optimized Neural Machine Translation models for Firefox Translations](https://github.com/mozilla/firefox-translations-models)
+- [mozilla/firefox-translations-training - Training pipelines for Firefox Translations neural machine translation models](https://github.com/mozilla/firefox-translations-training)
 - [dai-shi/proxy-memoize - Intuitive magical memoization library with Proxy and WeakMap](https://github.com/dai-shi/proxy-memoize)
 - [TootSDK/TootSDK - Cross-platform Swift library for the Mastodon and the fediverse](https://github.com/TootSDK/TootSDK)
 - [tidwall/tg - Geometry library for C - Fast point-in-polygon](https://github.com/tidwall/tg)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cinnyapp/cinny - Yet another matrix client](https://github.com/cinnyapp/cinny)
 - [ytmdesktop/ytmdesktop - A Desktop App for YouTube Music](https://github.com/ytmdesktop/ytmdesktop)
 - [WebReflection/codedent - A dedent alternative for just code.](https://github.com/WebReflection/codedent)
-- [uiwjs/react-md-editor - A simple markdown editor with preview, implemented with React.js and TypeScript. ](https://github.com/uiwjs/react-md-editor)
-- [ddxv/hackernews-app - Android App for Hacker News and Widget](https://github.com/ddxv/hackernews-app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
