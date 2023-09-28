@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pemistahl/lingua-rs - The most accurate natural language detection library for Rust, suitable for long and short text alike](https://github.com/pemistahl/lingua-rs)
 - [mozilla/firefox-translations-models - CPU-optimized Neural Machine Translation models for Firefox Translations](https://github.com/mozilla/firefox-translations-models)
 - [mozilla/firefox-translations-training - Training pipelines for Firefox Translations neural machine translation models](https://github.com/mozilla/firefox-translations-training)
 - [dai-shi/proxy-memoize - Intuitive magical memoization library with Proxy and WeakMap](https://github.com/dai-shi/proxy-memoize)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [humanwhocodes/env - A utility for verifying environment variables are present](https://github.com/humanwhocodes/env)
 - [cinnyapp/cinny - Yet another matrix client](https://github.com/cinnyapp/cinny)
 - [ytmdesktop/ytmdesktop - A Desktop App for YouTube Music](https://github.com/ytmdesktop/ytmdesktop)
-- [WebReflection/codedent - A dedent alternative for just code.](https://github.com/WebReflection/codedent)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
