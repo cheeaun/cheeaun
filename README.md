@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [c7x43t/lingua-js](https://github.com/c7x43t/lingua-js)
+- [pemistahl/lingua-js - The most accurate natural language detection library for JavaScript, suitable for long and short text alike](https://github.com/pemistahl/lingua-js)
+- [facebookresearch/seamless_communication - Foundational Models for State-of-the-Art Speech and Text Translation](https://github.com/facebookresearch/seamless_communication)
 - [FormidableLabs/victory-native-xl - A charting library for React Native with a focus on performance and customization.](https://github.com/FormidableLabs/victory-native-xl)
 - [okwasniewski/react-native-menubar-extra - Add MenuBar to your React Native MacOS Application ](https://github.com/okwasniewski/react-native-menubar-extra)
 - [pemistahl/lingua-rs - The most accurate natural language detection library for Rust, suitable for long and short text alike](https://github.com/pemistahl/lingua-rs)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [privatenumber/tasuku - ✅ タスク — The minimal task visualizer for Node.js](https://github.com/privatenumber/tasuku)
 - [wooorm/html-tag-names - List of known HTML tag names](https://github.com/wooorm/html-tag-names)
 - [rlxone/Equinox - 🌇 🌃  Create dynamic wallpapers for macOS.](https://github.com/rlxone/Equinox)
-- [michaelwittig/node-i18n-iso-countries - i18n for ISO 3166-1 country codes](https://github.com/michaelwittig/node-i18n-iso-countries)
-- [tada5hi/smob - A zero dependency library to safe merge objects and arrays with customizable behavior.](https://github.com/tada5hi/smob)
-- [humanwhocodes/env - A utility for verifying environment variables are present](https://github.com/humanwhocodes/env)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
