@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [phosphor-icons/homepage - The homepage of Phosphor Icons, a flexible icon family for everyone](https://github.com/phosphor-icons/homepage)
 - [c7x43t/lingua-js](https://github.com/c7x43t/lingua-js)
 - [pemistahl/lingua-js - The most accurate natural language detection library for JavaScript, suitable for long and short text alike](https://github.com/pemistahl/lingua-js)
 - [facebookresearch/seamless_communication - Foundational Models for State-of-the-Art Speech and Text Translation](https://github.com/facebookresearch/seamless_communication)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [privatenumber/pkgroll - 📦 🍣 Next-gen package bundler for TypeScript & ESM](https://github.com/privatenumber/pkgroll)
 - [privatenumber/tasuku - ✅ タスク — The minimal task visualizer for Node.js](https://github.com/privatenumber/tasuku)
 - [wooorm/html-tag-names - List of known HTML tag names](https://github.com/wooorm/html-tag-names)
-- [rlxone/Equinox - 🌇 🌃  Create dynamic wallpapers for macOS.](https://github.com/rlxone/Equinox)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
