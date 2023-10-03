@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zachleat/resizeasaurus - A web component to add resizing behavior to test intrinsically sized responsive components.](https://github.com/zachleat/resizeasaurus)
 - [shellscape/jsx-email - Build emails with a delightful DX](https://github.com/shellscape/jsx-email)
 - [lucide-icons/lucide - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.](https://github.com/lucide-icons/lucide)
 - [JakeWharton/dumbo - Import a Twitter archive into a Mastodon database.](https://github.com/JakeWharton/dumbo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mozilla/firefox-translations-training - Training pipelines for Firefox Translations neural machine translation models](https://github.com/mozilla/firefox-translations-training)
 - [dai-shi/proxy-memoize - Intuitive magical memoization library with Proxy and WeakMap](https://github.com/dai-shi/proxy-memoize)
 - [TootSDK/TootSDK - Cross-platform Swift library for the Mastodon and the fediverse](https://github.com/TootSDK/TootSDK)
-- [tidwall/tg - Geometry library for C - Fast point-in-polygon](https://github.com/tidwall/tg)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
