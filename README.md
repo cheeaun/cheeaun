@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lokalise/i18n-ally - 🌍 All in one i18n extension for VS Code](https://github.com/lokalise/i18n-ally)
+- [zachleat/table-saw - A small web component for responsive <table> elements.](https://github.com/zachleat/table-saw)
+- [gustavoguichard/make-service - A set of utilities to improve the DX of native `fetch` to better interact with external APIs.](https://github.com/gustavoguichard/make-service)
+- [FL33TW00D/whisper-turbo - Cross-Platform, GPU Accelerated Whisper 🏎️](https://github.com/FL33TW00D/whisper-turbo)
 - [zachleat/resizeasaurus - A web component to add resizing behavior to test intrinsically sized responsive components.](https://github.com/zachleat/resizeasaurus)
 - [shellscape/jsx-email - Build emails with a delightful DX](https://github.com/shellscape/jsx-email)
 - [lucide-icons/lucide - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.](https://github.com/lucide-icons/lucide)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [FormidableLabs/victory-native-xl - A charting library for React Native with a focus on performance and customization.](https://github.com/FormidableLabs/victory-native-xl)
 - [okwasniewski/react-native-menubar-extra - Add MenuBar to your React Native MacOS Application ](https://github.com/okwasniewski/react-native-menubar-extra)
 - [pemistahl/lingua-rs - The most accurate natural language detection library for Rust, suitable for long and short text alike](https://github.com/pemistahl/lingua-rs)
-- [mozilla/firefox-translations-models - CPU-optimized Neural Machine Translation models for Firefox Translations](https://github.com/mozilla/firefox-translations-models)
-- [mozilla/firefox-translations-training - Training pipelines for Firefox Translations neural machine translation models](https://github.com/mozilla/firefox-translations-training)
-- [dai-shi/proxy-memoize - Intuitive magical memoization library with Proxy and WeakMap](https://github.com/dai-shi/proxy-memoize)
-- [TootSDK/TootSDK - Cross-platform Swift library for the Mastodon and the fediverse](https://github.com/TootSDK/TootSDK)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
