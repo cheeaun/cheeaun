@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [naptha/tessdata - Tesseract Language Trained Data](https://github.com/naptha/tessdata)
 - [gajus/slonik - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.](https://github.com/gajus/slonik)
 - [instant-dev/instant - JavaScript + Postgres API Framework with ORM, Migrations and Vectors](https://github.com/instant-dev/instant)
 - [lokalise/i18n-ally - 🌍 All in one i18n extension for VS Code](https://github.com/lokalise/i18n-ally)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [c7x43t/lingua-js](https://github.com/c7x43t/lingua-js)
 - [pemistahl/lingua-js - The most accurate natural language detection library for JavaScript, suitable for long and short text alike](https://github.com/pemistahl/lingua-js)
 - [facebookresearch/seamless_communication - Foundational Models for State-of-the-Art Speech and Text Translation](https://github.com/facebookresearch/seamless_communication)
-- [FormidableLabs/victory-native-xl - A charting library for React Native with a focus on performance and customization.](https://github.com/FormidableLabs/victory-native-xl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
