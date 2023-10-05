@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gajus/slonik - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.](https://github.com/gajus/slonik)
+- [instant-dev/instant - Build APIs with a Rails-inspired JavaScript ORM and Migrations for Postgres](https://github.com/instant-dev/instant)
 - [lokalise/i18n-ally - 🌍 All in one i18n extension for VS Code](https://github.com/lokalise/i18n-ally)
 - [zachleat/table-saw - A small web component for responsive <table> elements.](https://github.com/zachleat/table-saw)
 - [gustavoguichard/make-service - A set of utilities to improve the DX of native `fetch` to better interact with external APIs.](https://github.com/gustavoguichard/make-service)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pemistahl/lingua-js - The most accurate natural language detection library for JavaScript, suitable for long and short text alike](https://github.com/pemistahl/lingua-js)
 - [facebookresearch/seamless_communication - Foundational Models for State-of-the-Art Speech and Text Translation](https://github.com/facebookresearch/seamless_communication)
 - [FormidableLabs/victory-native-xl - A charting library for React Native with a focus on performance and customization.](https://github.com/FormidableLabs/victory-native-xl)
-- [okwasniewski/react-native-menubar-extra - Add MenuBar to your React Native MacOS Application ](https://github.com/okwasniewski/react-native-menubar-extra)
-- [pemistahl/lingua-rs - The most accurate natural language detection library for Rust, suitable for long and short text alike](https://github.com/pemistahl/lingua-rs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
