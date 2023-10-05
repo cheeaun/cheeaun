@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [gajus/slonik - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.](https://github.com/gajus/slonik)
-- [instant-dev/instant - Build APIs with a Rails-inspired JavaScript ORM and Migrations for Postgres](https://github.com/instant-dev/instant)
+- [instant-dev/instant - JavaScript + Postgres API Framework with ORM, Migrations and Vectors](https://github.com/instant-dev/instant)
 - [lokalise/i18n-ally - 🌍 All in one i18n extension for VS Code](https://github.com/lokalise/i18n-ally)
 - [zachleat/table-saw - A small web component for responsive <table> elements.](https://github.com/zachleat/table-saw)
 - [gustavoguichard/make-service - A set of utilities to improve the DX of native `fetch` to better interact with external APIs.](https://github.com/gustavoguichard/make-service)
