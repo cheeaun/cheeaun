@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cocopon/tweakpane - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes](https://github.com/cocopon/tweakpane)
+- [georgealways/lil-gui - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.](https://github.com/georgealways/lil-gui)
+- [fabian-hiller/decode-formdata - Decodes complex FormData into a JavaScript object](https://github.com/fabian-hiller/decode-formdata)
 - [pkgxdev/pkgx - “run anything” from the creator of `brew`](https://github.com/pkgxdev/pkgx)
 - [naptha/tessdata - Tesseract Language Trained Data](https://github.com/naptha/tessdata)
 - [gajus/slonik - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.](https://github.com/gajus/slonik)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shellscape/jsx-email - Build emails with a delightful DX](https://github.com/shellscape/jsx-email)
 - [lucide-icons/lucide - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.](https://github.com/lucide-icons/lucide)
 - [JakeWharton/dumbo - Import a Twitter archive into a Mastodon database.](https://github.com/JakeWharton/dumbo)
-- [phosphor-icons/homepage - The homepage of Phosphor Icons, a flexible icon family for everyone](https://github.com/phosphor-icons/homepage)
-- [c7x43t/lingua-js](https://github.com/c7x43t/lingua-js)
-- [pemistahl/lingua-js - The most accurate natural language detection library for JavaScript, suitable for long and short text alike](https://github.com/pemistahl/lingua-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
