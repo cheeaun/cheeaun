@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/hookable - 🪝 Awaitable Hooks](https://github.com/unjs/hookable)
+- [hexagoncircle/scrollspy-nav - Web component for sticky-positioned page anchor menus](https://github.com/hexagoncircle/scrollspy-nav)
 - [natew/vxrn - Vite meets React Native](https://github.com/natew/vxrn)
 - [cocopon/tweakpane - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes](https://github.com/cocopon/tweakpane)
 - [georgealways/lil-gui - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.](https://github.com/georgealways/lil-gui)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gustavoguichard/make-service - A set of utilities to improve the DX of native `fetch` to better interact with external APIs.](https://github.com/gustavoguichard/make-service)
 - [FL33TW00D/whisper-turbo - Cross-Platform, GPU Accelerated Whisper 🏎️](https://github.com/FL33TW00D/whisper-turbo)
 - [zachleat/resizeasaurus - A web component to add resizing behavior to test intrinsically sized responsive components.](https://github.com/zachleat/resizeasaurus)
-- [shellscape/jsx-email - Build emails with a delightful DX](https://github.com/shellscape/jsx-email)
-- [lucide-icons/lucide - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.](https://github.com/lucide-icons/lucide)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
