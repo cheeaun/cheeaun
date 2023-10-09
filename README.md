@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pa11y/pa11y - Pa11y is your automated accessibility testing pal](https://github.com/pa11y/pa11y)
 - [nolenroyalty/flappy-dird - An implementation of flappy bird in MacOS's Finder](https://github.com/nolenroyalty/flappy-dird)
 - [unjs/hookable - 🪝 Awaitable Hooks](https://github.com/unjs/hookable)
 - [hexagoncircle/scrollspy-nav - Web component for sticky-positioned page anchor menus](https://github.com/hexagoncircle/scrollspy-nav)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lokalise/i18n-ally - 🌍 All in one i18n extension for VS Code](https://github.com/lokalise/i18n-ally)
 - [zachleat/table-saw - A small web component for responsive <table> elements.](https://github.com/zachleat/table-saw)
 - [gustavoguichard/make-service - A set of utilities to improve the DX of native `fetch` to better interact with external APIs.](https://github.com/gustavoguichard/make-service)
-- [FL33TW00D/whisper-turbo - Cross-Platform, GPU Accelerated Whisper 🏎️](https://github.com/FL33TW00D/whisper-turbo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
