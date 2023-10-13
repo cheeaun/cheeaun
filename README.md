@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [planttheidea/micro-memoize - A tiny, crazy fast memoization library for the 95% use-case](https://github.com/planttheidea/micro-memoize)
 - [ohler55/ojg - Optimized JSON for Go](https://github.com/ohler55/ojg)
 - [pa11y/pa11y - Pa11y is your automated accessibility testing pal](https://github.com/pa11y/pa11y)
 - [nolenroyalty/flappy-dird - An implementation of flappy bird in MacOS's Finder](https://github.com/nolenroyalty/flappy-dird)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gajus/slonik - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.](https://github.com/gajus/slonik)
 - [instant-dev/instant - JavaScript + Postgres API Framework with ORM, Migrations and Vectors](https://github.com/instant-dev/instant)
 - [lokalise/i18n-ally - 🌍 All in one i18n extension for VS Code](https://github.com/lokalise/i18n-ally)
-- [zachleat/table-saw - A small web component for responsive <table> elements.](https://github.com/zachleat/table-saw)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
