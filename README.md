@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS - MapTilerのTerrain RGBをMapLibre GL JSで3D地形として表示するデモサイト](https://github.com/shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS)
 - [FreeTubeApp/FreeTube - An Open Source YouTube app for privacy](https://github.com/FreeTubeApp/FreeTube)
 - [shi-works/Google-Microsoft-Open-Buildings-Map-PMTiles-on-MapLibre-GL-JS - Google&Microsoft Open BuildingsをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/Google-Microsoft-Open-Buildings-Map-PMTiles-on-MapLibre-GL-JS)
 - [react-component/mentions - React Mentions](https://github.com/react-component/mentions)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [georgealways/lil-gui - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.](https://github.com/georgealways/lil-gui)
 - [fabian-hiller/decode-formdata - Decodes complex FormData into a JavaScript object](https://github.com/fabian-hiller/decode-formdata)
 - [pkgxdev/pkgx - “run anything” from the creator of `brew`](https://github.com/pkgxdev/pkgx)
-- [naptha/tessdata - Tesseract Language Trained Data](https://github.com/naptha/tessdata)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
