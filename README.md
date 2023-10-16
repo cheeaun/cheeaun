@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [FreeTubeApp/FreeTube - An Open Source YouTube app for privacy](https://github.com/FreeTubeApp/FreeTube)
 - [shi-works/Google-Microsoft-Open-Buildings-Map-PMTiles-on-MapLibre-GL-JS - Google&Microsoft Open BuildingsをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/Google-Microsoft-Open-Buildings-Map-PMTiles-on-MapLibre-GL-JS)
 - [react-component/mentions - React Mentions](https://github.com/react-component/mentions)
 - [planttheidea/micro-memoize - A tiny, crazy fast memoization library for the 95% use-case](https://github.com/planttheidea/micro-memoize)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fabian-hiller/decode-formdata - Decodes complex FormData into a JavaScript object](https://github.com/fabian-hiller/decode-formdata)
 - [pkgxdev/pkgx - “run anything” from the creator of `brew`](https://github.com/pkgxdev/pkgx)
 - [naptha/tessdata - Tesseract Language Trained Data](https://github.com/naptha/tessdata)
-- [gajus/slonik - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.](https://github.com/gajus/slonik)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
