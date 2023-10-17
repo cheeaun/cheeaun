@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [btco/qx82 - Tiny Javascript engine for retro games](https://github.com/btco/qx82)
 - [jasonleow/psisg - Haze updates at a glance for Singapore - https://psi.sg](https://github.com/jasonleow/psisg)
 - [shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS - MapTilerのTerrain RGBをMapLibre GL JSで3D地形として表示するデモサイト](https://github.com/shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS)
 - [FreeTubeApp/FreeTube - An Open Source YouTube app for privacy](https://github.com/FreeTubeApp/FreeTube)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [natew/vxrn - Vite meets React Native](https://github.com/natew/vxrn)
 - [cocopon/tweakpane - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes](https://github.com/cocopon/tweakpane)
 - [georgealways/lil-gui - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.](https://github.com/georgealways/lil-gui)
-- [fabian-hiller/decode-formdata - Decodes complex FormData into a JavaScript object](https://github.com/fabian-hiller/decode-formdata)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
