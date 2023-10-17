@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [poetaster/harbour-tooter - Tooter is Mastodon client for Sailfish OS.](https://github.com/poetaster/harbour-tooter)
 - [btco/qx82 - Tiny Javascript engine for retro games](https://github.com/btco/qx82)
 - [jasonleow/psisg - Haze updates at a glance for Singapore - https://psi.sg](https://github.com/jasonleow/psisg)
 - [shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS - MapTilerのTerrain RGBをMapLibre GL JSで3D地形として表示するデモサイト](https://github.com/shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hexagoncircle/scrollspy-nav - Web component for sticky-positioned page anchor menus](https://github.com/hexagoncircle/scrollspy-nav)
 - [natew/vxrn - Vite meets React Native](https://github.com/natew/vxrn)
 - [cocopon/tweakpane - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes](https://github.com/cocopon/tweakpane)
-- [georgealways/lil-gui - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.](https://github.com/georgealways/lil-gui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
