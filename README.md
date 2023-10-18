@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WasmEdge/WasmEdge - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.](https://github.com/WasmEdge/WasmEdge)
 - [poetaster/harbour-tooter - Tooter is Mastodon client for Sailfish OS.](https://github.com/poetaster/harbour-tooter)
 - [btco/qx82 - Tiny Javascript engine for retro games](https://github.com/btco/qx82)
 - [jasonleow/psisg - Haze updates at a glance for Singapore - https://psi.sg](https://github.com/jasonleow/psisg)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unjs/hookable - 🪝 Awaitable Hooks](https://github.com/unjs/hookable)
 - [hexagoncircle/scrollspy-nav - Web component for sticky-positioned page anchor menus](https://github.com/hexagoncircle/scrollspy-nav)
 - [natew/vxrn - Vite meets React Native](https://github.com/natew/vxrn)
-- [cocopon/tweakpane - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes](https://github.com/cocopon/tweakpane)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
