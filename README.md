@@ -27,6 +27,13 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cormiertyshawn895/Retroactive - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.](https://github.com/cormiertyshawn895/Retroactive)
+- [localsend/localsend - An open source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
+- [schlagmichdoch/PairDrop - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.](https://github.com/schlagmichdoch/PairDrop)
+- [hvianna/audioMotion.js - High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.](https://github.com/hvianna/audioMotion.js)
+- [hvianna/audioMotion-analyzer - High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.](https://github.com/hvianna/audioMotion-analyzer)
+- [mcollina/async-cache-dedupe - Async cache with dedupe support](https://github.com/mcollina/async-cache-dedupe)
+- [web-infra-dev/rspress - 🦀💨 A fast Rspack-based static site generator.](https://github.com/web-infra-dev/rspress)
 - [WasmEdge/WasmEdge - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.](https://github.com/WasmEdge/WasmEdge)
 - [poetaster/harbour-tooter - Tooter is Mastodon client for Sailfish OS.](https://github.com/poetaster/harbour-tooter)
 - [btco/qx82 - Tiny Javascript engine for retro games](https://github.com/btco/qx82)
@@ -35,13 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [FreeTubeApp/FreeTube - An Open Source YouTube app for privacy](https://github.com/FreeTubeApp/FreeTube)
 - [shi-works/Google-Microsoft-Open-Buildings-Map-PMTiles-on-MapLibre-GL-JS - Google&Microsoft Open BuildingsをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/Google-Microsoft-Open-Buildings-Map-PMTiles-on-MapLibre-GL-JS)
 - [react-component/mentions - React Mentions](https://github.com/react-component/mentions)
-- [planttheidea/micro-memoize - A tiny, crazy fast memoization library for the 95% use-case](https://github.com/planttheidea/micro-memoize)
-- [ohler55/ojg - Optimized JSON for Go](https://github.com/ohler55/ojg)
-- [pa11y/pa11y - Pa11y is your automated accessibility testing pal](https://github.com/pa11y/pa11y)
-- [nolenroyalty/flappy-dird - An implementation of flappy bird in MacOS's Finder](https://github.com/nolenroyalty/flappy-dird)
-- [unjs/hookable - 🪝 Awaitable Hooks](https://github.com/unjs/hookable)
-- [hexagoncircle/scrollspy-nav - Web component for sticky-positioned page anchor menus](https://github.com/hexagoncircle/scrollspy-nav)
-- [natew/vxrn - Vite meets React Native](https://github.com/natew/vxrn)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
