@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
+- [thunder-app/thunder - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter](https://github.com/thunder-app/thunder)
+- [rayriffy/urami - Automatic image optimization for JS frameworks! Inspired by NextJS.](https://github.com/rayriffy/urami)
 - [cormiertyshawn895/Retroactive - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.](https://github.com/cormiertyshawn895/Retroactive)
 - [localsend/localsend - An open source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
 - [schlagmichdoch/PairDrop - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.](https://github.com/schlagmichdoch/PairDrop)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [btco/qx82 - Tiny Javascript engine for retro games](https://github.com/btco/qx82)
 - [jasonleow/psisg - Haze updates at a glance for Singapore - https://psi.sg](https://github.com/jasonleow/psisg)
 - [shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS - MapTilerのTerrain RGBをMapLibre GL JSで3D地形として表示するデモサイト](https://github.com/shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS)
-- [FreeTubeApp/FreeTube - An Open Source YouTube app for privacy](https://github.com/FreeTubeApp/FreeTube)
-- [shi-works/Google-Microsoft-Open-Buildings-Map-PMTiles-on-MapLibre-GL-JS - Google&Microsoft Open BuildingsをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/Google-Microsoft-Open-Buildings-Map-PMTiles-on-MapLibre-GL-JS)
-- [react-component/mentions - React Mentions](https://github.com/react-component/mentions)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
