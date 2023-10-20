@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [donn/nudelta - Open source NuPhy Console alternative](https://github.com/donn/nudelta)
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
 - [thunder-app/thunder - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter](https://github.com/thunder-app/thunder)
 - [rayriffy/urami - Automatic image optimization for JS frameworks! Inspired by NextJS.](https://github.com/rayriffy/urami)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [poetaster/harbour-tooter - Tooter is Mastodon client for Sailfish OS.](https://github.com/poetaster/harbour-tooter)
 - [btco/qx82 - Tiny Javascript engine for retro games](https://github.com/btco/qx82)
 - [jasonleow/psisg - Haze updates at a glance for Singapore - https://psi.sg](https://github.com/jasonleow/psisg)
-- [shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS - MapTilerのTerrain RGBをMapLibre GL JSで3D地形として表示するデモサイト](https://github.com/shi-works/MapTiler-Terrain-RGB-on-MapLibre-GL-JS)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
