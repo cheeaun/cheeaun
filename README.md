@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wipfli/about-text-rendering-in-maplibre - Describes how text rendering works in MapLibre](https://github.com/wipfli/about-text-rendering-in-maplibre)
 - [donn/nudelta - Open source NuPhy Console alternative](https://github.com/donn/nudelta)
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
 - [thunder-app/thunder - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter](https://github.com/thunder-app/thunder)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WasmEdge/WasmEdge - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.](https://github.com/WasmEdge/WasmEdge)
 - [poetaster/harbour-tooter - Tooter is Mastodon client for Sailfish OS.](https://github.com/poetaster/harbour-tooter)
 - [btco/qx82 - Tiny Javascript engine for retro games](https://github.com/btco/qx82)
-- [jasonleow/psisg - Haze updates at a glance for Singapore - https://psi.sg](https://github.com/jasonleow/psisg)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
