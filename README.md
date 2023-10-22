@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [codex-team/editor.js - A block-style editor with clean JSON output](https://github.com/codex-team/editor.js)
 - [wipfli/about-text-rendering-in-maplibre - Describes how text rendering works in MapLibre](https://github.com/wipfli/about-text-rendering-in-maplibre)
 - [donn/nudelta - Open source NuPhy Console alternative](https://github.com/donn/nudelta)
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [web-infra-dev/rspress - 🦀💨 A fast Rspack-based static site generator.](https://github.com/web-infra-dev/rspress)
 - [WasmEdge/WasmEdge - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.](https://github.com/WasmEdge/WasmEdge)
 - [poetaster/harbour-tooter - Tooter is Mastodon client for Sailfish OS.](https://github.com/poetaster/harbour-tooter)
-- [btco/qx82 - Tiny Javascript engine for retro games](https://github.com/btco/qx82)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
