@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [MbinOrg/mbin - Mbin: a /kbin fork - By the community, for the community](https://github.com/MbinOrg/mbin)
+- [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
 - [codex-team/editor.js - A block-style editor with clean JSON output](https://github.com/codex-team/editor.js)
 - [wipfli/about-text-rendering-in-maplibre - Describes how text rendering works in MapLibre](https://github.com/wipfli/about-text-rendering-in-maplibre)
 - [donn/nudelta - Open source NuPhy Console alternative](https://github.com/donn/nudelta)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hvianna/audioMotion-analyzer - High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.](https://github.com/hvianna/audioMotion-analyzer)
 - [mcollina/async-cache-dedupe - Async cache with dedupe support](https://github.com/mcollina/async-cache-dedupe)
 - [web-infra-dev/rspress - 🦀💨 A fast Rspack-based static site generator.](https://github.com/web-infra-dev/rspress)
-- [WasmEdge/WasmEdge - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.](https://github.com/WasmEdge/WasmEdge)
-- [poetaster/harbour-tooter - Tooter is Mastodon client for Sailfish OS.](https://github.com/poetaster/harbour-tooter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
