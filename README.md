@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mkkellogg/GaussianSplats3D - Three.js-based implementation of the 3D Gaussian splat viewer](https://github.com/mkkellogg/GaussianSplats3D)
 - [maplibre/awesome-maplibre - A collection of awesome things that use or support MapLibre!](https://github.com/maplibre/awesome-maplibre)
 - [MbinOrg/mbin - Mbin: a /kbin fork - By the community, for the community](https://github.com/MbinOrg/mbin)
 - [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [schlagmichdoch/PairDrop - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.](https://github.com/schlagmichdoch/PairDrop)
 - [hvianna/audioMotion.js - High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.](https://github.com/hvianna/audioMotion.js)
 - [hvianna/audioMotion-analyzer - High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.](https://github.com/hvianna/audioMotion-analyzer)
-- [mcollina/async-cache-dedupe - Async cache with dedupe support](https://github.com/mcollina/async-cache-dedupe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
