@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maplibre/awesome-maplibre - A collection of awesome things that use or support MapLibre!](https://github.com/maplibre/awesome-maplibre)
 - [MbinOrg/mbin - Mbin: a /kbin fork - By the community, for the community](https://github.com/MbinOrg/mbin)
 - [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
 - [codex-team/editor.js - A block-style editor with clean JSON output](https://github.com/codex-team/editor.js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hvianna/audioMotion.js - High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.](https://github.com/hvianna/audioMotion.js)
 - [hvianna/audioMotion-analyzer - High-resolution real-time graphic audio spectrum analyzer JavaScript module with no dependencies.](https://github.com/hvianna/audioMotion-analyzer)
 - [mcollina/async-cache-dedupe - Async cache with dedupe support](https://github.com/mcollina/async-cache-dedupe)
-- [web-infra-dev/rspress - 🦀💨 A fast Rspack-based static site generator.](https://github.com/web-infra-dev/rspress)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
