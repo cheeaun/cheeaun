@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lost-pixel/lost-pixel - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.](https://github.com/lost-pixel/lost-pixel)
+- [nolanlawson/emoji-picker-element - A lightweight emoji picker for the modern web](https://github.com/nolanlawson/emoji-picker-element)
 - [soapbox-pub/soapbox - Software for the next generation of social media.](https://github.com/soapbox-pub/soapbox)
 - [guilhermelimak/react-codejar](https://github.com/guilhermelimak/react-codejar)
 - [antonmedv/codejar - An embeddable code editor for the browser 🍯](https://github.com/antonmedv/codejar)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [donn/nudelta - Open source NuPhy Console alternative](https://github.com/donn/nudelta)
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
 - [thunder-app/thunder - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter](https://github.com/thunder-app/thunder)
-- [rayriffy/urami - Automatic image optimization for JS frameworks! Inspired by NextJS.](https://github.com/rayriffy/urami)
-- [cormiertyshawn895/Retroactive - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.](https://github.com/cormiertyshawn895/Retroactive)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
