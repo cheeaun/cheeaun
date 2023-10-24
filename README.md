@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [guilhermelimak/react-codejar](https://github.com/guilhermelimak/react-codejar)
+- [antonmedv/codejar - An embeddable code editor for the browser 🍯](https://github.com/antonmedv/codejar)
 - [benbusby/farside - A smart redirecting gateway for various frontend services](https://github.com/benbusby/farside)
 - [mkkellogg/GaussianSplats3D - Three.js-based implementation of the 3D Gaussian splat viewer](https://github.com/mkkellogg/GaussianSplats3D)
 - [maplibre/awesome-maplibre - A collection of awesome things that use or support MapLibre!](https://github.com/maplibre/awesome-maplibre)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rayriffy/urami - Automatic image optimization for JS frameworks! Inspired by NextJS.](https://github.com/rayriffy/urami)
 - [cormiertyshawn895/Retroactive - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.](https://github.com/cormiertyshawn895/Retroactive)
 - [localsend/localsend - An open source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
-- [schlagmichdoch/PairDrop - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.](https://github.com/schlagmichdoch/PairDrop)
-- [hvianna/audioMotion.js - High-resolution real-time spectrum analyzer and music player using Web Audio and Canvas APIs.](https://github.com/hvianna/audioMotion.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
