@@ -27,7 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [dianaow/cat-canvas-game](https://github.com/dianaow/cat-canvas-game)
+- [AndrewWalsh/openapi-devtools - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website](https://github.com/AndrewWalsh/openapi-devtools)
+- [dianaow/cat-canvas-game - A Canvas-based game with cat sprites](https://github.com/dianaow/cat-canvas-game)
 - [lost-pixel/lost-pixel - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.](https://github.com/lost-pixel/lost-pixel)
 - [nolanlawson/emoji-picker-element - A lightweight emoji picker for the modern web](https://github.com/nolanlawson/emoji-picker-element)
 - [soapbox-pub/soapbox - Software for the next generation of social media.](https://github.com/soapbox-pub/soapbox)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [codex-team/editor.js - A block-style editor with clean JSON output](https://github.com/codex-team/editor.js)
 - [wipfli/about-text-rendering-in-maplibre - Describes how text rendering works in MapLibre](https://github.com/wipfli/about-text-rendering-in-maplibre)
 - [donn/nudelta - Open source NuPhy Console alternative](https://github.com/donn/nudelta)
-- [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
