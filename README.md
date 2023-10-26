@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [benpate/toot - Mastodon Server API](https://github.com/benpate/toot)
 - [AndrewWalsh/openapi-devtools - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website](https://github.com/AndrewWalsh/openapi-devtools)
 - [dianaow/cat-canvas-game - A Canvas-based game with cat sprites](https://github.com/dianaow/cat-canvas-game)
 - [lost-pixel/lost-pixel - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.](https://github.com/lost-pixel/lost-pixel)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
 - [codex-team/editor.js - A block-style editor with clean JSON output](https://github.com/codex-team/editor.js)
 - [wipfli/about-text-rendering-in-maplibre - Describes how text rendering works in MapLibre](https://github.com/wipfli/about-text-rendering-in-maplibre)
-- [donn/nudelta - Open source NuPhy Console alternative](https://github.com/donn/nudelta)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
