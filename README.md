@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shi-works/2.5d-map-on-mapLibre-gl-js - 国土地理院 標高タイル（3D地形）、法務省地図XML、3D都市モデルPLATEAUをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/2.5d-map-on-mapLibre-gl-js)
 - [benpate/toot - Mastodon Server API](https://github.com/benpate/toot)
 - [AndrewWalsh/openapi-devtools - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website](https://github.com/AndrewWalsh/openapi-devtools)
 - [dianaow/cat-canvas-game - A Canvas-based game with cat sprites](https://github.com/dianaow/cat-canvas-game)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MbinOrg/mbin - Mbin: a /kbin fork - By the community, for the community](https://github.com/MbinOrg/mbin)
 - [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
 - [codex-team/editor.js - A block-style editor with clean JSON output](https://github.com/codex-team/editor.js)
-- [wipfli/about-text-rendering-in-maplibre - Describes how text rendering works in MapLibre](https://github.com/wipfli/about-text-rendering-in-maplibre)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
