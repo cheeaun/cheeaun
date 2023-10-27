@@ -38,7 +38,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [guilhermelimak/react-codejar](https://github.com/guilhermelimak/react-codejar)
 - [antonmedv/codejar - An embeddable code editor for the browser 🍯](https://github.com/antonmedv/codejar)
 - [benbusby/farside - A smart redirecting gateway for various frontend services](https://github.com/benbusby/farside)
-- [mkkellogg/GaussianSplats3D - Three.js-based implementation of the 3D Gaussian splat viewer](https://github.com/mkkellogg/GaussianSplats3D)
+- [mkkellogg/GaussianSplats3D - Three.js-based implementation of 3D Gaussian splatting](https://github.com/mkkellogg/GaussianSplats3D)
 - [maplibre/awesome-maplibre - A collection of awesome things that use or support MapLibre!](https://github.com/maplibre/awesome-maplibre)
 - [MbinOrg/mbin - Mbin: a federated content aggregator, voting, discussion and microblogging platform (By the community, for the community)](https://github.com/MbinOrg/mbin)
 - [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
