@@ -39,7 +39,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [benbusby/farside - A smart redirecting gateway for various frontend services](https://github.com/benbusby/farside)
 - [mkkellogg/GaussianSplats3D - Three.js-based implementation of the 3D Gaussian splat viewer](https://github.com/mkkellogg/GaussianSplats3D)
 - [maplibre/awesome-maplibre - A collection of awesome things that use or support MapLibre!](https://github.com/maplibre/awesome-maplibre)
-- [MbinOrg/mbin - Mbin: a /kbin fork - By the community, for the community](https://github.com/MbinOrg/mbin)
+- [MbinOrg/mbin - Mbin: a federated content aggregator, voting, discussion and microblogging platform (By the community, for the community)](https://github.com/MbinOrg/mbin)
 - [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
 - [codex-team/editor.js - A block-style editor with clean JSON output](https://github.com/codex-team/editor.js)
 <!-- starred repos end -->
