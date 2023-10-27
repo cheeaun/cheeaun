@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jaredLunde/masonic - 🧱 High-performance masonry layouts for React](https://github.com/jaredLunde/masonic)
 - [shi-works/2.5d-map-on-mapLibre-gl-js - 国土地理院 標高タイル（3D地形）、法務省地図XML、3D都市モデルPLATEAUをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/2.5d-map-on-mapLibre-gl-js)
 - [benpate/toot - Mastodon Server API](https://github.com/benpate/toot)
 - [AndrewWalsh/openapi-devtools - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website](https://github.com/AndrewWalsh/openapi-devtools)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [maplibre/awesome-maplibre - A collection of awesome things that use or support MapLibre!](https://github.com/maplibre/awesome-maplibre)
 - [MbinOrg/mbin - Mbin: a federated content aggregator, voting, discussion and microblogging platform (By the community, for the community)](https://github.com/MbinOrg/mbin)
 - [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
-- [codex-team/editor.js - A block-style editor with clean JSON output](https://github.com/codex-team/editor.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
