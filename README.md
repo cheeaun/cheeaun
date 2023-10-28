@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wasmerio/winterjs - Winter is coming... ❄️](https://github.com/wasmerio/winterjs)
 - [vercel/geist-font](https://github.com/vercel/geist-font)
 - [easrng/image-grid - a zero-dependency image grid web component](https://github.com/easrng/image-grid)
 - [soywod/react-pin-field - 📟 React component for entering PIN codes.](https://github.com/soywod/react-pin-field)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [AndrewWalsh/openapi-devtools - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website](https://github.com/AndrewWalsh/openapi-devtools)
 - [dianaow/cat-canvas-game - A Canvas-based game with cat sprites](https://github.com/dianaow/cat-canvas-game)
 - [lost-pixel/lost-pixel - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.](https://github.com/lost-pixel/lost-pixel)
-- [nolanlawson/emoji-picker-element - A lightweight emoji picker for the modern web](https://github.com/nolanlawson/emoji-picker-element)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
