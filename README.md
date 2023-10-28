@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [easrng/image-grid - a zero-dependency image grid web component](https://github.com/easrng/image-grid)
 - [soywod/react-pin-field - 📟 React component for entering PIN codes.](https://github.com/soywod/react-pin-field)
 - [shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS - 熊出没マップ](https://github.com/shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS)
 - [luukdv/color.js - Extract colors from an image (0.75 KB) 🎨](https://github.com/luukdv/color.js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lost-pixel/lost-pixel - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.](https://github.com/lost-pixel/lost-pixel)
 - [nolanlawson/emoji-picker-element - A lightweight emoji picker for the modern web](https://github.com/nolanlawson/emoji-picker-element)
 - [soapbox-pub/soapbox - Software for the next generation of social media.](https://github.com/soapbox-pub/soapbox)
-- [guilhermelimak/react-codejar](https://github.com/guilhermelimak/react-codejar)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
