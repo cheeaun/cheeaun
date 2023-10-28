@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [soywod/react-pin-field - 📟 React component for entering PIN codes.](https://github.com/soywod/react-pin-field)
+- [shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS - 熊出没マップ](https://github.com/shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS)
+- [luukdv/color.js - Extract colors from an image (0.75 KB) 🎨](https://github.com/luukdv/color.js)
 - [CanadaHonk/shadow - <shadow> is a new novel web engine made entirely in JS (mostly) from scratch](https://github.com/CanadaHonk/shadow)
 - [upstash/upstash-redis - HTTP based Redis Client for Serverless and Edge Functions](https://github.com/upstash/upstash-redis)
 - [seanoliver/audioflare - An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.](https://github.com/seanoliver/audioflare)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nolanlawson/emoji-picker-element - A lightweight emoji picker for the modern web](https://github.com/nolanlawson/emoji-picker-element)
 - [soapbox-pub/soapbox - Software for the next generation of social media.](https://github.com/soapbox-pub/soapbox)
 - [guilhermelimak/react-codejar](https://github.com/guilhermelimak/react-codejar)
-- [antonmedv/codejar - An embeddable code editor for the browser 🍯](https://github.com/antonmedv/codejar)
-- [benbusby/farside - A smart redirecting gateway for various frontend services](https://github.com/benbusby/farside)
-- [mkkellogg/GaussianSplats3D - Three.js-based implementation of 3D Gaussian splatting](https://github.com/mkkellogg/GaussianSplats3D)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
