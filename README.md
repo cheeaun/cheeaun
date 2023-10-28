@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CanadaHonk/shadow - <shadow> is a new novel web engine made entirely in JS (mostly) from scratch](https://github.com/CanadaHonk/shadow)
+- [upstash/upstash-redis - HTTP based Redis Client for Serverless and Edge Functions](https://github.com/upstash/upstash-redis)
+- [seanoliver/audioflare - An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.](https://github.com/seanoliver/audioflare)
 - [jaredLunde/masonic - 🧱 High-performance masonry layouts for React](https://github.com/jaredLunde/masonic)
 - [shi-works/2.5d-map-on-mapLibre-gl-js - 国土地理院 標高タイル（3D地形）、法務省地図XML、3D都市モデルPLATEAUをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/2.5d-map-on-mapLibre-gl-js)
 - [benpate/toot - Mastodon Server API](https://github.com/benpate/toot)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antonmedv/codejar - An embeddable code editor for the browser 🍯](https://github.com/antonmedv/codejar)
 - [benbusby/farside - A smart redirecting gateway for various frontend services](https://github.com/benbusby/farside)
 - [mkkellogg/GaussianSplats3D - Three.js-based implementation of 3D Gaussian splatting](https://github.com/mkkellogg/GaussianSplats3D)
-- [maplibre/awesome-maplibre - A collection of awesome things that use or support MapLibre!](https://github.com/maplibre/awesome-maplibre)
-- [MbinOrg/mbin - Mbin: a federated content aggregator, voting, discussion and microblogging platform (By the community, for the community)](https://github.com/MbinOrg/mbin)
-- [sindresorhus/presentable-error - Make presentable errors](https://github.com/sindresorhus/presentable-error)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
