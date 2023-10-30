@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maplibre/font-maker - Web app to convert font files into fontstacks for MapLibre GL](https://github.com/maplibre/font-maker)
+- [flother/spreet - Create a spritesheet from a set of SVG images](https://github.com/flother/spreet)
+- [protomaps/basemaps - Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more](https://github.com/protomaps/basemaps)
 - [tsparticles/react - React tsParticles official component](https://github.com/tsparticles/react)
 - [VernissageApp/Vernissage - Main source code of Vernissage iOS app](https://github.com/VernissageApp/Vernissage)
 - [wasmerio/winterjs - Winter is coming... ❄️](https://github.com/wasmerio/winterjs)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [upstash/upstash-redis - HTTP based Redis Client for Serverless and Edge Functions](https://github.com/upstash/upstash-redis)
 - [seanoliver/audioflare - An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.](https://github.com/seanoliver/audioflare)
 - [jaredLunde/masonic - 🧱 High-performance masonry layouts for React](https://github.com/jaredLunde/masonic)
-- [shi-works/2.5d-map-on-mapLibre-gl-js - 国土地理院 標高タイル（3D地形）、法務省地図XML、3D都市モデルPLATEAUをMapLibre GL JSで表示するデモサイト](https://github.com/shi-works/2.5d-map-on-mapLibre-gl-js)
-- [benpate/toot - Mastodon Server API](https://github.com/benpate/toot)
-- [AndrewWalsh/openapi-devtools - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website](https://github.com/AndrewWalsh/openapi-devtools)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
