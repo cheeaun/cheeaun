@@ -38,7 +38,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [soywod/react-pin-field - 📟 React component for entering PIN codes.](https://github.com/soywod/react-pin-field)
 - [shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS - 熊出没マップ](https://github.com/shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS)
 - [luukdv/color.js - Extract colors from an image (0.75 KB) 🎨](https://github.com/luukdv/color.js)
-- [CanadaHonk/shadow - <shadow> is a new novel web engine made entirely in JS (mostly) from scratch](https://github.com/CanadaHonk/shadow)
+- [CanadaHonk/shadow - Shadow is a new novel web engine made (almost) entirely in JS from scratch](https://github.com/CanadaHonk/shadow)
 - [upstash/upstash-redis - HTTP based Redis Client for Serverless and Edge Functions](https://github.com/upstash/upstash-redis)
 - [seanoliver/audioflare - An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.](https://github.com/seanoliver/audioflare)
 - [jaredLunde/masonic - 🧱 High-performance masonry layouts for React](https://github.com/jaredLunde/masonic)
