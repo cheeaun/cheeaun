@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ohmjs/ohm - A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
 - [chromakode/coalesce - Edit audio as text](https://github.com/chromakode/coalesce)
 - [maplibre/font-maker - Web app to convert font files into fontstacks for MapLibre GL](https://github.com/maplibre/font-maker)
 - [flother/spreet - Create a spritesheet from a set of SVG images](https://github.com/flother/spreet)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [luukdv/color.js - Extract colors from an image (0.75 KB) 🎨](https://github.com/luukdv/color.js)
 - [CanadaHonk/shadow - Shadow is a new novel web engine made (almost) entirely in JS from scratch](https://github.com/CanadaHonk/shadow)
 - [upstash/upstash-redis - HTTP based Redis Client for Serverless and Edge Functions](https://github.com/upstash/upstash-redis)
-- [seanoliver/audioflare - An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.](https://github.com/seanoliver/audioflare)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
