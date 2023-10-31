@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chromakode/coalesce - Edit audio as text](https://github.com/chromakode/coalesce)
 - [maplibre/font-maker - Web app to convert font files into fontstacks for MapLibre GL](https://github.com/maplibre/font-maker)
 - [flother/spreet - Create a spritesheet from a set of SVG images](https://github.com/flother/spreet)
 - [protomaps/basemaps - Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more](https://github.com/protomaps/basemaps)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [CanadaHonk/shadow - Shadow is a new novel web engine made (almost) entirely in JS from scratch](https://github.com/CanadaHonk/shadow)
 - [upstash/upstash-redis - HTTP based Redis Client for Serverless and Edge Functions](https://github.com/upstash/upstash-redis)
 - [seanoliver/audioflare - An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.](https://github.com/seanoliver/audioflare)
-- [jaredLunde/masonic - 🧱 High-performance masonry layouts for React](https://github.com/jaredLunde/masonic)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
