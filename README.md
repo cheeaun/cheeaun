@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [ohmjs/ohm - A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
-- [chromakode/coalesce - Edit audio as text](https://github.com/chromakode/coalesce)
+- [chromakode/coalesce - Edit audio at the speed of text](https://github.com/chromakode/coalesce)
 - [maplibre/font-maker - Web app to convert font files into fontstacks for MapLibre GL](https://github.com/maplibre/font-maker)
 - [flother/spreet - Create a spritesheet from a set of SVG images](https://github.com/flother/spreet)
 - [protomaps/basemaps - Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more](https://github.com/protomaps/basemaps)
