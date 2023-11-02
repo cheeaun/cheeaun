@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [omichelsen/compare-versions - Compare semver version strings to find which is greater, equal or lesser.](https://github.com/omichelsen/compare-versions)
+- [kopiro/siriwave - The Apple® Siri wave-form replicated in a JS library.](https://github.com/kopiro/siriwave)
 - [ohmjs/ohm - A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
 - [chromakode/coalesce - Edit audio at the speed of text](https://github.com/chromakode/coalesce)
 - [maplibre/font-maker - Web app to convert font files into fontstacks for MapLibre GL](https://github.com/maplibre/font-maker)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [soywod/react-pin-field - 📟 React component for entering PIN codes.](https://github.com/soywod/react-pin-field)
 - [shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS - 熊出没マップ](https://github.com/shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS)
 - [luukdv/color.js - Extract colors from an image (0.75 KB) 🎨](https://github.com/luukdv/color.js)
-- [CanadaHonk/shadow - Shadow is a new novel web engine made (almost) entirely in JS from scratch](https://github.com/CanadaHonk/shadow)
-- [upstash/upstash-redis - HTTP based Redis Client for Serverless and Edge Functions](https://github.com/upstash/upstash-redis)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
