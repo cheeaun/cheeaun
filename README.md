@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/vscode-codicons - The icon font for Visual Studio Code](https://github.com/microsoft/vscode-codicons)
+- [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
 - [tmcw/foursquare-cal - Convert Foursquare events to iCalendar](https://github.com/tmcw/foursquare-cal)
 - [shadiabuhilal/rtl-detect - This library will help you to detect if the intl is right-to-left language](https://github.com/shadiabuhilal/rtl-detect)
 - [fabiospampinato/lande - A tiny neural network for natural language detection.](https://github.com/fabiospampinato/lande)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tsparticles/react - React tsParticles official component](https://github.com/tsparticles/react)
 - [VernissageApp/Vernissage - Main source code of Vernissage iOS app](https://github.com/VernissageApp/Vernissage)
 - [wasmerio/winterjs - Winter is coming... ❄️](https://github.com/wasmerio/winterjs)
-- [vercel/geist-font](https://github.com/vercel/geist-font)
-- [easrng/image-grid - a zero-dependency image grid web component](https://github.com/easrng/image-grid)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
