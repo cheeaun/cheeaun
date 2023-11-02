@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tmcw/foursquare-cal - Convert Foursquare events to iCalendar](https://github.com/tmcw/foursquare-cal)
+- [shadiabuhilal/rtl-detect - This library will help you to detect if the intl is right-to-left language](https://github.com/shadiabuhilal/rtl-detect)
+- [fabiospampinato/lande - A tiny neural network for natural language detection.](https://github.com/fabiospampinato/lande)
 - [omichelsen/compare-versions - Compare semver version strings to find which is greater, equal or lesser.](https://github.com/omichelsen/compare-versions)
 - [kopiro/siriwave - The Apple® Siri wave-form replicated in a JS library.](https://github.com/kopiro/siriwave)
 - [ohmjs/ohm - A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wasmerio/winterjs - Winter is coming... ❄️](https://github.com/wasmerio/winterjs)
 - [vercel/geist-font](https://github.com/vercel/geist-font)
 - [easrng/image-grid - a zero-dependency image grid web component](https://github.com/easrng/image-grid)
-- [soywod/react-pin-field - 📟 React component for entering PIN codes.](https://github.com/soywod/react-pin-field)
-- [shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS - 熊出没マップ](https://github.com/shi-works/Bear-Encounter-Map-on-MapLibre-GL-JS)
-- [luukdv/color.js - Extract colors from an image (0.75 KB) 🎨](https://github.com/luukdv/color.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
