@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [react-simple-code-editor/react-simple-code-editor - Simple no-frills code editor with syntax highlighting](https://github.com/react-simple-code-editor/react-simple-code-editor)
 - [SuperIlu/DosView - Minimal image converter/viewer for MS-DOS](https://github.com/SuperIlu/DosView)
 - [microsoft/vscode-codicons - The icon font for Visual Studio Code](https://github.com/microsoft/vscode-codicons)
 - [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [flother/spreet - Create a spritesheet from a set of SVG images](https://github.com/flother/spreet)
 - [protomaps/basemaps - Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more](https://github.com/protomaps/basemaps)
 - [tsparticles/react - React tsParticles official component](https://github.com/tsparticles/react)
-- [VernissageApp/Vernissage - Main source code of Vernissage iOS app](https://github.com/VernissageApp/Vernissage)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
