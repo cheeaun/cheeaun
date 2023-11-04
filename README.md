@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [SuperIlu/DosView - Minimal image converter/viewer for MS-DOS](https://github.com/SuperIlu/DosView)
 - [microsoft/vscode-codicons - The icon font for Visual Studio Code](https://github.com/microsoft/vscode-codicons)
 - [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
 - [tmcw/foursquare-cal - Convert Foursquare events to iCalendar](https://github.com/tmcw/foursquare-cal)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [protomaps/basemaps - Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more](https://github.com/protomaps/basemaps)
 - [tsparticles/react - React tsParticles official component](https://github.com/tsparticles/react)
 - [VernissageApp/Vernissage - Main source code of Vernissage iOS app](https://github.com/VernissageApp/Vernissage)
-- [wasmerio/winterjs - Winter is coming... ❄️](https://github.com/wasmerio/winterjs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
