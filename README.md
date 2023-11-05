@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/vscode-languagedetection - An npm package that uses ML to detect source code languages](https://github.com/microsoft/vscode-languagedetection)
+- [yoeo/guesslang - Detect the programming language of a source code](https://github.com/yoeo/guesslang)
 - [react-simple-code-editor/react-simple-code-editor - Simple no-frills code editor with syntax highlighting](https://github.com/react-simple-code-editor/react-simple-code-editor)
 - [SuperIlu/DosView - Minimal image converter/viewer for MS-DOS](https://github.com/SuperIlu/DosView)
 - [microsoft/vscode-codicons - The icon font for Visual Studio Code](https://github.com/microsoft/vscode-codicons)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chromakode/coalesce - Edit audio at the speed of text](https://github.com/chromakode/coalesce)
 - [maplibre/font-maker - Web app to convert font files into fontstacks for MapLibre GL](https://github.com/maplibre/font-maker)
 - [flother/spreet - Create a spritesheet from a set of SVG images](https://github.com/flother/spreet)
-- [protomaps/basemaps - Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more](https://github.com/protomaps/basemaps)
-- [tsparticles/react - React tsParticles official component](https://github.com/tsparticles/react)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
