@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sindresorhus/image-dimensions - Get the dimensions of a PNG or JPEG image](https://github.com/sindresorhus/image-dimensions)
 - [microsoft/vscode-languagedetection - An npm package that uses ML to detect source code languages](https://github.com/microsoft/vscode-languagedetection)
 - [yoeo/guesslang - Detect the programming language of a source code](https://github.com/yoeo/guesslang)
 - [react-simple-code-editor/react-simple-code-editor - Simple no-frills code editor with syntax highlighting](https://github.com/react-simple-code-editor/react-simple-code-editor)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ohmjs/ohm - A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
 - [chromakode/coalesce - Edit audio at the speed of text](https://github.com/chromakode/coalesce)
 - [maplibre/font-maker - Web app to convert font files into fontstacks for MapLibre GL](https://github.com/maplibre/font-maker)
-- [flother/spreet - Create a spritesheet from a set of SVG images](https://github.com/flother/spreet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
