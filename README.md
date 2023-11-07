@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [transfem-org/Sharkey - 🌎 A Sharkish microblogging platform 🚀](https://github.com/transfem-org/Sharkey)
 - [dy/linefont - Font for rendering line chart data](https://github.com/dy/linefont)
 - [dy/wavefont - Typeface for rendering waveform/data](https://github.com/dy/wavefont)
 - [sindresorhus/image-dimensions - Get the dimensions of an image](https://github.com/sindresorhus/image-dimensions)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fabiospampinato/lande - A tiny neural network for natural language detection.](https://github.com/fabiospampinato/lande)
 - [omichelsen/compare-versions - Compare semver version strings to find which is greater, equal or lesser.](https://github.com/omichelsen/compare-versions)
 - [kopiro/siriwave - The Apple® Siri wave-form replicated in a JS library.](https://github.com/kopiro/siriwave)
-- [ohmjs/ohm - A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
