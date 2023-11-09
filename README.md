@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [visgl/react-google-maps - React component and hooks library for Google Maps](https://github.com/visgl/react-google-maps)
+- [openai/openai-node - The official Node.js / Typescript library for the OpenAI API](https://github.com/openai/openai-node)
+- [francisrstokes/super-expressive - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive)
 - [transfem-org/Sharkey - 🌎 A Sharkish microblogging platform 🚀](https://github.com/transfem-org/Sharkey)
 - [dy/linefont - Font for rendering line chart data](https://github.com/dy/linefont)
 - [dy/wavefont - Typeface for rendering waveform/data](https://github.com/dy/wavefont)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
 - [tmcw/foursquare-cal - Convert Foursquare events to iCalendar](https://github.com/tmcw/foursquare-cal)
 - [shadiabuhilal/rtl-detect - This library will help you to detect if the intl is right-to-left language](https://github.com/shadiabuhilal/rtl-detect)
-- [fabiospampinato/lande - A tiny neural network for natural language detection.](https://github.com/fabiospampinato/lande)
-- [omichelsen/compare-versions - Compare semver version strings to find which is greater, equal or lesser.](https://github.com/omichelsen/compare-versions)
-- [kopiro/siriwave - The Apple® Siri wave-form replicated in a JS library.](https://github.com/kopiro/siriwave)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
