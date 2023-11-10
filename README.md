@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [githubnext/monaspace - An innovative superfamily of fonts for code](https://github.com/githubnext/monaspace)
 - [visgl/react-google-maps - React component and hooks library for Google Maps](https://github.com/visgl/react-google-maps)
 - [openai/openai-node - The official Node.js / Typescript library for the OpenAI API](https://github.com/openai/openai-node)
 - [francisrstokes/super-expressive - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [microsoft/vscode-codicons - The icon font for Visual Studio Code](https://github.com/microsoft/vscode-codicons)
 - [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
 - [tmcw/foursquare-cal - Convert Foursquare events to iCalendar](https://github.com/tmcw/foursquare-cal)
-- [shadiabuhilal/rtl-detect - This library will help you to detect if the intl is right-to-left language](https://github.com/shadiabuhilal/rtl-detect)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
