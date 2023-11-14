@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [radix-ui/icons - A crisp set of 15×15 icons designed by the @workos team.](https://github.com/radix-ui/icons)
+- [radix-ui/colors - A gorgeous, accessible color system.](https://github.com/radix-ui/colors)
 - [electric-sql/electric - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.](https://github.com/electric-sql/electric)
 - [loro-dev/loro - Reimagine state management with CRDTs. Make your app state synchronized and collaborative effortlessly.](https://github.com/loro-dev/loro)
 - [gabipurcaru/followgraph](https://github.com/gabipurcaru/followgraph)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sindresorhus/image-dimensions - Get the dimensions of an image](https://github.com/sindresorhus/image-dimensions)
 - [microsoft/vscode-languagedetection - An npm package that uses ML to detect source code languages](https://github.com/microsoft/vscode-languagedetection)
 - [yoeo/guesslang - Detect the programming language of a source code](https://github.com/yoeo/guesslang)
-- [react-simple-code-editor/react-simple-code-editor - Simple no-frills code editor with syntax highlighting](https://github.com/react-simple-code-editor/react-simple-code-editor)
-- [SuperIlu/DosView - Minimal image converter/viewer for MS-DOS](https://github.com/SuperIlu/DosView)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
