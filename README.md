@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [electric-sql/electric - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.](https://github.com/electric-sql/electric)
-- [loro-dev/loro - Make your app state synchronized and collaborative effortlessly](https://github.com/loro-dev/loro)
+- [loro-dev/loro - Reimagine state management with CRDTs. Make your app state synchronized and collaborative effortlessly.](https://github.com/loro-dev/loro)
 - [gabipurcaru/followgraph](https://github.com/gabipurcaru/followgraph)
 - [githubnext/monaspace - An innovative superfamily of fonts for code](https://github.com/githubnext/monaspace)
 - [visgl/react-google-maps - React component and hooks library for Google Maps](https://github.com/visgl/react-google-maps)
