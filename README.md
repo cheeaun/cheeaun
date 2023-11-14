@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google-deepmind/deepmind-research - This repository contains implementations and illustrative code to accompany DeepMind publications](https://github.com/google-deepmind/deepmind-research)
+- [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
 - [radix-ui/icons - A crisp set of 15×15 icons designed by the @workos team.](https://github.com/radix-ui/icons)
 - [radix-ui/colors - A gorgeous, accessible color system.](https://github.com/radix-ui/colors)
 - [electric-sql/electric - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.](https://github.com/electric-sql/electric)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dy/linefont - Font for rendering line chart data](https://github.com/dy/linefont)
 - [dy/wavefont - Typeface for rendering waveform/data](https://github.com/dy/wavefont)
 - [sindresorhus/image-dimensions - Get the dimensions of an image](https://github.com/sindresorhus/image-dimensions)
-- [microsoft/vscode-languagedetection - An npm package that uses ML to detect source code languages](https://github.com/microsoft/vscode-languagedetection)
-- [yoeo/guesslang - Detect the programming language of a source code](https://github.com/yoeo/guesslang)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
