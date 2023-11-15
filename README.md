@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mathjax/MathJax - Beautiful and accessible math in all browsers](https://github.com/mathjax/MathJax)
 - [google-deepmind/deepmind-research - This repository contains implementations and illustrative code to accompany DeepMind publications](https://github.com/google-deepmind/deepmind-research)
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
 - [radix-ui/icons - A crisp set of 15×15 icons designed by the @workos team.](https://github.com/radix-ui/icons)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [transfem-org/Sharkey - 🌎 A Sharkish microblogging platform 🚀](https://github.com/transfem-org/Sharkey)
 - [dy/linefont - Font for rendering line chart data](https://github.com/dy/linefont)
 - [dy/wavefont - Typeface for rendering waveform/data](https://github.com/dy/wavefont)
-- [sindresorhus/image-dimensions - Get the dimensions of an image](https://github.com/sindresorhus/image-dimensions)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
