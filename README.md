@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bradymholt/cRonstrue - JavaScript library that translates Cron expressions into human readable descriptions](https://github.com/bradymholt/cRonstrue)
+- [pnpm/pacquet - experimental package manager for node.js](https://github.com/pnpm/pacquet)
 - [mathjax/MathJax - Beautiful and accessible math in all browsers](https://github.com/mathjax/MathJax)
 - [google-deepmind/deepmind-research - This repository contains implementations and illustrative code to accompany DeepMind publications](https://github.com/google-deepmind/deepmind-research)
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [openai/openai-node - The official Node.js / Typescript library for the OpenAI API](https://github.com/openai/openai-node)
 - [francisrstokes/super-expressive - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive)
 - [transfem-org/Sharkey - 🌎 A Sharkish microblogging platform 🚀](https://github.com/transfem-org/Sharkey)
-- [dy/linefont - Font for rendering line chart data](https://github.com/dy/linefont)
-- [dy/wavefont - Typeface for rendering waveform/data](https://github.com/dy/wavefont)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
