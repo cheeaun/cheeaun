@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [matteason/live-cloud-maps - Near real-time cloud maps](https://github.com/matteason/live-cloud-maps)
 - [SawyerHood/draw-a-ui - Draw a mockup and generate html for it](https://github.com/SawyerHood/draw-a-ui)
 - [tldraw/draw-a-ui - Draw a mockup and generate html for it](https://github.com/tldraw/draw-a-ui)
 - [Kikobeats/top-user-agents - A list of most common User Agent used on Internet.](https://github.com/Kikobeats/top-user-agents)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [radix-ui/colors - A gorgeous, accessible color system.](https://github.com/radix-ui/colors)
 - [electric-sql/electric - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.](https://github.com/electric-sql/electric)
 - [loro-dev/loro - Reimagine state management with CRDTs. Make your app collaborative effortlessly.](https://github.com/loro-dev/loro)
-- [gabipurcaru/followgraph](https://github.com/gabipurcaru/followgraph)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
