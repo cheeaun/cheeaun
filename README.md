@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Kikobeats/top-user-agents - A list of most common User Agent used on Internet.](https://github.com/Kikobeats/top-user-agents)
+- [WebScrapingAPI/rand-user-agent - This package was originally created as a functionality for WebScrapingAPI, but it can be integrated into any node.js scraping project. If you need a dependable and feature-rich web scraper, give the WebScrapingAPI free trial a go!](https://github.com/WebScrapingAPI/rand-user-agent)
 - [ealush/vest - Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
 - [bradymholt/cRonstrue - JavaScript library that translates Cron expressions into human readable descriptions](https://github.com/bradymholt/cRonstrue)
 - [pnpm/pacquet - experimental package manager for node.js](https://github.com/pnpm/pacquet)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gabipurcaru/followgraph](https://github.com/gabipurcaru/followgraph)
 - [githubnext/monaspace - An innovative superfamily of fonts for code](https://github.com/githubnext/monaspace)
 - [visgl/react-google-maps - React component and hooks library for Google Maps](https://github.com/visgl/react-google-maps)
-- [openai/openai-node - The official Node.js / Typescript library for the OpenAI API](https://github.com/openai/openai-node)
-- [francisrstokes/super-expressive - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
