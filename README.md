@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [webNeat/ctrl-keys - A tiny, super fast, typescript library to handle keybindings efficiently.](https://github.com/webNeat/ctrl-keys)
+- [jaywcjlove/hotkeys-js - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies. ](https://github.com/jaywcjlove/hotkeys-js)
 - [michael-brade/LaTeX.js - JavaScript LaTeX to HTML5 translator](https://github.com/michael-brade/LaTeX.js)
 - [simple-login/app - The SimpleLogin back-end and web app](https://github.com/simple-login/app)
 - [matteason/live-cloud-maps - Near real-time cloud maps](https://github.com/matteason/live-cloud-maps)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mathjax/MathJax - Beautiful and accessible math in all browsers](https://github.com/mathjax/MathJax)
 - [google-deepmind/deepmind-research - This repository contains implementations and illustrative code to accompany DeepMind publications](https://github.com/google-deepmind/deepmind-research)
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
-- [radix-ui/icons - A crisp set of 15×15 icons designed by the @workos team.](https://github.com/radix-ui/icons)
-- [radix-ui/colors - A gorgeous, accessible color system.](https://github.com/radix-ui/colors)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
