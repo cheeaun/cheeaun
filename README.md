@@ -27,13 +27,14 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Yahweasel/libav.js - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web.](https://github.com/Yahweasel/libav.js)
 - [webNeat/ctrl-keys - A tiny, super fast, typescript library to handle keybindings efficiently.](https://github.com/webNeat/ctrl-keys)
 - [jaywcjlove/hotkeys-js - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies. ](https://github.com/jaywcjlove/hotkeys-js)
 - [michael-brade/LaTeX.js - JavaScript LaTeX to HTML5 translator](https://github.com/michael-brade/LaTeX.js)
 - [simple-login/app - The SimpleLogin back-end and web app](https://github.com/simple-login/app)
 - [matteason/live-cloud-maps - Near real-time cloud maps](https://github.com/matteason/live-cloud-maps)
 - [SawyerHood/draw-a-ui - Draw a mockup and generate html for it](https://github.com/SawyerHood/draw-a-ui)
-- [tldraw/make-real - Draw a mockup and generate html for it](https://github.com/tldraw/make-real)
+- [tldraw/make-real - Draw a ui and make it real](https://github.com/tldraw/make-real)
 - [Kikobeats/top-user-agents - A list of most common User Agent used on Internet.](https://github.com/Kikobeats/top-user-agents)
 - [WebScrapingAPI/rand-user-agent - This package was originally created as a functionality for WebScrapingAPI, but it can be integrated into any node.js scraping project. If you need a dependable and feature-rich web scraper, give the WebScrapingAPI free trial a go!](https://github.com/WebScrapingAPI/rand-user-agent)
 - [ealush/vest - Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pnpm/pacquet - experimental package manager for node.js](https://github.com/pnpm/pacquet)
 - [mathjax/MathJax - Beautiful and accessible math in all browsers](https://github.com/mathjax/MathJax)
 - [google-deepmind/deepmind-research - This repository contains implementations and illustrative code to accompany DeepMind publications](https://github.com/google-deepmind/deepmind-research)
-- [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
