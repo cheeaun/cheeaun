@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sqids/sqids-javascript - Official JavaScript port of Sqids. Generate short YouTube-looking IDs from numbers.](https://github.com/sqids/sqids-javascript)
 - [ArchiveTeam/Ubuntu-Warrior - Scripts to build and boot warrior virtual machine containing Docker](https://github.com/ArchiveTeam/Ubuntu-Warrior)
 - [Yahweasel/libav.js - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web.](https://github.com/Yahweasel/libav.js)
 - [webNeat/ctrl-keys - A tiny, super fast, typescript library to handle keybindings efficiently.](https://github.com/webNeat/ctrl-keys)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ealush/vest - Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
 - [bradymholt/cRonstrue - JavaScript library that translates Cron expressions into human readable descriptions](https://github.com/bradymholt/cRonstrue)
 - [pnpm/pacquet - experimental package manager for node.js](https://github.com/pnpm/pacquet)
-- [mathjax/MathJax - Beautiful and accessible math in all browsers](https://github.com/mathjax/MathJax)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
