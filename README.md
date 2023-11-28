@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [architect/aws-lite - A simple, fast, extensible AWS client](https://github.com/architect/aws-lite)
 - [bluelovers/runes - ✂️  Unicode-aware JS string splitting](https://github.com/bluelovers/runes)
 - [sqids/sqids-javascript - Official JavaScript port of Sqids. Generate short YouTube-looking IDs from numbers.](https://github.com/sqids/sqids-javascript)
 - [ArchiveTeam/Ubuntu-Warrior - Scripts to build and boot warrior virtual machine containing Docker](https://github.com/ArchiveTeam/Ubuntu-Warrior)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Kikobeats/top-user-agents - A list of most common User Agent used on Internet.](https://github.com/Kikobeats/top-user-agents)
 - [WebScrapingAPI/rand-user-agent - This package was originally created as a functionality for WebScrapingAPI, but it can be integrated into any node.js scraping project. If you need a dependable and feature-rich web scraper, give the WebScrapingAPI free trial a go!](https://github.com/WebScrapingAPI/rand-user-agent)
 - [ealush/vest - Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
-- [bradymholt/cRonstrue - JavaScript library that translates Cron expressions into human readable descriptions](https://github.com/bradymholt/cRonstrue)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
