@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stefanbohacek/fediverse-export-analyzer](https://github.com/stefanbohacek/fediverse-export-analyzer)
 - [01mf02/jaq - A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 - [biomejs/biome - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.](https://github.com/biomejs/biome)
 - [qq15725/modern-screenshot - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG](https://github.com/qq15725/modern-screenshot)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [simple-login/app - The SimpleLogin back-end and web app](https://github.com/simple-login/app)
 - [matteason/live-cloud-maps - Near real-time cloud maps](https://github.com/matteason/live-cloud-maps)
 - [SawyerHood/draw-a-ui - Draw a mockup and generate html for it](https://github.com/SawyerHood/draw-a-ui)
-- [tldraw/make-real - Draw a ui and make it real](https://github.com/tldraw/make-real)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
