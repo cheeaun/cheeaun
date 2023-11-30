@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [01mf02/jaq - A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
+- [biomejs/biome - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.](https://github.com/biomejs/biome)
 - [qq15725/modern-screenshot - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG](https://github.com/qq15725/modern-screenshot)
 - [architect/aws-lite - A simple, fast, extensible AWS client](https://github.com/architect/aws-lite)
 - [bluelovers/runes - ✂️  Unicode-aware JS string splitting](https://github.com/bluelovers/runes)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [matteason/live-cloud-maps - Near real-time cloud maps](https://github.com/matteason/live-cloud-maps)
 - [SawyerHood/draw-a-ui - Draw a mockup and generate html for it](https://github.com/SawyerHood/draw-a-ui)
 - [tldraw/make-real - Draw a ui and make it real](https://github.com/tldraw/make-real)
-- [Kikobeats/top-user-agents - A list of most common User Agent used on Internet.](https://github.com/Kikobeats/top-user-agents)
-- [WebScrapingAPI/rand-user-agent - This package was originally created as a functionality for WebScrapingAPI, but it can be integrated into any node.js scraping project. If you need a dependable and feature-rich web scraper, give the WebScrapingAPI free trial a go!](https://github.com/WebScrapingAPI/rand-user-agent)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
