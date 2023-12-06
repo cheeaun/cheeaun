@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pelias/placeholder - stand-alone coarse geocoder](https://github.com/pelias/placeholder)
 - [hyperium/hyper - An HTTP library for Rust](https://github.com/hyperium/hyper)
 - [coryrylan/usd-viewer - Experimental Web Component for displaying 3d files in USDZ format](https://github.com/coryrylan/usd-viewer)
 - [stefanbohacek/fediverse-export-analyzer](https://github.com/stefanbohacek/fediverse-export-analyzer)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [webNeat/ctrl-keys - A tiny, super fast, typescript library to handle keybindings efficiently.](https://github.com/webNeat/ctrl-keys)
 - [jaywcjlove/hotkeys-js - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies. ](https://github.com/jaywcjlove/hotkeys-js)
 - [michael-brade/LaTeX.js - JavaScript LaTeX to HTML5 translator](https://github.com/michael-brade/LaTeX.js)
-- [simple-login/app - The SimpleLogin back-end and web app](https://github.com/simple-login/app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
