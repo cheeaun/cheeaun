@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CopilotKit/CopilotKit - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.](https://github.com/CopilotKit/CopilotKit)
 - [ml-explore/mlx - MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
 - [pelias/placeholder - stand-alone coarse geocoder](https://github.com/pelias/placeholder)
 - [hyperium/hyper - An HTTP library for Rust](https://github.com/hyperium/hyper)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ArchiveTeam/Ubuntu-Warrior - Scripts to build and boot warrior virtual machine containing Docker](https://github.com/ArchiveTeam/Ubuntu-Warrior)
 - [Yahweasel/libav.js - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web.](https://github.com/Yahweasel/libav.js)
 - [webNeat/ctrl-keys - A tiny, super fast, typescript library to handle keybindings efficiently.](https://github.com/webNeat/ctrl-keys)
-- [jaywcjlove/hotkeys-js - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies. ](https://github.com/jaywcjlove/hotkeys-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
