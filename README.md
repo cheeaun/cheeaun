@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [epicweb-dev/client-hints - Eliminate a flash of incorrect content by using client hints](https://github.com/epicweb-dev/client-hints)
 - [CopilotKit/CopilotKit - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.](https://github.com/CopilotKit/CopilotKit)
 - [ml-explore/mlx - MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
 - [pelias/placeholder - stand-alone coarse geocoder](https://github.com/pelias/placeholder)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sqids/sqids-javascript - Official JavaScript port of Sqids. Generate short YouTube-looking IDs from numbers.](https://github.com/sqids/sqids-javascript)
 - [ArchiveTeam/Ubuntu-Warrior - Scripts to build and boot warrior virtual machine containing Docker](https://github.com/ArchiveTeam/Ubuntu-Warrior)
 - [Yahweasel/libav.js - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web.](https://github.com/Yahweasel/libav.js)
-- [webNeat/ctrl-keys - A tiny, super fast, typescript library to handle keybindings efficiently.](https://github.com/webNeat/ctrl-keys)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
