@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maptiler/maptiler-geocoding-control - The Javascript & TypeScript Map Control component for MapTiler Geocoding service! Easy to be integrated into any JavaScript mapping application. ](https://github.com/maptiler/maptiler-geocoding-control)
 - [mathiasbynens/rgi-emoji-regex-pattern - A JavaScript-compatible regular expression pattern to match all RGI emoji symbols and sequences as per the Unicode Standard and UTS#51.](https://github.com/mathiasbynens/rgi-emoji-regex-pattern)
 - [epicweb-dev/client-hints - Eliminate a flash of incorrect content by using client hints](https://github.com/epicweb-dev/client-hints)
 - [CopilotKit/CopilotKit - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.](https://github.com/CopilotKit/CopilotKit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [architect/aws-lite - A simple, fast, extensible AWS client](https://github.com/architect/aws-lite)
 - [bluelovers/runes - ✂️  Unicode-aware JS string splitting](https://github.com/bluelovers/runes)
 - [sqids/sqids-javascript - Official JavaScript port of Sqids. Generate short YouTube-looking IDs from numbers.](https://github.com/sqids/sqids-javascript)
-- [ArchiveTeam/Ubuntu-Warrior - Scripts to build and boot warrior virtual machine containing Docker](https://github.com/ArchiveTeam/Ubuntu-Warrior)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
