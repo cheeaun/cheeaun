@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [andrico1234/autosize-textarea](https://github.com/andrico1234/autosize-textarea)
 - [stefanjudis/sparkly-text - A small web component for making your text spark.](https://github.com/stefanjudis/sparkly-text)
 - [maptiler/maptiler-geocoding-control - The Javascript & TypeScript Map Control component for MapTiler Geocoding service! Easy to be integrated into any JavaScript mapping application. ](https://github.com/maptiler/maptiler-geocoding-control)
 - [mathiasbynens/rgi-emoji-regex-pattern - A JavaScript-compatible regular expression pattern to match all RGI emoji symbols and sequences as per the Unicode Standard and UTS#51.](https://github.com/mathiasbynens/rgi-emoji-regex-pattern)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [biomejs/biome - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.](https://github.com/biomejs/biome)
 - [qq15725/modern-screenshot - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG](https://github.com/qq15725/modern-screenshot)
 - [architect/aws-lite - A simple, fast, extensible AWS client](https://github.com/architect/aws-lite)
-- [bluelovers/runes - ✂️  Unicode-aware JS string splitting](https://github.com/bluelovers/runes)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
