@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [remotion-dev/github-unwrapped-2023 - Your coding year in review](https://github.com/remotion-dev/github-unwrapped-2023)
 - [static-web-server/static-web-server - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡](https://github.com/static-web-server/static-web-server)
 - [sindresorhus/p-map - Map over promises concurrently](https://github.com/sindresorhus/p-map)
 - [standard-webhooks/standard-webhooks - The Standard Webhooks specification](https://github.com/standard-webhooks/standard-webhooks)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hyperium/hyper - An HTTP library for Rust](https://github.com/hyperium/hyper)
 - [coryrylan/usd-viewer - Experimental Web Component for displaying 3d files in USDZ format](https://github.com/coryrylan/usd-viewer)
 - [stefanbohacek/fediverse-export-analyzer](https://github.com/stefanbohacek/fediverse-export-analyzer)
-- [01mf02/jaq - A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
