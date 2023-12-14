@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mat-1/variance - An opinionated fork of Cinny that aims to align itself more closely with Discord](https://github.com/mat-1/variance)
 - [remotion-dev/github-unwrapped-2023 - Your coding year in review](https://github.com/remotion-dev/github-unwrapped-2023)
 - [static-web-server/static-web-server - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡](https://github.com/static-web-server/static-web-server)
 - [sindresorhus/p-map - Map over promises concurrently](https://github.com/sindresorhus/p-map)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pelias/placeholder - stand-alone coarse geocoder](https://github.com/pelias/placeholder)
 - [hyperium/hyper - An HTTP library for Rust](https://github.com/hyperium/hyper)
 - [coryrylan/usd-viewer - Experimental Web Component for displaying 3d files in USDZ format](https://github.com/coryrylan/usd-viewer)
-- [stefanbohacek/fediverse-export-analyzer](https://github.com/stefanbohacek/fediverse-export-analyzer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
