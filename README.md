@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kwhitley/itty-router - A little router.](https://github.com/kwhitley/itty-router)
+- [unjs/h3 - ⚡️ Minimal H(TTP) framework built for high performance and portability ](https://github.com/unjs/h3)
 - [chrvadala/transformation-matrix - Javascript isomorphic 2D affine transformations written in ES6 syntax. Manipulate transformation matrices with this totally tested library!](https://github.com/chrvadala/transformation-matrix)
 - [filiptronicek/gh-sponsors-api - A REST API for GitHub Sponsors](https://github.com/filiptronicek/gh-sponsors-api)
 - [charmbracelet/huh - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️](https://github.com/charmbracelet/huh)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [maptiler/maptiler-geocoding-control - The Javascript & TypeScript Map Control component for MapTiler Geocoding service! Easy to be integrated into any JavaScript mapping application. ](https://github.com/maptiler/maptiler-geocoding-control)
 - [mathiasbynens/rgi-emoji-regex-pattern - A JavaScript-compatible regular expression pattern to match all RGI emoji symbols and sequences as per the Unicode Standard and UTS#51.](https://github.com/mathiasbynens/rgi-emoji-regex-pattern)
 - [epicweb-dev/client-hints - Eliminate a flash of incorrect content by using client hints](https://github.com/epicweb-dev/client-hints)
-- [CopilotKit/CopilotKit - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.](https://github.com/CopilotKit/CopilotKit)
-- [ml-explore/mlx - MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
