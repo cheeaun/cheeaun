@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [onebadidea/swiftquit - Automatic quitting of macOS apps when closing their windows.](https://github.com/onebadidea/swiftquit)
 - [psincf/WebGPU-particles - Particles simulation with WebGPU](https://github.com/psincf/WebGPU-particles)
 - [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf)
 - [rovelstars/reejs - Make Sites Faster, without the need of building anything!](https://github.com/rovelstars/reejs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sindresorhus/p-map - Map over promises concurrently](https://github.com/sindresorhus/p-map)
 - [standard-webhooks/standard-webhooks - The Standard Webhooks specification](https://github.com/standard-webhooks/standard-webhooks)
 - [andrico1234/autosize-textarea](https://github.com/andrico1234/autosize-textarea)
-- [stefanjudis/sparkly-text - A small web component for making your text spark.](https://github.com/stefanjudis/sparkly-text)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
