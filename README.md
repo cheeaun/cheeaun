@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Finnvoor/fx-upscale - Metal-powered spatial video upscaling](https://github.com/Finnvoor/fx-upscale)
 - [onebadidea/swiftquit - Automatic quitting of macOS apps when closing their windows.](https://github.com/onebadidea/swiftquit)
 - [psincf/WebGPU-particles - Particles simulation with WebGPU](https://github.com/psincf/WebGPU-particles)
 - [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [static-web-server/static-web-server - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡](https://github.com/static-web-server/static-web-server)
 - [sindresorhus/p-map - Map over promises concurrently](https://github.com/sindresorhus/p-map)
 - [standard-webhooks/standard-webhooks - The Standard Webhooks specification](https://github.com/standard-webhooks/standard-webhooks)
-- [andrico1234/autosize-textarea](https://github.com/andrico1234/autosize-textarea)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
