@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [ai/size-limit - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.](https://github.com/ai/size-limit)
-- [Finnvoor/fx-upscale - Metal-powered spatial video upscaling](https://github.com/Finnvoor/fx-upscale)
+- [Finnvoor/fx-upscale - Metal-powered video upscaling](https://github.com/Finnvoor/fx-upscale)
 - [onebadidea/swiftquit - Automatic quitting of macOS apps when closing their windows.](https://github.com/onebadidea/swiftquit)
 - [psincf/WebGPU-particles - Particles simulation with WebGPU](https://github.com/psincf/WebGPU-particles)
 - [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf)
