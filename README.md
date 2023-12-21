@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ai/size-limit - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.](https://github.com/ai/size-limit)
 - [Finnvoor/fx-upscale - Metal-powered spatial video upscaling](https://github.com/Finnvoor/fx-upscale)
 - [onebadidea/swiftquit - Automatic quitting of macOS apps when closing their windows.](https://github.com/onebadidea/swiftquit)
 - [psincf/WebGPU-particles - Particles simulation with WebGPU](https://github.com/psincf/WebGPU-particles)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [remotion-dev/github-unwrapped-2023 - Your coding year in review](https://github.com/remotion-dev/github-unwrapped-2023)
 - [static-web-server/static-web-server - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡](https://github.com/static-web-server/static-web-server)
 - [sindresorhus/p-map - Map over promises concurrently](https://github.com/sindresorhus/p-map)
-- [standard-webhooks/standard-webhooks - The Standard Webhooks specification](https://github.com/standard-webhooks/standard-webhooks)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
