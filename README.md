@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tuskyapp/Tusky - An Android client for the microblogging server Mastodon](https://github.com/tuskyapp/Tusky)
 - [postmanlabs/httpbin - HTTP Request & Response Service, written in Python + Flask.](https://github.com/postmanlabs/httpbin)
 - [rough-stuff/rough - Create graphics with a hand-drawn, sketchy, appearance](https://github.com/rough-stuff/rough)
 - [ai/size-limit - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.](https://github.com/ai/size-limit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [filiptronicek/gh-sponsors-api - A REST API for GitHub Sponsors](https://github.com/filiptronicek/gh-sponsors-api)
 - [charmbracelet/huh - Build terminal forms and prompts 🤷🏻‍♀️](https://github.com/charmbracelet/huh)
 - [mat-1/variance - An opinionated fork of Cinny that aims to align itself more closely with Discord](https://github.com/mat-1/variance)
-- [remotion-dev/github-unwrapped-2023 - Your coding year in review](https://github.com/remotion-dev/github-unwrapped-2023)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
