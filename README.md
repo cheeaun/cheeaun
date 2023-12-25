@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zacharee/MastodonRedirect - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.](https://github.com/zacharee/MastodonRedirect)
 - [tuskyapp/Tusky - An Android client for the microblogging server Mastodon](https://github.com/tuskyapp/Tusky)
 - [postmanlabs/httpbin - HTTP Request & Response Service, written in Python + Flask.](https://github.com/postmanlabs/httpbin)
 - [rough-stuff/rough - Create graphics with a hand-drawn, sketchy, appearance](https://github.com/rough-stuff/rough)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chrvadala/transformation-matrix - Javascript isomorphic 2D affine transformations written in ES6 syntax. Manipulate transformation matrices with this totally tested library!](https://github.com/chrvadala/transformation-matrix)
 - [filiptronicek/gh-sponsors-api - A REST API for GitHub Sponsors](https://github.com/filiptronicek/gh-sponsors-api)
 - [charmbracelet/huh - Build terminal forms and prompts 🤷🏻‍♀️](https://github.com/charmbracelet/huh)
-- [mat-1/variance - An opinionated fork of Cinny that aims to align itself more closely with Discord](https://github.com/mat-1/variance)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
