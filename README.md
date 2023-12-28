@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pheralb/svgl - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.](https://github.com/pheralb/svgl)
 - [satoshi7190/threejs-lunar-crater-demo](https://github.com/satoshi7190/threejs-lunar-crater-demo)
 - [satoshi7190/Shinjuku-indoor-threejs-demo](https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo)
 - [nileane/TangerineUI-for-Mastodon - A Tangerine redesign for Mastodon's Web UI. 🍊🐘](https://github.com/nileane/TangerineUI-for-Mastodon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [psincf/WebGPU-particles - Particles simulation with WebGPU](https://github.com/psincf/WebGPU-particles)
 - [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf)
 - [rovelstars/reejs - Make Sites Faster, without the need of building anything!](https://github.com/rovelstars/reejs)
-- [kwhitley/itty-router - A little router.](https://github.com/kwhitley/itty-router)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
