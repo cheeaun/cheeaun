@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [satoshi7190/threejs-lunar-crater-demo](https://github.com/satoshi7190/threejs-lunar-crater-demo)
+- [satoshi7190/Shinjuku-indoor-threejs-demo](https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo)
 - [nileane/TangerineUI-for-Mastodon - A Tangerine redesign for Mastodon's Web UI. 🍊🐘](https://github.com/nileane/TangerineUI-for-Mastodon)
 - [Xyphyn/photon - A sleek client for Lemmy with powerful mod and admin tools. The only alternative client with feature parity to the official client.](https://github.com/Xyphyn/photon)
 - [zacharee/MastodonRedirect - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.](https://github.com/zacharee/MastodonRedirect)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf)
 - [rovelstars/reejs - Make Sites Faster, without the need of building anything!](https://github.com/rovelstars/reejs)
 - [kwhitley/itty-router - A little router.](https://github.com/kwhitley/itty-router)
-- [unjs/h3 - ⚡️ Minimal H(TTP) framework built for high performance and portability ](https://github.com/unjs/h3)
-- [chrvadala/transformation-matrix - Javascript isomorphic 2D affine transformations written in ES6 syntax. Manipulate transformation matrices with this totally tested library!](https://github.com/chrvadala/transformation-matrix)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
