@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [SukkaW/nolyfill - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.](https://github.com/SukkaW/nolyfill)
+- [davidjerleke/embla-carousel - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.](https://github.com/davidjerleke/embla-carousel)
 - [pheralb/svgl - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.](https://github.com/pheralb/svgl)
 - [satoshi7190/threejs-lunar-crater-demo](https://github.com/satoshi7190/threejs-lunar-crater-demo)
 - [satoshi7190/Shinjuku-indoor-threejs-demo](https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [finnvoor/fx-upscale - Metal-powered video upscaling](https://github.com/finnvoor/fx-upscale)
 - [onebadidea/swiftquit - Automatic quitting of macOS apps when closing their windows.](https://github.com/onebadidea/swiftquit)
 - [psincf/WebGPU-particles - Particles simulation with WebGPU](https://github.com/psincf/WebGPU-particles)
-- [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf)
-- [rovelstars/reejs - Make Sites Faster, without the need of building anything!](https://github.com/rovelstars/reejs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
