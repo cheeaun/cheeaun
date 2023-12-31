@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lumaa-dev/ThreadedApp - Threaded is a Mastodon client that looks like Threads by Meta Platforms. (Not affiliated with Meta Platforms)](https://github.com/lumaa-dev/ThreadedApp)
 - [Giphy/giphy-js - Official GIPHY packages](https://github.com/Giphy/giphy-js)
 - [SukkaW/nolyfill - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.](https://github.com/SukkaW/nolyfill)
 - [davidjerleke/embla-carousel - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.](https://github.com/davidjerleke/embla-carousel)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rough-stuff/rough - Create graphics with a hand-drawn, sketchy, appearance](https://github.com/rough-stuff/rough)
 - [ai/size-limit - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.](https://github.com/ai/size-limit)
 - [finnvoor/fx-upscale - Metal-powered video upscaling](https://github.com/finnvoor/fx-upscale)
-- [onebadidea/swiftquit - Automatic quitting of macOS apps when closing their windows.](https://github.com/onebadidea/swiftquit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
