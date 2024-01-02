@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [simonw/paginate-json - Command-line tool for fetching JSON from paginated APIs](https://github.com/simonw/paginate-json)
+- [myles/mastodon-to-sqlite - Save data from Mastodon to a SQLite database](https://github.com/myles/mastodon-to-sqlite)
+- [simonw/sqlite-utils - Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
 - [lumaa-dev/ThreadedApp - Threaded is a Mastodon client that looks like Threads by Meta Platforms. (Not affiliated with Meta Platforms)](https://github.com/lumaa-dev/ThreadedApp)
 - [Giphy/giphy-js - Official GIPHY packages](https://github.com/Giphy/giphy-js)
 - [SukkaW/nolyfill - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.](https://github.com/SukkaW/nolyfill)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zacharee/MastodonRedirect - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.](https://github.com/zacharee/MastodonRedirect)
 - [tuskyapp/Tusky - An Android client for the microblogging server Mastodon](https://github.com/tuskyapp/Tusky)
 - [postmanlabs/httpbin - HTTP Request & Response Service, written in Python + Flask.](https://github.com/postmanlabs/httpbin)
-- [rough-stuff/rough - Create graphics with a hand-drawn, sketchy, appearance](https://github.com/rough-stuff/rough)
-- [ai/size-limit - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.](https://github.com/ai/size-limit)
-- [finnvoor/fx-upscale - Metal-powered video upscaling](https://github.com/finnvoor/fx-upscale)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
