@@ -35,7 +35,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lumaa-dev/ThreadedApp - Threaded is a Mastodon client that looks like Threads by Meta Platforms. (Not affiliated with Meta Platforms)](https://github.com/lumaa-dev/ThreadedApp)
 - [Giphy/giphy-js - Official GIPHY packages](https://github.com/Giphy/giphy-js)
 - [SukkaW/nolyfill - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.](https://github.com/SukkaW/nolyfill)
-- [davidjerleke/embla-carousel - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.](https://github.com/davidjerleke/embla-carousel)
+- [davidjerleke/embla-carousel - A lightweight carousel library with fluid motion and great swipe precision.](https://github.com/davidjerleke/embla-carousel)
 - [pheralb/svgl - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.](https://github.com/pheralb/svgl)
 - [satoshi7190/threejs-lunar-crater-demo](https://github.com/satoshi7190/threejs-lunar-crater-demo)
 - [satoshi7190/Shinjuku-indoor-threejs-demo](https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo)
