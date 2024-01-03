@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gugray/rss-parrot - Notifies Mastodon accounts about new posts in the RSS feeds they follow](https://github.com/gugray/rss-parrot)
 - [actuallymentor/battery - CLI for managing the battery charging status for M1 Macs](https://github.com/actuallymentor/battery)
 - [simonw/paginate-json - Command-line tool for fetching JSON from paginated APIs](https://github.com/simonw/paginate-json)
 - [myles/mastodon-to-sqlite - Save data from Mastodon to a SQLite database](https://github.com/myles/mastodon-to-sqlite)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nileane/TangerineUI-for-Mastodon - A Tangerine redesign for Mastodon's Web UI. 🍊🐘](https://github.com/nileane/TangerineUI-for-Mastodon)
 - [Xyphyn/photon - A sleek client for Lemmy with powerful mod and admin tools. The only alternative client with feature parity to the official client.](https://github.com/Xyphyn/photon)
 - [zacharee/MastodonRedirect - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.](https://github.com/zacharee/MastodonRedirect)
-- [tuskyapp/Tusky - An Android client for the microblogging server Mastodon](https://github.com/tuskyapp/Tusky)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
