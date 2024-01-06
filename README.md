@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jed/one-character-identifiers - every javascript identifier that fits in a character](https://github.com/jed/one-character-identifiers)
 - [gugray/rss-parrot - Notifies Mastodon accounts about new posts in the RSS feeds they follow](https://github.com/gugray/rss-parrot)
 - [actuallymentor/battery - CLI for managing the battery charging status for M1 Macs](https://github.com/actuallymentor/battery)
 - [simonw/paginate-json - Command-line tool for fetching JSON from paginated APIs](https://github.com/simonw/paginate-json)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [satoshi7190/Shinjuku-indoor-threejs-demo](https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo)
 - [nileane/TangerineUI-for-Mastodon - A Tangerine redesign for Mastodon's Web UI. 🍊🐘](https://github.com/nileane/TangerineUI-for-Mastodon)
 - [Xyphyn/photon - A sleek client for Lemmy with powerful mod and admin tools. The only alternative client with feature parity to the official client.](https://github.com/Xyphyn/photon)
-- [zacharee/MastodonRedirect - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.](https://github.com/zacharee/MastodonRedirect)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
