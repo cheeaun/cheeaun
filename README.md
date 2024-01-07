@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [evanp/ap - command-line ActivityPub API client](https://github.com/evanp/ap)
 - [stoplightio/prism - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.](https://github.com/stoplightio/prism)
 - [pocketbase/pocketbase - Open Source realtime backend in 1 file](https://github.com/pocketbase/pocketbase)
 - [jed/one-character-identifiers - every javascript identifier that fits in a character](https://github.com/jed/one-character-identifiers)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [davidjerleke/embla-carousel - A lightweight carousel library with fluid motion and great swipe precision.](https://github.com/davidjerleke/embla-carousel)
 - [pheralb/svgl - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.](https://github.com/pheralb/svgl)
 - [satoshi7190/threejs-lunar-crater-demo](https://github.com/satoshi7190/threejs-lunar-crater-demo)
-- [satoshi7190/Shinjuku-indoor-threejs-demo](https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
