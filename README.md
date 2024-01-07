@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stoplightio/prism - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.](https://github.com/stoplightio/prism)
+- [pocketbase/pocketbase - Open Source realtime backend in 1 file](https://github.com/pocketbase/pocketbase)
 - [jed/one-character-identifiers - every javascript identifier that fits in a character](https://github.com/jed/one-character-identifiers)
 - [gugray/rss-parrot - Notifies Mastodon accounts about new posts in the RSS feeds they follow](https://github.com/gugray/rss-parrot)
 - [actuallymentor/battery - CLI for managing the battery charging status for M1 Macs](https://github.com/actuallymentor/battery)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pheralb/svgl - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.](https://github.com/pheralb/svgl)
 - [satoshi7190/threejs-lunar-crater-demo](https://github.com/satoshi7190/threejs-lunar-crater-demo)
 - [satoshi7190/Shinjuku-indoor-threejs-demo](https://github.com/satoshi7190/Shinjuku-indoor-threejs-demo)
-- [nileane/TangerineUI-for-Mastodon - A Tangerine redesign for Mastodon's Web UI. 🍊🐘](https://github.com/nileane/TangerineUI-for-Mastodon)
-- [Xyphyn/photon - A sleek client for Lemmy with powerful mod and admin tools. The only alternative client with feature parity to the official client.](https://github.com/Xyphyn/photon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
