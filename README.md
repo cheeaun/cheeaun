@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sequelize/umzug - Framework agnostic migration tool for Node.js](https://github.com/sequelize/umzug)
+- [evansiroky/node-geo-tz - A node.js module to find the timezone based on gps coordinates](https://github.com/evansiroky/node-geo-tz)
+- [secretlint/secretlint - Pluggable linting tool to prevent committing credential.](https://github.com/secretlint/secretlint)
 - [edent/Extended-Hyperlegible - An updated version of the Atkinson Hyperlegible font from https://brailleinstitute.org/freefont](https://github.com/edent/Extended-Hyperlegible)
 - [evanp/ap - command-line ActivityPub API client](https://github.com/evanp/ap)
 - [stoplightio/prism - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.](https://github.com/stoplightio/prism)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [simonw/sqlite-utils - Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
 - [lumaa-dev/ThreadedApp - Threaded is a Mastodon client that looks like Threads by Meta Platforms. (Not affiliated with Meta Platforms)](https://github.com/lumaa-dev/ThreadedApp)
 - [Giphy/giphy-js - Official GIPHY packages](https://github.com/Giphy/giphy-js)
-- [SukkaW/nolyfill - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.](https://github.com/SukkaW/nolyfill)
-- [davidjerleke/embla-carousel - A lightweight carousel library with fluid motion and great swipe precision.](https://github.com/davidjerleke/embla-carousel)
-- [pheralb/svgl - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.](https://github.com/pheralb/svgl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
