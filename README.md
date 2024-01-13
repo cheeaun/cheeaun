@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shadcn-ui/ui - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.](https://github.com/shadcn-ui/ui)
 - [FrigadeHQ/remote-storage - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across browsers and devices.](https://github.com/FrigadeHQ/remote-storage)
 - [sequelize/umzug - Framework agnostic migration tool for Node.js](https://github.com/sequelize/umzug)
 - [evansiroky/node-geo-tz - A node.js module to find the timezone based on gps coordinates](https://github.com/evansiroky/node-geo-tz)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [simonw/paginate-json - Command-line tool for fetching JSON from paginated APIs](https://github.com/simonw/paginate-json)
 - [myles/mastodon-to-sqlite - Save data from Mastodon to a SQLite database](https://github.com/myles/mastodon-to-sqlite)
 - [simonw/sqlite-utils - Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
-- [lumaa-dev/ThreadedApp - Threaded is a Mastodon client that looks like Threads by Meta Platforms. (Not affiliated with Meta Platforms)](https://github.com/lumaa-dev/ThreadedApp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
