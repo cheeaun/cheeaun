@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Stellarium/stellarium - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.](https://github.com/Stellarium/stellarium)
+- [marudy/react-native-responsive-screen - Make React Native views responsive for all devices with the use of 2 simple methods](https://github.com/marudy/react-native-responsive-screen)
 - [shadcn-ui/ui - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.](https://github.com/shadcn-ui/ui)
 - [FrigadeHQ/remote-storage - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across browsers and devices.](https://github.com/FrigadeHQ/remote-storage)
 - [sequelize/umzug - Framework agnostic migration tool for Node.js](https://github.com/sequelize/umzug)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gugray/rss-parrot - Notifies Mastodon accounts about new posts in the RSS feeds they follow](https://github.com/gugray/rss-parrot)
 - [actuallymentor/battery - CLI for managing the battery charging status for M1 Macs](https://github.com/actuallymentor/battery)
 - [simonw/paginate-json - Command-line tool for fetching JSON from paginated APIs](https://github.com/simonw/paginate-json)
-- [myles/mastodon-to-sqlite - Save data from Mastodon to a SQLite database](https://github.com/myles/mastodon-to-sqlite)
-- [simonw/sqlite-utils - Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
