@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [robertventurini/FlyingToasters - Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS](https://github.com/robertventurini/FlyingToasters)
+- [jointhefediverse-net/jointhefediverse.net](https://github.com/jointhefediverse-net/jointhefediverse.net)
 - [Stellarium/stellarium - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.](https://github.com/Stellarium/stellarium)
 - [marudy/react-native-responsive-screen - Make React Native views responsive for all devices with the use of 2 simple methods](https://github.com/marudy/react-native-responsive-screen)
 - [shadcn-ui/ui - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.](https://github.com/shadcn-ui/ui)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pocketbase/pocketbase - Open Source realtime backend in 1 file](https://github.com/pocketbase/pocketbase)
 - [jed/one-character-identifiers - every javascript identifier that fits in a character](https://github.com/jed/one-character-identifiers)
 - [gugray/rss-parrot - Notifies Mastodon accounts about new posts in the RSS feeds they follow](https://github.com/gugray/rss-parrot)
-- [actuallymentor/battery - CLI for managing the battery charging status for M1 Macs](https://github.com/actuallymentor/battery)
-- [simonw/paginate-json - Command-line tool for fetching JSON from paginated APIs](https://github.com/simonw/paginate-json)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
