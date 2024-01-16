@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google-research/text-to-text-transfer-transformer - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
+- [xenova/transformers.js - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!](https://github.com/xenova/transformers.js)
 - [timbray/fedi-uri - Specifying a URI scheme for identifying Fediverse resources](https://github.com/timbray/fedi-uri)
 - [robertventurini/FlyingToasters - Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS](https://github.com/robertventurini/FlyingToasters)
 - [jointhefediverse-net/jointhefediverse.net](https://github.com/jointhefediverse-net/jointhefediverse.net)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [edent/Extended-Hyperlegible - An updated version of the Atkinson Hyperlegible font from https://brailleinstitute.org/freefont](https://github.com/edent/Extended-Hyperlegible)
 - [evanp/ap - command-line ActivityPub API client](https://github.com/evanp/ap)
 - [stoplightio/prism - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.](https://github.com/stoplightio/prism)
-- [pocketbase/pocketbase - Open Source realtime backend in 1 file](https://github.com/pocketbase/pocketbase)
-- [jed/one-character-identifiers - every javascript identifier that fits in a character](https://github.com/jed/one-character-identifiers)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
