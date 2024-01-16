@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [timbray/fedi-uri - Specifying a URI scheme for identifying Fediverse resources](https://github.com/timbray/fedi-uri)
 - [robertventurini/FlyingToasters - Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS](https://github.com/robertventurini/FlyingToasters)
 - [jointhefediverse-net/jointhefediverse.net](https://github.com/jointhefediverse-net/jointhefediverse.net)
 - [Stellarium/stellarium - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.](https://github.com/Stellarium/stellarium)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [stoplightio/prism - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.](https://github.com/stoplightio/prism)
 - [pocketbase/pocketbase - Open Source realtime backend in 1 file](https://github.com/pocketbase/pocketbase)
 - [jed/one-character-identifiers - every javascript identifier that fits in a character](https://github.com/jed/one-character-identifiers)
-- [gugray/rss-parrot - Notifies Mastodon accounts about new posts in the RSS feeds they follow](https://github.com/gugray/rss-parrot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
