@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ex3ndr/llama-coder - Replace Copilot with a more powerful and local AI](https://github.com/ex3ndr/llama-coder)
+- [huggingface/llm-vscode - LLM powered development for VSCode](https://github.com/huggingface/llm-vscode)
+- [continuedev/continue - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM](https://github.com/continuedev/continue)
+- [WisdomShell/codeshell-vscode - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell](https://github.com/WisdomShell/codeshell-vscode)
+- [deepseek-ai/DeepSeek-Coder - DeepSeek Coder: Let the Code Write Itself](https://github.com/deepseek-ai/DeepSeek-Coder)
 - [google-research/text-to-text-transfer-transformer - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
 - [xenova/transformers.js - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!](https://github.com/xenova/transformers.js)
 - [timbray/fedi-uri - Specifying a URI scheme for identifying Fediverse resources](https://github.com/timbray/fedi-uri)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shadcn-ui/ui - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.](https://github.com/shadcn-ui/ui)
 - [FrigadeHQ/remote-storage - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across browsers and devices.](https://github.com/FrigadeHQ/remote-storage)
 - [sequelize/umzug - Framework agnostic migration tool for Node.js](https://github.com/sequelize/umzug)
-- [evansiroky/node-geo-tz - A node.js module to find the timezone based on gps coordinates](https://github.com/evansiroky/node-geo-tz)
-- [secretlint/secretlint - Pluggable linting tool to prevent committing credential.](https://github.com/secretlint/secretlint)
-- [edent/Extended-Hyperlegible - An updated version of the Atkinson Hyperlegible font from https://brailleinstitute.org/freefont](https://github.com/edent/Extended-Hyperlegible)
-- [evanp/ap - command-line ActivityPub API client](https://github.com/evanp/ap)
-- [stoplightio/prism - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.](https://github.com/stoplightio/prism)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
