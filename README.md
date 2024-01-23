@@ -27,8 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/typespec](https://github.com/microsoft/typespec)
 - [triggerdotdev/trigger.dev - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.](https://github.com/triggerdotdev/trigger.dev)
-- [placemark/placemark - Placemark open source project](https://github.com/placemark/placemark)
+- [placemark/placemark - A flexible web-based editor, converter, visualization tool, for geospatial data](https://github.com/placemark/placemark)
 - [ghobs91/Agora - Follow your interests across social networks!](https://github.com/ghobs91/Agora)
 - [alexanderson1993/svg-icons-cli](https://github.com/alexanderson1993/svg-icons-cli)
 - [meichthys/foss_photo_libraries - Free and Open Source Photo Libraries](https://github.com/meichthys/foss_photo_libraries)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [xenova/transformers.js - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!](https://github.com/xenova/transformers.js)
 - [timbray/fedi-uri - Specifying a URI scheme for identifying Fediverse resources](https://github.com/timbray/fedi-uri)
 - [robertventurini/FlyingToasters - Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS](https://github.com/robertventurini/FlyingToasters)
-- [jointhefediverse-net/jointhefediverse.net](https://github.com/jointhefediverse-net/jointhefediverse.net)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
