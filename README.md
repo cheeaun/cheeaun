@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [placemark/placemark - Placemark open source project](https://github.com/placemark/placemark)
 - [ghobs91/Agora - Follow your interests across social networks!](https://github.com/ghobs91/Agora)
 - [alexanderson1993/svg-icons-cli](https://github.com/alexanderson1993/svg-icons-cli)
 - [meichthys/foss_photo_libraries - Free and Open Source Photo Libraries](https://github.com/meichthys/foss_photo_libraries)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [robertventurini/FlyingToasters - Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS](https://github.com/robertventurini/FlyingToasters)
 - [jointhefediverse-net/jointhefediverse.net](https://github.com/jointhefediverse-net/jointhefediverse.net)
 - [Stellarium/stellarium - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.](https://github.com/Stellarium/stellarium)
-- [marudy/react-native-responsive-screen - Make React Native views responsive for all devices with the use of 2 simple methods](https://github.com/marudy/react-native-responsive-screen)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
