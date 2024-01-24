@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [webrecorder/replayweb.page - Serverless replay of web archives directly in the browser](https://github.com/webrecorder/replayweb.page)
+- [webrecorder/archiveweb.page - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!](https://github.com/webrecorder/archiveweb.page)
 - [Heydon/bruck - A prototyping system built with web components and the Houdini Paint API](https://github.com/Heydon/bruck)
 - [adonisjs/core - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence](https://github.com/adonisjs/core)
 - [microsoft/typespec](https://github.com/microsoft/typespec)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [continuedev/continue - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM](https://github.com/continuedev/continue)
 - [WisdomShell/codeshell-vscode - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell](https://github.com/WisdomShell/codeshell-vscode)
 - [deepseek-ai/DeepSeek-Coder - DeepSeek Coder: Let the Code Write Itself](https://github.com/deepseek-ai/DeepSeek-Coder)
-- [google-research/text-to-text-transfer-transformer - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
-- [xenova/transformers.js - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!](https://github.com/xenova/transformers.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
