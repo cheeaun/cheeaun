@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Heydon/bruck - A prototyping system built with web components and the Houdini Paint API](https://github.com/Heydon/bruck)
+- [adonisjs/core - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence](https://github.com/adonisjs/core)
 - [microsoft/typespec](https://github.com/microsoft/typespec)
 - [triggerdotdev/trigger.dev - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.](https://github.com/triggerdotdev/trigger.dev)
 - [placemark/placemark - A flexible web-based editor, converter, visualization tool, for geospatial data](https://github.com/placemark/placemark)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [deepseek-ai/DeepSeek-Coder - DeepSeek Coder: Let the Code Write Itself](https://github.com/deepseek-ai/DeepSeek-Coder)
 - [google-research/text-to-text-transfer-transformer - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
 - [xenova/transformers.js - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!](https://github.com/xenova/transformers.js)
-- [timbray/fedi-uri - Specifying a URI scheme for identifying Fediverse resources](https://github.com/timbray/fedi-uri)
-- [robertventurini/FlyingToasters - Recreation of AfterDarks 2.0 Flying Toasters screensaver for macOS](https://github.com/robertventurini/FlyingToasters)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
