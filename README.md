@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ollama/ollama - Get up and running with Llama 2, Mistral, and other large language models locally.](https://github.com/ollama/ollama)
 - [webrecorder/replayweb.page - Serverless replay of web archives directly in the browser](https://github.com/webrecorder/replayweb.page)
 - [webrecorder/archiveweb.page - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!](https://github.com/webrecorder/archiveweb.page)
 - [Heydon/bruck - A prototyping system built with web components and the Houdini Paint API](https://github.com/Heydon/bruck)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [huggingface/llm-vscode - LLM powered development for VSCode](https://github.com/huggingface/llm-vscode)
 - [continuedev/continue - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM](https://github.com/continuedev/continue)
 - [WisdomShell/codeshell-vscode - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell](https://github.com/WisdomShell/codeshell-vscode)
-- [deepseek-ai/DeepSeek-Coder - DeepSeek Coder: Let the Code Write Itself](https://github.com/deepseek-ai/DeepSeek-Coder)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
