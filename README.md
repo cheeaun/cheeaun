@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [captn3m0/tld-squatting - List of corporations squatting on entire TLDs.](https://github.com/captn3m0/tld-squatting)
 - [whitescent/Mastify - An Android client for Mastodon [WIP]](https://github.com/whitescent/Mastify)
 - [fabian-hiller/og-img - Generate dynamic Open Graph images for your website 🌠](https://github.com/fabian-hiller/og-img)
 - [margelo/react-native-skottie - ▶️ Efficient lottie animations using Skia's Skottie module](https://github.com/margelo/react-native-skottie)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ghobs91/Agora - Follow your interests across social networks!](https://github.com/ghobs91/Agora)
 - [alexanderson1993/svg-icons-cli](https://github.com/alexanderson1993/svg-icons-cli)
 - [meichthys/foss_photo_libraries - Free and Open Source Photo Libraries](https://github.com/meichthys/foss_photo_libraries)
-- [ex3ndr/llama-coder - Replace Copilot with a more powerful and local AI](https://github.com/ex3ndr/llama-coder)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
