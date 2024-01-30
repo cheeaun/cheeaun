@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bootandy/dust - A more intuitive version of du in rust](https://github.com/bootandy/dust)
+- [eza-community/eza - A modern, maintained replacement for ls](https://github.com/eza-community/eza)
 - [captn3m0/tld-squatting - List of corporations squatting on entire TLDs.](https://github.com/captn3m0/tld-squatting)
 - [whitescent/Mastify - An Android client for Mastodon [WIP]](https://github.com/whitescent/Mastify)
 - [fabian-hiller/og-img - Generate dynamic Open Graph images for your website 🌠](https://github.com/fabian-hiller/og-img)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [triggerdotdev/trigger.dev - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.](https://github.com/triggerdotdev/trigger.dev)
 - [placemark/placemark - A flexible web-based editor, converter, visualization tool, for geospatial data](https://github.com/placemark/placemark)
 - [ghobs91/Agora - Follow your interests across social networks!](https://github.com/ghobs91/Agora)
-- [alexanderson1993/svg-icons-cli](https://github.com/alexanderson1993/svg-icons-cli)
-- [meichthys/foss_photo_libraries - Free and Open Source Photo Libraries](https://github.com/meichthys/foss_photo_libraries)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
