@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kylebarron/arrow-js-ffi - Zero-copy reading of Arrow data from WebAssembly](https://github.com/kylebarron/arrow-js-ffi)
 - [edent/location-activitypub-symfony - A basic ActivityPub server for sharing your location. Written in PHP / Symfony](https://github.com/edent/location-activitypub-symfony)
 - [bootandy/dust - A more intuitive version of du in rust](https://github.com/bootandy/dust)
 - [eza-community/eza - A modern, maintained replacement for ls](https://github.com/eza-community/eza)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [adonisjs/core - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence](https://github.com/adonisjs/core)
 - [microsoft/typespec](https://github.com/microsoft/typespec)
 - [triggerdotdev/trigger.dev - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.](https://github.com/triggerdotdev/trigger.dev)
-- [placemark/placemark - A flexible web-based editor, converter, visualization tool, for geospatial data](https://github.com/placemark/placemark)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
