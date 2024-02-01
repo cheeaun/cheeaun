@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [phosphor-icons/core](https://github.com/phosphor-icons/core)
 - [kylebarron/arrow-js-ffi - Zero-copy reading of Arrow data from WebAssembly](https://github.com/kylebarron/arrow-js-ffi)
 - [edent/location-activitypub-symfony - A basic ActivityPub server for sharing your location. Written in PHP / Symfony](https://github.com/edent/location-activitypub-symfony)
 - [bootandy/dust - A more intuitive version of du in rust](https://github.com/bootandy/dust)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Heydon/bruck - A prototyping system built with web components and the Houdini Paint API](https://github.com/Heydon/bruck)
 - [adonisjs/core - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence](https://github.com/adonisjs/core)
 - [microsoft/typespec](https://github.com/microsoft/typespec)
-- [triggerdotdev/trigger.dev - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.](https://github.com/triggerdotdev/trigger.dev)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
