@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vivaldi/mastodon - A clone of mastodon/mastodon for publishing Vivaldi's custom modifications](https://github.com/vivaldi/mastodon)
+- [humanwhocodes/humanfs - A modern filesystem API for JavaScript](https://github.com/humanwhocodes/humanfs)
 - [phosphor-icons/core](https://github.com/phosphor-icons/core)
 - [kylebarron/arrow-js-ffi - Zero-copy reading of Arrow data from WebAssembly](https://github.com/kylebarron/arrow-js-ffi)
 - [edent/location-activitypub-symfony - A basic ActivityPub server for sharing your location. Written in PHP / Symfony](https://github.com/edent/location-activitypub-symfony)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [webrecorder/replayweb.page - Serverless replay of web archives directly in the browser](https://github.com/webrecorder/replayweb.page)
 - [webrecorder/archiveweb.page - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!](https://github.com/webrecorder/archiveweb.page)
 - [Heydon/bruck - A prototyping system built with web components and the Houdini Paint API](https://github.com/Heydon/bruck)
-- [adonisjs/core - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence](https://github.com/adonisjs/core)
-- [microsoft/typespec](https://github.com/microsoft/typespec)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
