@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rstockm/mastowall - Simple implementation of a Twitter-Wall like grid of postings from Mastodon](https://github.com/rstockm/mastowall)
+- [defnull/fediwall - Social media wall for the Fediverse](https://github.com/defnull/fediwall)
 - [vivaldi/mastodon - A clone of mastodon/mastodon for publishing Vivaldi's custom modifications](https://github.com/vivaldi/mastodon)
 - [humanwhocodes/humanfs - A modern filesystem API for JavaScript](https://github.com/humanwhocodes/humanfs)
 - [phosphor-icons/core](https://github.com/phosphor-icons/core)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [margelo/react-native-skottie - ▶️ Efficient lottie animations using Skia's Skottie module](https://github.com/margelo/react-native-skottie)
 - [ollama/ollama - Get up and running with Llama 2, Mistral, and other large language models locally.](https://github.com/ollama/ollama)
 - [webrecorder/replayweb.page - Serverless replay of web archives directly in the browser](https://github.com/webrecorder/replayweb.page)
-- [webrecorder/archiveweb.page - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!](https://github.com/webrecorder/archiveweb.page)
-- [Heydon/bruck - A prototyping system built with web components and the Houdini Paint API](https://github.com/Heydon/bruck)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
