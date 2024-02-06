@@ -27,10 +27,12 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mataroa-blog/mataroa - Naked blogging platform](https://github.com/mataroa-blog/mataroa)
+- [zachleat/carouscroll - Add next/previous buttons to a horizontal scrollable container.](https://github.com/zachleat/carouscroll)
 - [daniel5151/compressed-emoji-shortcodes - A Quest to Find a Highly Compressed Emoji :shortcode: Lookup Function](https://github.com/daniel5151/compressed-emoji-shortcodes)
 - [rstockm/mastowall - Simple implementation of a Twitter-Wall like grid of postings from Mastodon](https://github.com/rstockm/mastowall)
 - [defnull/fediwall - Social media wall for the Fediverse](https://github.com/defnull/fediwall)
-- [vivaldi/mastodon - A clone of mastodon/mastodon for publishing Vivaldi's custom modifications](https://github.com/vivaldi/mastodon)
+- [vivaldi/mastodon - A clone of mastodon/mastodon for publishing Vivaldi's custom modifications. See the *-vivaldimod branches for our commits.](https://github.com/vivaldi/mastodon)
 - [humanwhocodes/humanfs - A modern filesystem API for JavaScript](https://github.com/humanwhocodes/humanfs)
 - [phosphor-icons/core](https://github.com/phosphor-icons/core)
 - [kylebarron/arrow-js-ffi - Zero-copy reading of Arrow data from WebAssembly](https://github.com/kylebarron/arrow-js-ffi)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [captn3m0/tld-squatting - List of corporations squatting on entire TLDs.](https://github.com/captn3m0/tld-squatting)
 - [whitescent/Mastify - An Android client for Mastodon [WIP]](https://github.com/whitescent/Mastify)
 - [fabian-hiller/og-img - Generate dynamic Open Graph images for your website 🌠](https://github.com/fabian-hiller/og-img)
-- [margelo/react-native-skottie - ▶️ Efficient lottie animations using Skia's Skottie module](https://github.com/margelo/react-native-skottie)
-- [ollama/ollama - Get up and running with Llama 2, Mistral, and other large language models locally.](https://github.com/ollama/ollama)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
