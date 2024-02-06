@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [daniel5151/compressed-emoji-shortcodes - A Quest to Find a Highly Compressed Emoji :shortcode: Lookup Function](https://github.com/daniel5151/compressed-emoji-shortcodes)
 - [rstockm/mastowall - Simple implementation of a Twitter-Wall like grid of postings from Mastodon](https://github.com/rstockm/mastowall)
 - [defnull/fediwall - Social media wall for the Fediverse](https://github.com/defnull/fediwall)
 - [vivaldi/mastodon - A clone of mastodon/mastodon for publishing Vivaldi's custom modifications](https://github.com/vivaldi/mastodon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fabian-hiller/og-img - Generate dynamic Open Graph images for your website 🌠](https://github.com/fabian-hiller/og-img)
 - [margelo/react-native-skottie - ▶️ Efficient lottie animations using Skia's Skottie module](https://github.com/margelo/react-native-skottie)
 - [ollama/ollama - Get up and running with Llama 2, Mistral, and other large language models locally.](https://github.com/ollama/ollama)
-- [webrecorder/replayweb.page - Serverless replay of web archives directly in the browser](https://github.com/webrecorder/replayweb.page)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
