@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LluisV/Z-Anatomy - Z-Anatomy app Unity project](https://github.com/LluisV/Z-Anatomy)
 - [ArchGPT/insomnium - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia](https://github.com/ArchGPT/insomnium)
 - [mataroa-blog/mataroa - Naked blogging platform](https://github.com/mataroa-blog/mataroa)
 - [zachleat/carouscroll - Add next/previous buttons to a horizontal scrollable container.](https://github.com/zachleat/carouscroll)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bootandy/dust - A more intuitive version of du in rust](https://github.com/bootandy/dust)
 - [eza-community/eza - A modern, maintained replacement for ls](https://github.com/eza-community/eza)
 - [captn3m0/tld-squatting - List of corporations squatting on entire TLDs.](https://github.com/captn3m0/tld-squatting)
-- [whitescent/Mastify - An Android client for Mastodon [WIP]](https://github.com/whitescent/Mastify)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
