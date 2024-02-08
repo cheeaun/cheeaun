@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [williamtroup/Calendar.js - 📅 A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.](https://github.com/williamtroup/Calendar.js)
+- [cloudfour/lite-model-viewer - A lazy-loaded model-viewer web component](https://github.com/cloudfour/lite-model-viewer)
 - [LluisV/Z-Anatomy - Z-Anatomy app Unity project](https://github.com/LluisV/Z-Anatomy)
 - [ArchGPT/insomnium - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia](https://github.com/ArchGPT/insomnium)
 - [mataroa-blog/mataroa - Naked blogging platform](https://github.com/mataroa-blog/mataroa)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kylebarron/arrow-js-ffi - Zero-copy reading of Arrow data from WebAssembly](https://github.com/kylebarron/arrow-js-ffi)
 - [edent/location-activitypub-symfony - A basic ActivityPub server for sharing your location. Written in PHP / Symfony](https://github.com/edent/location-activitypub-symfony)
 - [bootandy/dust - A more intuitive version of du in rust](https://github.com/bootandy/dust)
-- [eza-community/eza - A modern, maintained replacement for ls](https://github.com/eza-community/eza)
-- [captn3m0/tld-squatting - List of corporations squatting on entire TLDs.](https://github.com/captn3m0/tld-squatting)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
