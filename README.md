@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [coleifer/sqlite-web - Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 - [williamtroup/Calendar.js - 📅 A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.](https://github.com/williamtroup/Calendar.js)
 - [cloudfour/lite-model-viewer - A lazy-loaded model-viewer web component](https://github.com/cloudfour/lite-model-viewer)
 - [LluisV/Z-Anatomy - Z-Anatomy app Unity project](https://github.com/LluisV/Z-Anatomy)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [phosphor-icons/core](https://github.com/phosphor-icons/core)
 - [kylebarron/arrow-js-ffi - Zero-copy reading of Arrow data from WebAssembly](https://github.com/kylebarron/arrow-js-ffi)
 - [edent/location-activitypub-symfony - A basic ActivityPub server for sharing your location. Written in PHP / Symfony](https://github.com/edent/location-activitypub-symfony)
-- [bootandy/dust - A more intuitive version of du in rust](https://github.com/bootandy/dust)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
