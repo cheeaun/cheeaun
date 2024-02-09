@@ -27,6 +27,13 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [javascriptdata/danfojs - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.](https://github.com/javascriptdata/danfojs)
+- [evoluhq/evolu - Local-first platform designed for privacy, ease of use, and no vendor lock-in](https://github.com/evoluhq/evolu)
+- [nalgeon/sqlean.js - Browser-based SQLite with extensions](https://github.com/nalgeon/sqlean.js)
+- [nalgeon/sqlime - Online SQLite playground](https://github.com/nalgeon/sqlime)
+- [overtone-app/sqlite-wasm-esm](https://github.com/overtone-app/sqlite-wasm-esm)
+- [mmomtchev/sqlite-wasm-http - An experimental HTTP VFS driver for SQLite WASM](https://github.com/mmomtchev/sqlite-wasm-http)
+- [Swordfish90/cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 - [myConsciousness/atproto.dart - 🦋 AT Protocol and Bluesky things for Dart and Flutter.](https://github.com/myConsciousness/atproto.dart)
 - [coleifer/sqlite-web - Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 - [williamtroup/Calendar.js - 📅 A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.](https://github.com/williamtroup/Calendar.js)
@@ -35,13 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ArchGPT/insomnium - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia](https://github.com/ArchGPT/insomnium)
 - [mataroa-blog/mataroa - Naked blogging platform](https://github.com/mataroa-blog/mataroa)
 - [zachleat/carouscroll - Add next/previous buttons to a horizontal scrollable container.](https://github.com/zachleat/carouscroll)
-- [daniel5151/compressed-emoji-shortcodes - A Quest to Find a Highly Compressed Emoji :shortcode: Lookup Function](https://github.com/daniel5151/compressed-emoji-shortcodes)
-- [rstockm/mastowall - Simple implementation of a Twitter-Wall like grid of postings from Mastodon](https://github.com/rstockm/mastowall)
-- [defnull/fediwall - Social media wall for the Fediverse](https://github.com/defnull/fediwall)
-- [vivaldi/mastodon - A clone of mastodon/mastodon for publishing Vivaldi's custom modifications. See the *-vivaldimod branches for our commits.](https://github.com/vivaldi/mastodon)
-- [humanwhocodes/humanfs - A modern filesystem API for JavaScript](https://github.com/humanwhocodes/humanfs)
-- [phosphor-icons/core](https://github.com/phosphor-icons/core)
-- [kylebarron/arrow-js-ffi - Zero-copy reading of Arrow data from WebAssembly](https://github.com/kylebarron/arrow-js-ffi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
