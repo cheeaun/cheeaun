@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/fly-bun-sqlite - Fly.io with Bun and SQLite.](https://github.com/WebReflection/fly-bun-sqlite)
 - [quicoto/mastodon-archive](https://github.com/quicoto/mastodon-archive)
 - [atlassian/pragmatic-drag-and-drop - Fast drag and drop for any experience on any tech stack](https://github.com/atlassian/pragmatic-drag-and-drop)
 - [lycheeverse/lychee-action - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.](https://github.com/lycheeverse/lychee-action)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [myConsciousness/atproto.dart - 🦋 AT Protocol and Bluesky things for Dart and Flutter.](https://github.com/myConsciousness/atproto.dart)
 - [coleifer/sqlite-web - Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 - [williamtroup/Calendar.js - 📅 A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.](https://github.com/williamtroup/Calendar.js)
-- [cloudfour/lite-model-viewer - A lazy-loaded model-viewer web component](https://github.com/cloudfour/lite-model-viewer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
