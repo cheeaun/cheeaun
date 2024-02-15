@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lucaong/minisearch - Tiny and powerful JavaScript full-text search engine for browser and Node](https://github.com/lucaong/minisearch)
+- [YuJianrong/fast-array-diff - Node module to find the same/diff of two arrays.](https://github.com/YuJianrong/fast-array-diff)
+- [observablehq/framework - A static site generator for data apps, dashboards, reports, and more](https://github.com/observablehq/framework)
+- [m31coding/fuzzy-search - A fast, accurate and multilingual fuzzy search library for the frontend.](https://github.com/m31coding/fuzzy-search)
 - [RussellCanfield/wingman-ai](https://github.com/RussellCanfield/wingman-ai)
 - [WebReflection/fetch - A fetch with Response abilities.](https://github.com/WebReflection/fetch)
 - [WebReflection/fly-bun-sqlite - Fly.io with Bun and SQLite.](https://github.com/WebReflection/fly-bun-sqlite)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [evoluhq/evolu - Local-first platform designed for privacy, ease of use, and no vendor lock-in](https://github.com/evoluhq/evolu)
 - [nalgeon/sqlean.js - Browser-based SQLite with extensions](https://github.com/nalgeon/sqlean.js)
 - [nalgeon/sqlime - Online SQLite playground](https://github.com/nalgeon/sqlime)
-- [overtone-app/sqlite-wasm-esm](https://github.com/overtone-app/sqlite-wasm-esm)
-- [mmomtchev/sqlite-wasm-http - An experimental HTTP VFS driver for SQLite WASM](https://github.com/mmomtchev/sqlite-wasm-http)
-- [Swordfish90/cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
-- [myConsciousness/atproto.dart - 🦋 AT Protocol and Bluesky things for Dart and Flutter.](https://github.com/myConsciousness/atproto.dart)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
