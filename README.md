@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [RussellCanfield/wingman-ai](https://github.com/RussellCanfield/wingman-ai)
 - [WebReflection/fetch - A fetch with Response abilities.](https://github.com/WebReflection/fetch)
 - [WebReflection/fly-bun-sqlite - Fly.io with Bun and SQLite.](https://github.com/WebReflection/fly-bun-sqlite)
 - [quicoto/mastodon-archive](https://github.com/quicoto/mastodon-archive)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mmomtchev/sqlite-wasm-http - An experimental HTTP VFS driver for SQLite WASM](https://github.com/mmomtchev/sqlite-wasm-http)
 - [Swordfish90/cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 - [myConsciousness/atproto.dart - 🦋 AT Protocol and Bluesky things for Dart and Flutter.](https://github.com/myConsciousness/atproto.dart)
-- [coleifer/sqlite-web - Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
