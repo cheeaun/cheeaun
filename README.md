@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebCoder49/code-input - Fully customisable, editable syntax-highlighted textareas.](https://github.com/WebCoder49/code-input)
 - [google/magika - Detect file content types with deep learning](https://github.com/google/magika)
 - [lucaong/minisearch - Tiny and powerful JavaScript full-text search engine for browser and Node](https://github.com/lucaong/minisearch)
 - [YuJianrong/fast-array-diff - Node module to find the same/diff of two arrays.](https://github.com/YuJianrong/fast-array-diff)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lycheeverse/lychee - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!](https://github.com/lycheeverse/lychee)
 - [javascriptdata/danfojs - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.](https://github.com/javascriptdata/danfojs)
 - [evoluhq/evolu - Local-first platform designed for privacy, ease of use, and no vendor lock-in](https://github.com/evoluhq/evolu)
-- [nalgeon/sqlean.js - Browser-based SQLite with extensions](https://github.com/nalgeon/sqlean.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
