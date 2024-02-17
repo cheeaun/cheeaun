@@ -32,7 +32,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [google/magika - Detect file content types with deep learning](https://github.com/google/magika)
 - [lucaong/minisearch - Tiny and powerful JavaScript full-text search engine for browser and Node](https://github.com/lucaong/minisearch)
 - [YuJianrong/fast-array-diff - Node module to find the same/diff of two arrays.](https://github.com/YuJianrong/fast-array-diff)
-- [observablehq/framework - A static site generator for data apps, dashboards, reports, and more](https://github.com/observablehq/framework)
+- [observablehq/framework - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.](https://github.com/observablehq/framework)
 - [m31coding/fuzzy-search - A fast, accurate and multilingual fuzzy search library for the frontend.](https://github.com/m31coding/fuzzy-search)
 - [RussellCanfield/wingman-ai](https://github.com/RussellCanfield/wingman-ai)
 - [WebReflection/fetch - A fetch with Response abilities.](https://github.com/WebReflection/fetch)
