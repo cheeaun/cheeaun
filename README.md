@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [muan/postcard.support](https://github.com/muan/postcard.support)
-- [WebCoder49/code-input - Fully customisable, editable syntax-highlighted textareas.](https://github.com/WebCoder49/code-input)
+- [WebCoder49/code-input - = Textarea + Syntax Highlighting + HTML Form Support + Loads of Plugins](https://github.com/WebCoder49/code-input)
 - [google/magika - Detect file content types with deep learning](https://github.com/google/magika)
 - [lucaong/minisearch - Tiny and powerful JavaScript full-text search engine for browser and Node](https://github.com/lucaong/minisearch)
 - [YuJianrong/fast-array-diff - Node module to find the same/diff of two arrays.](https://github.com/YuJianrong/fast-array-diff)
