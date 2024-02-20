@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dsherret/dax - Cross-platform shell tools for Deno and Node.js inspired by zx.](https://github.com/dsherret/dax)
 - [formkit/tempo - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.](https://github.com/formkit/tempo)
 - [PavelLaptev/css-houdini-squircle - A tiny CSS Houdini module that allows to add a squircle shape to HTML elements](https://github.com/PavelLaptev/css-houdini-squircle)
 - [daviddarnes/mastodon-post - A Web Component to display Mastodon posts and their metadata](https://github.com/daviddarnes/mastodon-post)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [RussellCanfield/wingman-ai](https://github.com/RussellCanfield/wingman-ai)
 - [WebReflection/fetch - A fetch with Response abilities.](https://github.com/WebReflection/fetch)
 - [WebReflection/fly-bun-sqlite - Fly.io with Bun and SQLite.](https://github.com/WebReflection/fly-bun-sqlite)
-- [quicoto/mastodon-archive](https://github.com/quicoto/mastodon-archive)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
