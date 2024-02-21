@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jibla/next-mastodon - building a Mastodon client using Next.js and Vercel - exploring and learning the fediverse.](https://github.com/jibla/next-mastodon)
+- [neysofu/awesome-github-actions-runners - Save $$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖](https://github.com/neysofu/awesome-github-actions-runners)
 - [dsherret/dax - Cross-platform shell tools for Deno and Node.js inspired by zx.](https://github.com/dsherret/dax)
 - [formkit/tempo - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.](https://github.com/formkit/tempo)
 - [PavelLaptev/css-houdini-squircle - A tiny CSS Houdini module that allows to add a squircle shape to HTML elements](https://github.com/PavelLaptev/css-houdini-squircle)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [observablehq/framework - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.](https://github.com/observablehq/framework)
 - [m31coding/fuzzy-search - A fast, accurate and multilingual fuzzy search library for the frontend.](https://github.com/m31coding/fuzzy-search)
 - [RussellCanfield/wingman-ai](https://github.com/RussellCanfield/wingman-ai)
-- [WebReflection/fetch - A fetch with Response abilities.](https://github.com/WebReflection/fetch)
-- [WebReflection/fly-bun-sqlite - Fly.io with Bun and SQLite.](https://github.com/WebReflection/fly-bun-sqlite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
