@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [goenning/google-indexing-script - Script to get your site indexed on Google in less than 48 hours](https://github.com/goenning/google-indexing-script)
 - [MaxAst/expo-share-extension - Expo config plugin for creating iOS share extensions with a custom view.](https://github.com/MaxAst/expo-share-extension)
 - [OnedocLabs/react-print-pdf - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.](https://github.com/OnedocLabs/react-print-pdf)
 - [kolodny/safetest](https://github.com/kolodny/safetest)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [daviddarnes/mastodon-post - A Web Component to display Mastodon posts and their metadata](https://github.com/daviddarnes/mastodon-post)
 - [dansup/masto2pixel - mastodon to pixelfed blocklist converter](https://github.com/dansup/masto2pixel)
 - [muan/postcard.support](https://github.com/muan/postcard.support)
-- [WebCoder49/code-input - = Textarea + Syntax Highlighting + HTML Form Support + Loads of Plugins](https://github.com/WebCoder49/code-input)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
