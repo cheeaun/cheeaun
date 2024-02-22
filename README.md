@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [MaxAst/expo-share-extension - Expo config plugin for creating iOS share extensions with a custom view.](https://github.com/MaxAst/expo-share-extension)
+- [OnedocLabs/react-print-pdf - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.](https://github.com/OnedocLabs/react-print-pdf)
+- [kolodny/safetest](https://github.com/kolodny/safetest)
+- [jhildenbiddle/canvas-size - Determine the maximum area, height, width, and custom dimensions of an HTML canvas element.](https://github.com/jhildenbiddle/canvas-size)
+- [wxt-dev/wxt - ⚡ Next-gen Web Extension Framework](https://github.com/wxt-dev/wxt)
 - [Firefly-Social/Firefly - An android Mastodon client](https://github.com/Firefly-Social/Firefly)
 - [jibla/next-mastodon - building a Mastodon client using Next.js and Vercel - exploring and learning the fediverse.](https://github.com/jibla/next-mastodon)
 - [neysofu/awesome-github-actions-runners - Save $$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖](https://github.com/neysofu/awesome-github-actions-runners)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dansup/masto2pixel - mastodon to pixelfed blocklist converter](https://github.com/dansup/masto2pixel)
 - [muan/postcard.support](https://github.com/muan/postcard.support)
 - [WebCoder49/code-input - = Textarea + Syntax Highlighting + HTML Form Support + Loads of Plugins](https://github.com/WebCoder49/code-input)
-- [google/magika - Detect file content types with deep learning](https://github.com/google/magika)
-- [lucaong/minisearch - Tiny and powerful JavaScript full-text search engine for browser and Node](https://github.com/lucaong/minisearch)
-- [YuJianrong/fast-array-diff - Node module to find the same/diff of two arrays.](https://github.com/YuJianrong/fast-array-diff)
-- [observablehq/framework - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.](https://github.com/observablehq/framework)
-- [m31coding/fuzzy-search - A fast, accurate and multilingual fuzzy search library for the frontend.](https://github.com/m31coding/fuzzy-search)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
