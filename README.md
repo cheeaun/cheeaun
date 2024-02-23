@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tvler/streetpass - Find your people on Mastodon](https://github.com/tvler/streetpass)
 - [facebook/react-strict-dom - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets](https://github.com/facebook/react-strict-dom)
 - [honojs/honox - HonoX](https://github.com/honojs/honox)
 - [goenning/google-indexing-script - Script to get your site indexed on Google in less than 48 hours](https://github.com/goenning/google-indexing-script)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dsherret/dax - Cross-platform shell tools for Deno and Node.js inspired by zx.](https://github.com/dsherret/dax)
 - [formkit/tempo - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.](https://github.com/formkit/tempo)
 - [PavelLaptev/css-houdini-squircle - A tiny CSS Houdini module that allows to add a squircle shape to HTML elements](https://github.com/PavelLaptev/css-houdini-squircle)
-- [daviddarnes/mastodon-post - A Web Component to display Mastodon posts and their metadata](https://github.com/daviddarnes/mastodon-post)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
