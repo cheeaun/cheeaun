@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [facebook/react-strict-dom - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets](https://github.com/facebook/react-strict-dom)
+- [honojs/honox - HonoX](https://github.com/honojs/honox)
 - [goenning/google-indexing-script - Script to get your site indexed on Google in less than 48 hours](https://github.com/goenning/google-indexing-script)
 - [MaxAst/expo-share-extension - Expo config plugin for creating iOS share extensions with a custom view.](https://github.com/MaxAst/expo-share-extension)
 - [OnedocLabs/react-print-pdf - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.](https://github.com/OnedocLabs/react-print-pdf)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [formkit/tempo - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.](https://github.com/formkit/tempo)
 - [PavelLaptev/css-houdini-squircle - A tiny CSS Houdini module that allows to add a squircle shape to HTML elements](https://github.com/PavelLaptev/css-houdini-squircle)
 - [daviddarnes/mastodon-post - A Web Component to display Mastodon posts and their metadata](https://github.com/daviddarnes/mastodon-post)
-- [dansup/masto2pixel - mastodon to pixelfed blocklist converter](https://github.com/dansup/masto2pixel)
-- [muan/postcard.support](https://github.com/muan/postcard.support)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
