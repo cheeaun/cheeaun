@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop)
 - [tvler/streetpass - Find your people on Mastodon](https://github.com/tvler/streetpass)
 - [facebook/react-strict-dom - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets](https://github.com/facebook/react-strict-dom)
 - [honojs/honox - HonoX](https://github.com/honojs/honox)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [neysofu/awesome-github-actions-runners - Save $$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖](https://github.com/neysofu/awesome-github-actions-runners)
 - [dsherret/dax - Cross-platform shell tools for Deno and Node.js inspired by zx.](https://github.com/dsherret/dax)
 - [formkit/tempo - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.](https://github.com/formkit/tempo)
-- [PavelLaptev/css-houdini-squircle - A tiny CSS Houdini module that allows to add a squircle shape to HTML elements](https://github.com/PavelLaptev/css-houdini-squircle)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
