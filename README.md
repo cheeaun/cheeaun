@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Whisky-App/Whisky - A modern Wine wrapper for macOS built with SwiftUI](https://github.com/Whisky-App/Whisky)
 - [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop)
 - [tvler/streetpass - Find your people on Mastodon](https://github.com/tvler/streetpass)
 - [facebook/react-strict-dom - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets](https://github.com/facebook/react-strict-dom)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jibla/next-mastodon - building a Mastodon client using Next.js and Vercel - exploring and learning the fediverse.](https://github.com/jibla/next-mastodon)
 - [neysofu/awesome-github-actions-runners - Save $$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖](https://github.com/neysofu/awesome-github-actions-runners)
 - [dsherret/dax - Cross-platform shell tools for Deno and Node.js inspired by zx.](https://github.com/dsherret/dax)
-- [formkit/tempo - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.](https://github.com/formkit/tempo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
