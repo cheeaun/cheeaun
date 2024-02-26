@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [plausible/community-edition - Example docker-compose setups for hosting Plausible Community Edition](https://github.com/plausible/community-edition)
 - [Whisky-App/Whisky - A modern Wine wrapper for macOS built with SwiftUI](https://github.com/Whisky-App/Whisky)
 - [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop)
 - [tvler/streetpass - Find your people on Mastodon](https://github.com/tvler/streetpass)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Firefly-Social/Firefly - An android Mastodon client](https://github.com/Firefly-Social/Firefly)
 - [jibla/next-mastodon - building a Mastodon client using Next.js and Vercel - exploring and learning the fediverse.](https://github.com/jibla/next-mastodon)
 - [neysofu/awesome-github-actions-runners - Save $$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖](https://github.com/neysofu/awesome-github-actions-runners)
-- [dsherret/dax - Cross-platform shell tools for Deno and Node.js inspired by zx.](https://github.com/dsherret/dax)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
