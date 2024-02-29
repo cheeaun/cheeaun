@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [electric-sql/pglite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
+- [web-infra-dev/rsbuild - The Rspack-based build tool. It's fast, out-of-the-box and extensible.](https://github.com/web-infra-dev/rsbuild)
+- [pmndrs/uikit - 📱 user interfaces for react-three-fiber](https://github.com/pmndrs/uikit)
+- [LeaVerou/parsel - A tiny, permissive CSS selector parser](https://github.com/LeaVerou/parsel)
 - [fabiospampinato/toygrad - A toy library for building simple neural networks which can be serialized to compact JSON.](https://github.com/fabiospampinato/toygrad)
 - [plausible/community-edition - Example docker-compose setups for hosting Plausible Community Edition](https://github.com/plausible/community-edition)
 - [Whisky-App/Whisky - A modern Wine wrapper for macOS built with SwiftUI](https://github.com/Whisky-App/Whisky)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MaxAst/expo-share-extension - Expo config plugin for creating iOS share extensions with a custom view.](https://github.com/MaxAst/expo-share-extension)
 - [OnedocLabs/react-print-pdf - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.](https://github.com/OnedocLabs/react-print-pdf)
 - [kolodny/safetest](https://github.com/kolodny/safetest)
-- [jhildenbiddle/canvas-size - Determine the maximum area, height, width, and custom dimensions of an HTML canvas element.](https://github.com/jhildenbiddle/canvas-size)
-- [wxt-dev/wxt - ⚡ Next-gen Web Extension Framework](https://github.com/wxt-dev/wxt)
-- [Firefly-Social/Firefly - An android Mastodon client](https://github.com/Firefly-Social/Firefly)
-- [jibla/next-mastodon - building a Mastodon client using Next.js and Vercel - exploring and learning the fediverse.](https://github.com/jibla/next-mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
