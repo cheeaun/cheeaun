@@ -32,7 +32,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jovandeginste/workout-tracker - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities](https://github.com/jovandeginste/workout-tracker)
 - [electric-sql/pglite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 - [web-infra-dev/rsbuild - The Rspack-based build tool. It's fast, out-of-the-box and extensible.](https://github.com/web-infra-dev/rsbuild)
-- [pmndrs/uikit - 📱 user interfaces for react-three-fiber](https://github.com/pmndrs/uikit)
+- [pmndrs/uikit - 🎨 user interfaces for react-three-fiber](https://github.com/pmndrs/uikit)
 - [LeaVerou/parsel - A tiny, permissive CSS selector parser](https://github.com/LeaVerou/parsel)
 - [fabiospampinato/toygrad - A toy library for building simple neural networks which can be serialized to compact JSON.](https://github.com/fabiospampinato/toygrad)
 - [plausible/community-edition - Example docker-compose setups for hosting Plausible Community Edition](https://github.com/plausible/community-edition)
