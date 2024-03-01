@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jovandeginste/workout-tracker - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities](https://github.com/jovandeginste/workout-tracker)
 - [electric-sql/pglite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 - [web-infra-dev/rsbuild - The Rspack-based build tool. It's fast, out-of-the-box and extensible.](https://github.com/web-infra-dev/rsbuild)
 - [pmndrs/uikit - 📱 user interfaces for react-three-fiber](https://github.com/pmndrs/uikit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [goenning/google-indexing-script - Script to get your site indexed on Google in less than 48 hours](https://github.com/goenning/google-indexing-script)
 - [MaxAst/expo-share-extension - Expo config plugin for creating iOS share extensions with a custom view.](https://github.com/MaxAst/expo-share-extension)
 - [OnedocLabs/react-print-pdf - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.](https://github.com/OnedocLabs/react-print-pdf)
-- [kolodny/safetest](https://github.com/kolodny/safetest)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
