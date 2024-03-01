@@ -15,11 +15,11 @@ More in the [archives](https://cheeaun.com/blog/archives/).
 ## 📰 Newsletter
 
 <!-- newsletter start -->
+- 29 Feb 2024 - [🕴️ Leap day - 🥫 #30](https://cheeaun.substack.com/p/leap-day-30)
 - 31 Jan 2024 - [🌗 Light to Night - 🥫 #29](https://cheeaun.substack.com/p/light-to-night-29)
 - 31 Dec 2023 - [☃️ Winter Mix - 🥫 #28](https://cheeaun.substack.com/p/winter-mix-28)
 - 30 Nov 2023 - [📽️ Ditto - 🥫 #27](https://cheeaun.substack.com/p/ditto-27)
 - 31 Oct 2023 - [🫣 Already Q4?! - 🥫 #26](https://cheeaun.substack.com/p/already-q4-26)
-- 30 Sep 2023 - [🎨 Colorful month - 🥫 #25](https://cheeaun.substack.com/p/colorful-month-25)
 <!-- newsletter end -->
 
 Subscribe to my [newsletter](https://cheeaun.substack.com/)!
