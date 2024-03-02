@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [heyloura/lillihub-client - Lillihub is a simple, lightweight micro.blog web client with a light/dark mode and responsive design. It is built using Deno, HTML, CSS, and a sprinkle of vanilla JavaScript. It is delightfully usable without JavaScript being enabled.](https://github.com/heyloura/lillihub-client)
 - [endatabas/endb - SQL document database with full history.](https://github.com/endatabas/endb)
 - [webmachinelearning/webnn-polyfill - 🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js](https://github.com/webmachinelearning/webnn-polyfill)
 - [jovandeginste/workout-tracker - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities](https://github.com/jovandeginste/workout-tracker)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tvler/streetpass - Find your people on Mastodon](https://github.com/tvler/streetpass)
 - [facebook/react-strict-dom - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets](https://github.com/facebook/react-strict-dom)
 - [honojs/honox - HonoX](https://github.com/honojs/honox)
-- [goenning/google-indexing-script - Script to get your site indexed on Google in less than 48 hours](https://github.com/goenning/google-indexing-script)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
