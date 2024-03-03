@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ifyour/deeplx-js - 🥰 JavaScript implementation of DeepLx with one-click deployment support](https://github.com/ifyour/deeplx-js)
+- [OwO-Network/DeepLX - DeepL Free API (No TOKEN required)](https://github.com/OwO-Network/DeepLX)
+- [LegendLeo/deeplx-serverless - DeepLX Free API for Serverless](https://github.com/LegendLeo/deeplx-serverless)
+- [pot-app/pot-desktop - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.](https://github.com/pot-app/pot-desktop)
 - [heyloura/lillihub-client - Lillihub is a simple, lightweight micro.blog web client with a light/dark mode and responsive design. It is built using Deno, HTML, CSS, and a sprinkle of vanilla JavaScript. It is delightfully usable without JavaScript being enabled.](https://github.com/heyloura/lillihub-client)
 - [endatabas/endb - SQL document database with full history.](https://github.com/endatabas/endb)
 - [webmachinelearning/webnn-polyfill - 🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js](https://github.com/webmachinelearning/webnn-polyfill)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fabiospampinato/toygrad - A toy library for building simple neural networks which can be serialized to compact JSON.](https://github.com/fabiospampinato/toygrad)
 - [plausible/community-edition - Example docker-compose setups for hosting Plausible Community Edition](https://github.com/plausible/community-edition)
 - [Whisky-App/Whisky - A modern Wine wrapper for macOS built with SwiftUI](https://github.com/Whisky-App/Whisky)
-- [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop)
-- [tvler/streetpass - Find your people on Mastodon](https://github.com/tvler/streetpass)
-- [facebook/react-strict-dom - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets](https://github.com/facebook/react-strict-dom)
-- [honojs/honox - HonoX](https://github.com/honojs/honox)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
