@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [americanexpress/react-albus - ✨ React component library for building declarative multi-step flows.](https://github.com/americanexpress/react-albus)
 - [drizzle-team/drizzle-orm - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅](https://github.com/drizzle-team/drizzle-orm)
 - [iconoir-icons/iconoir - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.](https://github.com/iconoir-icons/iconoir)
 - [shikijs/shiki-magic-move - Smoothly animated code blocks with Shiki](https://github.com/shikijs/shiki-magic-move)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [electric-sql/pglite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 - [web-infra-dev/rsbuild - The Rspack-based build tool. It's fast, out-of-the-box and extensible.](https://github.com/web-infra-dev/rsbuild)
 - [pmndrs/uikit - 🎨 user interfaces for react-three-fiber](https://github.com/pmndrs/uikit)
-- [LeaVerou/parsel - A tiny, permissive CSS selector parser](https://github.com/LeaVerou/parsel)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
