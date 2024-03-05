@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [iconoir-icons/iconoir - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.](https://github.com/iconoir-icons/iconoir)
 - [shikijs/shiki-magic-move - Smoothly animated code blocks with Shiki](https://github.com/shikijs/shiki-magic-move)
 - [ifyour/deeplx-js - 🥰 JavaScript implementation of DeepLx with one-click deployment support](https://github.com/ifyour/deeplx-js)
 - [OwO-Network/DeepLX - DeepL Free API (No TOKEN required)](https://github.com/OwO-Network/DeepLX)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pmndrs/uikit - 🎨 user interfaces for react-three-fiber](https://github.com/pmndrs/uikit)
 - [LeaVerou/parsel - A tiny, permissive CSS selector parser](https://github.com/LeaVerou/parsel)
 - [fabiospampinato/toygrad - A toy library for building simple neural networks which can be serialized to compact JSON.](https://github.com/fabiospampinato/toygrad)
-- [plausible/community-edition - Example docker-compose setups for hosting Plausible Community Edition](https://github.com/plausible/community-edition)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
