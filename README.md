@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [infinitered/nsfwjs - NSFW detection on the client-side via TensorFlow.js](https://github.com/infinitered/nsfwjs)
 - [americanexpress/react-albus - ✨ React component library for building declarative multi-step flows.](https://github.com/americanexpress/react-albus)
 - [drizzle-team/drizzle-orm - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅](https://github.com/drizzle-team/drizzle-orm)
 - [iconoir-icons/iconoir - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.](https://github.com/iconoir-icons/iconoir)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jovandeginste/workout-tracker - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities](https://github.com/jovandeginste/workout-tracker)
 - [electric-sql/pglite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 - [web-infra-dev/rsbuild - The Rspack-based build tool. It's fast, out-of-the-box and extensible.](https://github.com/web-infra-dev/rsbuild)
-- [pmndrs/uikit - 🎨 user interfaces for react-three-fiber](https://github.com/pmndrs/uikit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
