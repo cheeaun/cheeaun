@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [guilhermerodz/input-otp - One time passcode Input. Accessible & unstyled.](https://github.com/guilhermerodz/input-otp)
+- [latentcat/uvcanvas - An React.js component library for beautifully shaded canvas](https://github.com/latentcat/uvcanvas)
+- [Jinjiang/vlite - A lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
 - [infinitered/nsfwjs - NSFW detection on the client-side via TensorFlow.js](https://github.com/infinitered/nsfwjs)
 - [americanexpress/react-albus - ✨ React component library for building declarative multi-step flows.](https://github.com/americanexpress/react-albus)
 - [drizzle-team/drizzle-orm - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅](https://github.com/drizzle-team/drizzle-orm)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [heyloura/lillihub-client - Lillihub is a simple, lightweight micro.blog web client with a light/dark mode and responsive design. It is built using Deno, HTML, CSS, and a sprinkle of vanilla JavaScript. It is delightfully usable without JavaScript being enabled.](https://github.com/heyloura/lillihub-client)
 - [endatabas/endb - SQL document database with full history.](https://github.com/endatabas/endb)
 - [webmachinelearning/webnn-polyfill - 🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js](https://github.com/webmachinelearning/webnn-polyfill)
-- [jovandeginste/workout-tracker - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities](https://github.com/jovandeginste/workout-tracker)
-- [electric-sql/pglite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
-- [web-infra-dev/rsbuild - The Rspack-based build tool. It's fast, out-of-the-box and extensible.](https://github.com/web-infra-dev/rsbuild)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
