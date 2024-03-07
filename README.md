@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [explodingcamera/tinywasm - A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 - [guilhermerodz/input-otp - One time passcode Input. Accessible & unstyled.](https://github.com/guilhermerodz/input-otp)
 - [latentcat/uvcanvas - An React.js component library for beautifully shaded canvas](https://github.com/latentcat/uvcanvas)
 - [Jinjiang/vlite - A lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pot-app/pot-desktop - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.](https://github.com/pot-app/pot-desktop)
 - [heyloura/lillihub-client - Lillihub is a simple, lightweight micro.blog web client with a light/dark mode and responsive design. It is built using Deno, HTML, CSS, and a sprinkle of vanilla JavaScript. It is delightfully usable without JavaScript being enabled.](https://github.com/heyloura/lillihub-client)
 - [endatabas/endb - SQL document database with full history.](https://github.com/endatabas/endb)
-- [webmachinelearning/webnn-polyfill - 🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js](https://github.com/webmachinelearning/webnn-polyfill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
