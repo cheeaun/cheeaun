@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wkaisertexas/ScreenTimeLapse - Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
 - [rolldown-rs/rolldown - Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown-rs/rolldown)
 - [explodingcamera/tinywasm - A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 - [guilhermerodz/input-otp - One time passcode Input. Accessible & unstyled.](https://github.com/guilhermerodz/input-otp)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [OwO-Network/DeepLX - DeepL Free API (No TOKEN required)](https://github.com/OwO-Network/DeepLX)
 - [LegendLeo/deeplx-serverless - DeepLX Free API for Serverless](https://github.com/LegendLeo/deeplx-serverless)
 - [pot-app/pot-desktop - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.](https://github.com/pot-app/pot-desktop)
-- [heyloura/lillihub-client - Lillihub is a simple, lightweight micro.blog web client with a light/dark mode and responsive design. It is built using Deno, HTML, CSS, and a sprinkle of vanilla JavaScript. It is delightfully usable without JavaScript being enabled.](https://github.com/heyloura/lillihub-client)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
