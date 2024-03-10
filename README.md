@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dahlia/fedify - A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 - [wkaisertexas/ScreenTimeLapse - Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
 - [rolldown-rs/rolldown - Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown-rs/rolldown)
 - [explodingcamera/tinywasm - A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ifyour/deeplx-js - 🥰 JavaScript implementation of DeepLx with one-click deployment support](https://github.com/ifyour/deeplx-js)
 - [OwO-Network/DeepLX - DeepL Free API (No TOKEN required)](https://github.com/OwO-Network/DeepLX)
 - [LegendLeo/deeplx-serverless - DeepLX Free API for Serverless](https://github.com/LegendLeo/deeplx-serverless)
-- [pot-app/pot-desktop - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.](https://github.com/pot-app/pot-desktop)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
