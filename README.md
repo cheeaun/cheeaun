@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [edent/Dynamic-SVG-Calendar-Icon - Here it is, an SVG calendar which always display's today's date.](https://github.com/edent/Dynamic-SVG-Calendar-Icon)
 - [serverless-dns/serverless-dns - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 - [dahlia/fedify - A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 - [wkaisertexas/ScreenTimeLapse - Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [iconoir-icons/iconoir - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.](https://github.com/iconoir-icons/iconoir)
 - [shikijs/shiki-magic-move - Smoothly animated code blocks with Shiki](https://github.com/shikijs/shiki-magic-move)
 - [ifyour/deeplx-js - 🥰 JavaScript implementation of DeepLx with one-click deployment support](https://github.com/ifyour/deeplx-js)
-- [OwO-Network/DeepLX - DeepL Free API (No TOKEN required)](https://github.com/OwO-Network/DeepLX)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
