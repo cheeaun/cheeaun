@@ -27,9 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [serverless-dns/serverless-dns - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 - [dahlia/fedify - A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 - [wkaisertexas/ScreenTimeLapse - Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
-- [rolldown-rs/rolldown - Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown-rs/rolldown)
+- [rolldown/rolldown - Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown/rolldown)
 - [explodingcamera/tinywasm - A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 - [guilhermerodz/input-otp - One time passcode Input. Accessible & unstyled.](https://github.com/guilhermerodz/input-otp)
 - [latentcat/uvcanvas - An React.js component library for beautifully shaded canvas](https://github.com/latentcat/uvcanvas)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shikijs/shiki-magic-move - Smoothly animated code blocks with Shiki](https://github.com/shikijs/shiki-magic-move)
 - [ifyour/deeplx-js - 🥰 JavaScript implementation of DeepLx with one-click deployment support](https://github.com/ifyour/deeplx-js)
 - [OwO-Network/DeepLX - DeepL Free API (No TOKEN required)](https://github.com/OwO-Network/DeepLX)
-- [LegendLeo/deeplx-serverless - DeepLX Free API for Serverless](https://github.com/LegendLeo/deeplx-serverless)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
