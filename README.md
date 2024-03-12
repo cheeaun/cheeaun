@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [obsidianmd/jsoncanvas - An open file format for infinite canvas data.](https://github.com/obsidianmd/jsoncanvas)
 - [edent/Dynamic-SVG-Calendar-Icon - Here it is, an SVG calendar which always display's today's date.](https://github.com/edent/Dynamic-SVG-Calendar-Icon)
 - [serverless-dns/serverless-dns - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 - [dahlia/fedify - A fediverse server framework in Deno](https://github.com/dahlia/fedify)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [drizzle-team/drizzle-orm - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅](https://github.com/drizzle-team/drizzle-orm)
 - [iconoir-icons/iconoir - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.](https://github.com/iconoir-icons/iconoir)
 - [shikijs/shiki-magic-move - Smoothly animated code blocks with Shiki](https://github.com/shikijs/shiki-magic-move)
-- [ifyour/deeplx-js - 🥰 JavaScript implementation of DeepLx with one-click deployment support](https://github.com/ifyour/deeplx-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
