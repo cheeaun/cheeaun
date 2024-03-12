@@ -34,7 +34,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rolldown/rolldown - Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown/rolldown)
 - [explodingcamera/tinywasm - A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 - [guilhermerodz/input-otp - One time passcode Input. Accessible & unstyled.](https://github.com/guilhermerodz/input-otp)
-- [latentcat/uvcanvas - An React.js component library for beautifully shaded canvas](https://github.com/latentcat/uvcanvas)
+- [latentcat/uvcanvas - An React.js component library for beautifully shaded canvas https://uvcanvas.com](https://github.com/latentcat/uvcanvas)
 - [Jinjiang/vlite - A lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
 - [infinitered/nsfwjs - NSFW detection on the client-side via TensorFlow.js](https://github.com/infinitered/nsfwjs)
 - [americanexpress/react-albus - ✨ React component library for building declarative multi-step flows.](https://github.com/americanexpress/react-albus)
