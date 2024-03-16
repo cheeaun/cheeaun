@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DallasHoff/sqlocal - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.](https://github.com/DallasHoff/sqlocal)
+- [duckdb/duckdb-wasm - WebAssembly version of DuckDB](https://github.com/duckdb/duckdb-wasm)
 - [sfomuseum/go-activitypub - An opionated (and incomplete) ActivityPub service implementation in Go.](https://github.com/sfomuseum/go-activitypub)
 - [sfomuseum/go-activitypub-feeds - An opinionated Go package for publishing syndication feeds to ActivityPub accounts.](https://github.com/sfomuseum/go-activitypub-feeds)
 - [candlefinance/faster-image - Fast image loading for React Native backed by performant native libraries.](https://github.com/candlefinance/faster-image)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rolldown/rolldown - Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown/rolldown)
 - [explodingcamera/tinywasm - A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 - [guilhermerodz/input-otp - One time passcode Input. Accessible & unstyled.](https://github.com/guilhermerodz/input-otp)
-- [latentcat/uvcanvas - An React.js component library for beautifully shaded canvas https://uvcanvas.com](https://github.com/latentcat/uvcanvas)
-- [Jinjiang/vlite - A lite demo server, inspired by Vite](https://github.com/Jinjiang/vlite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
