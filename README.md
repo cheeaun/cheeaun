@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sarajw/rss-joy-static](https://github.com/sarajw/rss-joy-static)
 - [tursodatabase/libsql-js - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node](https://github.com/tursodatabase/libsql-js)
 - [tursodatabase/libsql - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/tursodatabase/libsql)
 - [DallasHoff/sqlocal - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.](https://github.com/DallasHoff/sqlocal)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [serverless-dns/serverless-dns - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 - [dahlia/fedify - A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 - [wkaisertexas/ScreenTimeLapse - Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
-- [rolldown/rolldown - Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown/rolldown)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
