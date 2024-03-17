@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tursodatabase/libsql-js - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node](https://github.com/tursodatabase/libsql-js)
+- [tursodatabase/libsql - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/tursodatabase/libsql)
 - [DallasHoff/sqlocal - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.](https://github.com/DallasHoff/sqlocal)
 - [duckdb/duckdb-wasm - WebAssembly version of DuckDB](https://github.com/duckdb/duckdb-wasm)
 - [sfomuseum/go-activitypub - An opionated (and incomplete) ActivityPub service implementation in Go.](https://github.com/sfomuseum/go-activitypub)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dahlia/fedify - A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 - [wkaisertexas/ScreenTimeLapse - Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
 - [rolldown/rolldown - Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown/rolldown)
-- [explodingcamera/tinywasm - A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
-- [guilhermerodz/input-otp - One time passcode Input. Accessible & unstyled.](https://github.com/guilhermerodz/input-otp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
