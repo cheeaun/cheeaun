@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jacobxperez/atkinson-hyperlegible-pro - 222 Extra Glyph's Supporting 102 Languages. Includes an Alternative Flipped Zero, Updated Kerning and Ligatures.](https://github.com/jacobxperez/atkinson-hyperlegible-pro)
 - [sarajw/rss-joy-static](https://github.com/sarajw/rss-joy-static)
 - [tursodatabase/libsql-js - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node](https://github.com/tursodatabase/libsql-js)
 - [tursodatabase/libsql - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/tursodatabase/libsql)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [edent/Dynamic-SVG-Calendar-Icon - Here it is, an SVG calendar which always display's today's date.](https://github.com/edent/Dynamic-SVG-Calendar-Icon)
 - [serverless-dns/serverless-dns - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 - [dahlia/fedify - A fediverse server framework in Deno](https://github.com/dahlia/fedify)
-- [wkaisertexas/ScreenTimeLapse - Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
