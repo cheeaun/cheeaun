@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [purton-tech/rust-on-nails - Full stack web architecture for Rust](https://github.com/purton-tech/rust-on-nails)
 - [jacobxperez/atkinson-hyperlegible-pro - 222 Extra Glyph's Supporting 102 Languages. Includes an Alternative Flipped Zero, Updated Kerning and Ligatures.](https://github.com/jacobxperez/atkinson-hyperlegible-pro)
 - [sarajw/rss-joy-static](https://github.com/sarajw/rss-joy-static)
 - [tursodatabase/libsql-js - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node](https://github.com/tursodatabase/libsql-js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [obsidianmd/jsoncanvas - An open file format for infinite canvas data.](https://github.com/obsidianmd/jsoncanvas)
 - [edent/Dynamic-SVG-Calendar-Icon - Here it is, an SVG calendar which always display's today's date.](https://github.com/edent/Dynamic-SVG-Calendar-Icon)
 - [serverless-dns/serverless-dns - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
-- [dahlia/fedify - A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
