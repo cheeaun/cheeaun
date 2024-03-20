@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [coder-hxl/x-crawl - x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files.  ----------------  x-crawl 是一个灵活的 Node.js 多功能爬虫库。灵活的使用方式和众多的功能可以帮助您快速、安全、稳定地爬取页面、接口以及文件。](https://github.com/coder-hxl/x-crawl)
+- [vinejs/vine - VineJS is a form data validation library for Node.js](https://github.com/vinejs/vine)
 - [purton-tech/rust-on-nails - Full stack web architecture for Rust](https://github.com/purton-tech/rust-on-nails)
 - [jacobxperez/atkinson-hyperlegible-pro - 222 Extra Glyph's Supporting 102 Languages. Includes an Alternative Flipped Zero, Updated Kerning and Ligatures.](https://github.com/jacobxperez/atkinson-hyperlegible-pro)
 - [sarajw/rss-joy-static](https://github.com/sarajw/rss-joy-static)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [VyrCossont/slurp - tool for exporting data from and importing data to Fediverse instances](https://github.com/VyrCossont/slurp)
 - [maybeanerd/crab - A nimble Mastodon web client, based on elk and customized for bumscode.com](https://github.com/maybeanerd/crab)
 - [obsidianmd/jsoncanvas - An open file format for infinite canvas data.](https://github.com/obsidianmd/jsoncanvas)
-- [edent/Dynamic-SVG-Calendar-Icon - Here it is, an SVG calendar which always display's today's date.](https://github.com/edent/Dynamic-SVG-Calendar-Icon)
-- [serverless-dns/serverless-dns - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
