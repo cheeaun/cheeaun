@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/garnet - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.](https://github.com/microsoft/garnet)
 - [macmade/Hot - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.](https://github.com/macmade/Hot)
 - [dahlia/fedi-badge - A badge generator for ActivityPub-enabled social media platforms, i.e., fediverse](https://github.com/dahlia/fedi-badge)
 - [peterldowns/localias - custom local domain aliases for local dev servers](https://github.com/peterldowns/localias)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [DallasHoff/sqlocal - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.](https://github.com/DallasHoff/sqlocal)
 - [duckdb/duckdb-wasm - WebAssembly version of DuckDB](https://github.com/duckdb/duckdb-wasm)
 - [sfomuseum/go-activitypub - An opionated (and incomplete) ActivityPub service implementation in Go.](https://github.com/sfomuseum/go-activitypub)
-- [sfomuseum/go-activitypub-feeds - An opinionated Go package for publishing syndication feeds to ActivityPub accounts.](https://github.com/sfomuseum/go-activitypub-feeds)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
