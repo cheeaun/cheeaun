@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [immich-app/immich - High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
+- [pulsejet/memories - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.](https://github.com/pulsejet/memories)
 - [chearon/dropflow - A CSS layout engine](https://github.com/chearon/dropflow)
 - [microsoft/garnet - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.](https://github.com/microsoft/garnet)
 - [macmade/Hot - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.](https://github.com/macmade/Hot)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sarajw/rss-joy-static](https://github.com/sarajw/rss-joy-static)
 - [tursodatabase/libsql-js - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node](https://github.com/tursodatabase/libsql-js)
 - [tursodatabase/libsql - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/tursodatabase/libsql)
-- [DallasHoff/sqlocal - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.](https://github.com/DallasHoff/sqlocal)
-- [duckdb/duckdb-wasm - WebAssembly version of DuckDB](https://github.com/duckdb/duckdb-wasm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
