@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rsuite/rsuite-table - A React table component.](https://github.com/rsuite/rsuite-table)
 - [immich-app/immich - High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
 - [pulsejet/memories - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.](https://github.com/pulsejet/memories)
 - [chearon/dropflow - A CSS layout engine](https://github.com/chearon/dropflow)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jacobxperez/atkinson-hyperlegible-pro - 222 Extra Glyph's Supporting 102 Languages. Includes an Alternative Flipped Zero, Updated Kerning and Ligatures.](https://github.com/jacobxperez/atkinson-hyperlegible-pro)
 - [sarajw/rss-joy-static](https://github.com/sarajw/rss-joy-static)
 - [tursodatabase/libsql-js - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node](https://github.com/tursodatabase/libsql-js)
-- [tursodatabase/libsql - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/tursodatabase/libsql)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
