@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [iftas-org/resources - Guides, tools, and resources for trust and safety, content and conduct moderation](https://github.com/iftas-org/resources)
 - [Applelo/unplugin-inject-preload - A plugin for injecting <link rel='preload'> for ViteJS and HTMLWebpackPlugin](https://github.com/Applelo/unplugin-inject-preload)
 - [radiosilence/nano-web - Hyper-minimal low-latency webserver for serving SPAs and static content based on fasthttp.](https://github.com/radiosilence/nano-web)
 - [rsuite/rsuite-table - A React table component.](https://github.com/rsuite/rsuite-table)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [coder-hxl/x-crawl - x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files.  ----------------  x-crawl 是一个灵活的 Node.js 多功能爬虫库。灵活的使用方式和众多的功能可以帮助您快速、安全、稳定地爬取页面、接口以及文件。](https://github.com/coder-hxl/x-crawl)
 - [vinejs/vine - VineJS is a form data validation library for Node.js](https://github.com/vinejs/vine)
 - [purton-tech/rust-on-nails - Full stack web architecture for Rust](https://github.com/purton-tech/rust-on-nails)
-- [jacobxperez/atkinson-hyperlegible-pro - 222 Extra Glyph's Supporting 102 Languages. Includes an Alternative Flipped Zero, Updated Kerning and Ligatures.](https://github.com/jacobxperez/atkinson-hyperlegible-pro)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
