@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Applelo/unplugin-inject-preload - A plugin for injecting <link rel='preload'> for ViteJS and HTMLWebpackPlugin](https://github.com/Applelo/unplugin-inject-preload)
 - [radiosilence/nano-web - Hyper-minimal low-latency webserver for serving SPAs and static content based on fasthttp.](https://github.com/radiosilence/nano-web)
 - [rsuite/rsuite-table - A React table component.](https://github.com/rsuite/rsuite-table)
 - [immich-app/immich - High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vinejs/vine - VineJS is a form data validation library for Node.js](https://github.com/vinejs/vine)
 - [purton-tech/rust-on-nails - Full stack web architecture for Rust](https://github.com/purton-tech/rust-on-nails)
 - [jacobxperez/atkinson-hyperlegible-pro - 222 Extra Glyph's Supporting 102 Languages. Includes an Alternative Flipped Zero, Updated Kerning and Ligatures.](https://github.com/jacobxperez/atkinson-hyperlegible-pro)
-- [sarajw/rss-joy-static](https://github.com/sarajw/rss-joy-static)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
