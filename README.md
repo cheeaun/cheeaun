@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [upscayl/upscayl - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 - [JoshuaKGoldberg/emoji-blast - Blasts emoji like fireworks all up in your HTML page. 🎆](https://github.com/JoshuaKGoldberg/emoji-blast)
 - [pac-dev/AmbientGarden - An Algorithmic Audio Landscape](https://github.com/pac-dev/AmbientGarden)
 - [denosaurs/denon - 👀 Monitor any changes in your Deno application and automatically restart.](https://github.com/denosaurs/denon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [microsoft/garnet - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.](https://github.com/microsoft/garnet)
 - [macmade/Hot - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.](https://github.com/macmade/Hot)
 - [dahlia/fedi-badge - A badge generator for ActivityPub-enabled social media platforms, i.e., fediverse](https://github.com/dahlia/fedi-badge)
-- [peterldowns/localias - custom local domain aliases for local dev servers](https://github.com/peterldowns/localias)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
