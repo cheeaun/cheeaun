@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [valkey-io/valkey - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.](https://github.com/valkey-io/valkey)
+- [lumeland/lume - 🔥 Static site generator for Deno 🦕](https://github.com/lumeland/lume)
 - [railmapgen/rmp-gallery - Browse, set, and submit your RMP works here!](https://github.com/railmapgen/rmp-gallery)
 - [railmapgen/rmp - Design your own rail map by freely dragging stations from different cities and connecting them with 135-degree rounded corners or perpendicular lines!](https://github.com/railmapgen/rmp)
 - [WickyNilliams/cally - Small, feature-rich calendar components](https://github.com/WickyNilliams/cally)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [samthor/kuto - Faster updates for big JS projects](https://github.com/samthor/kuto)
 - [iftas-org/resources - Guides, tools, and resources for trust and safety, content and conduct moderation](https://github.com/iftas-org/resources)
 - [Applelo/unplugin-inject-preload - A plugin for injecting <link rel='preload'> for ViteJS and HTMLWebpackPlugin](https://github.com/Applelo/unplugin-inject-preload)
-- [radiosilence/nano-web - Hyper-minimal low-latency webserver for serving SPAs and static content based on fasthttp.](https://github.com/radiosilence/nano-web)
-- [rsuite/rsuite-table - A React table component.](https://github.com/rsuite/rsuite-table)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
