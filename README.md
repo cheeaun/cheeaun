@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WickyNilliams/cally - Small, feature-rich calendar components](https://github.com/WickyNilliams/cally)
+- [renderlet/wander - wander - the Wasm Renderer](https://github.com/renderlet/wander)
+- [joulev/mrt-badges - A small service rendering the SVG station badges of Singapore MRT stations](https://github.com/joulev/mrt-badges)
 - [eduardoleao052/js-torch - A JavaScript library like PyTorch, built from scratch.](https://github.com/eduardoleao052/js-torch)
 - [upscayl/upscayl - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 - [JoshuaKGoldberg/emoji-blast - Blasts emoji like fireworks all up in your HTML page. 🎆](https://github.com/JoshuaKGoldberg/emoji-blast)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rsuite/rsuite-table - A React table component.](https://github.com/rsuite/rsuite-table)
 - [immich-app/immich - High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
 - [pulsejet/memories - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.](https://github.com/pulsejet/memories)
-- [chearon/dropflow - A CSS layout engine](https://github.com/chearon/dropflow)
-- [microsoft/garnet - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.](https://github.com/microsoft/garnet)
-- [macmade/Hot - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.](https://github.com/macmade/Hot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
