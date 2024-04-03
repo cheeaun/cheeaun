@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [railmapgen/rmp-gallery - Browse, set, and submit your RMP works here!](https://github.com/railmapgen/rmp-gallery)
+- [railmapgen/rmp - Design your own rail map by freely dragging stations from different cities and connecting them with 135-degree rounded corners or perpendicular lines!](https://github.com/railmapgen/rmp)
 - [WickyNilliams/cally - Small, feature-rich calendar components](https://github.com/WickyNilliams/cally)
 - [renderlet/wander - wander - the Wasm Renderer](https://github.com/renderlet/wander)
 - [joulev/mrt-badges - A small service rendering the SVG station badges of Singapore MRT stations](https://github.com/joulev/mrt-badges)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Applelo/unplugin-inject-preload - A plugin for injecting <link rel='preload'> for ViteJS and HTMLWebpackPlugin](https://github.com/Applelo/unplugin-inject-preload)
 - [radiosilence/nano-web - Hyper-minimal low-latency webserver for serving SPAs and static content based on fasthttp.](https://github.com/radiosilence/nano-web)
 - [rsuite/rsuite-table - A React table component.](https://github.com/rsuite/rsuite-table)
-- [immich-app/immich - High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
-- [pulsejet/memories - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.](https://github.com/pulsejet/memories)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
