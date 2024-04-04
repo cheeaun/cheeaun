@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [xtao-org/jsonhilo - Fast lossless JSON parse event streaming, in JavaScript.](https://github.com/xtao-org/jsonhilo)
+- [xtao-org/jsonstrum - A high-level wrapper over JsonHilo which emits fully parsed objects and arrays.](https://github.com/xtao-org/jsonstrum)
+- [juanjoDiaz/streamparser-json - Streaming JSON parser in Javascript for Node.js and the browser](https://github.com/juanjoDiaz/streamparser-json)
 - [valkey-io/valkey - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.](https://github.com/valkey-io/valkey)
 - [lumeland/lume - 🔥 Static site generator for Deno 🦕](https://github.com/lumeland/lume)
 - [railmapgen/rmp-gallery - Browse, set, and submit your RMP works here!](https://github.com/railmapgen/rmp-gallery)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JoshuaKGoldberg/emoji-blast - Blasts emoji like fireworks all up in your HTML page. 🎆](https://github.com/JoshuaKGoldberg/emoji-blast)
 - [pac-dev/AmbientGarden - An Algorithmic Audio Landscape](https://github.com/pac-dev/AmbientGarden)
 - [denosaurs/denon - 👀 Monitor any changes in your Deno application and automatically restart.](https://github.com/denosaurs/denon)
-- [samthor/kuto - Faster updates for big JS projects](https://github.com/samthor/kuto)
-- [iftas-org/resources - Guides, tools, and resources for trust and safety, content and conduct moderation](https://github.com/iftas-org/resources)
-- [Applelo/unplugin-inject-preload - A plugin for injecting <link rel='preload'> for ViteJS and HTMLWebpackPlugin](https://github.com/Applelo/unplugin-inject-preload)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
