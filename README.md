@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [xkjyeah/paynow-qr-generator - Paynow QR Generator](https://github.com/xkjyeah/paynow-qr-generator)
+- [cutls/TheDesk - Mastodon Client for PC.](https://github.com/cutls/TheDesk)
 - [xtao-org/jsonhilo - Fast lossless JSON parse event streaming, in JavaScript.](https://github.com/xtao-org/jsonhilo)
 - [xtao-org/jsonstrum - A high-level wrapper over JsonHilo which emits fully parsed objects and arrays.](https://github.com/xtao-org/jsonstrum)
 - [juanjoDiaz/streamparser-json - Streaming JSON parser in Javascript for Node.js and the browser](https://github.com/juanjoDiaz/streamparser-json)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [eduardoleao052/js-torch - A JavaScript library like PyTorch, built from scratch.](https://github.com/eduardoleao052/js-torch)
 - [upscayl/upscayl - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 - [JoshuaKGoldberg/emoji-blast - Blasts emoji like fireworks all up in your HTML page. 🎆](https://github.com/JoshuaKGoldberg/emoji-blast)
-- [pac-dev/AmbientGarden - An Algorithmic Audio Landscape](https://github.com/pac-dev/AmbientGarden)
-- [denosaurs/denon - 👀 Monitor any changes in your Deno application and automatically restart.](https://github.com/denosaurs/denon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
