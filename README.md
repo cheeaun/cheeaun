@@ -40,7 +40,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WickyNilliams/cally - Small, feature-rich calendar components](https://github.com/WickyNilliams/cally)
 - [renderlet/wander - wander - the Wasm Renderer](https://github.com/renderlet/wander)
 - [joulev/mrt-badges - A small service rendering the SVG station badges of Singapore MRT stations](https://github.com/joulev/mrt-badges)
-- [eduardoleao052/js-torch - A JavaScript library like PyTorch, built from scratch.](https://github.com/eduardoleao052/js-torch)
+- [eduardoleao052/js-pytorch - A JavaScript library like PyTorch, built from scratch.](https://github.com/eduardoleao052/js-pytorch)
 - [upscayl/upscayl - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 <!-- starred repos end -->
 
