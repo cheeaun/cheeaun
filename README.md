@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [SuperQAxClub/apple-silicon](https://github.com/SuperQAxClub/apple-silicon)
 - [xkjyeah/paynow-qr-generator - Paynow QR Generator](https://github.com/xkjyeah/paynow-qr-generator)
 - [cutls/TheDesk - Mastodon Client for PC.](https://github.com/cutls/TheDesk)
 - [xtao-org/jsonhilo - Fast lossless JSON parse event streaming, in JavaScript.](https://github.com/xtao-org/jsonhilo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [joulev/mrt-badges - A small service rendering the SVG station badges of Singapore MRT stations](https://github.com/joulev/mrt-badges)
 - [eduardoleao052/js-torch - A JavaScript library like PyTorch, built from scratch.](https://github.com/eduardoleao052/js-torch)
 - [upscayl/upscayl - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
-- [JoshuaKGoldberg/emoji-blast - Blasts emoji like fireworks all up in your HTML page. 🎆](https://github.com/JoshuaKGoldberg/emoji-blast)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
