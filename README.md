@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pixelfed/pixelfed-rn - Pixelfed mobile app](https://github.com/pixelfed/pixelfed-rn)
 - [SuperQAxClub/apple-silicon](https://github.com/SuperQAxClub/apple-silicon)
 - [xkjyeah/paynow-qr-generator - Paynow QR Generator](https://github.com/xkjyeah/paynow-qr-generator)
 - [cutls/TheDesk - Mastodon Client for PC.](https://github.com/cutls/TheDesk)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [renderlet/wander - wander - the Wasm Renderer](https://github.com/renderlet/wander)
 - [joulev/mrt-badges - A small service rendering the SVG station badges of Singapore MRT stations](https://github.com/joulev/mrt-badges)
 - [eduardoleao052/js-pytorch - A JavaScript library like PyTorch, built from scratch.](https://github.com/eduardoleao052/js-pytorch)
-- [upscayl/upscayl - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
