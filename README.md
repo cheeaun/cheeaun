@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [thebinarysearchtree/flyweight - An ORM for SQLite](https://github.com/thebinarysearchtree/flyweight)
 - [pixelfed/pixelfed-rn - Pixelfed mobile app](https://github.com/pixelfed/pixelfed-rn)
 - [SuperQAxClub/apple-silicon](https://github.com/SuperQAxClub/apple-silicon)
 - [xkjyeah/paynow-qr-generator - Paynow QR Generator](https://github.com/xkjyeah/paynow-qr-generator)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WickyNilliams/cally - Small, feature-rich calendar components](https://github.com/WickyNilliams/cally)
 - [renderlet/wander - wander - the Wasm Renderer](https://github.com/renderlet/wander)
 - [joulev/mrt-badges - A small service rendering the SVG station badges of Singapore MRT stations](https://github.com/joulev/mrt-badges)
-- [eduardoleao052/js-pytorch - A JavaScript library like PyTorch, built from scratch.](https://github.com/eduardoleao052/js-pytorch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
