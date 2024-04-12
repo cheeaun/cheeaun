@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lmorchard/fossilizer - A static site generator for Mastodon exports](https://github.com/lmorchard/fossilizer)
 - [bluesky-social/react-native-uitextview - A UITextView implementation for React Native that allows for full text highlighting/selection, native translations, etc.](https://github.com/bluesky-social/react-native-uitextview)
 - [thebinarysearchtree/flyweight - An ORM for SQLite](https://github.com/thebinarysearchtree/flyweight)
 - [pixelfed/pixelfed-rn - Pixelfed mobile app](https://github.com/pixelfed/pixelfed-rn)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [railmapgen/rmp-gallery - Browse, set, and submit your RMP works here!](https://github.com/railmapgen/rmp-gallery)
 - [railmapgen/rmp - Design your own rail map by freely dragging stations from different cities and connecting them with 135-degree rounded corners or perpendicular lines!](https://github.com/railmapgen/rmp)
 - [WickyNilliams/cally - Small, feature-rich calendar components](https://github.com/WickyNilliams/cally)
-- [renderlet/wander - wander - the Wasm Renderer](https://github.com/renderlet/wander)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
