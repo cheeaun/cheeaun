@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [humanwhocodes/retry - A JavaScript utility for retrying async methods that reject errors](https://github.com/humanwhocodes/retry)
 - [dansup/pubkitjs - ActivityPub framework, WIP](https://github.com/dansup/pubkitjs)
 - [lmorchard/fossilizer - A static site generator for Mastodon exports](https://github.com/lmorchard/fossilizer)
 - [bluesky-social/react-native-uitextview - A UITextView implementation for React Native that allows for full text highlighting/selection, native translations, etc.](https://github.com/bluesky-social/react-native-uitextview)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [valkey-io/valkey - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.](https://github.com/valkey-io/valkey)
 - [lumeland/lume - 🔥 Static site generator for Deno 🦕](https://github.com/lumeland/lume)
 - [railmapgen/rmp-gallery - Browse, set, and submit your RMP works here!](https://github.com/railmapgen/rmp-gallery)
-- [railmapgen/rmp - Design your own rail map by freely dragging stations from different cities and connecting them with 135-degree rounded corners or perpendicular lines!](https://github.com/railmapgen/rmp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
