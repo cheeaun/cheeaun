@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [acbeers/mastodonlm - Mastodon List Manager](https://github.com/acbeers/mastodonlm)
+- [hueyy/mastodon-lists-manager - Tool for managing lists and followed users on Mastodon](https://github.com/hueyy/mastodon-lists-manager)
 - [nodeca/image-blob-reduce - Resize image blobs with high quality. Pica's wrapper to work with file inputs.](https://github.com/nodeca/image-blob-reduce)
 - [mrkev/webgpu-waveform - Render waveforms to <canvas /> using WebGPU](https://github.com/mrkev/webgpu-waveform)
 - [nalgeon/redka - Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [SuperQAxClub/apple-silicon](https://github.com/SuperQAxClub/apple-silicon)
 - [xkjyeah/paynow-qr-generator - Paynow QR Generator](https://github.com/xkjyeah/paynow-qr-generator)
 - [cutls/TheDesk - Mastodon Client for PC.](https://github.com/cutls/TheDesk)
-- [xtao-org/jsonhilo - Fast lossless JSON parse event streaming, in JavaScript.](https://github.com/xtao-org/jsonhilo)
-- [xtao-org/jsonstrum - A high-level wrapper over JsonHilo which emits fully parsed objects and arrays.](https://github.com/xtao-org/jsonstrum)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
