@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nodeca/image-blob-reduce - Resize image blobs with high quality. Pica's wrapper to work with file inputs.](https://github.com/nodeca/image-blob-reduce)
 - [mrkev/webgpu-waveform - Render waveforms to <canvas /> using WebGPU](https://github.com/mrkev/webgpu-waveform)
 - [nalgeon/redka - Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
 - [bevry/caterpillar - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.](https://github.com/bevry/caterpillar)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cutls/TheDesk - Mastodon Client for PC.](https://github.com/cutls/TheDesk)
 - [xtao-org/jsonhilo - Fast lossless JSON parse event streaming, in JavaScript.](https://github.com/xtao-org/jsonhilo)
 - [xtao-org/jsonstrum - A high-level wrapper over JsonHilo which emits fully parsed objects and arrays.](https://github.com/xtao-org/jsonstrum)
-- [juanjoDiaz/streamparser-json - Streaming JSON parser in Javascript for Node.js and the browser](https://github.com/juanjoDiaz/streamparser-json)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
