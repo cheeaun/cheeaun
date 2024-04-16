@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mrkev/webgpu-waveform - Render waveforms to <canvas /> using WebGPU](https://github.com/mrkev/webgpu-waveform)
 - [nalgeon/redka - Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
 - [bevry/caterpillar - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.](https://github.com/bevry/caterpillar)
 - [humanwhocodes/retry - A JavaScript utility for retrying async methods that reject errors](https://github.com/humanwhocodes/retry)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [xtao-org/jsonhilo - Fast lossless JSON parse event streaming, in JavaScript.](https://github.com/xtao-org/jsonhilo)
 - [xtao-org/jsonstrum - A high-level wrapper over JsonHilo which emits fully parsed objects and arrays.](https://github.com/xtao-org/jsonstrum)
 - [juanjoDiaz/streamparser-json - Streaming JSON parser in Javascript for Node.js and the browser](https://github.com/juanjoDiaz/streamparser-json)
-- [valkey-io/valkey - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.](https://github.com/valkey-io/valkey)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
