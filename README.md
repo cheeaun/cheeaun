@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [IORoot/SVGencode - A simple tool to convert an SVG into different formats, ready for use in CSS and HTML.](https://github.com/IORoot/SVGencode)
+- [loopj/short-stack - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs](https://github.com/loopj/short-stack)
 - [acbeers/mastodonlm - Mastodon List Manager](https://github.com/acbeers/mastodonlm)
 - [hueyy/mastodon-lists-manager - Tool for managing lists and followed users on Mastodon](https://github.com/hueyy/mastodon-lists-manager)
 - [nodeca/image-blob-reduce - Resize image blobs with high quality. Pica's wrapper to work with file inputs.](https://github.com/nodeca/image-blob-reduce)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [thebinarysearchtree/flyweight - An ORM for SQLite](https://github.com/thebinarysearchtree/flyweight)
 - [pixelfed/pixelfed-rn - Pixelfed mobile app](https://github.com/pixelfed/pixelfed-rn)
 - [SuperQAxClub/apple-silicon](https://github.com/SuperQAxClub/apple-silicon)
-- [xkjyeah/paynow-qr-generator - Paynow QR Generator](https://github.com/xkjyeah/paynow-qr-generator)
-- [cutls/TheDesk - Mastodon Client for PC.](https://github.com/cutls/TheDesk)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
