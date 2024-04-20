@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ArtifexSoftware/mupdf.js - JavaScript bindings for MuPDF](https://github.com/ArtifexSoftware/mupdf.js)
 - [iliana/emojos.in - Shows custom emoji for Mastodon/Pleroma instances](https://github.com/iliana/emojos.in)
 - [dahlia/logtape - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers](https://github.com/dahlia/logtape)
 - [IORoot/SVGencode - A simple tool to convert an SVG into different formats, ready for use in CSS and HTML.](https://github.com/IORoot/SVGencode)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dansup/pubkitjs - ActivityPub framework, WIP](https://github.com/dansup/pubkitjs)
 - [lmorchard/fossilizer - A static site generator for Mastodon exports](https://github.com/lmorchard/fossilizer)
 - [bluesky-social/react-native-uitextview - A UITextView implementation for React Native that allows for full text highlighting/selection, native translations, etc.](https://github.com/bluesky-social/react-native-uitextview)
-- [thebinarysearchtree/flyweight - An ORM for SQLite](https://github.com/thebinarysearchtree/flyweight)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
