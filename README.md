@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chr15m/jsfxr - JavaScript sound effects generator.](https://github.com/chr15m/jsfxr)
 - [ArtifexSoftware/mupdf.js - JavaScript bindings for MuPDF](https://github.com/ArtifexSoftware/mupdf.js)
 - [iliana/emojos.in - Shows custom emoji for Mastodon/Pleroma instances](https://github.com/iliana/emojos.in)
 - [dahlia/logtape - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers](https://github.com/dahlia/logtape)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [humanwhocodes/retry - A JavaScript utility for retrying async methods that reject errors](https://github.com/humanwhocodes/retry)
 - [dansup/pubkitjs - ActivityPub framework, WIP](https://github.com/dansup/pubkitjs)
 - [lmorchard/fossilizer - A static site generator for Mastodon exports](https://github.com/lmorchard/fossilizer)
-- [bluesky-social/react-native-uitextview - A UITextView implementation for React Native that allows for full text highlighting/selection, native translations, etc.](https://github.com/bluesky-social/react-native-uitextview)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
