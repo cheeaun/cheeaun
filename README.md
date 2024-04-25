@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stefanbohacek/mastodon-tools - Making Mastodon easier to use.](https://github.com/stefanbohacek/mastodon-tools)
 - [chr15m/jsfxr - JavaScript sound effects generator.](https://github.com/chr15m/jsfxr)
 - [ArtifexSoftware/mupdf.js - JavaScript bindings for MuPDF](https://github.com/ArtifexSoftware/mupdf.js)
 - [iliana/emojos.in - Shows custom emoji for Mastodon/Pleroma instances](https://github.com/iliana/emojos.in)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bevry/caterpillar - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.](https://github.com/bevry/caterpillar)
 - [humanwhocodes/retry - A JavaScript utility for retrying async methods that reject errors](https://github.com/humanwhocodes/retry)
 - [dansup/pubkitjs - ActivityPub framework, WIP](https://github.com/dansup/pubkitjs)
-- [lmorchard/fossilizer - A static site generator for Mastodon exports](https://github.com/lmorchard/fossilizer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
