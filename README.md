@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [threlte/threlte - 3D framework for Svelte](https://github.com/threlte/threlte)
 - [jhhoward/MicroWeb - DOS Web browser for 8088 class machines](https://github.com/jhhoward/MicroWeb)
 - [stefanbohacek/mastodon-tools - Making Mastodon easier to use.](https://github.com/stefanbohacek/mastodon-tools)
 - [chr15m/jsfxr - JavaScript sound effects generator.](https://github.com/chr15m/jsfxr)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mrkev/webgpu-waveform - Render waveforms to <canvas /> using WebGPU](https://github.com/mrkev/webgpu-waveform)
 - [nalgeon/redka - Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
 - [bevry/caterpillar - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.](https://github.com/bevry/caterpillar)
-- [humanwhocodes/retry - A JavaScript utility for retrying async methods that reject errors](https://github.com/humanwhocodes/retry)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
