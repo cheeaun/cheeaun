@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [soundio/music-json - A proposal for a standard way of creating music sequence data in JSON](https://github.com/soundio/music-json)
 - [threlte/threlte - 3D framework for Svelte](https://github.com/threlte/threlte)
 - [jhhoward/MicroWeb - DOS Web browser for 8088 class machines](https://github.com/jhhoward/MicroWeb)
 - [stefanbohacek/mastodon-tools - Making Mastodon easier to use.](https://github.com/stefanbohacek/mastodon-tools)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nodeca/image-blob-reduce - Resize image blobs with high quality. Pica's wrapper to work with file inputs.](https://github.com/nodeca/image-blob-reduce)
 - [mrkev/webgpu-waveform - Render waveforms to <canvas /> using WebGPU](https://github.com/mrkev/webgpu-waveform)
 - [nalgeon/redka - Redis re-implemented with SQLite](https://github.com/nalgeon/redka)
-- [bevry/caterpillar - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.](https://github.com/bevry/caterpillar)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
