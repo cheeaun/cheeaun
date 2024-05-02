@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fedikit/fedikit - 🧱 Building Blocks for Fediverse.](https://github.com/fedikit/fedikit)
 - [cezaraugusto/extension.js - 🧩 Plug-and-play, zero-config, cross-browser extension development tool. ](https://github.com/cezaraugusto/extension.js)
 - [soundio/music-json - A proposal for a standard way of creating music sequence data in JSON](https://github.com/soundio/music-json)
 - [threlte/threlte - 3D framework for Svelte](https://github.com/threlte/threlte)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [acbeers/mastodonlm - Mastodon List Manager](https://github.com/acbeers/mastodonlm)
 - [hueyy/mastodon-lists-manager - Tool for managing lists and followed users on Mastodon](https://github.com/hueyy/mastodon-lists-manager)
 - [nodeca/image-blob-reduce - Resize image blobs with high quality. Pica's wrapper to work with file inputs.](https://github.com/nodeca/image-blob-reduce)
-- [mrkev/webgpu-waveform - Render waveforms to <canvas /> using WebGPU](https://github.com/mrkev/webgpu-waveform)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
