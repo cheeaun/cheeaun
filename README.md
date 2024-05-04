@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [abi/secret-llama - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.](https://github.com/abi/secret-llama)
+- [xM4ddy/OFGB - GUI Tool To Removes Ads From Various Places Around Windows 11](https://github.com/xM4ddy/OFGB)
 - [fedikit/fedikit - 🧱 Building Blocks for Fediverse.](https://github.com/fedikit/fedikit)
 - [cezaraugusto/extension.js - 🧩 Plug-and-play, zero-config, cross-browser extension development tool. ](https://github.com/cezaraugusto/extension.js)
 - [soundio/music-json - A proposal for a standard way of creating music sequence data in JSON](https://github.com/soundio/music-json)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [IORoot/SVGencode - A simple tool to convert an SVG into different formats, ready for use in CSS and HTML.](https://github.com/IORoot/SVGencode)
 - [loopj/short-stack - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs](https://github.com/loopj/short-stack)
 - [acbeers/mastodonlm - Mastodon List Manager](https://github.com/acbeers/mastodonlm)
-- [hueyy/mastodon-lists-manager - Tool for managing lists and followed users on Mastodon](https://github.com/hueyy/mastodon-lists-manager)
-- [nodeca/image-blob-reduce - Resize image blobs with high quality. Pica's wrapper to work with file inputs.](https://github.com/nodeca/image-blob-reduce)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
