@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [SAWARATSUKI/Logos](https://github.com/SAWARATSUKI/Logos)
+- [virtulis/substitoot - A transparent toot fetcher for Mastodon. Loads missing replies to boosted toots in your feed directly from the source server. ](https://github.com/virtulis/substitoot)
+- [grishka/Smithereen - Federated, ActivityPub-compatible social network server with friends, walls, and groups.](https://github.com/grishka/Smithereen)
 - [ai-robots-txt/ai.robots.txt - A list of AI agents and robots to block.](https://github.com/ai-robots-txt/ai.robots.txt)
 - [abi/secret-llama - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.](https://github.com/abi/secret-llama)
 - [xM4ddy/OFGB - GUI Tool To Removes Ads From Various Places Around Windows 11](https://github.com/xM4ddy/OFGB)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chr15m/jsfxr - JavaScript sound effects generator.](https://github.com/chr15m/jsfxr)
 - [ArtifexSoftware/mupdf.js - JavaScript bindings for MuPDF](https://github.com/ArtifexSoftware/mupdf.js)
 - [iliana/emojos.in - Shows custom emoji for Mastodon/Pleroma instances](https://github.com/iliana/emojos.in)
-- [dahlia/logtape - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers](https://github.com/dahlia/logtape)
-- [IORoot/SVGencode - A simple tool to convert an SVG into different formats, ready for use in CSS and HTML.](https://github.com/IORoot/SVGencode)
-- [loopj/short-stack - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs](https://github.com/loopj/short-stack)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
