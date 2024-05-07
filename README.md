@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ProgressiveWebComponents/pwa-install - A tiny zero-dependency non-visual native browser web component (custom HTML element and class) that helps implement custom patterns for promoting progressive web apps (PWA) installation](https://github.com/ProgressiveWebComponents/pwa-install)
 - [SAWARATSUKI/Logos](https://github.com/SAWARATSUKI/Logos)
 - [virtulis/substitoot - A transparent toot fetcher for Mastodon. Loads missing replies to boosted toots in your feed directly from the source server. ](https://github.com/virtulis/substitoot)
 - [grishka/Smithereen - Federated, ActivityPub-compatible social network server with friends, walls, and groups.](https://github.com/grishka/Smithereen)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [stefanbohacek/mastodon-tools - Making Mastodon easier to use.](https://github.com/stefanbohacek/mastodon-tools)
 - [chr15m/jsfxr - JavaScript sound effects generator.](https://github.com/chr15m/jsfxr)
 - [ArtifexSoftware/mupdf.js - JavaScript bindings for MuPDF](https://github.com/ArtifexSoftware/mupdf.js)
-- [iliana/emojos.in - Shows custom emoji for Mastodon/Pleroma instances](https://github.com/iliana/emojos.in)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
