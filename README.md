@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dahlia/markdown-it-mention - A markdown-it plugin that parses and renders Mastodon-style @mentions](https://github.com/dahlia/markdown-it-mention)
 - [nashaofu/xcap - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).](https://github.com/nashaofu/xcap)
 - [nashaofu/node-screenshots - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.](https://github.com/nashaofu/node-screenshots)
 - [andresz1/size-limit-action - Compare the real cost to run your JS app or lib to keep good performance in every pull request](https://github.com/andresz1/size-limit-action)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cezaraugusto/extension.js - 🧩 Plug-and-play, zero-config, cross-browser extension development tool. ](https://github.com/cezaraugusto/extension.js)
 - [soundio/music-json - A proposal for a standard way of creating music sequence data in JSON](https://github.com/soundio/music-json)
 - [threlte/threlte - 3D framework for Svelte](https://github.com/threlte/threlte)
-- [jhhoward/MicroWeb - DOS Web browser for 8088 class machines](https://github.com/jhhoward/MicroWeb)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
