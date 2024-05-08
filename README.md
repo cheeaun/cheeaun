@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nashaofu/xcap - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).](https://github.com/nashaofu/xcap)
+- [nashaofu/node-screenshots - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.](https://github.com/nashaofu/node-screenshots)
 - [andresz1/size-limit-action - Compare the real cost to run your JS app or lib to keep good performance in every pull request](https://github.com/andresz1/size-limit-action)
 - [ProgressiveWebComponents/pwa-install - A tiny zero-dependency non-visual native browser web component (custom HTML element and class) that helps implement custom patterns for promoting progressive web apps (PWA) installation](https://github.com/ProgressiveWebComponents/pwa-install)
 - [SAWARATSUKI/Logos](https://github.com/SAWARATSUKI/Logos)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [soundio/music-json - A proposal for a standard way of creating music sequence data in JSON](https://github.com/soundio/music-json)
 - [threlte/threlte - 3D framework for Svelte](https://github.com/threlte/threlte)
 - [jhhoward/MicroWeb - DOS Web browser for 8088 class machines](https://github.com/jhhoward/MicroWeb)
-- [stefanbohacek/mastodon-tools - Making Mastodon easier to use.](https://github.com/stefanbohacek/mastodon-tools)
-- [chr15m/jsfxr - JavaScript sound effects generator.](https://github.com/chr15m/jsfxr)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
