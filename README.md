@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nudeui/element](https://github.com/nudeui/element)
+- [unjs/unrouting - Making filesystem routing universal](https://github.com/unjs/unrouting)
+- [surma/wasmphobia](https://github.com/surma/wasmphobia)
 - [Ender-Wiggin2019/VTuber-Logos-Collection](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)
 - [alefore/knit - Software for knitting](https://github.com/alefore/knit)
 - [dahlia/markdown-it-mention - A markdown-it plugin that parses and renders Mastodon-style @mentions](https://github.com/dahlia/markdown-it-mention)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [grishka/Smithereen - Federated, ActivityPub-compatible social network server with friends, walls, and groups.](https://github.com/grishka/Smithereen)
 - [ai-robots-txt/ai.robots.txt - A list of AI agents and robots to block.](https://github.com/ai-robots-txt/ai.robots.txt)
 - [abi/secret-llama - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.](https://github.com/abi/secret-llama)
-- [xM4ddy/OFGB - GUI Tool To Removes Ads From Various Places Around Windows 11](https://github.com/xM4ddy/OFGB)
-- [fedikit/fedikit - 🧱 Building Blocks for Fediverse.](https://github.com/fedikit/fedikit)
-- [cezaraugusto/extension.js - 🧩 Plug-and-play, zero-config, cross-browser extension development tool. ](https://github.com/cezaraugusto/extension.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
