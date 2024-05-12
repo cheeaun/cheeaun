@@ -30,7 +30,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nudeui/element](https://github.com/nudeui/element)
 - [unjs/unrouting - Making filesystem routing universal](https://github.com/unjs/unrouting)
 - [surma/wasmphobia](https://github.com/surma/wasmphobia)
-- [Ender-Wiggin2019/VTuber-Logos-Collection](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)
+- [Ender-Wiggin2019/VTuber-Logos-Collection - an elegant website for collecting kawaii logos from great artists](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)
 - [alefore/knit - Software for knitting](https://github.com/alefore/knit)
 - [dahlia/markdown-it-mention - A markdown-it plugin that parses and renders Mastodon-style @mentions](https://github.com/dahlia/markdown-it-mention)
 - [nashaofu/xcap - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).](https://github.com/nashaofu/xcap)
