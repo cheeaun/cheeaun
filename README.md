@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [anymaniax/orval - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺](https://github.com/anymaniax/orval)
 - [nudeui/element](https://github.com/nudeui/element)
 - [unjs/unrouting - Making filesystem routing universal](https://github.com/unjs/unrouting)
 - [surma/wasmphobia](https://github.com/surma/wasmphobia)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [virtulis/substitoot - A transparent toot fetcher for Mastodon. Loads missing replies to boosted toots in your feed directly from the source server. ](https://github.com/virtulis/substitoot)
 - [grishka/Smithereen - Federated, ActivityPub-compatible social network server with friends, walls, and groups.](https://github.com/grishka/Smithereen)
 - [ai-robots-txt/ai.robots.txt - A list of AI agents and robots to block.](https://github.com/ai-robots-txt/ai.robots.txt)
-- [abi/secret-llama - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.](https://github.com/abi/secret-llama)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
