@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alt-text-org/my.alt-text.org - A set of tools for alt text users and writers](https://github.com/alt-text-org/my.alt-text.org)
+- [dahlia/x-forwarded-fetch - A middleware for fetch() behind a reverse proxy with X-Forwarded-* headers](https://github.com/dahlia/x-forwarded-fetch)
 - [anymaniax/orval - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺](https://github.com/anymaniax/orval)
 - [nudeui/element](https://github.com/nudeui/element)
 - [unjs/unrouting - Making filesystem routing universal](https://github.com/unjs/unrouting)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ProgressiveWebComponents/pwa-install - A tiny zero-dependency non-visual native browser web component (custom HTML element and class) that helps implement custom patterns for promoting progressive web apps (PWA) installation](https://github.com/ProgressiveWebComponents/pwa-install)
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
 - [virtulis/substitoot - A transparent toot fetcher for Mastodon. Loads missing replies to boosted toots in your feed directly from the source server. ](https://github.com/virtulis/substitoot)
-- [grishka/Smithereen - Federated, ActivityPub-compatible social network server with friends, walls, and groups.](https://github.com/grishka/Smithereen)
-- [ai-robots-txt/ai.robots.txt - A list of AI agents and robots to block.](https://github.com/ai-robots-txt/ai.robots.txt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
