@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [postcss/postcss-selector-parser - A CSS selector parser, integrates with postcss but does not require it.](https://github.com/postcss/postcss-selector-parser)
+- [ogxd/gxhash - The fastest hashing algorithm 📈](https://github.com/ogxd/gxhash)
 - [alt-text-org/my.alt-text.org - A set of tools for alt text users and writers](https://github.com/alt-text-org/my.alt-text.org)
 - [dahlia/x-forwarded-fetch - A middleware for fetch() behind a reverse proxy with X-Forwarded-* headers](https://github.com/dahlia/x-forwarded-fetch)
 - [anymaniax/orval - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺](https://github.com/anymaniax/orval)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nashaofu/node-screenshots - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.](https://github.com/nashaofu/node-screenshots)
 - [andresz1/size-limit-action - Compare the real cost to run your JS app or lib to keep good performance in every pull request](https://github.com/andresz1/size-limit-action)
 - [ProgressiveWebComponents/pwa-install - A tiny zero-dependency non-visual native browser web component (custom HTML element and class) that helps implement custom patterns for promoting progressive web apps (PWA) installation](https://github.com/ProgressiveWebComponents/pwa-install)
-- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
-- [virtulis/substitoot - A transparent toot fetcher for Mastodon. Loads missing replies to boosted toots in your feed directly from the source server. ](https://github.com/virtulis/substitoot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
