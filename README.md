@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [robertknight/ocrs - Rust library and CLI tool for OCR (extracting text from images)](https://github.com/robertknight/ocrs)
 - [postcss/postcss-selector-parser - A CSS selector parser, integrates with postcss but does not require it.](https://github.com/postcss/postcss-selector-parser)
 - [ogxd/gxhash - The fastest hashing algorithm 📈](https://github.com/ogxd/gxhash)
 - [alt-text-org/my.alt-text.org - A set of tools for alt text users and writers](https://github.com/alt-text-org/my.alt-text.org)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nashaofu/xcap - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).](https://github.com/nashaofu/xcap)
 - [nashaofu/node-screenshots - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.](https://github.com/nashaofu/node-screenshots)
 - [andresz1/size-limit-action - Compare the real cost to run your JS app or lib to keep good performance in every pull request](https://github.com/andresz1/size-limit-action)
-- [ProgressiveWebComponents/pwa-install - A tiny zero-dependency non-visual native browser web component (custom HTML element and class) that helps implement custom patterns for promoting progressive web apps (PWA) installation](https://github.com/ProgressiveWebComponents/pwa-install)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
