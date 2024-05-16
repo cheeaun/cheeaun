@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oslo-project/oauth2 - A simple client library for OAuth 2.0](https://github.com/oslo-project/oauth2)
+- [nkzw-tech/athena-crisis - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.](https://github.com/nkzw-tech/athena-crisis)
 - [Headbright/applink - A simple stateless privacy-protecting URL redirecting service for cross-platform apps](https://github.com/Headbright/applink)
 - [robertknight/ocrs - Rust library and CLI tool for OCR (extracting text from images)](https://github.com/robertknight/ocrs)
 - [postcss/postcss-selector-parser - A CSS selector parser, integrates with postcss but does not require it.](https://github.com/postcss/postcss-selector-parser)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Ender-Wiggin2019/VTuber-Logos-Collection - an elegant website for collecting kawaii logos from great artists](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)
 - [alefore/knit - Software for knitting](https://github.com/alefore/knit)
 - [dahlia/markdown-it-mention - A markdown-it plugin that parses and renders Mastodon-style @mentions](https://github.com/dahlia/markdown-it-mention)
-- [nashaofu/xcap - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).](https://github.com/nashaofu/xcap)
-- [nashaofu/node-screenshots - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.](https://github.com/nashaofu/node-screenshots)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
