@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stefanbohacek/fediverse-info](https://github.com/stefanbohacek/fediverse-info)
 - [oslo-project/oauth2 - A simple client library for OAuth 2.0](https://github.com/oslo-project/oauth2)
 - [nkzw-tech/athena-crisis - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.](https://github.com/nkzw-tech/athena-crisis)
 - [Headbright/applink - A simple stateless privacy-protecting URL redirecting service for cross-platform apps](https://github.com/Headbright/applink)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [surma/wasmphobia](https://github.com/surma/wasmphobia)
 - [Ender-Wiggin2019/VTuber-Logos-Collection - an elegant website for collecting kawaii logos from great artists](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)
 - [alefore/knit - Software for knitting](https://github.com/alefore/knit)
-- [dahlia/markdown-it-mention - A markdown-it plugin that parses and renders Mastodon-style @mentions](https://github.com/dahlia/markdown-it-mention)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
