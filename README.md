@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [insidegui/AudioCap - Sample code for recording system audio on macOS 14.4+](https://github.com/insidegui/AudioCap)
+- [stefanbohacek/fediverse-share-button - Let your site's visitors share your work with the fediverse!](https://github.com/stefanbohacek/fediverse-share-button)
 - [stefanbohacek/fediverse-info](https://github.com/stefanbohacek/fediverse-info)
 - [oslo-project/oauth2 - A simple client library for OAuth 2.0](https://github.com/oslo-project/oauth2)
 - [nkzw-tech/athena-crisis - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.](https://github.com/nkzw-tech/athena-crisis)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nudeui/element](https://github.com/nudeui/element)
 - [unjs/unrouting - Making filesystem routing universal](https://github.com/unjs/unrouting)
 - [surma/wasmphobia](https://github.com/surma/wasmphobia)
-- [Ender-Wiggin2019/VTuber-Logos-Collection - an elegant website for collecting kawaii logos from great artists](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)
-- [alefore/knit - Software for knitting](https://github.com/alefore/knit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
