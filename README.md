@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jawj/xlsxtable - A small, simple library to create nice .xlsx Excel files from tabular data](https://github.com/jawj/xlsxtable)
+- [jawj/littlezipper - Small, fast .zip library using native CompressionStream, suits server and client](https://github.com/jawj/littlezipper)
+- [xkjyeah/sgqr-inspector - Inspect SGQR codes](https://github.com/xkjyeah/sgqr-inspector)
 - [friendica/friendica - Friendica Communications Platform](https://github.com/friendica/friendica)
 - [WICG/translation-api - A proposal for a web translation API](https://github.com/WICG/translation-api)
 - [stefanbohacek/stefans-open-source-work-fund](https://github.com/stefanbohacek/stefans-open-source-work-fund)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [robertknight/ocrs - Rust library and CLI tool for OCR (extracting text from images)](https://github.com/robertknight/ocrs)
 - [postcss/postcss-selector-parser - A CSS selector parser, integrates with postcss but does not require it.](https://github.com/postcss/postcss-selector-parser)
 - [ogxd/gxhash - The fastest hashing algorithm 📈](https://github.com/ogxd/gxhash)
-- [alt-text-org/my.alt-text.org - A set of tools for alt text users and writers](https://github.com/alt-text-org/my.alt-text.org)
-- [dahlia/x-forwarded-fetch - A middleware for fetch() behind a reverse proxy with X-Forwarded-* headers](https://github.com/dahlia/x-forwarded-fetch)
-- [anymaniax/orval - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺](https://github.com/anymaniax/orval)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
