@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [friendica/friendica - Friendica Communications Platform](https://github.com/friendica/friendica)
 - [WICG/translation-api - A proposal for a web translation API](https://github.com/WICG/translation-api)
 - [stefanbohacek/stefans-open-source-work-fund](https://github.com/stefanbohacek/stefans-open-source-work-fund)
 - [insidegui/AudioCap - Sample code for recording system audio on macOS 14.4+](https://github.com/insidegui/AudioCap)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [alt-text-org/my.alt-text.org - A set of tools for alt text users and writers](https://github.com/alt-text-org/my.alt-text.org)
 - [dahlia/x-forwarded-fetch - A middleware for fetch() behind a reverse proxy with X-Forwarded-* headers](https://github.com/dahlia/x-forwarded-fetch)
 - [anymaniax/orval - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺](https://github.com/anymaniax/orval)
-- [nudeui/element](https://github.com/nudeui/element)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
