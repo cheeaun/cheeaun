@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [philcowans/fcli - A command line Mastodon / Fediverse client](https://github.com/philcowans/fcli)
+- [iansan5653/dom-input-range - `Range`-like API for input and textarea contents](https://github.com/iansan5653/dom-input-range)
 - [jawj/xlsxtable - A small, simple library to create nice .xlsx Excel files from tabular data](https://github.com/jawj/xlsxtable)
 - [jawj/littlezipper - Small, fast .zip library using native CompressionStream, suits server and client](https://github.com/jawj/littlezipper)
 - [xkjyeah/sgqr-inspector - Inspect SGQR codes](https://github.com/xkjyeah/sgqr-inspector)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nkzw-tech/athena-crisis - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.](https://github.com/nkzw-tech/athena-crisis)
 - [Headbright/applink - A simple stateless privacy-protecting URL redirecting service for cross-platform apps](https://github.com/Headbright/applink)
 - [robertknight/ocrs - Rust library and CLI tool for OCR (extracting text from images)](https://github.com/robertknight/ocrs)
-- [postcss/postcss-selector-parser - A CSS selector parser, integrates with postcss but does not require it.](https://github.com/postcss/postcss-selector-parser)
-- [ogxd/gxhash - The fastest hashing algorithm 📈](https://github.com/ogxd/gxhash)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
