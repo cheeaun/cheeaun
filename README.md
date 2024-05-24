@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ntdevlabs/tiny11builder - Scripts to build a trimmed-down Windows 11 image.](https://github.com/ntdevlabs/tiny11builder)
 - [philcowans/fcli - A command line Mastodon / Fediverse client](https://github.com/philcowans/fcli)
 - [iansan5653/dom-input-range - `Range`-like API for input and textarea contents](https://github.com/iansan5653/dom-input-range)
 - [jawj/xlsxtable - A small, simple library to create nice .xlsx Excel files from tabular data](https://github.com/jawj/xlsxtable)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [oslo-project/oauth2 - A simple client library for OAuth 2.0](https://github.com/oslo-project/oauth2)
 - [nkzw-tech/athena-crisis - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.](https://github.com/nkzw-tech/athena-crisis)
 - [Headbright/applink - A simple stateless privacy-protecting URL redirecting service for cross-platform apps](https://github.com/Headbright/applink)
-- [robertknight/ocrs - Rust library and CLI tool for OCR (extracting text from images)](https://github.com/robertknight/ocrs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
