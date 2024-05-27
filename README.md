@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [marijnh/w3c-keyname - Get a KeyboardEvent.key-style string from an event](https://github.com/marijnh/w3c-keyname)
+- [kriszyp/cbor-x - Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning](https://github.com/kriszyp/cbor-x)
+- [Donaldcwl/browser-image-compression - Image compression in web browser](https://github.com/Donaldcwl/browser-image-compression)
 - [PistonDevelopers/resize - Simple resampling library in pure Rust](https://github.com/PistonDevelopers/resize)
 - [jamsinclair/jSquash - Browser & Web Worker focussed wasm bundles derived from the Squoosh App.](https://github.com/jamsinclair/jSquash)
 - [serverlessmaps/serverlessmaps - Creating and hosting serverless maps](https://github.com/serverlessmaps/serverlessmaps)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [friendica/friendica - Friendica Communications Platform](https://github.com/friendica/friendica)
 - [WICG/translation-api - A proposal for a web translation API](https://github.com/WICG/translation-api)
 - [stefanbohacek/stefans-open-source-work-fund](https://github.com/stefanbohacek/stefans-open-source-work-fund)
-- [insidegui/AudioCap - Sample code for recording system audio on macOS 14.4+](https://github.com/insidegui/AudioCap)
-- [stefanbohacek/fediverse-share-button - Let your site's visitors share your work with the fediverse!](https://github.com/stefanbohacek/fediverse-share-button)
-- [stefanbohacek/fediverse-info](https://github.com/stefanbohacek/fediverse-info)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
