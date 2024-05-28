@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [knickish/heffalump_conduit - hotsync conduit for Heffalump (palmOS mastodon client)](https://github.com/knickish/heffalump_conduit)
+- [technicat/TootSDK - Fork of TootSDK for Fedicat](https://github.com/technicat/TootSDK)
 - [dahlia/hollo - Federated single-user microblogging software](https://github.com/dahlia/hollo)
 - [marijnh/w3c-keyname - Get a KeyboardEvent.key-style string from an event](https://github.com/marijnh/w3c-keyname)
 - [kriszyp/cbor-x - Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning](https://github.com/kriszyp/cbor-x)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jawj/xlsxtable - A small, simple library to create nice .xlsx Excel files from tabular data](https://github.com/jawj/xlsxtable)
 - [jawj/littlezipper - Small, fast .zip library using native CompressionStream, suits server and client](https://github.com/jawj/littlezipper)
 - [xkjyeah/sgqr-inspector - Inspect SGQR codes](https://github.com/xkjyeah/sgqr-inspector)
-- [friendica/friendica - Friendica Communications Platform](https://github.com/friendica/friendica)
-- [WICG/translation-api - A proposal for a web translation API](https://github.com/WICG/translation-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
