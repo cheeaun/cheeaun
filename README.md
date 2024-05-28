@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [reggi/mastodon-audio-player-web-component - 🐘🎧 Mastodon Audio Player Web Component](https://github.com/reggi/mastodon-audio-player-web-component)
 - [knickish/heffalump_conduit - hotsync conduit for Heffalump (palmOS mastodon client)](https://github.com/knickish/heffalump_conduit)
 - [technicat/TootSDK - Fork of TootSDK for Fedicat](https://github.com/technicat/TootSDK)
 - [dahlia/hollo - Federated single-user microblogging software](https://github.com/dahlia/hollo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [iansan5653/dom-input-range - `Range`-like API for input and textarea contents](https://github.com/iansan5653/dom-input-range)
 - [jawj/xlsxtable - A small, simple library to create nice .xlsx Excel files from tabular data](https://github.com/jawj/xlsxtable)
 - [jawj/littlezipper - Small, fast .zip library using native CompressionStream, suits server and client](https://github.com/jawj/littlezipper)
-- [xkjyeah/sgqr-inspector - Inspect SGQR codes](https://github.com/xkjyeah/sgqr-inspector)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
