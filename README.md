@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dahlia/hollo - Federated single-user microblogging software](https://github.com/dahlia/hollo)
 - [marijnh/w3c-keyname - Get a KeyboardEvent.key-style string from an event](https://github.com/marijnh/w3c-keyname)
 - [kriszyp/cbor-x - Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning](https://github.com/kriszyp/cbor-x)
 - [Donaldcwl/browser-image-compression - Image compression in web browser](https://github.com/Donaldcwl/browser-image-compression)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [xkjyeah/sgqr-inspector - Inspect SGQR codes](https://github.com/xkjyeah/sgqr-inspector)
 - [friendica/friendica - Friendica Communications Platform](https://github.com/friendica/friendica)
 - [WICG/translation-api - A proposal for a web translation API](https://github.com/WICG/translation-api)
-- [stefanbohacek/stefans-open-source-work-fund](https://github.com/stefanbohacek/stefans-open-source-work-fund)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
