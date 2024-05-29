@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [szimek/signature_pad - HTML5 canvas based smooth signature drawing](https://github.com/szimek/signature_pad)
 - [2noise/ChatTTS - ChatTTS is a generative speech model for daily dialogue.](https://github.com/2noise/ChatTTS)
 - [yanthomasdev/lunaria - The missing localization management toolchain for open-source projects](https://github.com/yanthomasdev/lunaria)
 - [spreadmastodonsite/spread-mastodon](https://github.com/spreadmastodonsite/spread-mastodon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jamsinclair/jSquash - Browser & Web Worker focussed wasm bundles derived from the Squoosh App.](https://github.com/jamsinclair/jSquash)
 - [serverlessmaps/serverlessmaps - Creating and hosting serverless maps](https://github.com/serverlessmaps/serverlessmaps)
 - [ntdevlabs/tiny11builder - Scripts to build a trimmed-down Windows 11 image.](https://github.com/ntdevlabs/tiny11builder)
-- [philcowans/fcli - A command line Mastodon / Fediverse client](https://github.com/philcowans/fcli)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
