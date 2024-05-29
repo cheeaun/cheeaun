@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [2noise/ChatTTS - ChatTTS is a generative speech model for daily dialogue.](https://github.com/2noise/ChatTTS)
 - [yanthomasdev/lunaria - The missing localization management toolchain for open-source projects](https://github.com/yanthomasdev/lunaria)
 - [spreadmastodonsite/spread-mastodon](https://github.com/spreadmastodonsite/spread-mastodon)
 - [reggi/mastodon-audio-player-web-component - 🐘🎧 Mastodon Audio Player Web Component](https://github.com/reggi/mastodon-audio-player-web-component)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [serverlessmaps/serverlessmaps - Creating and hosting serverless maps](https://github.com/serverlessmaps/serverlessmaps)
 - [ntdevlabs/tiny11builder - Scripts to build a trimmed-down Windows 11 image.](https://github.com/ntdevlabs/tiny11builder)
 - [philcowans/fcli - A command line Mastodon / Fediverse client](https://github.com/philcowans/fcli)
-- [iansan5653/dom-input-range - `Range`-like API for input and textarea contents](https://github.com/iansan5653/dom-input-range)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
