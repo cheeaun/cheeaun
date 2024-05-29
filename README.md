@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yanthomasdev/lunaria - The missing localization management toolchain for open-source projects](https://github.com/yanthomasdev/lunaria)
 - [spreadmastodonsite/spread-mastodon](https://github.com/spreadmastodonsite/spread-mastodon)
 - [reggi/mastodon-audio-player-web-component - 🐘🎧 Mastodon Audio Player Web Component](https://github.com/reggi/mastodon-audio-player-web-component)
 - [knickish/heffalump_conduit - hotsync conduit for Heffalump (palmOS mastodon client)](https://github.com/knickish/heffalump_conduit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ntdevlabs/tiny11builder - Scripts to build a trimmed-down Windows 11 image.](https://github.com/ntdevlabs/tiny11builder)
 - [philcowans/fcli - A command line Mastodon / Fediverse client](https://github.com/philcowans/fcli)
 - [iansan5653/dom-input-range - `Range`-like API for input and textarea contents](https://github.com/iansan5653/dom-input-range)
-- [jawj/xlsxtable - A small, simple library to create nice .xlsx Excel files from tabular data](https://github.com/jawj/xlsxtable)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
