@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [0x2E/fusion - A lightweight, self-hosted friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
+- [lihaoyun6/QuickRecorder - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具](https://github.com/lihaoyun6/QuickRecorder)
 - [CesiumChina/cesium-map - Cesium 地图插件，用于添加国内各大地图厂商的地图🌎](https://github.com/CesiumChina/cesium-map)
 - [adobe/spectrum-web-components - Spectrum Web Components](https://github.com/adobe/spectrum-web-components)
 - [Pony-House/Client - The open source house, your house, the house for all matrix ponies](https://github.com/Pony-House/Client)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [knickish/heffalump_conduit - hotsync conduit for Heffalump (palmOS mastodon client)](https://github.com/knickish/heffalump_conduit)
 - [technicat/TootSDK - Fork of TootSDK for Fedicat](https://github.com/technicat/TootSDK)
 - [dahlia/hollo - Federated single-user microblogging software](https://github.com/dahlia/hollo)
-- [marijnh/w3c-keyname - Get a KeyboardEvent.key-style string from an event](https://github.com/marijnh/w3c-keyname)
-- [kriszyp/cbor-x - Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning](https://github.com/kriszyp/cbor-x)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
