@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Pony-House/Client - The open source house, your house, the house for all matrix ponies](https://github.com/Pony-House/Client)
+- [luwes/selectlist-polyfill - Polyfill for the selectlist element](https://github.com/luwes/selectlist-polyfill)
+- [marklovers/kaplay - 🦖 A JavaScript game library](https://github.com/marklovers/kaplay)
 - [szimek/signature_pad - HTML5 canvas based smooth signature drawing](https://github.com/szimek/signature_pad)
 - [2noise/ChatTTS - ChatTTS is a generative speech model for daily dialogue.](https://github.com/2noise/ChatTTS)
 - [yanthomasdev/lunaria - The missing localization management toolchain for open-source projects](https://github.com/yanthomasdev/lunaria)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kriszyp/cbor-x - Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning](https://github.com/kriszyp/cbor-x)
 - [Donaldcwl/browser-image-compression - Image compression in web browser](https://github.com/Donaldcwl/browser-image-compression)
 - [PistonDevelopers/resize - Simple resampling library in pure Rust](https://github.com/PistonDevelopers/resize)
-- [jamsinclair/jSquash - Browser & Web Worker focussed wasm bundles derived from the Squoosh App.](https://github.com/jamsinclair/jSquash)
-- [serverlessmaps/serverlessmaps - Creating and hosting serverless maps](https://github.com/serverlessmaps/serverlessmaps)
-- [ntdevlabs/tiny11builder - Scripts to build a trimmed-down Windows 11 image.](https://github.com/ntdevlabs/tiny11builder)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
