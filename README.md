@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CesiumChina/cesium-map - Cesium 地图插件，用于添加国内各大地图厂商的地图🌎](https://github.com/CesiumChina/cesium-map)
+- [adobe/spectrum-web-components - Spectrum Web Components](https://github.com/adobe/spectrum-web-components)
 - [Pony-House/Client - The open source house, your house, the house for all matrix ponies](https://github.com/Pony-House/Client)
 - [luwes/selectlist-polyfill - Polyfill for the selectlist element](https://github.com/luwes/selectlist-polyfill)
 - [marklovers/kaplay - 🦖 A JavaScript game library](https://github.com/marklovers/kaplay)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dahlia/hollo - Federated single-user microblogging software](https://github.com/dahlia/hollo)
 - [marijnh/w3c-keyname - Get a KeyboardEvent.key-style string from an event](https://github.com/marijnh/w3c-keyname)
 - [kriszyp/cbor-x - Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning](https://github.com/kriszyp/cbor-x)
-- [Donaldcwl/browser-image-compression - Image compression in web browser](https://github.com/Donaldcwl/browser-image-compression)
-- [PistonDevelopers/resize - Simple resampling library in pure Rust](https://github.com/PistonDevelopers/resize)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
