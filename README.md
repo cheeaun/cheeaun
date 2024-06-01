@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rough-stuff/wired-elements - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.](https://github.com/rough-stuff/wired-elements)
+- [tomayac/fetch-in-chunks - A utility for fetching large files in chunks with support for parallel downloads and progress tracking.](https://github.com/tomayac/fetch-in-chunks)
 - [0x2E/fusion - A lightweight, self-hosted friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
 - [lihaoyun6/QuickRecorder - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具](https://github.com/lihaoyun6/QuickRecorder)
 - [CesiumChina/cesium-map - Cesium 地图插件，用于添加国内各大地图厂商的地图🌎](https://github.com/CesiumChina/cesium-map)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [spreadmastodonsite/spread-mastodon](https://github.com/spreadmastodonsite/spread-mastodon)
 - [reggi/mastodon-audio-player-web-component - 🐘🎧 Mastodon Audio Player Web Component](https://github.com/reggi/mastodon-audio-player-web-component)
 - [knickish/heffalump_conduit - hotsync conduit for Heffalump (palmOS mastodon client)](https://github.com/knickish/heffalump_conduit)
-- [technicat/TootSDK - Fork of TootSDK for Fedicat](https://github.com/technicat/TootSDK)
-- [dahlia/hollo - Federated single-user microblogging software](https://github.com/dahlia/hollo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
