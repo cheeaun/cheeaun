@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mimonelu/klearsky - Klearsky is a web client for Bluesky.](https://github.com/mimonelu/klearsky)
 - [mozilla/distilvit - image-to-text model for PDF.js](https://github.com/mozilla/distilvit)
 - [jdecked/twemoji - Emoji for everyone.](https://github.com/jdecked/twemoji)
 - [rough-stuff/wired-elements - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.](https://github.com/rough-stuff/wired-elements)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [szimek/signature_pad - HTML5 canvas based smooth signature drawing](https://github.com/szimek/signature_pad)
 - [2noise/ChatTTS - ChatTTS is a generative speech model for daily dialogue.](https://github.com/2noise/ChatTTS)
 - [yanthomasdev/lunaria - The missing localization management toolchain for open-source projects](https://github.com/yanthomasdev/lunaria)
-- [spreadmastodonsite/spread-mastodon](https://github.com/spreadmastodonsite/spread-mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
