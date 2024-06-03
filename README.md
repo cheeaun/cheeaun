@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [charmbracelet/freeze - Generate images of code and terminal output 📸](https://github.com/charmbracelet/freeze)
 - [evidence-dev/evidence - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown](https://github.com/evidence-dev/evidence)
 - [piqoni/hn-text - A text-first HN client. ](https://github.com/piqoni/hn-text)
 - [Atlas-OS/Atlas - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.](https://github.com/Atlas-OS/Atlas)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [adobe/spectrum-web-components - Spectrum Web Components](https://github.com/adobe/spectrum-web-components)
 - [Pony-House/Client - The open source house, your house, the house for all matrix ponies](https://github.com/Pony-House/Client)
 - [luwes/selectlist-polyfill - Polyfill for the selectlist element](https://github.com/luwes/selectlist-polyfill)
-- [marklovers/kaplay - 🦖 A JavaScript game library](https://github.com/marklovers/kaplay)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
