@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [piqoni/hn-text - A text-first HN client. ](https://github.com/piqoni/hn-text)
+- [Atlas-OS/Atlas - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.](https://github.com/Atlas-OS/Atlas)
 - [mimonelu/klearsky - Klearsky is a web client for Bluesky.](https://github.com/mimonelu/klearsky)
 - [mozilla/distilvit - image-to-text model for PDF.js](https://github.com/mozilla/distilvit)
 - [jdecked/twemoji - Emoji for everyone.](https://github.com/jdecked/twemoji)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [luwes/selectlist-polyfill - Polyfill for the selectlist element](https://github.com/luwes/selectlist-polyfill)
 - [marklovers/kaplay - 🦖 A JavaScript game library](https://github.com/marklovers/kaplay)
 - [szimek/signature_pad - HTML5 canvas based smooth signature drawing](https://github.com/szimek/signature_pad)
-- [2noise/ChatTTS - ChatTTS is a generative speech model for daily dialogue.](https://github.com/2noise/ChatTTS)
-- [yanthomasdev/lunaria - The missing localization management toolchain for open-source projects](https://github.com/yanthomasdev/lunaria)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
