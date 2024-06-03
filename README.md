@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [piqoni/hn-text - A text-first HN client. ](https://github.com/piqoni/hn-text)
-- [Atlas-OS/Atlas - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.](https://github.com/Atlas-OS/Atlas)
+- [Atlas-OS/Atlas - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.](https://github.com/Atlas-OS/Atlas)
 - [mimonelu/klearsky - Klearsky is a web client for Bluesky.](https://github.com/mimonelu/klearsky)
 - [mozilla/distilvit - image-to-text model for PDF.js](https://github.com/mozilla/distilvit)
 - [jdecked/twemoji - Emoji for everyone.](https://github.com/jdecked/twemoji)
