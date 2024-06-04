@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [node-hid/node-hid - Access USB & Bluetooth HID devices through Node.js](https://github.com/node-hid/node-hid)
 - [charmbracelet/freeze - Generate images of code and terminal output 📸](https://github.com/charmbracelet/freeze)
 - [evidence-dev/evidence - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown](https://github.com/evidence-dev/evidence)
 - [piqoni/hn-text - A text-first HN client. ](https://github.com/piqoni/hn-text)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [CesiumChina/cesium-map - Cesium 地图插件，用于添加国内各大地图厂商的地图🌎](https://github.com/CesiumChina/cesium-map)
 - [adobe/spectrum-web-components - Spectrum Web Components](https://github.com/adobe/spectrum-web-components)
 - [Pony-House/Client - The open source house, your house, the house for all matrix ponies](https://github.com/Pony-House/Client)
-- [luwes/selectlist-polyfill - Polyfill for the selectlist element](https://github.com/luwes/selectlist-polyfill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
