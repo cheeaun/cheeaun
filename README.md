@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [guillaumepotier/gettext.js - gettext.js is a lightweight yet complete and accurate GNU gettext port for node and the browser.](https://github.com/guillaumepotier/gettext.js)
 - [gildas-lormeau/SingleFile - Web Extension for saving a faithful copy of a complete web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 - [alexwlchan/safari-webarchiver - Save web pages as Safari webarchive files from the command line](https://github.com/alexwlchan/safari-webarchiver)
 - [node-hid/node-hid - Access USB & Bluetooth HID devices through Node.js](https://github.com/node-hid/node-hid)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tomayac/fetch-in-chunks - A utility for fetching large files in chunks with support for parallel downloads and progress tracking.](https://github.com/tomayac/fetch-in-chunks)
 - [0x2E/fusion - A lightweight, self-hosted friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
 - [lihaoyun6/QuickRecorder - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具](https://github.com/lihaoyun6/QuickRecorder)
-- [CesiumChina/cesium-map - Cesium 地图插件，用于添加国内各大地图厂商的地图🌎](https://github.com/CesiumChina/cesium-map)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
