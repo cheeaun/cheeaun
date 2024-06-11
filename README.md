@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [padolsey/at.hn](https://github.com/padolsey/at.hn)
 - [cometkim/unicode-segmenter - A lightweight and fast, pure JavaScript library for Unicode segmentation](https://github.com/cometkim/unicode-segmenter)
 - [guillaumepotier/gettext.js - gettext.js is a lightweight yet complete and accurate GNU gettext port for node and the browser.](https://github.com/guillaumepotier/gettext.js)
 - [gildas-lormeau/SingleFile - Web Extension for saving a faithful copy of a complete web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jdecked/twemoji - Emoji for everyone.](https://github.com/jdecked/twemoji)
 - [rough-stuff/wired-elements - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.](https://github.com/rough-stuff/wired-elements)
 - [tomayac/fetch-in-chunks - A utility for fetching large files in chunks with support for parallel downloads and progress tracking.](https://github.com/tomayac/fetch-in-chunks)
-- [0x2E/fusion - A lightweight, self-hosted friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
