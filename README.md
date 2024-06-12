@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mesqueeb/merge-anything - Merge objects & other types recursively. A simple & small integration.](https://github.com/mesqueeb/merge-anything)
+- [jeremydaly/lambda-api - Lightweight web framework for your serverless applications](https://github.com/jeremydaly/lambda-api)
 - [padolsey/at.hn](https://github.com/padolsey/at.hn)
 - [cometkim/unicode-segmenter - A lightweight and fast, pure JavaScript library for Unicode segmentation](https://github.com/cometkim/unicode-segmenter)
 - [guillaumepotier/gettext.js - gettext.js is a lightweight yet complete and accurate GNU gettext port for node and the browser.](https://github.com/guillaumepotier/gettext.js)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mimonelu/klearsky - Klearsky is a web client for Bluesky.](https://github.com/mimonelu/klearsky)
 - [mozilla/distilvit - image-to-text model for PDF.js](https://github.com/mozilla/distilvit)
 - [jdecked/twemoji - Emoji for everyone.](https://github.com/jdecked/twemoji)
-- [rough-stuff/wired-elements - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.](https://github.com/rough-stuff/wired-elements)
-- [tomayac/fetch-in-chunks - A utility for fetching large files in chunks with support for parallel downloads and progress tracking.](https://github.com/tomayac/fetch-in-chunks)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
