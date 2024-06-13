@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lexbor/lexbor - Lexbor is development of an open source HTML Renderer library. https://lexbor.com](https://github.com/lexbor/lexbor)
 - [mesqueeb/merge-anything - Merge objects & other types recursively. A simple & small integration.](https://github.com/mesqueeb/merge-anything)
 - [jeremydaly/lambda-api - Lightweight web framework for your serverless applications](https://github.com/jeremydaly/lambda-api)
 - [padolsey/at.hn](https://github.com/padolsey/at.hn)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Atlas-OS/Atlas - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.](https://github.com/Atlas-OS/Atlas)
 - [mimonelu/klearsky - Klearsky is a web client for Bluesky.](https://github.com/mimonelu/klearsky)
 - [mozilla/distilvit - image-to-text model for PDF.js](https://github.com/mozilla/distilvit)
-- [jdecked/twemoji - Emoji for everyone.](https://github.com/jdecked/twemoji)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
