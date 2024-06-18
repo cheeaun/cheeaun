@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Kukei-eu/kukei-masto](https://github.com/Kukei-eu/kukei-masto)
+- [fbsamples/threads_api - This repository contains a sample app for developers who are interested in integrating with the Threads API.](https://github.com/fbsamples/threads_api)
 - [lexbor/lexbor - Lexbor is development of an open source HTML Renderer library. https://lexbor.com](https://github.com/lexbor/lexbor)
 - [mesqueeb/merge-anything - Merge objects & other types recursively. A simple & small integration.](https://github.com/mesqueeb/merge-anything)
 - [jeremydaly/lambda-api - Lightweight web framework for your serverless applications](https://github.com/jeremydaly/lambda-api)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [evidence-dev/evidence - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown](https://github.com/evidence-dev/evidence)
 - [piqoni/hn-text - A text-first HN client. ](https://github.com/piqoni/hn-text)
 - [Atlas-OS/Atlas - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.](https://github.com/Atlas-OS/Atlas)
-- [mimonelu/klearsky - Klearsky is a web client for Bluesky.](https://github.com/mimonelu/klearsky)
-- [mozilla/distilvit - image-to-text model for PDF.js](https://github.com/mozilla/distilvit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
