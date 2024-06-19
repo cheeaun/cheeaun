@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [spoolappio/threads-graph-api - A Javascript library to interface with the official Instagram Threads API](https://github.com/spoolappio/threads-graph-api)
 - [Kukei-eu/kukei-masto](https://github.com/Kukei-eu/kukei-masto)
 - [fbsamples/threads_api - This repository contains a sample app for developers who are interested in integrating with the Threads API.](https://github.com/fbsamples/threads_api)
 - [lexbor/lexbor - Lexbor is development of an open source HTML Renderer library. https://lexbor.com](https://github.com/lexbor/lexbor)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [charmbracelet/freeze - Generate images of code and terminal output 📸](https://github.com/charmbracelet/freeze)
 - [evidence-dev/evidence - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown](https://github.com/evidence-dev/evidence)
 - [piqoni/hn-text - A text-first HN client. ](https://github.com/piqoni/hn-text)
-- [Atlas-OS/Atlas - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.](https://github.com/Atlas-OS/Atlas)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
