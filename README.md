@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [farm-fe/farm - Extremely fast Vite-compatible web build tool written in Rust](https://github.com/farm-fe/farm)
 - [daniebeler/pixelix - Android Client for Pixelfed](https://github.com/daniebeler/pixelix)
 - [spoolappio/threads-graph-api - A Javascript library to interface with the official Instagram Threads API](https://github.com/spoolappio/threads-graph-api)
 - [Kukei-eu/kukei-masto](https://github.com/Kukei-eu/kukei-masto)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [alexwlchan/safari-webarchiver - Save web pages as Safari webarchive files from the command line](https://github.com/alexwlchan/safari-webarchiver)
 - [node-hid/node-hid - Access USB & Bluetooth HID devices through Node.js](https://github.com/node-hid/node-hid)
 - [charmbracelet/freeze - Generate images of code and terminal output 📸](https://github.com/charmbracelet/freeze)
-- [evidence-dev/evidence - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown](https://github.com/evidence-dev/evidence)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
