@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [i365dev/LetterDrop - LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.](https://github.com/i365dev/LetterDrop)
 - [nickfryar/th_api - A small SDK for the Threads API](https://github.com/nickfryar/th_api)
 - [farm-fe/farm - Extremely fast Vite-compatible web build tool written in Rust](https://github.com/farm-fe/farm)
 - [daniebeler/pixelix - Android Client for Pixelfed](https://github.com/daniebeler/pixelix)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [guillaumepotier/gettext.js - gettext.js is a lightweight yet complete and accurate GNU gettext port for node and the browser.](https://github.com/guillaumepotier/gettext.js)
 - [gildas-lormeau/SingleFile - Web Extension for saving a faithful copy of a complete web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 - [alexwlchan/safari-webarchiver - Save web pages as Safari webarchive files from the command line](https://github.com/alexwlchan/safari-webarchiver)
-- [node-hid/node-hid - Access USB & Bluetooth HID devices through Node.js](https://github.com/node-hid/node-hid)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
