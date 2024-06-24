@@ -30,7 +30,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Erk-/programmable-fonts - Code and slides about programmable fonts.](https://github.com/Erk-/programmable-fonts)
 - [vrutkovs/masto-thread-renderer - Render Mastodon thread as a web page](https://github.com/vrutkovs/masto-thread-renderer)
 - [i365dev/LetterDrop - LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.](https://github.com/i365dev/LetterDrop)
-- [nickfryar/th_api - A small SDK for the Threads API](https://github.com/nickfryar/th_api)
 - [farm-fe/farm - Extremely fast Vite-compatible web build tool written in Rust](https://github.com/farm-fe/farm)
 - [daniebeler/pixelix - Android Client for Pixelfed](https://github.com/daniebeler/pixelix)
 - [spoolappio/threads-graph-api - A Javascript library to interface with the official Instagram Threads API](https://github.com/spoolappio/threads-graph-api)
@@ -42,6 +41,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [padolsey/at.hn](https://github.com/padolsey/at.hn)
 - [cometkim/unicode-segmenter - A lightweight and fast, pure JavaScript library for Unicode segmentation](https://github.com/cometkim/unicode-segmenter)
 - [guillaumepotier/gettext.js - gettext.js is a lightweight yet complete and accurate GNU gettext port for node and the browser.](https://github.com/guillaumepotier/gettext.js)
+- [gildas-lormeau/SingleFile - Web Extension for saving a faithful copy of a complete web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
