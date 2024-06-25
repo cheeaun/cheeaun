@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [KusStar/vite-bundle-visualizer - CLI for visualizing your vite project bundle.](https://github.com/KusStar/vite-bundle-visualizer)
+- [smikhalevski/locale-matcher - 🔠 Super-fast locale matcher and normalizer in just 2 kB gzipped and no Intl dependency.](https://github.com/smikhalevski/locale-matcher)
 - [Erk-/programmable-fonts - Code and slides about programmable fonts.](https://github.com/Erk-/programmable-fonts)
 - [vrutkovs/masto-thread-renderer - Render Mastodon thread as a web page](https://github.com/vrutkovs/masto-thread-renderer)
 - [i365dev/LetterDrop - LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.](https://github.com/i365dev/LetterDrop)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jeremydaly/lambda-api - Lightweight web framework for your serverless applications](https://github.com/jeremydaly/lambda-api)
 - [padolsey/at.hn](https://github.com/padolsey/at.hn)
 - [cometkim/unicode-segmenter - A lightweight and fast, pure JavaScript library for Unicode segmentation](https://github.com/cometkim/unicode-segmenter)
-- [guillaumepotier/gettext.js - gettext.js is a lightweight yet complete and accurate GNU gettext port for node and the browser.](https://github.com/guillaumepotier/gettext.js)
-- [gildas-lormeau/SingleFile - Web Extension for saving a faithful copy of a complete web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
