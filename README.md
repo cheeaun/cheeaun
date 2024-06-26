@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nanos/FediFetcher - FediFetcher is a tool for Mastodon that automatically fetches missing replies and posts from other fediverse instances, and adds them to your own Mastodon instance.](https://github.com/nanos/FediFetcher)
+- [aspen-cloud/triplit - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).](https://github.com/aspen-cloud/triplit)
+- [dotenvx/dotenvx - a better dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
+- [nate-parrott/ball](https://github.com/nate-parrott/ball)
 - [KusStar/vite-bundle-visualizer - CLI for visualizing your vite project bundle.](https://github.com/KusStar/vite-bundle-visualizer)
 - [smikhalevski/locale-matcher - 🔠 Super-fast locale matcher and normalizer in just 2 kB gzipped and no Intl dependency.](https://github.com/smikhalevski/locale-matcher)
 - [Erk-/programmable-fonts - Code and slides about programmable fonts.](https://github.com/Erk-/programmable-fonts)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Kukei-eu/kukei-masto](https://github.com/Kukei-eu/kukei-masto)
 - [fbsamples/threads_api - This repository contains a sample app for developers who are interested in integrating with the Threads API.](https://github.com/fbsamples/threads_api)
 - [lexbor/lexbor - Lexbor is development of an open source HTML Renderer library. https://lexbor.com](https://github.com/lexbor/lexbor)
-- [mesqueeb/merge-anything - Merge objects & other types recursively. A simple & small integration.](https://github.com/mesqueeb/merge-anything)
-- [jeremydaly/lambda-api - Lightweight web framework for your serverless applications](https://github.com/jeremydaly/lambda-api)
-- [padolsey/at.hn](https://github.com/padolsey/at.hn)
-- [cometkim/unicode-segmenter - A lightweight and fast, pure JavaScript library for Unicode segmentation](https://github.com/cometkim/unicode-segmenter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
