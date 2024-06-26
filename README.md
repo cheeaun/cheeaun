@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AnsonLai/AI-Model-Price-Comparison](https://github.com/AnsonLai/AI-Model-Price-Comparison)
+- [codemask-labs/stan-js](https://github.com/codemask-labs/stan-js)
 - [nanos/FediFetcher - FediFetcher is a tool for Mastodon that automatically fetches missing replies and posts from other fediverse instances, and adds them to your own Mastodon instance.](https://github.com/nanos/FediFetcher)
 - [aspen-cloud/triplit - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).](https://github.com/aspen-cloud/triplit)
 - [dotenvx/dotenvx - a better dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [daniebeler/pixelix - Android Client for Pixelfed](https://github.com/daniebeler/pixelix)
 - [spoolappio/threads-graph-api - A Javascript library to interface with the official Instagram Threads API](https://github.com/spoolappio/threads-graph-api)
 - [Kukei-eu/kukei-masto](https://github.com/Kukei-eu/kukei-masto)
-- [fbsamples/threads_api - This repository contains a sample app for developers who are interested in integrating with the Threads API.](https://github.com/fbsamples/threads_api)
-- [lexbor/lexbor - Lexbor is development of an open source HTML Renderer library. https://lexbor.com](https://github.com/lexbor/lexbor)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
