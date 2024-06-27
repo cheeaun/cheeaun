@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google/j2cl - Java to Closure JavaScript transpiler](https://github.com/google/j2cl)
 - [benvinegar/counterscale - Scalable web analytics you run yourself on Cloudflare](https://github.com/benvinegar/counterscale)
 - [AnsonLai/AI-Model-Price-Comparison](https://github.com/AnsonLai/AI-Model-Price-Comparison)
 - [codemask-labs/stan-js](https://github.com/codemask-labs/stan-js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [i365dev/LetterDrop - LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.](https://github.com/i365dev/LetterDrop)
 - [farm-fe/farm - Extremely fast Vite-compatible web build tool written in Rust](https://github.com/farm-fe/farm)
 - [daniebeler/pixelix - Android Client for Pixelfed](https://github.com/daniebeler/pixelix)
-- [spoolappio/threads-graph-api - A Javascript library to interface with the official Instagram Threads API](https://github.com/spoolappio/threads-graph-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
