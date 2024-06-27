@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [KDE/tokodon - Tokodon is a Mastodon client for Plasma and Plasma Mobile](https://github.com/KDE/tokodon)
 - [LadybirdBrowser/ladybird - Truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
 - [google/j2cl - Java to Closure JavaScript transpiler](https://github.com/google/j2cl)
 - [benvinegar/counterscale - Scalable web analytics you run yourself on Cloudflare](https://github.com/benvinegar/counterscale)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Erk-/programmable-fonts - Code and slides about programmable fonts.](https://github.com/Erk-/programmable-fonts)
 - [vrutkovs/masto-thread-renderer - Render Mastodon thread as a web page](https://github.com/vrutkovs/masto-thread-renderer)
 - [i365dev/LetterDrop - LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.](https://github.com/i365dev/LetterDrop)
-- [farm-fe/farm - Extremely fast Vite-compatible web build tool written in Rust](https://github.com/farm-fe/farm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
