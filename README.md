@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [umijs/mako - An extremely fast, production-grade web bundler based on Rust.](https://github.com/umijs/mako)
 - [Two9A/ThreadTree - Visualizing threaded conversations on Mastodon, in PHP/JS](https://github.com/Two9A/ThreadTree)
 - [IanVS/prettier-plugin-sort-imports - An opinionated but flexible prettier plugin to sort import statements](https://github.com/IanVS/prettier-plugin-sort-imports)
 - [KDE/tokodon - Tokodon is a Mastodon client for Plasma and Plasma Mobile](https://github.com/KDE/tokodon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nate-parrott/ball](https://github.com/nate-parrott/ball)
 - [KusStar/vite-bundle-visualizer - CLI for visualizing your vite project bundle.](https://github.com/KusStar/vite-bundle-visualizer)
 - [smikhalevski/locale-matcher - 🔠 Super-fast locale matcher and normalizer in just 2 kB gzipped and no Intl dependency.](https://github.com/smikhalevski/locale-matcher)
-- [Erk-/programmable-fonts - Code and slides about programmable fonts.](https://github.com/Erk-/programmable-fonts)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
