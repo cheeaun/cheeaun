@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [evilmartians/oklch-picker - Color Picker for LCH](https://github.com/evilmartians/oklch-picker)
 - [explainers-by-googlers/prompt-api - A proposal for a web API for prompting browser-provided language models](https://github.com/explainers-by-googlers/prompt-api)
 - [umijs/mako - An extremely fast, production-grade web bundler based on Rust.](https://github.com/umijs/mako)
 - [Two9A/ThreadTree - Visualizing threaded conversations on Mastodon, in PHP/JS](https://github.com/Two9A/ThreadTree)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [aspen-cloud/triplit - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).](https://github.com/aspen-cloud/triplit)
 - [dotenvx/dotenvx - a better dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
 - [nate-parrott/ball](https://github.com/nate-parrott/ball)
-- [KusStar/vite-bundle-visualizer - CLI for visualizing your vite project bundle.](https://github.com/KusStar/vite-bundle-visualizer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
