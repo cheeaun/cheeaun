@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [frederik-elwert/mastodon-bookmark-search - A simple web app to search and explore your Mastodon bookmarks](https://github.com/frederik-elwert/mastodon-bookmark-search)
 - [evilmartians/oklch-picker - Color Picker for LCH](https://github.com/evilmartians/oklch-picker)
 - [explainers-by-googlers/prompt-api - A proposal for a web API for prompting browser-provided language models](https://github.com/explainers-by-googlers/prompt-api)
 - [umijs/mako - An extremely fast, production-grade web bundler based on Rust.](https://github.com/umijs/mako)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nanos/FediFetcher - FediFetcher is a tool for Mastodon that automatically fetches missing replies and posts from other fediverse instances, and adds them to your own Mastodon instance.](https://github.com/nanos/FediFetcher)
 - [aspen-cloud/triplit - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).](https://github.com/aspen-cloud/triplit)
 - [dotenvx/dotenvx - a better dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
-- [nate-parrott/ball](https://github.com/nate-parrott/ball)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
