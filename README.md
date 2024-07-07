@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ujjwalguptaofficial/JsStore - A complete IndexedDB wrapper with SQL like syntax.](https://github.com/ujjwalguptaofficial/JsStore)
+- [TryGhost/ActivityPub - A full-featured ActivityPub server for networked publishing with Ghost](https://github.com/TryGhost/ActivityPub)
+- [koluris/pseudo-js - PLAYSTATION emulator in JavaScript](https://github.com/koluris/pseudo-js)
 - [frederik-elwert/mastodon-bookmark-search - A simple web app to search and explore your Mastodon bookmarks](https://github.com/frederik-elwert/mastodon-bookmark-search)
 - [evilmartians/oklch-picker - Color Picker for LCH](https://github.com/evilmartians/oklch-picker)
 - [explainers-by-googlers/prompt-api - A proposal for a web API for prompting browser-provided language models](https://github.com/explainers-by-googlers/prompt-api)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [benvinegar/counterscale - Scalable web analytics you run yourself on Cloudflare](https://github.com/benvinegar/counterscale)
 - [AnsonLai/AI-Model-Price-Comparison](https://github.com/AnsonLai/AI-Model-Price-Comparison)
 - [codemask-labs/stan-js](https://github.com/codemask-labs/stan-js)
-- [nanos/FediFetcher - FediFetcher is a tool for Mastodon that automatically fetches missing replies and posts from other fediverse instances, and adds them to your own Mastodon instance.](https://github.com/nanos/FediFetcher)
-- [aspen-cloud/triplit - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).](https://github.com/aspen-cloud/triplit)
-- [dotenvx/dotenvx - a better dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
