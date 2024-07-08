@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alienator88/Pearcleaner - A free, source-available and fair-code licensed mac app cleaner](https://github.com/alienator88/Pearcleaner)
 - [ujjwalguptaofficial/JsStore - A complete IndexedDB wrapper with SQL like syntax.](https://github.com/ujjwalguptaofficial/JsStore)
 - [TryGhost/ActivityPub - A full-featured ActivityPub server for networked publishing with Ghost](https://github.com/TryGhost/ActivityPub)
 - [koluris/pseudo-js - PLAYSTATION emulator in JavaScript](https://github.com/koluris/pseudo-js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [google/j2cl - Java to Closure JavaScript transpiler](https://github.com/google/j2cl)
 - [benvinegar/counterscale - Scalable web analytics you run yourself on Cloudflare](https://github.com/benvinegar/counterscale)
 - [AnsonLai/AI-Model-Price-Comparison](https://github.com/AnsonLai/AI-Model-Price-Comparison)
-- [codemask-labs/stan-js](https://github.com/codemask-labs/stan-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
