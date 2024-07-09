@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [slevithan/emoji-regex-xs - A regular expression to match all emoji-only symbols](https://github.com/slevithan/emoji-regex-xs)
+- [toss/es-toolkit - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.](https://github.com/toss/es-toolkit)
 - [alienator88/Pearcleaner - A free, source-available and fair-code licensed mac app cleaner](https://github.com/alienator88/Pearcleaner)
 - [ujjwalguptaofficial/JsStore - A complete IndexedDB wrapper with SQL like syntax.](https://github.com/ujjwalguptaofficial/JsStore)
 - [TryGhost/ActivityPub - A full-featured ActivityPub server for networked publishing with Ghost](https://github.com/TryGhost/ActivityPub)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [KDE/tokodon - Tokodon is a Mastodon client for Plasma and Plasma Mobile](https://github.com/KDE/tokodon)
 - [LadybirdBrowser/ladybird - Truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
 - [google/j2cl - Java to Closure JavaScript transpiler](https://github.com/google/j2cl)
-- [benvinegar/counterscale - Scalable web analytics you run yourself on Cloudflare](https://github.com/benvinegar/counterscale)
-- [AnsonLai/AI-Model-Price-Comparison](https://github.com/AnsonLai/AI-Model-Price-Comparison)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
