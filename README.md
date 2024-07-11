@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [evoluteur/braille-tools - CSS and Javascript to display Braille grade 1 in web pages (for sighted people).](https://github.com/evoluteur/braille-tools)
+- [anh-ld/nho - 📌 1KB Web Component Abstraction](https://github.com/anh-ld/nho)
 - [slevithan/emoji-regex-xs - A regular expression to match all emoji-only symbols](https://github.com/slevithan/emoji-regex-xs)
 - [toss/es-toolkit - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.](https://github.com/toss/es-toolkit)
 - [alienator88/Pearcleaner - A free, source-available and fair-code licensed mac app cleaner](https://github.com/alienator88/Pearcleaner)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Two9A/ThreadTree - Visualizing threaded conversations on Mastodon, in PHP/JS](https://github.com/Two9A/ThreadTree)
 - [IanVS/prettier-plugin-sort-imports - An opinionated but flexible prettier plugin to sort import statements](https://github.com/IanVS/prettier-plugin-sort-imports)
 - [KDE/tokodon - Tokodon is a Mastodon client for Plasma and Plasma Mobile](https://github.com/KDE/tokodon)
-- [LadybirdBrowser/ladybird - Truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
-- [google/j2cl - Java to Closure JavaScript transpiler](https://github.com/google/j2cl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
