@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stefanbohacek/pinned-posts-organizer - Organize your pinned Mastodon posts with a simple drag and drop interface.](https://github.com/stefanbohacek/pinned-posts-organizer)
 - [evoluteur/braille-tools - CSS and Javascript to display Braille grade 1 in web pages (for sighted people).](https://github.com/evoluteur/braille-tools)
 - [anh-ld/nho - 📌 1KB Web Component Abstraction](https://github.com/anh-ld/nho)
 - [slevithan/emoji-regex-xs - A regular expression to match all emoji-only symbols](https://github.com/slevithan/emoji-regex-xs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [umijs/mako - An extremely fast, production-grade web bundler based on Rust.](https://github.com/umijs/mako)
 - [Two9A/ThreadTree - Visualizing threaded conversations on Mastodon, in PHP/JS](https://github.com/Two9A/ThreadTree)
 - [IanVS/prettier-plugin-sort-imports - An opinionated but flexible prettier plugin to sort import statements](https://github.com/IanVS/prettier-plugin-sort-imports)
-- [KDE/tokodon - Tokodon is a Mastodon client for Plasma and Plasma Mobile](https://github.com/KDE/tokodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
