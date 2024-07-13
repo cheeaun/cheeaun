@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [finos/perspective - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
 - [stefanbohacek/pinned-posts-organizer - Organize your pinned Mastodon posts with a simple drag and drop interface.](https://github.com/stefanbohacek/pinned-posts-organizer)
 - [evoluteur/braille-tools - CSS and Javascript to display Braille grade 1 in web pages (for sighted people).](https://github.com/evoluteur/braille-tools)
 - [anh-ld/nho - 📌 1KB Web Component Abstraction](https://github.com/anh-ld/nho)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [explainers-by-googlers/prompt-api - A proposal for a web API for prompting browser-provided language models](https://github.com/explainers-by-googlers/prompt-api)
 - [umijs/mako - An extremely fast, production-grade web bundler based on Rust.](https://github.com/umijs/mako)
 - [Two9A/ThreadTree - Visualizing threaded conversations on Mastodon, in PHP/JS](https://github.com/Two9A/ThreadTree)
-- [IanVS/prettier-plugin-sort-imports - An opinionated but flexible prettier plugin to sort import statements](https://github.com/IanVS/prettier-plugin-sort-imports)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
