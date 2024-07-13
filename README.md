@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [forge42dev/vite-plugin-icons-spritesheet - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location](https://github.com/forge42dev/vite-plugin-icons-spritesheet)
+- [daviddarnes/code-pen - A Web Component to open code samples in CodePen](https://github.com/daviddarnes/code-pen)
 - [finos/perspective - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
 - [stefanbohacek/pinned-posts-organizer - Organize your pinned Mastodon posts with a simple drag and drop interface.](https://github.com/stefanbohacek/pinned-posts-organizer)
 - [evoluteur/braille-tools - CSS and Javascript to display Braille grade 1 in web pages (for sighted people).](https://github.com/evoluteur/braille-tools)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [frederik-elwert/mastodon-bookmark-search - A simple web app to search and explore your Mastodon bookmarks](https://github.com/frederik-elwert/mastodon-bookmark-search)
 - [evilmartians/oklch-picker - Color Picker for LCH](https://github.com/evilmartians/oklch-picker)
 - [explainers-by-googlers/prompt-api - A proposal for a web API for prompting browser-provided language models](https://github.com/explainers-by-googlers/prompt-api)
-- [umijs/mako - An extremely fast, production-grade web bundler based on Rust.](https://github.com/umijs/mako)
-- [Two9A/ThreadTree - Visualizing threaded conversations on Mastodon, in PHP/JS](https://github.com/Two9A/ThreadTree)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
