@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alphacep/vosk-api - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node](https://github.com/alphacep/vosk-api)
+- [simonw/count-ai - Python script counting the number of times someone says AI](https://github.com/simonw/count-ai)
 - [forge42dev/vite-plugin-icons-spritesheet - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location](https://github.com/forge42dev/vite-plugin-icons-spritesheet)
 - [daviddarnes/code-pen - A Web Component to open code samples in CodePen](https://github.com/daviddarnes/code-pen)
 - [finos/perspective - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [TryGhost/ActivityPub - A full-featured ActivityPub server for networked publishing with Ghost](https://github.com/TryGhost/ActivityPub)
 - [koluris/pseudo-js - PLAYSTATION emulator in JavaScript](https://github.com/koluris/pseudo-js)
 - [frederik-elwert/mastodon-bookmark-search - A simple web app to search and explore your Mastodon bookmarks](https://github.com/frederik-elwert/mastodon-bookmark-search)
-- [evilmartians/oklch-picker - Color Picker for LCH](https://github.com/evilmartians/oklch-picker)
-- [explainers-by-googlers/prompt-api - A proposal for a web API for prompting browser-provided language models](https://github.com/explainers-by-googlers/prompt-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
