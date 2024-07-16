@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [daviddarnes/link-peek - A Web Component to unfurl regular links into rich previews](https://github.com/daviddarnes/link-peek)
 - [alphacep/vosk-api - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node](https://github.com/alphacep/vosk-api)
 - [simonw/count-ai - Python script counting the number of times someone says AI](https://github.com/simonw/count-ai)
 - [forge42dev/vite-plugin-icons-spritesheet - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location](https://github.com/forge42dev/vite-plugin-icons-spritesheet)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ujjwalguptaofficial/JsStore - A complete IndexedDB wrapper with SQL like syntax.](https://github.com/ujjwalguptaofficial/JsStore)
 - [TryGhost/ActivityPub - A full-featured ActivityPub server for networked publishing with Ghost](https://github.com/TryGhost/ActivityPub)
 - [koluris/pseudo-js - PLAYSTATION emulator in JavaScript](https://github.com/koluris/pseudo-js)
-- [frederik-elwert/mastodon-bookmark-search - A simple web app to search and explore your Mastodon bookmarks](https://github.com/frederik-elwert/mastodon-bookmark-search)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
