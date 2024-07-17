@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [josdejong/tabular-json - Tabular-JSON: A superset of JSON adding CSV-like tables](https://github.com/josdejong/tabular-json)
+- [wellwelwel/poku - 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.](https://github.com/wellwelwel/poku)
+- [boa-dev/boa - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.](https://github.com/boa-dev/boa)
 - [daviddarnes/link-peek - A Web Component to unfurl regular links into rich previews](https://github.com/daviddarnes/link-peek)
 - [alphacep/vosk-api - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node](https://github.com/alphacep/vosk-api)
 - [simonw/count-ai - Python script counting the number of times someone says AI](https://github.com/simonw/count-ai)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [slevithan/emoji-regex-xs - A regular expression to match all emoji-only symbols](https://github.com/slevithan/emoji-regex-xs)
 - [toss/es-toolkit - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.](https://github.com/toss/es-toolkit)
 - [alienator88/Pearcleaner - A free, source-available and fair-code licensed mac app cleaner](https://github.com/alienator88/Pearcleaner)
-- [ujjwalguptaofficial/JsStore - A complete IndexedDB wrapper with SQL like syntax.](https://github.com/ujjwalguptaofficial/JsStore)
-- [TryGhost/ActivityPub - A full-featured ActivityPub server for networked publishing with Ghost](https://github.com/TryGhost/ActivityPub)
-- [koluris/pseudo-js - PLAYSTATION emulator in JavaScript](https://github.com/koluris/pseudo-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
