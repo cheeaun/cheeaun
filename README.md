@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Pocket/pocket-monorepo - Monorepo of all Pocket App Typescript Backend Sevices](https://github.com/Pocket/pocket-monorepo)
 - [margelo/react-native-filament - 🐧 A real-time physically based 3D rendering engine for React Native](https://github.com/margelo/react-native-filament)
 - [josdejong/tabular-json - Tabular-JSON: A superset of JSON adding CSV-like tables](https://github.com/josdejong/tabular-json)
 - [wellwelwel/poku - 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.](https://github.com/wellwelwel/poku)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [evoluteur/braille-tools - CSS and Javascript to display Braille grade 1 in web pages (for sighted people).](https://github.com/evoluteur/braille-tools)
 - [anh-ld/nho - 📌 1KB Web Component Abstraction](https://github.com/anh-ld/nho)
 - [slevithan/emoji-regex-xs - A regular expression to match all emoji-only symbols](https://github.com/slevithan/emoji-regex-xs)
-- [toss/es-toolkit - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.](https://github.com/toss/es-toolkit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
