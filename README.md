@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [typst/typst - A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
 - [veggiedefender/open-and-shut - Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 - [Pocket/pocket-monorepo - Monorepo of all Pocket App Typescript Backend Sevices](https://github.com/Pocket/pocket-monorepo)
 - [margelo/react-native-filament - 🐧 A real-time physically based 3D rendering engine for React Native](https://github.com/margelo/react-native-filament)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [finos/perspective - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
 - [stefanbohacek/pinned-posts-organizer - Organize your pinned Mastodon posts with a simple drag and drop interface.](https://github.com/stefanbohacek/pinned-posts-organizer)
 - [evoluteur/braille-tools - CSS and Javascript to display Braille grade 1 in web pages (for sighted people).](https://github.com/evoluteur/braille-tools)
-- [anh-ld/nho - 📌 1KB Web Component Abstraction](https://github.com/anh-ld/nho)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
