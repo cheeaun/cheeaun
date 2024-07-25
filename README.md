@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ai/keyux - JS library to improve keyboard UI of web apps](https://github.com/ai/keyux)
 - [beholdr/maska - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.](https://github.com/beholdr/maska)
 - [typst/typst - A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
 - [veggiedefender/open-and-shut - Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [forge42dev/vite-plugin-icons-spritesheet - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location](https://github.com/forge42dev/vite-plugin-icons-spritesheet)
 - [daviddarnes/code-pen - A Web Component to open code samples in CodePen](https://github.com/daviddarnes/code-pen)
 - [finos/perspective - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
-- [stefanbohacek/pinned-posts-organizer - Organize your pinned Mastodon posts with a simple drag and drop interface.](https://github.com/stefanbohacek/pinned-posts-organizer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
