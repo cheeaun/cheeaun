@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alibaba/kiwi - 🐤 Kiwi-国际化翻译全流程解决方案](https://github.com/alibaba/kiwi)
+- [gordicaleksa/Open-NLLB - Effort to open-source NLLB checkpoints.](https://github.com/gordicaleksa/Open-NLLB)
 - [Y2Z/monolith - ⬛️ CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 - [ai/keyux - JS library to improve keyboard UI of web apps](https://github.com/ai/keyux)
 - [beholdr/maska - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.](https://github.com/beholdr/maska)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [daviddarnes/link-peek - A Web Component to unfurl regular links into rich previews](https://github.com/daviddarnes/link-peek)
 - [alphacep/vosk-api - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node](https://github.com/alphacep/vosk-api)
 - [simonw/count-ai - Python script counting the number of times someone says AI](https://github.com/simonw/count-ai)
-- [forge42dev/vite-plugin-icons-spritesheet - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location](https://github.com/forge42dev/vite-plugin-icons-spritesheet)
-- [daviddarnes/code-pen - A Web Component to open code samples in CodePen](https://github.com/daviddarnes/code-pen)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
