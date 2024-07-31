@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CanadaHonk/porffor - A from-scratch experimental AOT JS engine, written in JS](https://github.com/CanadaHonk/porffor)
 - [alibaba/kiwi - 🐤 Kiwi-国际化翻译全流程解决方案](https://github.com/alibaba/kiwi)
 - [gordicaleksa/Open-NLLB - Effort to open-source NLLB checkpoints.](https://github.com/gordicaleksa/Open-NLLB)
 - [Y2Z/monolith - ⬛️ CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [boa-dev/boa - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.](https://github.com/boa-dev/boa)
 - [daviddarnes/link-peek - A Web Component to unfurl regular links into rich previews](https://github.com/daviddarnes/link-peek)
 - [alphacep/vosk-api - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node](https://github.com/alphacep/vosk-api)
-- [simonw/count-ai - Python script counting the number of times someone says AI](https://github.com/simonw/count-ai)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
