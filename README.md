@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [75lb/handbrake-js - Video encoding / transcoding / converting for node.js](https://github.com/75lb/handbrake-js)
 - [CanadaHonk/porffor - A from-scratch experimental AOT JS engine, written in JS](https://github.com/CanadaHonk/porffor)
 - [alibaba/kiwi - 🐤 Kiwi-国际化翻译全流程解决方案](https://github.com/alibaba/kiwi)
 - [gordicaleksa/Open-NLLB - Effort to open-source NLLB checkpoints.](https://github.com/gordicaleksa/Open-NLLB)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wellwelwel/poku - 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.](https://github.com/wellwelwel/poku)
 - [boa-dev/boa - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.](https://github.com/boa-dev/boa)
 - [daviddarnes/link-peek - A Web Component to unfurl regular links into rich previews](https://github.com/daviddarnes/link-peek)
-- [alphacep/vosk-api - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node](https://github.com/alphacep/vosk-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
