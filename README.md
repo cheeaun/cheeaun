@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JamesCowling/cronvex - Send http requests on a periodic schedule.](https://github.com/JamesCowling/cronvex)
 - [stylelint/stylelint - A mighty CSS linter that helps you avoid errors and enforce conventions.](https://github.com/stylelint/stylelint)
 - [75lb/handbrake-js - Video encoding / transcoding / converting for node.js](https://github.com/75lb/handbrake-js)
 - [CanadaHonk/porffor - A from-scratch experimental AOT JS engine, written in JS](https://github.com/CanadaHonk/porffor)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [margelo/react-native-filament - 🐧 A real-time physically based 3D rendering engine for React Native](https://github.com/margelo/react-native-filament)
 - [josdejong/tabular-json - Tabular-JSON: A superset of JSON adding CSV-like tables](https://github.com/josdejong/tabular-json)
 - [wellwelwel/poku - 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.](https://github.com/wellwelwel/poku)
-- [boa-dev/boa - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.](https://github.com/boa-dev/boa)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
