@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [brettz9/intl-locale-textinfo-polyfill](https://github.com/brettz9/intl-locale-textinfo-polyfill)
 - [bunkat/pseudoloc - Simple pseudolocalization for strings and files. Works in Node, the browser, and on the commandline.](https://github.com/bunkat/pseudoloc)
 - [JamesCowling/cronvex - Send http requests on a periodic schedule.](https://github.com/JamesCowling/cronvex)
 - [stylelint/stylelint - A mighty CSS linter that helps you avoid errors and enforce conventions.](https://github.com/stylelint/stylelint)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [veggiedefender/open-and-shut - Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
 - [Pocket/pocket-monorepo - Monorepo of all Pocket App Typescript Backend Sevices](https://github.com/Pocket/pocket-monorepo)
 - [margelo/react-native-filament - 🐧 A real-time physically based 3D rendering engine for React Native](https://github.com/margelo/react-native-filament)
-- [josdejong/tabular-json - Tabular-JSON: A superset of JSON adding CSV-like tables](https://github.com/josdejong/tabular-json)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
