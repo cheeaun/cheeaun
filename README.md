@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dessant/buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox](https://github.com/dessant/buster)
 - [vslavik/poedit - Translations editor for Mac, Windows and Unix](https://github.com/vslavik/poedit)
 - [brettz9/intl-locale-textinfo-polyfill](https://github.com/brettz9/intl-locale-textinfo-polyfill)
 - [bunkat/pseudoloc - Simple pseudolocalization for strings and files. Works in Node, the browser, and on the commandline.](https://github.com/bunkat/pseudoloc)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [beholdr/maska - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.](https://github.com/beholdr/maska)
 - [typst/typst - A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
 - [veggiedefender/open-and-shut - Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
-- [Pocket/pocket-monorepo - Monorepo of all Pocket App Typescript Backend Sevices](https://github.com/Pocket/pocket-monorepo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
