@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bcomnes/npm-run-all2 - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)](https://github.com/bcomnes/npm-run-all2)
 - [edent/Tweet2Embed - Convert a public Tweet into embedded semantic HTML](https://github.com/edent/Tweet2Embed)
 - [EmissarySocial/emissary - The Social Web Toolkit](https://github.com/EmissarySocial/emissary)
 - [dessant/buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox](https://github.com/dessant/buster)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gordicaleksa/Open-NLLB - Effort to open-source NLLB checkpoints.](https://github.com/gordicaleksa/Open-NLLB)
 - [Y2Z/monolith - ⬛️ CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 - [ai/keyux - JS library to improve keyboard UI of web apps](https://github.com/ai/keyux)
-- [beholdr/maska - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.](https://github.com/beholdr/maska)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
