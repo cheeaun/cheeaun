@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [versotile-org/verso - A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
+- [benjamin-awd/StatementSensei - PDF to CSV conversion for your bank statements](https://github.com/benjamin-awd/StatementSensei)
 - [bcomnes/npm-run-all2 - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)](https://github.com/bcomnes/npm-run-all2)
 - [edent/Tweet2Embed - Convert a public Tweet into embedded semantic HTML](https://github.com/edent/Tweet2Embed)
 - [EmissarySocial/emissary - The Social Web Toolkit](https://github.com/EmissarySocial/emissary)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [CanadaHonk/porffor - A from-scratch experimental AOT JS engine, written in JS](https://github.com/CanadaHonk/porffor)
 - [alibaba/kiwi - 🐤 Kiwi-国际化翻译全流程解决方案](https://github.com/alibaba/kiwi)
 - [gordicaleksa/Open-NLLB - Effort to open-source NLLB checkpoints.](https://github.com/gordicaleksa/Open-NLLB)
-- [Y2Z/monolith - ⬛️ CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
-- [ai/keyux - JS library to improve keyboard UI of web apps](https://github.com/ai/keyux)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
