@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [edent/Tweet2Embed - Convert a public Tweet into embedded semantic HTML](https://github.com/edent/Tweet2Embed)
 - [EmissarySocial/emissary - The Social Web Toolkit](https://github.com/EmissarySocial/emissary)
 - [dessant/buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox](https://github.com/dessant/buster)
 - [vslavik/poedit - Translations editor for Mac, Windows and Unix](https://github.com/vslavik/poedit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Y2Z/monolith - ⬛️ CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
 - [ai/keyux - JS library to improve keyboard UI of web apps](https://github.com/ai/keyux)
 - [beholdr/maska - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.](https://github.com/beholdr/maska)
-- [typst/typst - A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
