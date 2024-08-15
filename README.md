@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kentaromiura/HNR - Hacker News Cli reader](https://github.com/kentaromiura/HNR)
 - [crowdin/github-action - A GitHub action to manage and synchronize localization resources with your Crowdin project](https://github.com/crowdin/github-action)
 - [dudykr/stc - Speedy TypeScript type checker](https://github.com/dudykr/stc)
 - [timelinize/timelinize - Store your data from all your accounts and devices in a single cohesive timeline on your own computer](https://github.com/timelinize/timelinize)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vslavik/poedit - Translations editor for Mac, Windows and Unix](https://github.com/vslavik/poedit)
 - [brettz9/intl-locale-textinfo-polyfill](https://github.com/brettz9/intl-locale-textinfo-polyfill)
 - [bunkat/pseudoloc - Simple pseudolocalization for strings and files. Works in Node, the browser, and on the commandline.](https://github.com/bunkat/pseudoloc)
-- [JamesCowling/cronvex - Send http requests on a periodic schedule.](https://github.com/JamesCowling/cronvex)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
