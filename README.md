@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [swicg/activitypub-html-discovery](https://github.com/swicg/activitypub-html-discovery)
 - [kentaromiura/HNR - Hacker News Cli reader](https://github.com/kentaromiura/HNR)
 - [crowdin/github-action - A GitHub action to manage and synchronize localization resources with your Crowdin project](https://github.com/crowdin/github-action)
 - [dudykr/stc - Speedy TypeScript type checker](https://github.com/dudykr/stc)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dessant/buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox](https://github.com/dessant/buster)
 - [vslavik/poedit - Translations editor for Mac, Windows and Unix](https://github.com/vslavik/poedit)
 - [brettz9/intl-locale-textinfo-polyfill](https://github.com/brettz9/intl-locale-textinfo-polyfill)
-- [bunkat/pseudoloc - Simple pseudolocalization for strings and files. Works in Node, the browser, and on the commandline.](https://github.com/bunkat/pseudoloc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
