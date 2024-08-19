@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pachli/pachli-android - The Pachli Android app](https://github.com/pachli/pachli-android)
 - [swicg/activitypub-html-discovery](https://github.com/swicg/activitypub-html-discovery)
 - [kentaromiura/HNR - Hacker News Cli reader](https://github.com/kentaromiura/HNR)
 - [crowdin/github-action - A GitHub action to manage and synchronize localization resources with your Crowdin project](https://github.com/crowdin/github-action)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [EmissarySocial/emissary - The Social Web Toolkit](https://github.com/EmissarySocial/emissary)
 - [dessant/buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox](https://github.com/dessant/buster)
 - [vslavik/poedit - Translations editor for Mac, Windows and Unix](https://github.com/vslavik/poedit)
-- [brettz9/intl-locale-textinfo-polyfill](https://github.com/brettz9/intl-locale-textinfo-polyfill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
