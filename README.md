@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dahlia/microblog - A simple federated microblog example using Fedify for educational purpose](https://github.com/dahlia/microblog)
 - [dai-shi/react18-use - React 19 use hook shim](https://github.com/dai-shi/react18-use)
 - [hsfzxjy/handwriter.ttf - Handwriting synthesis with Harfbuzz WASM.](https://github.com/hsfzxjy/handwriter.ttf)
 - [activepieces/activepieces - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative](https://github.com/activepieces/activepieces)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [versotile-org/verso - A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
 - [benjamin-awd/StatementSensei - PDF to CSV conversion for your bank statements](https://github.com/benjamin-awd/StatementSensei)
 - [bcomnes/npm-run-all2 - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)](https://github.com/bcomnes/npm-run-all2)
-- [edent/Tweet2Embed - Convert a public Tweet into embedded semantic HTML](https://github.com/edent/Tweet2Embed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
