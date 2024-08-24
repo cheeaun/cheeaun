@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vmstio/mastoreqs](https://github.com/vmstio/mastoreqs)
 - [jesperorb/intl-explorer - Intl Explorer is an interactive tool for experimenting and trying out the ECMAScript Internationalization API.](https://github.com/jesperorb/intl-explorer)
 - [anthropics/anthropic-sdk-typescript - Access to Anthropic's safety-first language model APIs](https://github.com/anthropics/anthropic-sdk-typescript)
 - [dahlia/microblog - A simple federated microblog example using Fedify for educational purpose](https://github.com/dahlia/microblog)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [timelinize/timelinize - Store your data from all your accounts and devices in a single cohesive timeline on your own computer](https://github.com/timelinize/timelinize)
 - [skrulling/vite-plugin-biome - Vite plugin for using the Biome linter](https://github.com/skrulling/vite-plugin-biome)
 - [52-entertainment/vite-plugin-oxlint - ⚓️+⚡️- Oxlint plugin for vite.](https://github.com/52-entertainment/vite-plugin-oxlint)
-- [versotile-org/verso - A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
