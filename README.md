@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fullcalendar/temporal-polyfill - A lightweight polyfill for Temporal, successor to the JavaScript Date object](https://github.com/fullcalendar/temporal-polyfill)
 - [dahlia/cjk-compsci-terms - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조](https://github.com/dahlia/cjk-compsci-terms)
 - [vmstio/mastoreqs](https://github.com/vmstio/mastoreqs)
 - [jesperorb/intl-explorer - Intl Explorer is an interactive tool for experimenting and trying out the ECMAScript Internationalization API.](https://github.com/jesperorb/intl-explorer)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [crowdin/github-action - A GitHub action to manage and synchronize localization resources with your Crowdin project](https://github.com/crowdin/github-action)
 - [dudykr/stc - Speedy TypeScript type checker](https://github.com/dudykr/stc)
 - [timelinize/timelinize - Store your data from all your accounts and devices in a single cohesive timeline on your own computer](https://github.com/timelinize/timelinize)
-- [skrulling/vite-plugin-biome - Vite plugin for using the Biome linter](https://github.com/skrulling/vite-plugin-biome)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
