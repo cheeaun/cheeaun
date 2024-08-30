@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [elliotwutingfeng/railrailrail - Route planner for all stages of the Singapore MRT/LRT rail network (1987-2040+).](https://github.com/elliotwutingfeng/railrailrail)
 - [kdeldycke/awesome-falsehood - 😱 Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
 - [fullcalendar/temporal-polyfill - A lightweight polyfill for Temporal, successor to the JavaScript Date object](https://github.com/fullcalendar/temporal-polyfill)
 - [dahlia/cjk-compsci-terms - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조](https://github.com/dahlia/cjk-compsci-terms)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [swicg/activitypub-html-discovery](https://github.com/swicg/activitypub-html-discovery)
 - [kentaromiura/HNR - Hacker News Cli reader](https://github.com/kentaromiura/HNR)
 - [crowdin/github-action - A GitHub action to manage and synchronize localization resources with your Crowdin project](https://github.com/crowdin/github-action)
-- [dudykr/stc - Speedy TypeScript type checker](https://github.com/dudykr/stc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
