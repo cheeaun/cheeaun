@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Technicolor-Dreamcoat/Quiblr - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse](https://github.com/Technicolor-Dreamcoat/Quiblr)
 - [elliotwutingfeng/railrailrail - Route planner for all stages of the Singapore MRT/LRT rail network (1987-2040+).](https://github.com/elliotwutingfeng/railrailrail)
 - [kdeldycke/awesome-falsehood - 😱 Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
 - [fullcalendar/temporal-polyfill - A lightweight polyfill for Temporal, successor to the JavaScript Date object](https://github.com/fullcalendar/temporal-polyfill)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pachli/pachli-android - The Pachli Android app](https://github.com/pachli/pachli-android)
 - [swicg/activitypub-html-discovery](https://github.com/swicg/activitypub-html-discovery)
 - [kentaromiura/HNR - Hacker News Cli reader](https://github.com/kentaromiura/HNR)
-- [crowdin/github-action - A GitHub action to manage and synchronize localization resources with your Crowdin project](https://github.com/crowdin/github-action)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
