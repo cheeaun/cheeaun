@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Scthe/nanite-webgpu - UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.](https://github.com/Scthe/nanite-webgpu)
 - [Technicolor-Dreamcoat/Quiblr - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse](https://github.com/Technicolor-Dreamcoat/Quiblr)
 - [elliotwutingfeng/railrailrail - Route planner for all stages of the Singapore MRT/LRT rail network (1987-2040+).](https://github.com/elliotwutingfeng/railrailrail)
 - [kdeldycke/awesome-falsehood - 😱 Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [activepieces/activepieces - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative](https://github.com/activepieces/activepieces)
 - [pachli/pachli-android - The Pachli Android app](https://github.com/pachli/pachli-android)
 - [swicg/activitypub-html-discovery](https://github.com/swicg/activitypub-html-discovery)
-- [kentaromiura/HNR - Hacker News Cli reader](https://github.com/kentaromiura/HNR)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
