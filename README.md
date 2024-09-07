@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chroxify/haptic - A new local-first, privacy-focused and open-source home for your markdown notes](https://github.com/chroxify/haptic)
 - [fpapado/svg-use - Tools and bundler plugins, to ergonomically load SVG files via use[href]](https://github.com/fpapado/svg-use)
 - [Scthe/nanite-webgpu - UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.](https://github.com/Scthe/nanite-webgpu)
 - [Technicolor-Dreamcoat/Quiblr - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse](https://github.com/Technicolor-Dreamcoat/Quiblr)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dai-shi/react18-use - React 19 use hook shim](https://github.com/dai-shi/react18-use)
 - [hsfzxjy/handwriter.ttf - Handwriting synthesis with Harfbuzz WASM.](https://github.com/hsfzxjy/handwriter.ttf)
 - [activepieces/activepieces - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative](https://github.com/activepieces/activepieces)
-- [pachli/pachli-android - The Pachli Android app](https://github.com/pachli/pachli-android)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
