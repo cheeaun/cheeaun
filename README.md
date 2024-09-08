@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jprendes/tiny-brotli-dec-wasm - A Brotli streaming decoder for the web in 70.6 KiB of gzipped files](https://github.com/jprendes/tiny-brotli-dec-wasm)
+- [ustclug-dev/brotli-dec-wasm - Brotli decompressor for browsers and web workers with WASM, but still having a small size (about 200KB)](https://github.com/ustclug-dev/brotli-dec-wasm)
 - [chroxify/haptic - A new local-first, privacy-focused and open-source home for your markdown notes](https://github.com/chroxify/haptic)
 - [fpapado/svg-use - Tools and bundler plugins, to ergonomically load SVG files via use[href]](https://github.com/fpapado/svg-use)
 - [Scthe/nanite-webgpu - UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.](https://github.com/Scthe/nanite-webgpu)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [anthropics/anthropic-sdk-typescript - Access to Anthropic's safety-first language model APIs](https://github.com/anthropics/anthropic-sdk-typescript)
 - [dahlia/microblog - A simple federated microblog example using Fedify for educational purpose](https://github.com/dahlia/microblog)
 - [dai-shi/react18-use - React 19 use hook shim](https://github.com/dai-shi/react18-use)
-- [hsfzxjy/handwriter.ttf - Handwriting synthesis with Harfbuzz WASM.](https://github.com/hsfzxjy/handwriter.ttf)
-- [activepieces/activepieces - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative](https://github.com/activepieces/activepieces)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
