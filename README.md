@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [corbindavenport/alt-text-creator - Browser extension that generates alternate text for images using GPT-4 Vision.](https://github.com/corbindavenport/alt-text-creator)
 - [jprendes/tiny-brotli-dec-wasm - A Brotli streaming decoder for the web in 70.6 KiB of gzipped files](https://github.com/jprendes/tiny-brotli-dec-wasm)
 - [ustclug-dev/brotli-dec-wasm - Brotli decompressor for browsers and web workers with WASM, but still having a small size (about 200KB)](https://github.com/ustclug-dev/brotli-dec-wasm)
 - [chroxify/haptic - A new local-first, privacy-focused and open-source home for your markdown notes](https://github.com/chroxify/haptic)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jesperorb/intl-explorer - Intl Explorer is an interactive tool for experimenting and trying out the ECMAScript Internationalization API.](https://github.com/jesperorb/intl-explorer)
 - [anthropics/anthropic-sdk-typescript - Access to Anthropic's safety-first language model APIs](https://github.com/anthropics/anthropic-sdk-typescript)
 - [dahlia/microblog - A simple federated microblog example using Fedify for educational purpose](https://github.com/dahlia/microblog)
-- [dai-shi/react18-use - React 19 use hook shim](https://github.com/dai-shi/react18-use)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
