@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mhaeuser/Battery-Toolkit - Control the platform power state of your Apple Silicon Mac.](https://github.com/mhaeuser/Battery-Toolkit)
 - [mjackson/remix-the-web - Open source tools for Remix (or any framework!)](https://github.com/mjackson/remix-the-web)
 - [bramus/caniuse-cli - Command line tool for “Can I Use …” and MDN Browser Compat Data](https://github.com/bramus/caniuse-cli)
 - [corbindavenport/alt-text-creator - Browser extension that generates alternate text for images using GPT-4 Vision.](https://github.com/corbindavenport/alt-text-creator)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fullcalendar/temporal-polyfill - A lightweight polyfill for Temporal, successor to the JavaScript Date object](https://github.com/fullcalendar/temporal-polyfill)
 - [dahlia/cjk-compsci-terms - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조](https://github.com/dahlia/cjk-compsci-terms)
 - [vmstio/mastoreqs](https://github.com/vmstio/mastoreqs)
-- [jesperorb/intl-explorer - Intl Explorer is an interactive tool for experimenting and trying out the ECMAScript Internationalization API.](https://github.com/jesperorb/intl-explorer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
