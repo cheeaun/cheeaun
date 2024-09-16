@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mwichary/text-makeup - A little tool to decode and explore Unicode strings](https://github.com/mwichary/text-makeup)
 - [twoslashes/twoslash - Markup for generating rich type information in your documentations ahead of time.](https://github.com/twoslashes/twoslash)
 - [ad-freiburg/loom - Software suite for the automated generation of geographically correct or schematic transit maps. ](https://github.com/ad-freiburg/loom)
 - [mhaeuser/Battery-Toolkit - Control the platform power state of your Apple Silicon Mac.](https://github.com/mhaeuser/Battery-Toolkit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Technicolor-Dreamcoat/Quiblr - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse](https://github.com/Technicolor-Dreamcoat/Quiblr)
 - [elliotwutingfeng/railrailrail - Route planner for all stages of the Singapore MRT/LRT rail network (1987-2040+).](https://github.com/elliotwutingfeng/railrailrail)
 - [kdeldycke/awesome-falsehood - 😱 Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
-- [fullcalendar/temporal-polyfill - A lightweight polyfill for Temporal, successor to the JavaScript Date object](https://github.com/fullcalendar/temporal-polyfill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
