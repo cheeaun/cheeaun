@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pencilresearch/OpenScanner - Fast, reliable, and free document scanner app for iPhone](https://github.com/pencilresearch/OpenScanner)
 - [talkjs/country-flag-emoji-polyfill - Add country flag emojis to Chromium-based browsers on Windows](https://github.com/talkjs/country-flag-emoji-polyfill)
 - [mwichary/text-makeup - A little tool to decode and explore Unicode strings](https://github.com/mwichary/text-makeup)
 - [twoslashes/twoslash - Markup for generating rich type information in your documentations ahead of time.](https://github.com/twoslashes/twoslash)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fpapado/svg-use - Tools and bundler plugins, to ergonomically load SVG files via use[href]](https://github.com/fpapado/svg-use)
 - [Scthe/nanite-webgpu - UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.](https://github.com/Scthe/nanite-webgpu)
 - [Technicolor-Dreamcoat/Quiblr - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse](https://github.com/Technicolor-Dreamcoat/Quiblr)
-- [elliotwutingfeng/railrailrail - Route planner for all stages of the Singapore MRT/LRT rail network (1987-2040+).](https://github.com/elliotwutingfeng/railrailrail)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
