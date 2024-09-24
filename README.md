@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WinampDesktop/winamp - Iconic media player](https://github.com/WinampDesktop/winamp)
+- [niieani/hashids.js - A small JavaScript library to generate YouTube-like ids from numbers.](https://github.com/niieani/hashids.js)
+- [hyperknot/openfreemap - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data](https://github.com/hyperknot/openfreemap)
 - [bkardell/bcd-watch - News feeds and helpful reports auto-generated from bcd data](https://github.com/bkardell/bcd-watch)
 - [pencilresearch/OpenScanner - Fast, reliable, and free document scanner app for iPhone](https://github.com/pencilresearch/OpenScanner)
 - [talkjs/country-flag-emoji-polyfill - Add country flag emojis to Chromium-based browsers on Windows](https://github.com/talkjs/country-flag-emoji-polyfill)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [corbindavenport/alt-text-creator - Browser extension that generates alternate text for images using GPT-4 Vision.](https://github.com/corbindavenport/alt-text-creator)
 - [jprendes/tiny-brotli-dec-wasm - A Brotli streaming decoder for the web in 70.6 KiB of gzipped files](https://github.com/jprendes/tiny-brotli-dec-wasm)
 - [ustclug-dev/brotli-dec-wasm - Brotli decompressor for browsers and web workers with WASM, but still having a small size (about 200KB)](https://github.com/ustclug-dev/brotli-dec-wasm)
-- [chroxify/haptic - A new local-first, privacy-focused and open-source home for your markdown notes](https://github.com/chroxify/haptic)
-- [fpapado/svg-use - Tools and bundler plugins, to ergonomically load SVG files via use[href]](https://github.com/fpapado/svg-use)
-- [Scthe/nanite-webgpu - UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.](https://github.com/Scthe/nanite-webgpu)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
