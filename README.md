@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bkardell/bcd-watch - News feeds and helpful reports auto-generated from bcd data](https://github.com/bkardell/bcd-watch)
 - [pencilresearch/OpenScanner - Fast, reliable, and free document scanner app for iPhone](https://github.com/pencilresearch/OpenScanner)
 - [talkjs/country-flag-emoji-polyfill - Add country flag emojis to Chromium-based browsers on Windows](https://github.com/talkjs/country-flag-emoji-polyfill)
 - [mwichary/text-makeup - A little tool to decode and explore Unicode strings](https://github.com/mwichary/text-makeup)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chroxify/haptic - A new local-first, privacy-focused and open-source home for your markdown notes](https://github.com/chroxify/haptic)
 - [fpapado/svg-use - Tools and bundler plugins, to ergonomically load SVG files via use[href]](https://github.com/fpapado/svg-use)
 - [Scthe/nanite-webgpu - UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.](https://github.com/Scthe/nanite-webgpu)
-- [Technicolor-Dreamcoat/Quiblr - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse](https://github.com/Technicolor-Dreamcoat/Quiblr)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
