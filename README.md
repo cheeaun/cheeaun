@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [casey/just - 🤖 Just a command runner](https://github.com/casey/just)
 - [WinampDesktop/winamp - Iconic media player](https://github.com/WinampDesktop/winamp)
 - [niieani/hashids.js - A small JavaScript library to generate YouTube-like ids from numbers.](https://github.com/niieani/hashids.js)
 - [hyperknot/openfreemap - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data](https://github.com/hyperknot/openfreemap)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bramus/caniuse-cli - Command line tool for “Can I Use …” and MDN Browser Compat Data](https://github.com/bramus/caniuse-cli)
 - [corbindavenport/alt-text-creator - Browser extension that generates alternate text for images using GPT-4 Vision.](https://github.com/corbindavenport/alt-text-creator)
 - [jprendes/tiny-brotli-dec-wasm - A Brotli streaming decoder for the web in 70.6 KiB of gzipped files](https://github.com/jprendes/tiny-brotli-dec-wasm)
-- [ustclug-dev/brotli-dec-wasm - Brotli decompressor for browsers and web workers with WASM, but still having a small size (about 200KB)](https://github.com/ustclug-dev/brotli-dec-wasm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
