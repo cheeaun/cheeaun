@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oxc-project/oxc - ⚓ A collection of JavaScript tools written in Rust.](https://github.com/oxc-project/oxc)
 - [zhengkyl/fuqr - qr code generator](https://github.com/zhengkyl/fuqr)
 - [zhengkyl/qrframe - code-based qr code generator](https://github.com/zhengkyl/qrframe)
 - [raspberrypi/imx500-models - Raspberry Pi AI Camera (IMX500) Model Zoo](https://github.com/raspberrypi/imx500-models)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [twoslashes/twoslash - Markup for generating rich type information in your documentations ahead of time.](https://github.com/twoslashes/twoslash)
 - [ad-freiburg/loom - Software suite for the automated generation of geographically correct or schematic transit maps. ](https://github.com/ad-freiburg/loom)
 - [mhaeuser/Battery-Toolkit - Control the platform power state of your Apple Silicon Mac.](https://github.com/mhaeuser/Battery-Toolkit)
-- [mjackson/remix-the-web - Open source tools for Remix (or any framework!)](https://github.com/mjackson/remix-the-web)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
