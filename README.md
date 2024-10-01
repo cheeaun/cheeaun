@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zhengkyl/fuqr - qr code generator](https://github.com/zhengkyl/fuqr)
+- [zhengkyl/qrframe - code-based qr code generator](https://github.com/zhengkyl/qrframe)
 - [raspberrypi/imx500-models - Raspberry Pi AI Camera (IMX500) Model Zoo](https://github.com/raspberrypi/imx500-models)
 - [casey/just - 🤖 Just a command runner](https://github.com/casey/just)
 - [WinampDesktop/winamp - Iconic media player](https://github.com/WinampDesktop/winamp)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ad-freiburg/loom - Software suite for the automated generation of geographically correct or schematic transit maps. ](https://github.com/ad-freiburg/loom)
 - [mhaeuser/Battery-Toolkit - Control the platform power state of your Apple Silicon Mac.](https://github.com/mhaeuser/Battery-Toolkit)
 - [mjackson/remix-the-web - Open source tools for Remix (or any framework!)](https://github.com/mjackson/remix-the-web)
-- [bramus/caniuse-cli - Command line tool for “Can I Use …” and MDN Browser Compat Data](https://github.com/bramus/caniuse-cli)
-- [corbindavenport/alt-text-creator - Browser extension that generates alternate text for images using GPT-4 Vision.](https://github.com/corbindavenport/alt-text-creator)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
