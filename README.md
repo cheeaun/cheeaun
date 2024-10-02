@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dkpfm/minitap - A fun sequencer that runs as a Chrome Extension.](https://github.com/dkpfm/minitap)
 - [snarfed/bridgy - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...](https://github.com/snarfed/bridgy)
 - [snarfed/bridgy-fed - 🌉 A bridge between decentralized social network protocols](https://github.com/snarfed/bridgy-fed)
 - [oxc-project/oxc - ⚓ A collection of JavaScript tools written in Rust.](https://github.com/oxc-project/oxc)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pencilresearch/OpenScanner - Fast, reliable, and free document scanner app for iPhone](https://github.com/pencilresearch/OpenScanner)
 - [talkjs/country-flag-emoji-polyfill - Add country flag emojis to Chromium-based browsers on Windows](https://github.com/talkjs/country-flag-emoji-polyfill)
 - [mwichary/text-makeup - A little tool to decode and explore Unicode strings](https://github.com/mwichary/text-makeup)
-- [twoslashes/twoslash - Markup for generating rich type information in your documentations ahead of time.](https://github.com/twoslashes/twoslash)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
