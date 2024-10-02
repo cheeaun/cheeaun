@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [snarfed/bridgy - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...](https://github.com/snarfed/bridgy)
+- [snarfed/bridgy-fed - 🌉 A bridge between decentralized social network protocols](https://github.com/snarfed/bridgy-fed)
 - [oxc-project/oxc - ⚓ A collection of JavaScript tools written in Rust.](https://github.com/oxc-project/oxc)
 - [zhengkyl/fuqr - qr code generator](https://github.com/zhengkyl/fuqr)
 - [zhengkyl/qrframe - code-based qr code generator](https://github.com/zhengkyl/qrframe)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [talkjs/country-flag-emoji-polyfill - Add country flag emojis to Chromium-based browsers on Windows](https://github.com/talkjs/country-flag-emoji-polyfill)
 - [mwichary/text-makeup - A little tool to decode and explore Unicode strings](https://github.com/mwichary/text-makeup)
 - [twoslashes/twoslash - Markup for generating rich type information in your documentations ahead of time.](https://github.com/twoslashes/twoslash)
-- [ad-freiburg/loom - Software suite for the automated generation of geographically correct or schematic transit maps. ](https://github.com/ad-freiburg/loom)
-- [mhaeuser/Battery-Toolkit - Control the platform power state of your Apple Silicon Mac.](https://github.com/mhaeuser/Battery-Toolkit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
