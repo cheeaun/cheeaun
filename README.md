@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kokonect-link/cherrypick - 🌎 A interplanetary communication platform 🚀](https://github.com/kokonect-link/cherrypick)
 - [dkpfm/minitap - A fun sequencer that runs as a Chrome Extension.](https://github.com/dkpfm/minitap)
 - [snarfed/bridgy - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...](https://github.com/snarfed/bridgy)
 - [snarfed/bridgy-fed - 🌉 A bridge between decentralized social network protocols](https://github.com/snarfed/bridgy-fed)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bkardell/bcd-watch - News feeds and helpful reports auto-generated from bcd data](https://github.com/bkardell/bcd-watch)
 - [pencilresearch/OpenScanner - Fast, reliable, and free document scanner app for iPhone](https://github.com/pencilresearch/OpenScanner)
 - [talkjs/country-flag-emoji-polyfill - Add country flag emojis to Chromium-based browsers on Windows](https://github.com/talkjs/country-flag-emoji-polyfill)
-- [mwichary/text-makeup - A little tool to decode and explore Unicode strings](https://github.com/mwichary/text-makeup)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
