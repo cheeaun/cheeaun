@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [serengil/retinaface - RetinaFace: Deep Face Detection Library for Python](https://github.com/serengil/retinaface)
 - [szymonkaliski/cartographist - experimental web browser optimized for rabbit-holing](https://github.com/szymonkaliski/cartographist)
 - [kokonect-link/cherrypick - 🌎 A interplanetary communication platform 🚀](https://github.com/kokonect-link/cherrypick)
 - [dkpfm/minitap - A fun sequencer that runs as a Chrome Extension.](https://github.com/dkpfm/minitap)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [niieani/hashids.js - A small JavaScript library to generate YouTube-like ids from numbers.](https://github.com/niieani/hashids.js)
 - [hyperknot/openfreemap - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data](https://github.com/hyperknot/openfreemap)
 - [bkardell/bcd-watch - News feeds and helpful reports auto-generated from bcd data](https://github.com/bkardell/bcd-watch)
-- [pencilresearch/OpenScanner - Fast, reliable, and free document scanner app for iPhone](https://github.com/pencilresearch/OpenScanner)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
