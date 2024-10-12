@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mkljczk/pl-fe - Mastodon-compatible social media front-end](https://github.com/mkljczk/pl-fe)
 - [Stengo/DeskPad - A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 - [serengil/retinaface - RetinaFace: Deep Face Detection Library for Python](https://github.com/serengil/retinaface)
 - [szymonkaliski/cartographist - experimental web browser optimized for rabbit-holing](https://github.com/szymonkaliski/cartographist)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [casey/just - 🤖 Just a command runner](https://github.com/casey/just)
 - [WinampDesktop/winamp - Iconic media player](https://github.com/WinampDesktop/winamp)
 - [niieani/hashids.js - A small JavaScript library to generate YouTube-like ids from numbers.](https://github.com/niieani/hashids.js)
-- [hyperknot/openfreemap - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data](https://github.com/hyperknot/openfreemap)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
