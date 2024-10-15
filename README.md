@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [klimeryk/dealwithit - Fully client-side Deal With It GIF emoji generator.](https://github.com/klimeryk/dealwithit)
 - [praveenjuge/mynaui-icons - Beautifully crafted open source icons from Myna UI.](https://github.com/praveenjuge/mynaui-icons)
 - [krausest/js-framework-benchmark - A comparison of the performance of a few popular javascript frameworks](https://github.com/krausest/js-framework-benchmark)
 - [mkljczk/pl-fe - Mastodon-compatible social media front-end](https://github.com/mkljczk/pl-fe)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zhengkyl/fuqr - qr code generator](https://github.com/zhengkyl/fuqr)
 - [zhengkyl/qrframe - code-based qr code generator](https://github.com/zhengkyl/qrframe)
 - [raspberrypi/imx500-models - Raspberry Pi AI Camera (IMX500) Model Zoo](https://github.com/raspberrypi/imx500-models)
-- [casey/just - 🤖 Just a command runner](https://github.com/casey/just)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
