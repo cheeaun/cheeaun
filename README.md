@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [praveenjuge/mynaui-icons - Beautifully crafted open source icons from Myna UI.](https://github.com/praveenjuge/mynaui-icons)
 - [krausest/js-framework-benchmark - A comparison of the performance of a few popular javascript frameworks](https://github.com/krausest/js-framework-benchmark)
 - [mkljczk/pl-fe - Mastodon-compatible social media front-end](https://github.com/mkljczk/pl-fe)
 - [Stengo/DeskPad - A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zhengkyl/qrframe - code-based qr code generator](https://github.com/zhengkyl/qrframe)
 - [raspberrypi/imx500-models - Raspberry Pi AI Camera (IMX500) Model Zoo](https://github.com/raspberrypi/imx500-models)
 - [casey/just - 🤖 Just a command runner](https://github.com/casey/just)
-- [WinampDesktop/winamp - Iconic media player](https://github.com/WinampDesktop/winamp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
