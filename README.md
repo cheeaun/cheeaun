@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nh2/internal-contstrained-pki - Safely shareable TLS root CA for .internal networks using Name Constraints](https://github.com/nh2/internal-contstrained-pki)
 - [barvian/number-flow - A React component to transition, format, and localize numbers.](https://github.com/barvian/number-flow)
 - [gabrielpetersson/fast-grid - World's most performant DOM-based web table. Try it! fast-grid.vercel.app/](https://github.com/gabrielpetersson/fast-grid)
 - [klimeryk/dealwithit - Fully client-side Deal With It GIF emoji generator.](https://github.com/klimeryk/dealwithit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [snarfed/bridgy - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...](https://github.com/snarfed/bridgy)
 - [snarfed/bridgy-fed - 🌉 A bridge between decentralized social network protocols](https://github.com/snarfed/bridgy-fed)
 - [oxc-project/oxc - ⚓ A collection of JavaScript tools written in Rust.](https://github.com/oxc-project/oxc)
-- [zhengkyl/fuqr - qr code generator](https://github.com/zhengkyl/fuqr)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
