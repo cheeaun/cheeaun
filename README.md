@@ -29,7 +29,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 <!-- starred repos start -->
 - [anthropics/anthropic-quickstarts - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API](https://github.com/anthropics/anthropic-quickstarts)
 - [nh2/internal-contstrained-pki - Safely shareable TLS root CA for .internal networks using Name Constraints](https://github.com/nh2/internal-contstrained-pki)
-- [barvian/number-flow - A React component to transition, format, and localize numbers.](https://github.com/barvian/number-flow)
+- [barvian/number-flow - A component to transition, format, and localize numbers.](https://github.com/barvian/number-flow)
 - [gabrielpetersson/fast-grid - World's most performant DOM-based web table. Try it! fast-grid.vercel.app/](https://github.com/gabrielpetersson/fast-grid)
 - [klimeryk/dealwithit - Fully client-side Deal With It GIF emoji generator.](https://github.com/klimeryk/dealwithit)
 - [praveenjuge/mynaui-icons - Beautifully crafted open source icons from Myna UI.](https://github.com/praveenjuge/mynaui-icons)
