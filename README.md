@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [misskey-dev/misskey - 🌎 A completely free and open interplanetary microblogging platform 🚀](https://github.com/misskey-dev/misskey)
 - [anthropics/anthropic-quickstarts - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API](https://github.com/anthropics/anthropic-quickstarts)
 - [nh2/internal-contstrained-pki - Safely shareable TLS root CA for .internal networks using Name Constraints](https://github.com/nh2/internal-contstrained-pki)
 - [barvian/number-flow - A component to transition, format, and localize numbers.](https://github.com/barvian/number-flow)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kokonect-link/cherrypick - 🌎 A interplanetary communication platform 🚀](https://github.com/kokonect-link/cherrypick)
 - [dkpfm/minitap - A fun sequencer that runs as a Chrome Extension.](https://github.com/dkpfm/minitap)
 - [snarfed/bridgy - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...](https://github.com/snarfed/bridgy)
-- [snarfed/bridgy-fed - 🌉 A bridge between decentralized social network protocols](https://github.com/snarfed/bridgy-fed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
