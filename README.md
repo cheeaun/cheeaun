@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mary-ext/atcute - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.](https://github.com/mary-ext/atcute)
 - [pheuter/hnpush - Web push notifications for top stories on Hacker News.](https://github.com/pheuter/hnpush)
 - [misskey-dev/misskey - 🌎 A completely free and open interplanetary microblogging platform 🚀](https://github.com/misskey-dev/misskey)
 - [anthropics/anthropic-quickstarts - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API](https://github.com/anthropics/anthropic-quickstarts)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [serengil/retinaface - RetinaFace: Deep Face Detection Library for Python](https://github.com/serengil/retinaface)
 - [szymonkaliski/cartographist - experimental web browser optimized for rabbit-holing](https://github.com/szymonkaliski/cartographist)
 - [kokonect-link/cherrypick - 🌎 A interplanetary communication platform 🚀](https://github.com/kokonect-link/cherrypick)
-- [dkpfm/minitap - A fun sequencer that runs as a Chrome Extension.](https://github.com/dkpfm/minitap)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
