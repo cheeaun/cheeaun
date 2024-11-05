@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rawify/Fraction.js - Fraction is a rational numbers library written in JavaScript](https://github.com/rawify/Fraction.js)
 - [mary-ext/atcute - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.](https://github.com/mary-ext/atcute)
 - [pheuter/hnpush - Web push notifications for top stories on Hacker News.](https://github.com/pheuter/hnpush)
 - [misskey-dev/misskey - 🌎 A completely free and open interplanetary microblogging platform 🚀](https://github.com/misskey-dev/misskey)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Stengo/DeskPad - A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 - [serengil/retinaface - RetinaFace: Deep Face Detection Library for Python](https://github.com/serengil/retinaface)
 - [szymonkaliski/cartographist - experimental web browser optimized for rabbit-holing](https://github.com/szymonkaliski/cartographist)
-- [kokonect-link/cherrypick - 🌎 A interplanetary communication platform 🚀](https://github.com/kokonect-link/cherrypick)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
