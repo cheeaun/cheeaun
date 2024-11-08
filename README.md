@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aendra-rininsland/bluemoji - Monorepo for the Bluemoji Bluesky emoji project](https://github.com/aendra-rininsland/bluemoji)
 - [zumerlab/orbit - 💫 Orbit is the first CSS framework designed specifically for building radial user interfaces!](https://github.com/zumerlab/orbit)
 - [rawify/Fraction.js - Fraction is a rational numbers library written in JavaScript](https://github.com/rawify/Fraction.js)
 - [mary-ext/atcute - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.](https://github.com/mary-ext/atcute)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [krausest/js-framework-benchmark - A comparison of the performance of a few popular javascript frameworks](https://github.com/krausest/js-framework-benchmark)
 - [mkljczk/pl-fe - Mastodon-compatible social media front-end](https://github.com/mkljczk/pl-fe)
 - [Stengo/DeskPad - A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
-- [serengil/retinaface - RetinaFace: Deep Face Detection Library for Python](https://github.com/serengil/retinaface)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
