@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bluesky-social/pds - Bluesky PDS (Personal Data Server) container image, compose file, and documentation](https://github.com/bluesky-social/pds)
 - [aendra-rininsland/bluemoji - Monorepo for the Bluemoji Bluesky emoji project](https://github.com/aendra-rininsland/bluemoji)
 - [zumerlab/orbit - 💫 Orbit is the first CSS framework designed specifically for building radial user interfaces!](https://github.com/zumerlab/orbit)
 - [rawify/Fraction.js - Fraction is a rational numbers library written in JavaScript](https://github.com/rawify/Fraction.js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [praveenjuge/mynaui-icons - Beautifully crafted open source icons from Myna UI.](https://github.com/praveenjuge/mynaui-icons)
 - [krausest/js-framework-benchmark - A comparison of the performance of a few popular javascript frameworks](https://github.com/krausest/js-framework-benchmark)
 - [mkljczk/pl-fe - Mastodon-compatible social media front-end](https://github.com/mkljczk/pl-fe)
-- [Stengo/DeskPad - A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
