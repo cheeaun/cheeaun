@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [marcomaroni-github/twitter-to-bluesky - Import all tweets exported from X/Twitter to a Bluesky account.](https://github.com/marcomaroni-github/twitter-to-bluesky)
 - [mekaem/graphmemes - A zero-allocation, no-std grapheme cluster iterator](https://github.com/mekaem/graphmemes)
 - [filipsobol/sonda - Universal visualizer and analyzer for JavaScript and CSS bundles. Works with Vite, Rollup, webpack, Rspack, and esbuild.](https://github.com/filipsobol/sonda)
 - [bluesky-social/pds - Bluesky PDS (Personal Data Server) container image, compose file, and documentation](https://github.com/bluesky-social/pds)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [barvian/number-flow - A component to transition, format, and localize numbers.](https://github.com/barvian/number-flow)
 - [gabrielpetersson/fast-grid - World's most performant DOM-based web table. Try it! fast-grid.vercel.app/](https://github.com/gabrielpetersson/fast-grid)
 - [klimeryk/dealwithit - Fully client-side Deal With It GIF emoji generator.](https://github.com/klimeryk/dealwithit)
-- [praveenjuge/mynaui-icons - Beautifully crafted open source icons from Myna UI.](https://github.com/praveenjuge/mynaui-icons)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
