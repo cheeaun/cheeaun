@@ -32,7 +32,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [filipsobol/sonda - Universal visualizer and analyzer for JavaScript and CSS bundles. Works with Vite, Rollup, webpack, Rspack, and esbuild.](https://github.com/filipsobol/sonda)
 - [bluesky-social/pds - Bluesky PDS (Personal Data Server) container image, compose file, and documentation](https://github.com/bluesky-social/pds)
 - [aendra-rininsland/bluemoji - Monorepo for the Bluemoji Bluesky emoji project](https://github.com/aendra-rininsland/bluemoji)
-- [zumerlab/orbit - 💫 Orbit is the first CSS framework designed specifically for building radial user interfaces!](https://github.com/zumerlab/orbit)
+- [zumerlab/orbit - 💫 Orbit is the first CSS framework designed specifically for building radial/circular interfaces!](https://github.com/zumerlab/orbit)
 - [rawify/Fraction.js - Fraction is a rational numbers library written in JavaScript](https://github.com/rawify/Fraction.js)
 - [mary-ext/atcute - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.](https://github.com/mary-ext/atcute)
 - [pheuter/hnpush - Web push notifications for top stories on Hacker News.](https://github.com/pheuter/hnpush)
