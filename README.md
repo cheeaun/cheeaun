@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shafy/fugu - Fugu is simple, privacy-friendly, open-source and self-hostable product analytics. 🐡](https://github.com/shafy/fugu)
 - [marcomaroni-github/twitter-to-bluesky - Import all tweets exported from X/Twitter to a Bluesky account.](https://github.com/marcomaroni-github/twitter-to-bluesky)
 - [mekaem/graphmemes - A zero-allocation, no-std grapheme cluster iterator](https://github.com/mekaem/graphmemes)
 - [filipsobol/sonda - Universal visualizer and analyzer for JavaScript and CSS bundles. Works with Vite, Rollup, webpack, Rspack, and esbuild.](https://github.com/filipsobol/sonda)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nh2/internal-contstrained-pki - Safely shareable TLS root CA for .internal networks using Name Constraints](https://github.com/nh2/internal-contstrained-pki)
 - [barvian/number-flow - A component to transition, format, and localize numbers.](https://github.com/barvian/number-flow)
 - [gabrielpetersson/fast-grid - World's most performant DOM-based web table. Try it! fast-grid.vercel.app/](https://github.com/gabrielpetersson/fast-grid)
-- [klimeryk/dealwithit - Fully client-side Deal With It GIF emoji generator.](https://github.com/klimeryk/dealwithit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
