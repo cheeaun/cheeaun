@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LegendApp/legend-list](https://github.com/LegendApp/legend-list)
 - [fast-average-color/fast-average-color - 🍏🍊🍅 Fast Average Color](https://github.com/fast-average-color/fast-average-color)
 - [shafy/fugu - Fugu is simple, privacy-friendly, open-source and self-hostable product analytics. 🐡](https://github.com/shafy/fugu)
 - [marcomaroni-github/twitter-to-bluesky - Import all tweets exported from X/Twitter to a Bluesky account.](https://github.com/marcomaroni-github/twitter-to-bluesky)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [misskey-dev/misskey - 🌎 A completely free and open interplanetary microblogging platform 🚀](https://github.com/misskey-dev/misskey)
 - [anthropics/anthropic-quickstarts - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API](https://github.com/anthropics/anthropic-quickstarts)
 - [nh2/internal-contstrained-pki - Safely shareable TLS root CA for .internal networks using Name Constraints](https://github.com/nh2/internal-contstrained-pki)
-- [barvian/number-flow - A component to transition, format, and localize numbers.](https://github.com/barvian/number-flow)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
