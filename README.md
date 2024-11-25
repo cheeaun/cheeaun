@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [flo-bit/tiny-planets - procedurally generated tiny planets in the browsers](https://github.com/flo-bit/tiny-planets)
 - [gabboman/wafrn - Wafrn is a federated social media inspired by tumblr. Join us and have fun](https://github.com/gabboman/wafrn)
 - [korywka/mapbox-controls - Monorepo for Mapbox controls](https://github.com/korywka/mapbox-controls)
 - [JonPulfer/swiftodon - ActivityPub server capable of federating with Mastodon](https://github.com/JonPulfer/swiftodon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zumerlab/orbit - 💫 Orbit is the first CSS framework designed specifically for building radial/circular interfaces!](https://github.com/zumerlab/orbit)
 - [rawify/Fraction.js - Fraction is a rational numbers library written in JavaScript](https://github.com/rawify/Fraction.js)
 - [mary-ext/atcute - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.](https://github.com/mary-ext/atcute)
-- [pheuter/hnpush - Web push notifications for top stories on Hacker News.](https://github.com/pheuter/hnpush)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
