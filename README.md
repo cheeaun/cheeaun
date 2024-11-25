@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gabboman/wafrn - Wafrn is a federated social media inspired by tumblr. Join us and have fun](https://github.com/gabboman/wafrn)
+- [korywka/mapbox-controls - Monorepo for Mapbox controls](https://github.com/korywka/mapbox-controls)
+- [JonPulfer/swiftodon - ActivityPub server capable of federating with Mastodon](https://github.com/JonPulfer/swiftodon)
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list)
 - [fast-average-color/fast-average-color - 🍏🍊🍅 Fast Average Color](https://github.com/fast-average-color/fast-average-color)
 - [shafy/fugu - Fugu is simple, privacy-friendly, open-source and self-hostable product analytics. 🐡](https://github.com/shafy/fugu)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rawify/Fraction.js - Fraction is a rational numbers library written in JavaScript](https://github.com/rawify/Fraction.js)
 - [mary-ext/atcute - a collection of lightweight TypeScript packages for AT Protocol, the protocol powering Bluesky.](https://github.com/mary-ext/atcute)
 - [pheuter/hnpush - Web push notifications for top stories on Hacker News.](https://github.com/pheuter/hnpush)
-- [misskey-dev/misskey - 🌎 A completely free and open interplanetary microblogging platform 🚀](https://github.com/misskey-dev/misskey)
-- [anthropics/anthropic-quickstarts - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API](https://github.com/anthropics/anthropic-quickstarts)
-- [nh2/internal-contstrained-pki - Safely shareable TLS root CA for .internal networks using Name Constraints](https://github.com/nh2/internal-contstrained-pki)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
