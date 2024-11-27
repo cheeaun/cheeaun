@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nojacko/node-country-to-iso - Convert inconsistent country names and codes into ISO 3166-1 alpha-2.](https://github.com/nojacko/node-country-to-iso)
 - [videah/jetstream-oxide - A typed Rust library for easily interacting with and consuming the Bluesky Jetstream service.](https://github.com/videah/jetstream-oxide)
 - [flo-bit/tiny-planets - procedurally generated tiny planets in the browsers](https://github.com/flo-bit/tiny-planets)
 - [gabboman/wafrn - Wafrn is a federated social media inspired by tumblr. Join us and have fun](https://github.com/gabboman/wafrn)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bluesky-social/pds - Bluesky PDS (Personal Data Server) container image, compose file, and documentation](https://github.com/bluesky-social/pds)
 - [aendra-rininsland/bluemoji - Monorepo for the Bluemoji Bluesky emoji project](https://github.com/aendra-rininsland/bluemoji)
 - [zumerlab/orbit - 💫 Orbit is the first CSS framework designed specifically for building radial/circular interfaces!](https://github.com/zumerlab/orbit)
-- [rawify/Fraction.js - Fraction is a rational numbers library written in JavaScript](https://github.com/rawify/Fraction.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
