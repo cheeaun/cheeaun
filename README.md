@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mozzius/expo-dynamic-app-icon - 🤖 Programmatically change the app icon in Expo.](https://github.com/mozzius/expo-dynamic-app-icon)
+- [molefrog/spoiled - 🪄 Hide precious secrets. Realistic <Spoiler /> component for React.js](https://github.com/molefrog/spoiled)
 - [nojacko/node-country-to-iso - Convert inconsistent country names and codes into ISO 3166-1 alpha-2.](https://github.com/nojacko/node-country-to-iso)
 - [videah/jetstream-oxide - A typed Rust library for easily interacting with and consuming the Bluesky Jetstream service.](https://github.com/videah/jetstream-oxide)
 - [flo-bit/tiny-planets - procedurally generated tiny planets in the browsers](https://github.com/flo-bit/tiny-planets)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mekaem/graphmemes - A zero-allocation, no-std grapheme cluster iterator](https://github.com/mekaem/graphmemes)
 - [filipsobol/sonda - Universal visualizer and analyzer for JavaScript and CSS bundles. Works with Vite, Rollup, webpack, Rspack, and esbuild.](https://github.com/filipsobol/sonda)
 - [bluesky-social/pds - Bluesky PDS (Personal Data Server) container image, compose file, and documentation](https://github.com/bluesky-social/pds)
-- [aendra-rininsland/bluemoji - Monorepo for the Bluemoji Bluesky emoji project](https://github.com/aendra-rininsland/bluemoji)
-- [zumerlab/orbit - 💫 Orbit is the first CSS framework designed specifically for building radial/circular interfaces!](https://github.com/zumerlab/orbit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
