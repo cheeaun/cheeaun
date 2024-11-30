@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [s427/MARL - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file](https://github.com/s427/MARL)
 - [mozzius/expo-dynamic-app-icon - 🤖 Programmatically change the app icon in Expo.](https://github.com/mozzius/expo-dynamic-app-icon)
 - [molefrog/spoiled - 🪄 Hide precious secrets. Realistic <Spoiler /> component for React.js](https://github.com/molefrog/spoiled)
 - [nojacko/node-country-to-iso - Convert inconsistent country names and codes into ISO 3166-1 alpha-2.](https://github.com/nojacko/node-country-to-iso)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [marcomaroni-github/twitter-to-bluesky - Import all tweets exported from X/Twitter to a Bluesky account.](https://github.com/marcomaroni-github/twitter-to-bluesky)
 - [mekaem/graphmemes - A zero-allocation, no-std grapheme cluster iterator](https://github.com/mekaem/graphmemes)
 - [filipsobol/sonda - Universal visualizer and analyzer for JavaScript and CSS bundles. Works with Vite, Rollup, webpack, Rspack, and esbuild.](https://github.com/filipsobol/sonda)
-- [bluesky-social/pds - Bluesky PDS (Personal Data Server) container image, compose file, and documentation](https://github.com/bluesky-social/pds)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
