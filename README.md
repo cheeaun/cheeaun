@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [liquidx/webviewscreensaver - Mac OS X Screen Saver powered by a Web View](https://github.com/liquidx/webviewscreensaver)
 - [Dimillian/IcySky - A BlueSky Client. TBD.](https://github.com/Dimillian/IcySky)
 - [w3c-fedid/FedCM - A privacy preserving identity exchange Web API](https://github.com/w3c-fedid/FedCM)
 - [s427/MARL - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file](https://github.com/s427/MARL)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list)
 - [fast-average-color/fast-average-color - 🍏🍊🍅 Fast Average Color](https://github.com/fast-average-color/fast-average-color)
 - [shafy/fugu - Fugu is simple, privacy-friendly, open-source and self-hostable product analytics. 🐡](https://github.com/shafy/fugu)
-- [marcomaroni-github/twitter-to-bluesky - Import all tweets exported from X/Twitter to a Bluesky account.](https://github.com/marcomaroni-github/twitter-to-bluesky)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
