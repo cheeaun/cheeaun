@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ImranR98/Obtainium - Get Android app updates straight from the source.](https://github.com/ImranR98/Obtainium)
 - [liquidx/webviewscreensaver - Mac OS X Screen Saver powered by a Web View](https://github.com/liquidx/webviewscreensaver)
 - [Dimillian/IcySky - A BlueSky Client. TBD.](https://github.com/Dimillian/IcySky)
 - [w3c-fedid/FedCM - A privacy preserving identity exchange Web API](https://github.com/w3c-fedid/FedCM)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JonPulfer/swiftodon - ActivityPub server capable of federating with Mastodon](https://github.com/JonPulfer/swiftodon)
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list)
 - [fast-average-color/fast-average-color - 🍏🍊🍅 Fast Average Color](https://github.com/fast-average-color/fast-average-color)
-- [shafy/fugu - Fugu is simple, privacy-friendly, open-source and self-hostable product analytics. 🐡](https://github.com/shafy/fugu)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
