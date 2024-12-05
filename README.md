@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tabler/tabler-icons - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons)
 - [hichemfantar/react-bluesky-embed - Embed Bluesky UI into your application like posts, comments, and profiles](https://github.com/hichemfantar/react-bluesky-embed)
 - [Stanko/dual-range-input - Native dual range input in 80 lines of TypeScript.](https://github.com/Stanko/dual-range-input)
 - [ImranR98/Obtainium - Get Android app updates straight from the source.](https://github.com/ImranR98/Obtainium)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [flo-bit/tiny-planets - procedurally generated tiny planets in the browsers](https://github.com/flo-bit/tiny-planets)
 - [gabboman/wafrn - Wafrn is a federated social media inspired by tumblr. Join us and have fun](https://github.com/gabboman/wafrn)
 - [korywka/mapbox-controls - Monorepo for Mapbox controls](https://github.com/korywka/mapbox-controls)
-- [JonPulfer/swiftodon - ActivityPub server capable of federating with Mastodon](https://github.com/JonPulfer/swiftodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
