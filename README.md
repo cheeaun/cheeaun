@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [hichemfantar/react-bluesky-embed - Embed Bluesky UI into your application like posts, comments, and profiles](https://github.com/hichemfantar/react-bluesky-embed)
 - [Stanko/dual-range-input - Native dual range input in 80 lines of TypeScript.](https://github.com/Stanko/dual-range-input)
 - [ImranR98/Obtainium - Get Android app updates straight from the source.](https://github.com/ImranR98/Obtainium)
 - [liquidx/webviewscreensaver - Mac OS X Screen Saver powered by a Web View](https://github.com/liquidx/webviewscreensaver)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gabboman/wafrn - Wafrn is a federated social media inspired by tumblr. Join us and have fun](https://github.com/gabboman/wafrn)
 - [korywka/mapbox-controls - Monorepo for Mapbox controls](https://github.com/korywka/mapbox-controls)
 - [JonPulfer/swiftodon - ActivityPub server capable of federating with Mastodon](https://github.com/JonPulfer/swiftodon)
-- [LegendApp/legend-list](https://github.com/LegendApp/legend-list)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
