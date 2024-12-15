@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [artempyanykh/marksman - Write Markdown with code assist and intelligence in the comfort of your favourite editor.](https://github.com/artempyanykh/marksman)
 - [pqina/birthdate-input - An easy way to create a birthdate input field](https://github.com/pqina/birthdate-input)
 - [lupomontero/psl - JavaScript domain name parser based on the Public Suffix List](https://github.com/lupomontero/psl)
 - [lodev09/react-native-true-sheet - The true native bottom sheet experience 💩](https://github.com/lodev09/react-native-true-sheet)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mozzius/expo-dynamic-app-icon - 🤖 Programmatically change the app icon in Expo.](https://github.com/mozzius/expo-dynamic-app-icon)
 - [molefrog/spoiled - 🪄 Hide precious secrets. Realistic <Spoiler /> component for React.js](https://github.com/molefrog/spoiled)
 - [nojacko/node-country-to-iso - Convert inconsistent country names and codes into ISO 3166-1 alpha-2.](https://github.com/nojacko/node-country-to-iso)
-- [videah/jetstream-oxide - A typed Rust library for easily interacting with and consuming the Bluesky Jetstream service.](https://github.com/videah/jetstream-oxide)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
