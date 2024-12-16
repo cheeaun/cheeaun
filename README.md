@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [inokawa/edix - An experimental, framework agnostic, small (~2.5kB) contenteditable state manager.](https://github.com/inokawa/edix)
+- [danielroe/beasties - A library to inline your app's critical CSS and lazy-load the rest.](https://github.com/danielroe/beasties)
 - [artempyanykh/marksman - Write Markdown with code assist and intelligence in the comfort of your favourite editor.](https://github.com/artempyanykh/marksman)
 - [pqina/birthdate-input - An easy way to create a birthdate input field](https://github.com/pqina/birthdate-input)
 - [lupomontero/psl - JavaScript domain name parser based on the Public Suffix List](https://github.com/lupomontero/psl)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [w3c-fedid/FedCM - A privacy preserving identity exchange Web API](https://github.com/w3c-fedid/FedCM)
 - [s427/MARL - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file](https://github.com/s427/MARL)
 - [mozzius/expo-dynamic-app-icon - 🤖 Programmatically change the app icon in Expo.](https://github.com/mozzius/expo-dynamic-app-icon)
-- [molefrog/spoiled - 🪄 Hide precious secrets. Realistic <Spoiler /> component for React.js](https://github.com/molefrog/spoiled)
-- [nojacko/node-country-to-iso - Convert inconsistent country names and codes into ISO 3166-1 alpha-2.](https://github.com/nojacko/node-country-to-iso)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
