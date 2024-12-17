@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tursodatabase/limbo - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.](https://github.com/tursodatabase/limbo)
 - [inokawa/edix - An experimental, framework agnostic, small (~2.5kB) contenteditable state manager.](https://github.com/inokawa/edix)
 - [danielroe/beasties - A library to inline your app's critical CSS and lazy-load the rest.](https://github.com/danielroe/beasties)
 - [artempyanykh/marksman - Write Markdown with code assist and intelligence in the comfort of your favourite editor.](https://github.com/artempyanykh/marksman)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Dimillian/IcySky - A BlueSky Client. TBD.](https://github.com/Dimillian/IcySky)
 - [w3c-fedid/FedCM - A privacy preserving identity exchange Web API](https://github.com/w3c-fedid/FedCM)
 - [s427/MARL - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file](https://github.com/s427/MARL)
-- [mozzius/expo-dynamic-app-icon - 🤖 Programmatically change the app icon in Expo.](https://github.com/mozzius/expo-dynamic-app-icon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
