@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zachleat/snow-fall - A web component to add snow to your web site (or to an element on your web site).](https://github.com/zachleat/snow-fall)
 - [tsky-dev/tsky - Bluesky API client for nimble apps and tools ☁️](https://github.com/tsky-dev/tsky)
 - [tursodatabase/limbo - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.](https://github.com/tursodatabase/limbo)
 - [inokawa/edix - An experimental, framework agnostic, small (~2.5kB) contenteditable state manager.](https://github.com/inokawa/edix)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ImranR98/Obtainium - Get Android app updates straight from the source.](https://github.com/ImranR98/Obtainium)
 - [liquidx/webviewscreensaver - Mac OS X Screen Saver powered by a Web View](https://github.com/liquidx/webviewscreensaver)
 - [Dimillian/IcySky - A BlueSky Client. TBD.](https://github.com/Dimillian/IcySky)
-- [w3c-fedid/FedCM - A privacy preserving identity exchange Web API](https://github.com/w3c-fedid/FedCM)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
