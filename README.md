@@ -38,7 +38,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lodev09/react-native-true-sheet - The true native bottom sheet experience 💩](https://github.com/lodev09/react-native-true-sheet)
 - [tabler/tabler-icons - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons)
 - [hichemfantar/react-bluesky-embed - Embed Bluesky UI into your application like posts, comments, and profiles](https://github.com/hichemfantar/react-bluesky-embed)
-- [Stanko/dual-range-input - Native dual range input in 80 lines of TypeScript.](https://github.com/Stanko/dual-range-input)
+- [Stanko/dual-range-input - Native dual range input in 60 lines of JavaScript.](https://github.com/Stanko/dual-range-input)
 - [ImranR98/Obtainium - Get Android app updates straight from the source.](https://github.com/ImranR98/Obtainium)
 - [liquidx/webviewscreensaver - Mac OS X Screen Saver powered by a Web View](https://github.com/liquidx/webviewscreensaver)
 - [Dimillian/IcySky - A BlueSky Client. TBD.](https://github.com/Dimillian/IcySky)
