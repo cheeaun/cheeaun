@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [juev/starred - Create your own Awesome List by GitHub stars!](https://github.com/juev/starred)
 - [sodenn/lexical-beautiful-mentions - A mentions plugin for the lexical text editor.](https://github.com/sodenn/lexical-beautiful-mentions)
 - [zachleat/snow-fall - A web component to add snow to your web site (or to an element on your web site).](https://github.com/zachleat/snow-fall)
 - [tsky-dev/tsky - Bluesky API client for nimble apps and tools ☁️](https://github.com/tsky-dev/tsky)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hichemfantar/react-bluesky-embed - Embed Bluesky UI into your application like posts, comments, and profiles](https://github.com/hichemfantar/react-bluesky-embed)
 - [Stanko/dual-range-input - Native dual range input in 60 lines of JavaScript.](https://github.com/Stanko/dual-range-input)
 - [ImranR98/Obtainium - Get Android app updates straight from the source.](https://github.com/ImranR98/Obtainium)
-- [liquidx/webviewscreensaver - Mac OS X Screen Saver powered by a Web View](https://github.com/liquidx/webviewscreensaver)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
