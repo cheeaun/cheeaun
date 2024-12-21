@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sodenn/lexical-beautiful-mentions - A mentions plugin for the lexical text editor.](https://github.com/sodenn/lexical-beautiful-mentions)
 - [zachleat/snow-fall - A web component to add snow to your web site (or to an element on your web site).](https://github.com/zachleat/snow-fall)
 - [tsky-dev/tsky - Bluesky API client for nimble apps and tools ☁️](https://github.com/tsky-dev/tsky)
 - [tursodatabase/limbo - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.](https://github.com/tursodatabase/limbo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Stanko/dual-range-input - Native dual range input in 60 lines of JavaScript.](https://github.com/Stanko/dual-range-input)
 - [ImranR98/Obtainium - Get Android app updates straight from the source.](https://github.com/ImranR98/Obtainium)
 - [liquidx/webviewscreensaver - Mac OS X Screen Saver powered by a Web View](https://github.com/liquidx/webviewscreensaver)
-- [Dimillian/IcySky - A BlueSky Client. TBD.](https://github.com/Dimillian/IcySky)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
