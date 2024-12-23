@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [beetbox/beets - music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
 - [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss)
 - [juev/starred - Create your own Awesome List by GitHub stars!](https://github.com/juev/starred)
 - [sodenn/lexical-beautiful-mentions - A mentions plugin for the lexical text editor.](https://github.com/sodenn/lexical-beautiful-mentions)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lodev09/react-native-true-sheet - The true native bottom sheet experience 💩](https://github.com/lodev09/react-native-true-sheet)
 - [tabler/tabler-icons - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons)
 - [hichemfantar/react-bluesky-embed - Embed Bluesky UI into your application like posts, comments, and profiles](https://github.com/hichemfantar/react-bluesky-embed)
-- [Stanko/dual-range-input - Native dual range input in 60 lines of JavaScript.](https://github.com/Stanko/dual-range-input)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
