@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fedidb/communityDB - Human curated fediverse software data](https://github.com/fedidb/communityDB)
+- [transitive-bullshit/js-reactivity-benchmark - Benchmark comparing different standalone JS reactivity / signals frameworks.](https://github.com/transitive-bullshit/js-reactivity-benchmark)
+- [stackblitz/alien-signals - 👾 The lightest signal library](https://github.com/stackblitz/alien-signals)
 - [beetbox/beets - music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
 - [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss)
 - [juev/starred - Create your own Awesome List by GitHub stars!](https://github.com/juev/starred)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [artempyanykh/marksman - Write Markdown with code assist and intelligence in the comfort of your favourite editor.](https://github.com/artempyanykh/marksman)
 - [pqina/birthdate-input - An easy way to create a birthdate input field](https://github.com/pqina/birthdate-input)
 - [lupomontero/psl - JavaScript domain name parser based on the Public Suffix List](https://github.com/lupomontero/psl)
-- [lodev09/react-native-true-sheet - The true native bottom sheet experience 💩](https://github.com/lodev09/react-native-true-sheet)
-- [tabler/tabler-icons - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons)
-- [hichemfantar/react-bluesky-embed - Embed Bluesky UI into your application like posts, comments, and profiles](https://github.com/hichemfantar/react-bluesky-embed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
