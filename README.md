@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aidenybai/react-scan - Scan for React performance issues and eliminate slow renders in your app](https://github.com/aidenybai/react-scan)
 - [fedidb/communityDB - Human curated fediverse software data](https://github.com/fedidb/communityDB)
 - [transitive-bullshit/js-reactivity-benchmark - Benchmark comparing different standalone JS reactivity / signals frameworks.](https://github.com/transitive-bullshit/js-reactivity-benchmark)
 - [stackblitz/alien-signals - 👾 The lightest signal library](https://github.com/stackblitz/alien-signals)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [danielroe/beasties - A library to inline your app's critical CSS and lazy-load the rest.](https://github.com/danielroe/beasties)
 - [artempyanykh/marksman - Write Markdown with code assist and intelligence in the comfort of your favourite editor.](https://github.com/artempyanykh/marksman)
 - [pqina/birthdate-input - An easy way to create a birthdate input field](https://github.com/pqina/birthdate-input)
-- [lupomontero/psl - JavaScript domain name parser based on the Public Suffix List](https://github.com/lupomontero/psl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
