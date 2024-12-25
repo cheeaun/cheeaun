@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Jaennaet/pISSStream - macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream)
 - [ticky/mojibaka - ✨ Browser emoji support detection toolkit](https://github.com/ticky/mojibaka)
 - [aidenybai/react-scan - Scan for React performance issues and eliminate slow renders in your app](https://github.com/aidenybai/react-scan)
 - [fedidb/communityDB - Human curated fediverse software data](https://github.com/fedidb/communityDB)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tursodatabase/limbo - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.](https://github.com/tursodatabase/limbo)
 - [inokawa/edix - An experimental, framework agnostic, small (~2.5kB) contenteditable state manager.](https://github.com/inokawa/edix)
 - [danielroe/beasties - A library to inline your app's critical CSS and lazy-load the rest.](https://github.com/danielroe/beasties)
-- [artempyanykh/marksman - Write Markdown with code assist and intelligence in the comfort of your favourite editor.](https://github.com/artempyanykh/marksman)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
