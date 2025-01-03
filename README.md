@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pdelfan/ouranos - Your friendly Bluesky client for the web](https://github.com/pdelfan/ouranos)
 - [anti-work/shortest - QA via natural language AI tests](https://github.com/anti-work/shortest)
 - [fkhadra/react-toastify - React notification made easy 🚀 !](https://github.com/fkhadra/react-toastify)
 - [awesomelionel/singapore-bus-timing-edisplay - The code for the bus timing app on an e-ink display](https://github.com/awesomelionel/singapore-bus-timing-edisplay)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [beetbox/beets - music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
 - [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss)
 - [juev/starred - Create your own Awesome List by GitHub stars!](https://github.com/juev/starred)
-- [sodenn/lexical-beautiful-mentions - A mentions plugin for the lexical text editor.](https://github.com/sodenn/lexical-beautiful-mentions)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
