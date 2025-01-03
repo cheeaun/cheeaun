@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [anti-work/shortest - QA via natural language AI tests](https://github.com/anti-work/shortest)
+- [fkhadra/react-toastify - React notification made easy 🚀 !](https://github.com/fkhadra/react-toastify)
 - [awesomelionel/singapore-bus-timing-edisplay - The code for the bus timing app on an e-ink display](https://github.com/awesomelionel/singapore-bus-timing-edisplay)
 - [starship/starship - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
 - [ghostty-org/ghostty - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.](https://github.com/ghostty-org/ghostty)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss)
 - [juev/starred - Create your own Awesome List by GitHub stars!](https://github.com/juev/starred)
 - [sodenn/lexical-beautiful-mentions - A mentions plugin for the lexical text editor.](https://github.com/sodenn/lexical-beautiful-mentions)
-- [zachleat/snow-fall - A web component to add snow to your web site (or to an element on your web site).](https://github.com/zachleat/snow-fall)
-- [tsky-dev/tsky - Bluesky API client for nimble apps and tools ☁️](https://github.com/tsky-dev/tsky)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
