@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [akari-blue/akari - a bluesky client](https://github.com/akari-blue/akari)
 - [pdelfan/ouranos - Your friendly Bluesky client for the web](https://github.com/pdelfan/ouranos)
 - [anti-work/shortest - QA via natural language AI tests](https://github.com/anti-work/shortest)
 - [fkhadra/react-toastify - React notification made easy 🚀 !](https://github.com/fkhadra/react-toastify)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [stackblitz/alien-signals - 👾 The lightest signal library](https://github.com/stackblitz/alien-signals)
 - [beetbox/beets - music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
 - [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss)
-- [juev/starred - Create your own Awesome List by GitHub stars!](https://github.com/juev/starred)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
