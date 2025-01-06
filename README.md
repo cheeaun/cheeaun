@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [OliveTin/OliveTin - OliveTin gives safe and simple access to predefined shell commands from a web interface. ](https://github.com/OliveTin/OliveTin)
 - [akari-blue/akari - a bluesky client](https://github.com/akari-blue/akari)
 - [pdelfan/ouranos - Your friendly Bluesky client for the web](https://github.com/pdelfan/ouranos)
 - [anti-work/shortest - QA via natural language AI tests](https://github.com/anti-work/shortest)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [transitive-bullshit/js-reactivity-benchmark - Benchmark comparing different standalone JS reactivity / signals frameworks.](https://github.com/transitive-bullshit/js-reactivity-benchmark)
 - [stackblitz/alien-signals - 👾 The lightest signal library](https://github.com/stackblitz/alien-signals)
 - [beetbox/beets - music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
-- [PaulKinlan/full-rss](https://github.com/PaulKinlan/full-rss)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
