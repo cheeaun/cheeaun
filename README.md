@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [estruyf/vscode-demo-time - A Visual Studio Code extension to help you script your demos](https://github.com/estruyf/vscode-demo-time)
 - [StrandedKitty/streets-gl - 🗺 OpenStreetMap 3D renderer powered by WebGL2](https://github.com/StrandedKitty/streets-gl)
 - [celenityy/Phoenix - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. ](https://github.com/celenityy/Phoenix)
 - [dahlia/botkit - A framework for creating ActivityPub bots](https://github.com/dahlia/botkit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Jaennaet/pISSStream - macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream)
 - [ticky/mojibaka - ✨ Browser emoji support detection toolkit](https://github.com/ticky/mojibaka)
 - [aidenybai/react-scan - Scan for React performance issues and eliminate slow renders in your app](https://github.com/aidenybai/react-scan)
-- [fedidb/communityDB - Human curated fediverse software data](https://github.com/fedidb/communityDB)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
