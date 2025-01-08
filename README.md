@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [StrandedKitty/streets-gl - 🗺 OpenStreetMap 3D renderer powered by WebGL2](https://github.com/StrandedKitty/streets-gl)
+- [celenityy/Phoenix - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. ](https://github.com/celenityy/Phoenix)
+- [dahlia/botkit - A framework for creating ActivityPub bots](https://github.com/dahlia/botkit)
 - [OliveTin/OliveTin - OliveTin gives safe and simple access to predefined shell commands from a web interface. ](https://github.com/OliveTin/OliveTin)
 - [akari-blue/akari - a bluesky client](https://github.com/akari-blue/akari)
 - [pdelfan/ouranos - Your friendly Bluesky client for the web](https://github.com/pdelfan/ouranos)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ticky/mojibaka - ✨ Browser emoji support detection toolkit](https://github.com/ticky/mojibaka)
 - [aidenybai/react-scan - Scan for React performance issues and eliminate slow renders in your app](https://github.com/aidenybai/react-scan)
 - [fedidb/communityDB - Human curated fediverse software data](https://github.com/fedidb/communityDB)
-- [transitive-bullshit/js-reactivity-benchmark - Benchmark comparing different standalone JS reactivity / signals frameworks.](https://github.com/transitive-bullshit/js-reactivity-benchmark)
-- [stackblitz/alien-signals - 👾 The lightest signal library](https://github.com/stackblitz/alien-signals)
-- [beetbox/beets - music library manager and MusicBrainz tagger](https://github.com/beetbox/beets)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
