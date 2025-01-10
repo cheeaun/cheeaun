@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zerebos/ghostty-config - A beautiful config generator for Ghostty terminal.](https://github.com/zerebos/ghostty-config)
 - [estruyf/vscode-demo-time - A Visual Studio Code extension to help you script your demos](https://github.com/estruyf/vscode-demo-time)
 - [StrandedKitty/streets-gl - 🗺 OpenStreetMap 3D renderer powered by WebGL2](https://github.com/StrandedKitty/streets-gl)
 - [celenityy/Phoenix - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. ](https://github.com/celenityy/Phoenix)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ghostty-org/ghostty - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.](https://github.com/ghostty-org/ghostty)
 - [Jaennaet/pISSStream - macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream)
 - [ticky/mojibaka - ✨ Browser emoji support detection toolkit](https://github.com/ticky/mojibaka)
-- [aidenybai/react-scan - Scan for React performance issues and eliminate slow renders in your app](https://github.com/aidenybai/react-scan)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
