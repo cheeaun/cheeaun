@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/channel](https://github.com/WebReflection/channel)
 - [dahlia/fedichatbot - An LLM-powered chatbot for fediverse. A tech demo for BotKit.](https://github.com/dahlia/fedichatbot)
 - [zerebos/ghostty-config - A beautiful config generator for Ghostty terminal.](https://github.com/zerebos/ghostty-config)
 - [estruyf/vscode-demo-time - A Visual Studio Code extension to help you script your demos](https://github.com/estruyf/vscode-demo-time)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [awesomelionel/singapore-bus-timing-edisplay - The code for the bus timing app on an e-ink display](https://github.com/awesomelionel/singapore-bus-timing-edisplay)
 - [starship/starship - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
 - [ghostty-org/ghostty - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.](https://github.com/ghostty-org/ghostty)
-- [Jaennaet/pISSStream - macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
