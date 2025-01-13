@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dahlia/fedichatbot - An LLM-powered chatbot for fediverse. A tech demo for BotKit.](https://github.com/dahlia/fedichatbot)
 - [zerebos/ghostty-config - A beautiful config generator for Ghostty terminal.](https://github.com/zerebos/ghostty-config)
 - [estruyf/vscode-demo-time - A Visual Studio Code extension to help you script your demos](https://github.com/estruyf/vscode-demo-time)
 - [StrandedKitty/streets-gl - 🗺 OpenStreetMap 3D renderer powered by WebGL2](https://github.com/StrandedKitty/streets-gl)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [starship/starship - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
 - [ghostty-org/ghostty - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.](https://github.com/ghostty-org/ghostty)
 - [Jaennaet/pISSStream - macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream)
-- [ticky/mojibaka - ✨ Browser emoji support detection toolkit](https://github.com/ticky/mojibaka)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
