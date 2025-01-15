@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mastodon/fediverse_auxiliary_service_provider_specifications - Specifications for Fediverse Auxiliary Service Providers](https://github.com/mastodon/fediverse_auxiliary_service_provider_specifications)
 - [DavidBuchanan314/millipds - A from-scratch atproto PDS implementation in Python](https://github.com/DavidBuchanan314/millipds)
 - [WebReflection/channel](https://github.com/WebReflection/channel)
 - [dahlia/fedichatbot - An LLM-powered chatbot for fediverse. A tech demo for BotKit.](https://github.com/dahlia/fedichatbot)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [anti-work/shortest - QA via natural language AI tests](https://github.com/anti-work/shortest)
 - [fkhadra/react-toastify - React notification made easy 🚀 !](https://github.com/fkhadra/react-toastify)
 - [awesomelionel/singapore-bus-timing-edisplay - The code for the bus timing app on an e-ink display](https://github.com/awesomelionel/singapore-bus-timing-edisplay)
-- [starship/starship - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
