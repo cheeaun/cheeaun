@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Vanilagy/webm-muxer - WebM multiplexer in pure TypeScript with support for WebCodecs API, video & audio.](https://github.com/Vanilagy/webm-muxer)
+- [mary-ext/aglais - Alternative web client for Bluesky (personal use, no support given)](https://github.com/mary-ext/aglais)
 - [hyperknot/openfreemap-styles - Styles for OpenFreeMap](https://github.com/hyperknot/openfreemap-styles)
 - [felix-bohlin/ui - A modern, cutting edge UI library.  So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.](https://github.com/felix-bohlin/ui)
 - [mastodon/fediverse_auxiliary_service_provider_specifications - Specifications for Fediverse Auxiliary Service Providers](https://github.com/mastodon/fediverse_auxiliary_service_provider_specifications)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dahlia/botkit - A framework for creating ActivityPub bots](https://github.com/dahlia/botkit)
 - [OliveTin/OliveTin - OliveTin gives safe and simple access to predefined shell commands from a web interface. ](https://github.com/OliveTin/OliveTin)
 - [akari-blue/akari - a bluesky client](https://github.com/akari-blue/akari)
-- [pdelfan/ouranos - Your friendly Bluesky client for the web](https://github.com/pdelfan/ouranos)
-- [anti-work/shortest - QA via natural language AI tests](https://github.com/anti-work/shortest)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
