@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [hyperknot/openfreemap-styles - Styles for OpenFreeMap](https://github.com/hyperknot/openfreemap-styles)
 - [felix-bohlin/ui - A modern, cutting edge UI library.  So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.](https://github.com/felix-bohlin/ui)
 - [mastodon/fediverse_auxiliary_service_provider_specifications - Specifications for Fediverse Auxiliary Service Providers](https://github.com/mastodon/fediverse_auxiliary_service_provider_specifications)
 - [DavidBuchanan314/millipds - A from-scratch atproto PDS implementation in Python](https://github.com/DavidBuchanan314/millipds)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [akari-blue/akari - a bluesky client](https://github.com/akari-blue/akari)
 - [pdelfan/ouranos - Your friendly Bluesky client for the web](https://github.com/pdelfan/ouranos)
 - [anti-work/shortest - QA via natural language AI tests](https://github.com/anti-work/shortest)
-- [fkhadra/react-toastify - React notification made easy 🚀 !](https://github.com/fkhadra/react-toastify)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
