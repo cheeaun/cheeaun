@@ -33,7 +33,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Vanilagy/webm-muxer - WebM multiplexer in pure TypeScript with support for WebCodecs API, video & audio.](https://github.com/Vanilagy/webm-muxer)
 - [mary-ext/aglais - Alternative web client for Bluesky (personal use, no support given)](https://github.com/mary-ext/aglais)
 - [hyperknot/openfreemap-styles - Styles for OpenFreeMap](https://github.com/hyperknot/openfreemap-styles)
-- [felix-bohlin/ui - A modern, cutting edge UI library.  So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.](https://github.com/felix-bohlin/ui)
+- [felix-bohlin/ui - A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists. ](https://github.com/felix-bohlin/ui)
 - [mastodon/fediverse_auxiliary_service_provider_specifications - Specifications for Fediverse Auxiliary Service Providers](https://github.com/mastodon/fediverse_auxiliary_service_provider_specifications)
 - [DavidBuchanan314/millipds - A from-scratch atproto PDS implementation in Python](https://github.com/DavidBuchanan314/millipds)
 - [WebReflection/channel](https://github.com/WebReflection/channel)
