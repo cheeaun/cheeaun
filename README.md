@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [folkscommunity/folks - Folks Community](https://github.com/folkscommunity/folks)
 - [PSingletary/AT-Benefactor-links - a simple list of Devs that created things on the AT Protocol, with links to support their work](https://github.com/PSingletary/AT-Benefactor-links)
 - [Vanilagy/webm-muxer - WebM multiplexer in pure TypeScript with support for WebCodecs API, video & audio.](https://github.com/Vanilagy/webm-muxer)
 - [mary-ext/aglais - Alternative web client for Bluesky (personal use, no support given)](https://github.com/mary-ext/aglais)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [StrandedKitty/streets-gl - 🗺 OpenStreetMap 3D renderer powered by WebGL2](https://github.com/StrandedKitty/streets-gl)
 - [celenityy/Phoenix - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. ](https://github.com/celenityy/Phoenix)
 - [dahlia/botkit - A framework for creating ActivityPub bots](https://github.com/dahlia/botkit)
-- [OliveTin/OliveTin - OliveTin gives safe and simple access to predefined shell commands from a web interface. ](https://github.com/OliveTin/OliveTin)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
