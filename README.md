@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/nanotar - 📼  Tiny and fast tar utils for any JavaScript runtime!](https://github.com/unjs/nanotar)
 - [WebReflection/buffered-clone - A structured clone equivalent able to encode and decode as a buffer.](https://github.com/WebReflection/buffered-clone)
 - [gnh1201/welsonjs - WelsonJS - Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
 - [zoontek/react-native-edge-to-edge - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).](https://github.com/zoontek/react-native-edge-to-edge)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [DavidBuchanan314/millipds - A from-scratch atproto PDS implementation in Python](https://github.com/DavidBuchanan314/millipds)
 - [WebReflection/channel](https://github.com/WebReflection/channel)
 - [dahlia/fedichatbot - An LLM-powered chatbot for fediverse. A tech demo for BotKit.](https://github.com/dahlia/fedichatbot)
-- [zerebos/ghostty-config - A beautiful config generator for Ghostty terminal.](https://github.com/zerebos/ghostty-config)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
