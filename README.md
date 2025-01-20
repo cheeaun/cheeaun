@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zoontek/react-native-edge-to-edge - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).](https://github.com/zoontek/react-native-edge-to-edge)
 - [hashrock/awesome-deno-kv - Curated list of awesome things related to Deno KV](https://github.com/hashrock/awesome-deno-kv)
 - [folkscommunity/folks - Folks Community](https://github.com/folkscommunity/folks)
 - [PSingletary/AT-Benefactor-links - a simple list of Devs that created things on the AT Protocol, with links to support their work](https://github.com/PSingletary/AT-Benefactor-links)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zerebos/ghostty-config - A beautiful config generator for Ghostty terminal.](https://github.com/zerebos/ghostty-config)
 - [estruyf/vscode-demo-time - A Visual Studio Code extension to help you script your demos](https://github.com/estruyf/vscode-demo-time)
 - [StrandedKitty/streets-gl - 🗺 OpenStreetMap 3D renderer powered by WebGL2](https://github.com/StrandedKitty/streets-gl)
-- [celenityy/Phoenix - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. ](https://github.com/celenityy/Phoenix)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
