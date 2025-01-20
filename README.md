@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/buffered-clone - A structured clone equivalent able to encode and decode as a buffer.](https://github.com/WebReflection/buffered-clone)
 - [gnh1201/welsonjs - WelsonJS - Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
 - [zoontek/react-native-edge-to-edge - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).](https://github.com/zoontek/react-native-edge-to-edge)
 - [hashrock/awesome-deno-kv - Curated list of awesome things related to Deno KV](https://github.com/hashrock/awesome-deno-kv)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WebReflection/channel](https://github.com/WebReflection/channel)
 - [dahlia/fedichatbot - An LLM-powered chatbot for fediverse. A tech demo for BotKit.](https://github.com/dahlia/fedichatbot)
 - [zerebos/ghostty-config - A beautiful config generator for Ghostty terminal.](https://github.com/zerebos/ghostty-config)
-- [estruyf/vscode-demo-time - A Visual Studio Code extension to help you script your demos](https://github.com/estruyf/vscode-demo-time)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
