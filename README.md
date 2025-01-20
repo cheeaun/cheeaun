@@ -32,7 +32,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gnh1201/welsonjs - WelsonJS - Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
 - [zoontek/react-native-edge-to-edge - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).](https://github.com/zoontek/react-native-edge-to-edge)
 - [hashrock/awesome-deno-kv - Curated list of awesome things related to Deno KV](https://github.com/hashrock/awesome-deno-kv)
-- [folkscommunity/folks - Folks Community](https://github.com/folkscommunity/folks)
+- [folkscommunity/folks - Folks is a community for product people.](https://github.com/folkscommunity/folks)
 - [PSingletary/AT-Benefactor-links - a simple list of Devs that created things on the AT Protocol, with links to support their work](https://github.com/PSingletary/AT-Benefactor-links)
 - [Vanilagy/webm-muxer - WebM multiplexer in pure TypeScript with support for WebCodecs API, video & audio.](https://github.com/Vanilagy/webm-muxer)
 - [mary-ext/aglais - Alternative web client for Bluesky (personal use, no support given)](https://github.com/mary-ext/aglais)
