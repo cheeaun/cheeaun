@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dvorakroth/fedi-archive-tool - iOS app for viewing Fediverse archives](https://github.com/dvorakroth/fedi-archive-tool)
 - [unjs/nanotar - 📼  Tiny and fast tar utils for any JavaScript runtime!](https://github.com/unjs/nanotar)
 - [WebReflection/buffered-clone - A structured clone equivalent able to encode and decode as a buffer.](https://github.com/WebReflection/buffered-clone)
 - [gnh1201/welsonjs - WelsonJS - Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mastodon/fediverse_auxiliary_service_provider_specifications - Specifications for Fediverse Auxiliary Service Providers](https://github.com/mastodon/fediverse_auxiliary_service_provider_specifications)
 - [DavidBuchanan314/millipds - A from-scratch atproto PDS implementation in Python](https://github.com/DavidBuchanan314/millipds)
 - [WebReflection/channel](https://github.com/WebReflection/channel)
-- [dahlia/fedichatbot - An LLM-powered chatbot for fediverse. A tech demo for BotKit.](https://github.com/dahlia/fedichatbot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
