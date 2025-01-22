@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pirhoo/trotsky - A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.](https://github.com/pirhoo/trotsky)
 - [rhinobase/react-bluesky - Embed Bluesky (bsky) posts in your React application. ](https://github.com/rhinobase/react-bluesky)
 - [dvorakroth/fedi-archive-tool - iOS app for viewing Fediverse archives](https://github.com/dvorakroth/fedi-archive-tool)
 - [unjs/nanotar - 📼  Tiny and fast tar utils for any JavaScript runtime!](https://github.com/unjs/nanotar)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hyperknot/openfreemap-styles - Styles for OpenFreeMap](https://github.com/hyperknot/openfreemap-styles)
 - [felix-bohlin/ui - A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists. ](https://github.com/felix-bohlin/ui)
 - [mastodon/fediverse_auxiliary_service_provider_specifications - Specifications for Fediverse Auxiliary Service Providers](https://github.com/mastodon/fediverse_auxiliary_service_provider_specifications)
-- [DavidBuchanan314/millipds - A from-scratch atproto PDS implementation in Python](https://github.com/DavidBuchanan314/millipds)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
