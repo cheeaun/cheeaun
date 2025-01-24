@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [BusLineDesigner/BusLineDesigner - Bus Line Designer，一个公交线路设计小工具](https://github.com/BusLineDesigner/BusLineDesigner)
 - [BYOJS/storage - Simple key-value storage API backed by various client storage mechanisms](https://github.com/BYOJS/storage)
 - [pirhoo/trotsky - A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.](https://github.com/pirhoo/trotsky)
 - [rhinobase/react-bluesky - Embed Bluesky (bsky) posts in your React application. ](https://github.com/rhinobase/react-bluesky)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Vanilagy/webm-muxer - WebM multiplexer in pure TypeScript with support for WebCodecs API, video & audio.](https://github.com/Vanilagy/webm-muxer)
 - [mary-ext/aglais - Alternative web client for Bluesky (personal use, no support given)](https://github.com/mary-ext/aglais)
 - [hyperknot/openfreemap-styles - Styles for OpenFreeMap](https://github.com/hyperknot/openfreemap-styles)
-- [felix-bohlin/ui - A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists. ](https://github.com/felix-bohlin/ui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
