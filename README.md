@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [saagarjha/unxip - A fast Xcode unarchiver](https://github.com/saagarjha/unxip)
+- [zacharyreese/DualQRCode - Two different URLs in one QR code](https://github.com/zacharyreese/DualQRCode)
 - [lightpanda-io/browser - Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
 - [BusLineDesigner/BusLineDesigner - Bus Line Designer，一个公交线路设计小工具](https://github.com/BusLineDesigner/BusLineDesigner)
 - [BYOJS/storage - Simple key-value storage API backed by various client storage mechanisms](https://github.com/BYOJS/storage)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hashrock/awesome-deno-kv - Curated list of awesome things related to Deno KV](https://github.com/hashrock/awesome-deno-kv)
 - [folkscommunity/folks - Folks is a community for product people.](https://github.com/folkscommunity/folks)
 - [PSingletary/AT-Benefactor-links - a simple list of Devs that created things on the AT Protocol, with links to support their work](https://github.com/PSingletary/AT-Benefactor-links)
-- [Vanilagy/webm-muxer - WebM multiplexer in pure TypeScript with support for WebCodecs API, video & audio.](https://github.com/Vanilagy/webm-muxer)
-- [mary-ext/aglais - Alternative web client for Bluesky (personal use, no support given)](https://github.com/mary-ext/aglais)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
