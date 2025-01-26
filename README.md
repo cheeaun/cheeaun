@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [songquanpeng/one-api - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.](https://github.com/songquanpeng/one-api)
 - [saagarjha/unxip - A fast Xcode unarchiver](https://github.com/saagarjha/unxip)
 - [zacharyreese/DualQRCode - Two different URLs in one QR code](https://github.com/zacharyreese/DualQRCode)
 - [lightpanda-io/browser - Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zoontek/react-native-edge-to-edge - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).](https://github.com/zoontek/react-native-edge-to-edge)
 - [hashrock/awesome-deno-kv - Curated list of awesome things related to Deno KV](https://github.com/hashrock/awesome-deno-kv)
 - [folkscommunity/folks - Folks is a community for product people.](https://github.com/folkscommunity/folks)
-- [PSingletary/AT-Benefactor-links - a simple list of Devs that created things on the AT Protocol, with links to support their work](https://github.com/PSingletary/AT-Benefactor-links)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
