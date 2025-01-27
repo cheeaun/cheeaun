@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [seemoo-lab/openhaystack - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.](https://github.com/seemoo-lab/openhaystack)
 - [songquanpeng/one-api - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.](https://github.com/songquanpeng/one-api)
 - [saagarjha/unxip - A fast Xcode unarchiver](https://github.com/saagarjha/unxip)
 - [zacharyreese/DualQRCode - Two different URLs in one QR code](https://github.com/zacharyreese/DualQRCode)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gnh1201/welsonjs - WelsonJS - Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
 - [zoontek/react-native-edge-to-edge - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).](https://github.com/zoontek/react-native-edge-to-edge)
 - [hashrock/awesome-deno-kv - Curated list of awesome things related to Deno KV](https://github.com/hashrock/awesome-deno-kv)
-- [folkscommunity/folks - Folks is a community for product people.](https://github.com/folkscommunity/folks)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
