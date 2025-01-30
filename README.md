@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [date-fns/tz - date-fns timezone utils](https://github.com/date-fns/tz)
+- [skyware-js/bot - A framework for building bots on Bluesky.](https://github.com/skyware-js/bot)
 - [dahlia/seonbi - SmartyPants for Korean language](https://github.com/dahlia/seonbi)
 - [MaxBittker/draggablejs](https://github.com/MaxBittker/draggablejs)
 - [da-luce/astroterm - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐](https://github.com/da-luce/astroterm)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pirhoo/trotsky - A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.](https://github.com/pirhoo/trotsky)
 - [rhinobase/react-bluesky - Embed Bluesky (bsky) posts in your React application. ](https://github.com/rhinobase/react-bluesky)
 - [dvorakroth/fedi-archive-tool - iOS app for viewing Fediverse archives](https://github.com/dvorakroth/fedi-archive-tool)
-- [unjs/nanotar - 📼  Tiny and fast tar utils for any JavaScript runtime!](https://github.com/unjs/nanotar)
-- [WebReflection/buffered-clone - A structured clone equivalent able to encode and decode as a buffer.](https://github.com/WebReflection/buffered-clone)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
