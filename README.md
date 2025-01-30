@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dahlia/seonbi - SmartyPants for Korean language](https://github.com/dahlia/seonbi)
 - [MaxBittker/draggablejs](https://github.com/MaxBittker/draggablejs)
 - [da-luce/astroterm - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐](https://github.com/da-luce/astroterm)
 - [seemoo-lab/openhaystack - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.](https://github.com/seemoo-lab/openhaystack)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dvorakroth/fedi-archive-tool - iOS app for viewing Fediverse archives](https://github.com/dvorakroth/fedi-archive-tool)
 - [unjs/nanotar - 📼  Tiny and fast tar utils for any JavaScript runtime!](https://github.com/unjs/nanotar)
 - [WebReflection/buffered-clone - A structured clone equivalent able to encode and decode as a buffer.](https://github.com/WebReflection/buffered-clone)
-- [gnh1201/welsonjs - WelsonJS - Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
