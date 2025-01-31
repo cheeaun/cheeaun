@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mullvad/encrypted-dns-profiles - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.](https://github.com/mullvad/encrypted-dns-profiles)
 - [date-fns/tz - date-fns timezone utils](https://github.com/date-fns/tz)
 - [skyware-js/bot - A framework for building bots on Bluesky.](https://github.com/skyware-js/bot)
 - [dahlia/seonbi - SmartyPants for Korean language](https://github.com/dahlia/seonbi)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [BYOJS/storage - Simple key-value storage API backed by various client storage mechanisms](https://github.com/BYOJS/storage)
 - [pirhoo/trotsky - A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.](https://github.com/pirhoo/trotsky)
 - [rhinobase/react-bluesky - Embed Bluesky (bsky) posts in your React application. ](https://github.com/rhinobase/react-bluesky)
-- [dvorakroth/fedi-archive-tool - iOS app for viewing Fediverse archives](https://github.com/dvorakroth/fedi-archive-tool)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
