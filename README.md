@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [earthstar-project/earthstar - Storage for private, distributed, offline-first applications.](https://github.com/earthstar-project/earthstar)
 - [mullvad/encrypted-dns-profiles - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.](https://github.com/mullvad/encrypted-dns-profiles)
 - [date-fns/tz - date-fns timezone utils](https://github.com/date-fns/tz)
 - [skyware-js/bot - A framework for building bots on Bluesky.](https://github.com/skyware-js/bot)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [BusLineDesigner/BusLineDesigner - Bus Line Designer，一个公交线路设计小工具](https://github.com/BusLineDesigner/BusLineDesigner)
 - [BYOJS/storage - Simple key-value storage API backed by various client storage mechanisms](https://github.com/BYOJS/storage)
 - [pirhoo/trotsky - A type-safe Javascript library to build automation at the top of ATProto/Bluesky API.](https://github.com/pirhoo/trotsky)
-- [rhinobase/react-bluesky - Embed Bluesky (bsky) posts in your React application. ](https://github.com/rhinobase/react-bluesky)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
