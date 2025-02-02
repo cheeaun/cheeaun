@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [onthegomap/maplibre-contour - Render contour lines from raster DEM tiles in maplibre-gl-js](https://github.com/onthegomap/maplibre-contour)
 - [langchain-ai/langchainjs - 🦜🔗 Build context-aware reasoning applications 🦜🔗](https://github.com/langchain-ai/langchainjs)
 - [ashtonmeuser/bookmarklet-platform - A platform for building and distributing JS bookmarklets created from GitHub gists](https://github.com/ashtonmeuser/bookmarklet-platform)
 - [marukun712/stellar - Stellar is an AT Protocol web client with emoji reactions.](https://github.com/marukun712/stellar)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [songquanpeng/one-api - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.](https://github.com/songquanpeng/one-api)
 - [saagarjha/unxip - A fast Xcode unarchiver](https://github.com/saagarjha/unxip)
 - [zacharyreese/DualQRCode - Two different URLs in one QR code](https://github.com/zacharyreese/DualQRCode)
-- [lightpanda-io/browser - Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
