@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [langchain-ai/langchainjs - 🦜🔗 Build context-aware reasoning applications 🦜🔗](https://github.com/langchain-ai/langchainjs)
 - [ashtonmeuser/bookmarklet-platform - A platform for building and distributing JS bookmarklets created from GitHub gists](https://github.com/ashtonmeuser/bookmarklet-platform)
 - [marukun712/stellar - Stellar is an AT Protocol web client with emoji reactions.](https://github.com/marukun712/stellar)
 - [earthstar-project/earthstar - Storage for private, distributed, offline-first applications.](https://github.com/earthstar-project/earthstar)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [saagarjha/unxip - A fast Xcode unarchiver](https://github.com/saagarjha/unxip)
 - [zacharyreese/DualQRCode - Two different URLs in one QR code](https://github.com/zacharyreese/DualQRCode)
 - [lightpanda-io/browser - Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
-- [BusLineDesigner/BusLineDesigner - Bus Line Designer，一个公交线路设计小工具](https://github.com/BusLineDesigner/BusLineDesigner)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
