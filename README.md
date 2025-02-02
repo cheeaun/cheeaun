@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ashtonmeuser/bookmarklet-platform - A platform for building and distributing JS bookmarklets created from GitHub gists](https://github.com/ashtonmeuser/bookmarklet-platform)
 - [marukun712/stellar - Stellar is an AT Protocol web client with emoji reactions.](https://github.com/marukun712/stellar)
 - [earthstar-project/earthstar - Storage for private, distributed, offline-first applications.](https://github.com/earthstar-project/earthstar)
 - [mullvad/encrypted-dns-profiles - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.](https://github.com/mullvad/encrypted-dns-profiles)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zacharyreese/DualQRCode - Two different URLs in one QR code](https://github.com/zacharyreese/DualQRCode)
 - [lightpanda-io/browser - Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
 - [BusLineDesigner/BusLineDesigner - Bus Line Designer，一个公交线路设计小工具](https://github.com/BusLineDesigner/BusLineDesigner)
-- [BYOJS/storage - Simple key-value storage API backed by various client storage mechanisms](https://github.com/BYOJS/storage)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
