@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antfu/node-modules-inspector - Interactive UI for local node modules inspection](https://github.com/antfu/node-modules-inspector)
 - [kessler/license-report - create a short report about a project's dependencies (license, url etc)](https://github.com/kessler/license-report)
 - [haltcase/tablemark - Generate markdown tables from JSON data.](https://github.com/haltcase/tablemark)
 - [trycua/lume - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.](https://github.com/trycua/lume)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [skyware-js/bot - A framework for building bots on Bluesky.](https://github.com/skyware-js/bot)
 - [dahlia/seonbi - SmartyPants for Korean language](https://github.com/dahlia/seonbi)
 - [MaxBittker/draggablejs](https://github.com/MaxBittker/draggablejs)
-- [da-luce/astroterm - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐](https://github.com/da-luce/astroterm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
