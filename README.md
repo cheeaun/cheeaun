@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kessler/license-report - create a short report about a project's dependencies (license, url etc)](https://github.com/kessler/license-report)
+- [haltcase/tablemark - Generate markdown tables from JSON data.](https://github.com/haltcase/tablemark)
 - [trycua/lume - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.](https://github.com/trycua/lume)
 - [kspalaiologos/bzip3 - A better and stronger spiritual successor to BZip2.](https://github.com/kspalaiologos/bzip3)
 - [onthegomap/maplibre-contour - Render contour lines from raster DEM tiles in maplibre-gl-js](https://github.com/onthegomap/maplibre-contour)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dahlia/seonbi - SmartyPants for Korean language](https://github.com/dahlia/seonbi)
 - [MaxBittker/draggablejs](https://github.com/MaxBittker/draggablejs)
 - [da-luce/astroterm - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐](https://github.com/da-luce/astroterm)
-- [seemoo-lab/openhaystack - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.](https://github.com/seemoo-lab/openhaystack)
-- [songquanpeng/one-api - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.](https://github.com/songquanpeng/one-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
