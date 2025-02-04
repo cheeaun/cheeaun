@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ad-aures/castopod - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod ](https://github.com/ad-aures/castopod)
 - [antfu/node-modules-inspector - Interactive UI for local node modules inspection](https://github.com/antfu/node-modules-inspector)
 - [kessler/license-report - create a short report about a project's dependencies (license, url etc)](https://github.com/kessler/license-report)
 - [haltcase/tablemark - Generate markdown tables from JSON data.](https://github.com/haltcase/tablemark)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [date-fns/tz - date-fns timezone utils](https://github.com/date-fns/tz)
 - [skyware-js/bot - A framework for building bots on Bluesky.](https://github.com/skyware-js/bot)
 - [dahlia/seonbi - SmartyPants for Korean language](https://github.com/dahlia/seonbi)
-- [MaxBittker/draggablejs](https://github.com/MaxBittker/draggablejs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
