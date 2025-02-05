@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nbremer/ORCA - Data visualizations that showcase the possible impact that ORCA can have](https://github.com/nbremer/ORCA)
+- [masylum/cheer-reader - A port of readability.js for cheerio](https://github.com/masylum/cheer-reader)
 - [ad-aures/castopod - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod ](https://github.com/ad-aures/castopod)
 - [antfu/node-modules-inspector - Interactive UI for local node modules inspection](https://github.com/antfu/node-modules-inspector)
 - [kessler/license-report - create a short report about a project's dependencies (license, url etc)](https://github.com/kessler/license-report)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [earthstar-project/earthstar - Storage for private, distributed, offline-first applications.](https://github.com/earthstar-project/earthstar)
 - [mullvad/encrypted-dns-profiles - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.](https://github.com/mullvad/encrypted-dns-profiles)
 - [date-fns/tz - date-fns timezone utils](https://github.com/date-fns/tz)
-- [skyware-js/bot - A framework for building bots on Bluesky.](https://github.com/skyware-js/bot)
-- [dahlia/seonbi - SmartyPants for Korean language](https://github.com/dahlia/seonbi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
