@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TheBoredTeam/boring.notch - TheBoringNotch: Not so boring notch That Rocks 🎸🎶](https://github.com/TheBoredTeam/boring.notch)
 - [Monokai/monoco-react - Custom (suircle) corners and borders for React components](https://github.com/Monokai/monoco-react)
 - [Monokai/monoco - Monoco - custom corners for html elements](https://github.com/Monokai/monoco)
 - [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kspalaiologos/bzip3 - A better and stronger spiritual successor to BZip2.](https://github.com/kspalaiologos/bzip3)
 - [onthegomap/maplibre-contour - Render contour lines from raster DEM tiles in maplibre-gl-js](https://github.com/onthegomap/maplibre-contour)
 - [langchain-ai/langchainjs - 🦜🔗 Build context-aware reasoning applications 🦜🔗](https://github.com/langchain-ai/langchainjs)
-- [ashtonmeuser/bookmarklet-platform - A platform for building and distributing JS bookmarklets created from GitHub gists](https://github.com/ashtonmeuser/bookmarklet-platform)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
