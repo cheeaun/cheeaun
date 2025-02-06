@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Monokai/monoco-react - Custom (suircle) corners and borders for React components](https://github.com/Monokai/monoco-react)
+- [Monokai/monoco - Monoco - custom corners for html elements](https://github.com/Monokai/monoco)
+- [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer)
 - [dahlia/yoyak - An LLM-powered CLI tool for summarizing web pages](https://github.com/dahlia/yoyak)
 - [nbremer/ORCA - Data visualizations that showcase the possible impact that ORCA can have](https://github.com/nbremer/ORCA)
 - [masylum/cheer-reader - A port of readability.js for cheerio](https://github.com/masylum/cheer-reader)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [onthegomap/maplibre-contour - Render contour lines from raster DEM tiles in maplibre-gl-js](https://github.com/onthegomap/maplibre-contour)
 - [langchain-ai/langchainjs - 🦜🔗 Build context-aware reasoning applications 🦜🔗](https://github.com/langchain-ai/langchainjs)
 - [ashtonmeuser/bookmarklet-platform - A platform for building and distributing JS bookmarklets created from GitHub gists](https://github.com/ashtonmeuser/bookmarklet-platform)
-- [marukun712/stellar - Stellar is an AT Protocol web client with emoji reactions.](https://github.com/marukun712/stellar)
-- [earthstar-project/earthstar - Storage for private, distributed, offline-first applications.](https://github.com/earthstar-project/earthstar)
-- [mullvad/encrypted-dns-profiles - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.](https://github.com/mullvad/encrypted-dns-profiles)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
