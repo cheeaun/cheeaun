@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mattmassicotte/Multipass - Multi-service social client for macOS and iOS](https://github.com/mattmassicotte/Multipass)
+- [jeremieb/social-symbols - Logos as SF Symbols](https://github.com/jeremieb/social-symbols)
 - [rhinobase/hono-openapi - A plugin for Hono to generate OpenAPI Swagger documentation](https://github.com/rhinobase/hono-openapi)
 - [swiftbar/SwiftBar - Powerful macOS menu bar customization tool](https://github.com/swiftbar/SwiftBar)
 - [TheBoredTeam/boring.notch - TheBoringNotch: Not so boring notch That Rocks 🎸🎶](https://github.com/TheBoredTeam/boring.notch)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antfu/node-modules-inspector - Interactive UI for local node modules inspection](https://github.com/antfu/node-modules-inspector)
 - [kessler/license-report - create a short report about a project's dependencies (license, url etc)](https://github.com/kessler/license-report)
 - [haltcase/tablemark - Generate markdown tables from JSON data.](https://github.com/haltcase/tablemark)
-- [trycua/lume - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.](https://github.com/trycua/lume)
-- [kspalaiologos/bzip3 - A better and stronger spiritual successor to BZip2.](https://github.com/kspalaiologos/bzip3)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
