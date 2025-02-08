@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rhinobase/hono-openapi - A plugin for Hono to generate OpenAPI Swagger documentation](https://github.com/rhinobase/hono-openapi)
 - [swiftbar/SwiftBar - Powerful macOS menu bar customization tool](https://github.com/swiftbar/SwiftBar)
 - [TheBoredTeam/boring.notch - TheBoringNotch: Not so boring notch That Rocks 🎸🎶](https://github.com/TheBoredTeam/boring.notch)
 - [Monokai/monoco-react - Custom (suircle) corners and borders for React components](https://github.com/Monokai/monoco-react)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [haltcase/tablemark - Generate markdown tables from JSON data.](https://github.com/haltcase/tablemark)
 - [trycua/lume - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.](https://github.com/trycua/lume)
 - [kspalaiologos/bzip3 - A better and stronger spiritual successor to BZip2.](https://github.com/kspalaiologos/bzip3)
-- [onthegomap/maplibre-contour - Render contour lines from raster DEM tiles in maplibre-gl-js](https://github.com/onthegomap/maplibre-contour)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
