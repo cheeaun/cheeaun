@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lo-cafe/winston - A beautiful and native Reddit client for iOS](https://github.com/lo-cafe/winston)
 - [mattmassicotte/Multipass - Multi-service social client for macOS and iOS](https://github.com/mattmassicotte/Multipass)
 - [jeremieb/social-symbols - Logos as SF Symbols](https://github.com/jeremieb/social-symbols)
 - [rhinobase/hono-openapi - A plugin for Hono to generate OpenAPI Swagger documentation](https://github.com/rhinobase/hono-openapi)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ad-aures/castopod - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod ](https://github.com/ad-aures/castopod)
 - [antfu/node-modules-inspector - Interactive UI for local node modules inspection](https://github.com/antfu/node-modules-inspector)
 - [kessler/license-report - create a short report about a project's dependencies (license, url etc)](https://github.com/kessler/license-report)
-- [haltcase/tablemark - Generate markdown tables from JSON data.](https://github.com/haltcase/tablemark)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
