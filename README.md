@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mary-ext/anartia - JavaScript-optional public web frontend for Bluesky.](https://github.com/mary-ext/anartia)
+- [Shelob9/skygram - https://skygram.app/](https://github.com/Shelob9/skygram)
 - [lo-cafe/winston - A beautiful and native Reddit client for iOS](https://github.com/lo-cafe/winston)
 - [mattmassicotte/Multipass - Multi-service social client for macOS and iOS](https://github.com/mattmassicotte/Multipass)
 - [jeremieb/social-symbols - Logos as SF Symbols](https://github.com/jeremieb/social-symbols)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nbremer/ORCA - Data visualizations that showcase the possible impact that ORCA can have](https://github.com/nbremer/ORCA)
 - [masylum/cheer-reader - A port of readability.js for cheerio](https://github.com/masylum/cheer-reader)
 - [ad-aures/castopod - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod ](https://github.com/ad-aures/castopod)
-- [antfu/node-modules-inspector - Interactive UI for local node modules inspection](https://github.com/antfu/node-modules-inspector)
-- [kessler/license-report - create a short report about a project's dependencies (license, url etc)](https://github.com/kessler/license-report)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
