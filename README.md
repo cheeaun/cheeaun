@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Lo-Riot/fediboat - Fediboat - Mastodon TUI client with a Newsboat-like interface.](https://github.com/Lo-Riot/fediboat)
 - [GoogleChromeLabs/scheduler-polyfill - A polyfill for self.scheduler](https://github.com/GoogleChromeLabs/scheduler-polyfill)
 - [reiver/deso-conferences - A list of conferences for decentralized social-media (DeSO), including the Fediverse, Bluesky, Farcaster, Lens, Matrix, Nostr, etc](https://github.com/reiver/deso-conferences)
 - [mary-ext/anartia - JavaScript-optional public web frontend for Bluesky.](https://github.com/mary-ext/anartia)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Monokai/monoco - Monoco - custom corners for html elements](https://github.com/Monokai/monoco)
 - [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer)
 - [dahlia/yoyak - An LLM-powered CLI tool for summarizing web pages](https://github.com/dahlia/yoyak)
-- [nbremer/ORCA - Data visualizations that showcase the possible impact that ORCA can have](https://github.com/nbremer/ORCA)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
