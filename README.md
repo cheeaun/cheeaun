@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [GoogleChromeLabs/scheduler-polyfill - A polyfill for self.scheduler](https://github.com/GoogleChromeLabs/scheduler-polyfill)
 - [reiver/deso-conferences - A list of conferences for decentralized social-media (DeSO), including the Fediverse, Bluesky, Farcaster, Lens, Matrix, Nostr, etc](https://github.com/reiver/deso-conferences)
 - [mary-ext/anartia - JavaScript-optional public web frontend for Bluesky.](https://github.com/mary-ext/anartia)
 - [Shelob9/skygram - https://skygram.app/](https://github.com/Shelob9/skygram)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer)
 - [dahlia/yoyak - An LLM-powered CLI tool for summarizing web pages](https://github.com/dahlia/yoyak)
 - [nbremer/ORCA - Data visualizations that showcase the possible impact that ORCA can have](https://github.com/nbremer/ORCA)
-- [masylum/cheer-reader - A port of readability.js for cheerio](https://github.com/masylum/cheer-reader)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
