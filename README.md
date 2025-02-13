@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [handlewithcarecollective/react-prosemirror - A library for safely integrating ProseMirror and React.](https://github.com/handlewithcarecollective/react-prosemirror)
 - [Lo-Riot/fediboat - Fediboat - Mastodon TUI client with a Newsboat-like interface.](https://github.com/Lo-Riot/fediboat)
 - [GoogleChromeLabs/scheduler-polyfill - A polyfill for self.scheduler](https://github.com/GoogleChromeLabs/scheduler-polyfill)
 - [reiver/deso-conferences - A list of conferences for decentralized social-media (DeSO), including the Fediverse, Bluesky, Farcaster, Lens, Matrix, Nostr, etc](https://github.com/reiver/deso-conferences)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Monokai/monoco-react - Custom (suircle) corners and borders for React components](https://github.com/Monokai/monoco-react)
 - [Monokai/monoco - Monoco - custom corners for html elements](https://github.com/Monokai/monoco)
 - [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer)
-- [dahlia/yoyak - An LLM-powered CLI tool for summarizing web pages](https://github.com/dahlia/yoyak)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
