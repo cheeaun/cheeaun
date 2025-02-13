@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [standard-schema/standard-schema - A standard interface for TypeScript schema validation libraries](https://github.com/standard-schema/standard-schema)
 - [handlewithcarecollective/react-prosemirror - A library for safely integrating ProseMirror and React.](https://github.com/handlewithcarecollective/react-prosemirror)
 - [Lo-Riot/fediboat - Fediboat - Mastodon TUI client with a Newsboat-like interface.](https://github.com/Lo-Riot/fediboat)
 - [GoogleChromeLabs/scheduler-polyfill - A polyfill for self.scheduler](https://github.com/GoogleChromeLabs/scheduler-polyfill)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [TheBoredTeam/boring.notch - TheBoringNotch: Not so boring notch That Rocks 🎸🎶](https://github.com/TheBoredTeam/boring.notch)
 - [Monokai/monoco-react - Custom (suircle) corners and borders for React components](https://github.com/Monokai/monoco-react)
 - [Monokai/monoco - Monoco - custom corners for html elements](https://github.com/Monokai/monoco)
-- [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
