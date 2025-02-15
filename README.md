@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [daviddarnes/share-button - A Web Component to share web pages using the native OS sharing options](https://github.com/daviddarnes/share-button)
+- [LeaVerou/style-observer - Run JS when a CSS property changes. Any CSS property.](https://github.com/LeaVerou/style-observer)
 - [David-patrick-chuks/Riona-AI-Agent - Riona 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟](https://github.com/David-patrick-chuks/Riona-AI-Agent)
 - [standard-schema/standard-schema - A standard interface for TypeScript schema validation libraries](https://github.com/standard-schema/standard-schema)
 - [handlewithcarecollective/react-prosemirror - A library for safely integrating ProseMirror and React.](https://github.com/handlewithcarecollective/react-prosemirror)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jeremieb/social-symbols - Logos as SF Symbols](https://github.com/jeremieb/social-symbols)
 - [rhinobase/hono-openapi - A plugin for Hono to generate OpenAPI Swagger documentation](https://github.com/rhinobase/hono-openapi)
 - [swiftbar/SwiftBar - Powerful macOS menu bar customization tool](https://github.com/swiftbar/SwiftBar)
-- [TheBoredTeam/boring.notch - TheBoringNotch: Not so boring notch That Rocks 🎸🎶](https://github.com/TheBoredTeam/boring.notch)
-- [Monokai/monoco-react - Custom (suircle) corners and borders for React components](https://github.com/Monokai/monoco-react)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
