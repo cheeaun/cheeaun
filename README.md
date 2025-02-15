@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mastodon/specs-background - A place to store background documentation and research that informs specifications and FEPs](https://github.com/mastodon/specs-background)
 - [daviddarnes/share-button - A Web Component to share web pages using the native OS sharing options](https://github.com/daviddarnes/share-button)
 - [LeaVerou/style-observer - Run JS when a CSS property changes. Any CSS property.](https://github.com/LeaVerou/style-observer)
 - [David-patrick-chuks/Riona-AI-Agent - Riona 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟](https://github.com/David-patrick-chuks/Riona-AI-Agent)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mattmassicotte/Multipass - Multi-service social client for macOS and iOS](https://github.com/mattmassicotte/Multipass)
 - [jeremieb/social-symbols - Logos as SF Symbols](https://github.com/jeremieb/social-symbols)
 - [rhinobase/hono-openapi - A plugin for Hono to generate OpenAPI Swagger documentation](https://github.com/rhinobase/hono-openapi)
-- [swiftbar/SwiftBar - Powerful macOS menu bar customization tool](https://github.com/swiftbar/SwiftBar)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
