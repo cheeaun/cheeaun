@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ginatrapani/life-in-weeks - 📍 A map of my life, where each week I've been alive is a little box. ](https://github.com/ginatrapani/life-in-weeks)
 - [mastodon/specs-background - A place to store background documentation and research that informs specifications and FEPs](https://github.com/mastodon/specs-background)
 - [daviddarnes/share-button - A Web Component to share web pages using the native OS sharing options](https://github.com/daviddarnes/share-button)
 - [LeaVerou/style-observer - Run JS when a CSS property changes. Any CSS property.](https://github.com/LeaVerou/style-observer)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lo-cafe/winston - A beautiful and native Reddit client for iOS](https://github.com/lo-cafe/winston)
 - [mattmassicotte/Multipass - Multi-service social client for macOS and iOS](https://github.com/mattmassicotte/Multipass)
 - [jeremieb/social-symbols - Logos as SF Symbols](https://github.com/jeremieb/social-symbols)
-- [rhinobase/hono-openapi - A plugin for Hono to generate OpenAPI Swagger documentation](https://github.com/rhinobase/hono-openapi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
