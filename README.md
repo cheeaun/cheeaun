@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [evilmartians/mono - Free and open-source monospaced font from Evil Martians](https://github.com/evilmartians/mono)
 - [noahbald/oxvg - Rust alernative to SVGO and (eventually) InkScape](https://github.com/noahbald/oxvg)
 - [suvam0451/dhaaga - Dhaaga - An indie SNS app that blends sleek design 💅, useful features ✨ and fun ways to discover and connect 🎉](https://github.com/suvam0451/dhaaga)
 - [ginatrapani/life-in-weeks - 📍 A map of my life, where each week I've been alive is a little box. ](https://github.com/ginatrapani/life-in-weeks)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [reiver/deso-conferences - A list of conferences for decentralized social-media (DeSO), including the Fediverse, Bluesky, Farcaster, Lens, Matrix, Nostr, etc](https://github.com/reiver/deso-conferences)
 - [mary-ext/anartia - JavaScript-optional public web frontend for Bluesky.](https://github.com/mary-ext/anartia)
 - [Shelob9/skygram - https://skygram.app/](https://github.com/Shelob9/skygram)
-- [lo-cafe/winston - A beautiful and native Reddit client for iOS](https://github.com/lo-cafe/winston)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
