@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [openstatusHQ/data-table-filters - A playground for tanstack-table](https://github.com/openstatusHQ/data-table-filters)
 - [SystemXFiles/process-governor - Process Governor is a utility that automates the management of Windows processes and services by adjusting their priorities, I/O priorities, and core affinity according to user-defined rules](https://github.com/SystemXFiles/process-governor)
 - [evilmartians/mono - Free and open-source monospaced font from Evil Martians](https://github.com/evilmartians/mono)
 - [noahbald/oxvg - Rust alernative to SVGO and (eventually) InkScape](https://github.com/noahbald/oxvg)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Lo-Riot/fediboat - Fediboat - Mastodon TUI client with a Newsboat-like interface.](https://github.com/Lo-Riot/fediboat)
 - [GoogleChromeLabs/scheduler-polyfill - A polyfill for self.scheduler](https://github.com/GoogleChromeLabs/scheduler-polyfill)
 - [reiver/deso-conferences - A list of conferences for decentralized social-media (DeSO), including the Fediverse, Bluesky, Farcaster, Lens, Matrix, Nostr, etc](https://github.com/reiver/deso-conferences)
-- [mary-ext/anartia - JavaScript-optional public web frontend for Bluesky.](https://github.com/mary-ext/anartia)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
