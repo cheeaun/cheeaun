@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - [scidsg/mastodon-scheduler - A self-hosted app to schedule your posts to Mastodon 🐘.](https://github.com/scidsg/mastodon-scheduler)
 - [AidanWelch/google-translate-api - An updated free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/AidanWelch/google-translate-api)
 - [openstatusHQ/data-table-filters - A playground for tanstack-table](https://github.com/openstatusHQ/data-table-filters)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [David-patrick-chuks/Riona-AI-Agent - Riona 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟](https://github.com/David-patrick-chuks/Riona-AI-Agent)
 - [standard-schema/standard-schema - A standard interface for TypeScript schema validation libraries](https://github.com/standard-schema/standard-schema)
 - [handlewithcarecollective/react-prosemirror - A library for safely integrating ProseMirror and React.](https://github.com/handlewithcarecollective/react-prosemirror)
-- [Lo-Riot/fediboat - Fediboat - Mastodon TUI client with a Newsboat-like interface.](https://github.com/Lo-Riot/fediboat)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
