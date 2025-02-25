@@ -39,7 +39,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mastodon/specs-background - A place to store background documentation and research that informs specifications and FEPs](https://github.com/mastodon/specs-background)
 - [daviddarnes/share-button - A Web Component to share web pages using the native OS sharing options](https://github.com/daviddarnes/share-button)
 - [LeaVerou/style-observer - Run JS when a CSS property changes. Any CSS property.](https://github.com/LeaVerou/style-observer)
-- [David-patrick-chuks/Riona-AI-Agent - Riona 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟](https://github.com/David-patrick-chuks/Riona-AI-Agent)
+- [David-patrick-chuks/Instagram-AI-Agent - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟](https://github.com/David-patrick-chuks/Instagram-AI-Agent)
 - [standard-schema/standard-schema - A standard interface for TypeScript schema validation libraries](https://github.com/standard-schema/standard-schema)
 - [handlewithcarecollective/react-prosemirror - A library for safely integrating ProseMirror and React.](https://github.com/handlewithcarecollective/react-prosemirror)
 <!-- starred repos end -->
