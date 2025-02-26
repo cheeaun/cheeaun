@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [minwork/react - Useful react hooks and components libraries](https://github.com/minwork/react)
 - [browser-use/browser-use - Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
 - [xnx3/translate - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!](https://github.com/xnx3/translate)
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mastodon/specs-background - A place to store background documentation and research that informs specifications and FEPs](https://github.com/mastodon/specs-background)
 - [daviddarnes/share-button - A Web Component to share web pages using the native OS sharing options](https://github.com/daviddarnes/share-button)
 - [LeaVerou/style-observer - Run JS when a CSS property changes. Any CSS property.](https://github.com/LeaVerou/style-observer)
-- [David-patrick-chuks/Instagram-AI-Agent - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟](https://github.com/David-patrick-chuks/Instagram-AI-Agent)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
