@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [browser-use/browser-use - Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
+- [xnx3/translate - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!](https://github.com/xnx3/translate)
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - [scidsg/mastodon-scheduler - A self-hosted app to schedule your posts to Mastodon 🐘.](https://github.com/scidsg/mastodon-scheduler)
 - [AidanWelch/google-translate-api - An updated free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/AidanWelch/google-translate-api)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [daviddarnes/share-button - A Web Component to share web pages using the native OS sharing options](https://github.com/daviddarnes/share-button)
 - [LeaVerou/style-observer - Run JS when a CSS property changes. Any CSS property.](https://github.com/LeaVerou/style-observer)
 - [David-patrick-chuks/Instagram-AI-Agent - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟](https://github.com/David-patrick-chuks/Instagram-AI-Agent)
-- [standard-schema/standard-schema - A standard interface for TypeScript schema validation libraries](https://github.com/standard-schema/standard-schema)
-- [handlewithcarecollective/react-prosemirror - A library for safely integrating ProseMirror and React.](https://github.com/handlewithcarecollective/react-prosemirror)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
