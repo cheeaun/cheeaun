@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mastra-ai/mastra - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.](https://github.com/mastra-ai/mastra)
+- [tomayac/translation-language-detection-api-playground](https://github.com/tomayac/translation-language-detection-api-playground)
 - [getomni-ai/benchmark - OCR Benchmark](https://github.com/getomni-ai/benchmark)
 - [zgrossbart/jdd - A semantic JSON compare tool](https://github.com/zgrossbart/jdd)
 - [cloudflare/agents - Build and deploy AI Agents on Cloudflare ](https://github.com/cloudflare/agents)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [SystemXFiles/process-governor - Process Governor is a utility that automates the management of Windows processes and services by adjusting their priorities, I/O priorities, and core affinity according to user-defined rules](https://github.com/SystemXFiles/process-governor)
 - [evilmartians/mono - Free and open-source monospaced font from Evil Martians](https://github.com/evilmartians/mono)
 - [noahbald/oxvg - Rust alernative to SVGO and (eventually) InkScape](https://github.com/noahbald/oxvg)
-- [suvam0451/dhaaga - Dhaaga - An indie SNS app that blends sleek design 💅, useful features ✨ and fun ways to discover and connect 🎉](https://github.com/suvam0451/dhaaga)
-- [ginatrapani/life-in-weeks - 📍 A map of my life, where each week I've been alive is a little box. ](https://github.com/ginatrapani/life-in-weeks)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
