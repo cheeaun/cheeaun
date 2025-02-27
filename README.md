@@ -33,7 +33,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [minwork/react - Useful react hooks and components libraries](https://github.com/minwork/react)
 - [browser-use/browser-use - Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
 - [xnx3/translate - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!](https://github.com/xnx3/translate)
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+- [deepseek-ai/awesome-deepseek-integration - Integrate the DeepSeek API into popular softwares](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - [scidsg/mastodon-scheduler - A self-hosted app to schedule your posts to Mastodon 🐘.](https://github.com/scidsg/mastodon-scheduler)
 - [AidanWelch/google-translate-api - An updated free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/AidanWelch/google-translate-api)
 - [openstatusHQ/data-table-filters - A playground for tanstack-table](https://github.com/openstatusHQ/data-table-filters)
