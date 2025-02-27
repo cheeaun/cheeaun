@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [getomni-ai/benchmark - OCR Benchmark](https://github.com/getomni-ai/benchmark)
+- [zgrossbart/jdd - A semantic JSON compare tool](https://github.com/zgrossbart/jdd)
 - [cloudflare/agents - Build and deploy AI Agents on Cloudflare ](https://github.com/cloudflare/agents)
 - [minwork/react - Useful react hooks and components libraries](https://github.com/minwork/react)
 - [browser-use/browser-use - Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [noahbald/oxvg - Rust alernative to SVGO and (eventually) InkScape](https://github.com/noahbald/oxvg)
 - [suvam0451/dhaaga - Dhaaga - An indie SNS app that blends sleek design 💅, useful features ✨ and fun ways to discover and connect 🎉](https://github.com/suvam0451/dhaaga)
 - [ginatrapani/life-in-weeks - 📍 A map of my life, where each week I've been alive is a little box. ](https://github.com/ginatrapani/life-in-weeks)
-- [mastodon/specs-background - A place to store background documentation and research that informs specifications and FEPs](https://github.com/mastodon/specs-background)
-- [daviddarnes/share-button - A Web Component to share web pages using the native OS sharing options](https://github.com/daviddarnes/share-button)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
