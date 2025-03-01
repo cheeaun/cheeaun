@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yxw007/translate - 🎉一个简单的翻译库，支持多翻译引擎。A simple translation library that supports multiple translation engines](https://github.com/yxw007/translate)
 - [electronicarts/CnC_Red_Alert - Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 - [mastra-ai/mastra - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.](https://github.com/mastra-ai/mastra)
 - [tomayac/translation-language-detection-api-playground](https://github.com/tomayac/translation-language-detection-api-playground)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [AidanWelch/google-translate-api - An updated free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/AidanWelch/google-translate-api)
 - [openstatusHQ/data-table-filters - A playground for tanstack-table](https://github.com/openstatusHQ/data-table-filters)
 - [SystemXFiles/process-governor - Process Governor is a utility that automates the management of Windows processes and services by adjusting their priorities, I/O priorities, and core affinity according to user-defined rules](https://github.com/SystemXFiles/process-governor)
-- [evilmartians/mono - Free and open-source monospaced font from Evil Martians](https://github.com/evilmartians/mono)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
