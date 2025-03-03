@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cameronnapoli/llm-translate - Wrapper to translate text using an LLM API.](https://github.com/cameronnapoli/llm-translate)
 - [songkeys/Translateer - An unlimited free Google Translate API using Puppeteer](https://github.com/songkeys/Translateer)
 - [yxw007/translate - 🎉一个简单的翻译库，支持多翻译引擎。A simple translation library that supports multiple translation engines](https://github.com/yxw007/translate)
 - [electronicarts/CnC_Red_Alert - Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [deepseek-ai/awesome-deepseek-integration - Integrate the DeepSeek API into popular softwares](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - [scidsg/mastodon-scheduler - A self-hosted app to schedule your posts to Mastodon 🐘.](https://github.com/scidsg/mastodon-scheduler)
 - [AidanWelch/google-translate-api - An updated free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/AidanWelch/google-translate-api)
-- [openstatusHQ/data-table-filters - A playground for tanstack-table](https://github.com/openstatusHQ/data-table-filters)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
