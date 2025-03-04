@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Nazku-com/Xenon - a fediverse client](https://github.com/Nazku-com/Xenon)
 - [quansync-dev/quansync - "Superposition" between sync and async](https://github.com/quansync-dev/quansync)
 - [cameronnapoli/llm-translate - Wrapper to translate text using an LLM API.](https://github.com/cameronnapoli/llm-translate)
 - [songkeys/Translateer - An unlimited free Google Translate API using Puppeteer](https://github.com/songkeys/Translateer)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [browser-use/browser-use - Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
 - [xnx3/translate - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!](https://github.com/xnx3/translate)
 - [deepseek-ai/awesome-deepseek-integration - Integrate the DeepSeek API into popular softwares](https://github.com/deepseek-ai/awesome-deepseek-integration)
-- [scidsg/mastodon-scheduler - A self-hosted app to schedule your posts to Mastodon 🐘.](https://github.com/scidsg/mastodon-scheduler)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
