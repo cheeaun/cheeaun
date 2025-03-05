@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pnggroup/pngcheck - Development fork of pngcheck 3.0.3 of 25 April 2021. Adds cICP, mDCV, cLLI and APNG support](https://github.com/pnggroup/pngcheck)
 - [Nazku-com/Xenon - a fediverse client](https://github.com/Nazku-com/Xenon)
 - [quansync-dev/quansync - "Superposition" between sync and async](https://github.com/quansync-dev/quansync)
 - [cameronnapoli/llm-translate - Wrapper to translate text using an LLM API.](https://github.com/cameronnapoli/llm-translate)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [minwork/react - Useful react hooks and components libraries](https://github.com/minwork/react)
 - [browser-use/browser-use - Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
 - [xnx3/translate - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!](https://github.com/xnx3/translate)
-- [deepseek-ai/awesome-deepseek-integration - Integrate the DeepSeek API into popular softwares](https://github.com/deepseek-ai/awesome-deepseek-integration)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
