@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cline/cline - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
 - [pnggroup/pngcheck - Development fork of pngcheck 3.0.3 of 25 April 2021. Adds cICP, mDCV, cLLI and APNG support](https://github.com/pnggroup/pngcheck)
 - [Nazku-com/Xenon - a fediverse client](https://github.com/Nazku-com/Xenon)
 - [quansync-dev/quansync - "Superposition" between sync and async](https://github.com/quansync-dev/quansync)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cloudflare/agents - Build and deploy AI Agents on Cloudflare ](https://github.com/cloudflare/agents)
 - [minwork/react - Useful react hooks and components libraries](https://github.com/minwork/react)
 - [browser-use/browser-use - Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
-- [xnx3/translate - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!](https://github.com/xnx3/translate)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
