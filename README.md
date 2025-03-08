@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mastodon/fediscoverer](https://github.com/mastodon/fediscoverer)
 - [cline/cline - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
 - [pnggroup/pngcheck - Development fork of pngcheck 3.0.3 of 25 April 2021. Adds cICP, mDCV, cLLI and APNG support](https://github.com/pnggroup/pngcheck)
 - [Nazku-com/Xenon - a fediverse client](https://github.com/Nazku-com/Xenon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zgrossbart/jdd - A semantic JSON compare tool](https://github.com/zgrossbart/jdd)
 - [cloudflare/agents - Build and deploy AI Agents on Cloudflare ](https://github.com/cloudflare/agents)
 - [minwork/react - Useful react hooks and components libraries](https://github.com/minwork/react)
-- [browser-use/browser-use - Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
