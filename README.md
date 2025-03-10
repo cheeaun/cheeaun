@@ -29,7 +29,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 <!-- starred repos start -->
 - [mastodon/fediscoverer](https://github.com/mastodon/fediscoverer)
 - [cline/cline - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
-- [pnggroup/pngcheck - Development fork of pngcheck 3.0.3 of 25 April 2021. Adds cICP, mDCV, cLLI and APNG support](https://github.com/pnggroup/pngcheck)
+- [pnggroup/pngcheck - Development of pngcheck 4](https://github.com/pnggroup/pngcheck)
 - [Nazku-com/Xenon - a fediverse client](https://github.com/Nazku-com/Xenon)
 - [quansync-dev/quansync - "Superposition" between sync and async](https://github.com/quansync-dev/quansync)
 - [cameronnapoli/llm-translate - Wrapper to translate text using an LLM API.](https://github.com/cameronnapoli/llm-translate)
