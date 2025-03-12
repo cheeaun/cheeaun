@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui)
+- [fastplotlib/fastplotlib - Next-gen fast plotting library running on WGPU using the pygfx rendering engine](https://github.com/fastplotlib/fastplotlib)
 - [microsoft/typescript-go - Staging repo for development of native port of TypeScript](https://github.com/microsoft/typescript-go)
 - [mastodon/fediscoverer](https://github.com/mastodon/fediscoverer)
 - [cline/cline - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mastra-ai/mastra - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.](https://github.com/mastra-ai/mastra)
 - [tomayac/translation-language-detection-api-playground](https://github.com/tomayac/translation-language-detection-api-playground)
 - [getomni-ai/benchmark - OCR Benchmark](https://github.com/getomni-ai/benchmark)
-- [zgrossbart/jdd - A semantic JSON compare tool](https://github.com/zgrossbart/jdd)
-- [cloudflare/agents - Build and deploy AI Agents on Cloudflare ](https://github.com/cloudflare/agents)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
