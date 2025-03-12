@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TahaSh/swapy - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/](https://github.com/TahaSh/swapy)
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui)
 - [fastplotlib/fastplotlib - Next-gen fast plotting library running on WGPU using the pygfx rendering engine](https://github.com/fastplotlib/fastplotlib)
 - [microsoft/typescript-go - Staging repo for development of native port of TypeScript](https://github.com/microsoft/typescript-go)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [electronicarts/CnC_Red_Alert - Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 - [mastra-ai/mastra - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.](https://github.com/mastra-ai/mastra)
 - [tomayac/translation-language-detection-api-playground](https://github.com/tomayac/translation-language-detection-api-playground)
-- [getomni-ai/benchmark - OCR Benchmark](https://github.com/getomni-ai/benchmark)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
