@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/typescript-go - Staging repo for development of native port of TypeScript](https://github.com/microsoft/typescript-go)
 - [mastodon/fediscoverer](https://github.com/mastodon/fediscoverer)
 - [cline/cline - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
 - [pnggroup/pngcheck - Development of pngcheck 4](https://github.com/pnggroup/pngcheck)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [getomni-ai/benchmark - OCR Benchmark](https://github.com/getomni-ai/benchmark)
 - [zgrossbart/jdd - A semantic JSON compare tool](https://github.com/zgrossbart/jdd)
 - [cloudflare/agents - Build and deploy AI Agents on Cloudflare ](https://github.com/cloudflare/agents)
-- [minwork/react - Useful react hooks and components libraries](https://github.com/minwork/react)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
