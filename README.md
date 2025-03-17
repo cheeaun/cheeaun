@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tilezen/joerd - Joerd can be used to download, merge and generate tiles from digital elevation data](https://github.com/tilezen/joerd)
 - [TahaSh/swapy - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/](https://github.com/TahaSh/swapy)
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui)
 - [fastplotlib/fastplotlib - Next-gen fast plotting library running on WGPU using the pygfx rendering engine](https://github.com/fastplotlib/fastplotlib)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yxw007/translate - 🎉一个简单的翻译库，支持多翻译引擎。A simple translation library that supports multiple translation engines](https://github.com/yxw007/translate)
 - [electronicarts/CnC_Red_Alert - Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 - [mastra-ai/mastra - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.](https://github.com/mastra-ai/mastra)
-- [tomayac/translation-language-detection-api-playground](https://github.com/tomayac/translation-language-detection-api-playground)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
