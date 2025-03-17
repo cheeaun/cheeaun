@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [keithclark/ZzFXM - A super small music generator for use in size-limited JavaScript productions](https://github.com/keithclark/ZzFXM)
+- [KilledByAPixel/ZzFX - A Tiny JavaScript Sound FX System](https://github.com/KilledByAPixel/ZzFX)
+- [kripken/box2d.js - Port of Box2D to JavaScript using Emscripten](https://github.com/kripken/box2d.js)
 - [tilezen/joerd - Joerd can be used to download, merge and generate tiles from digital elevation data](https://github.com/tilezen/joerd)
 - [TahaSh/swapy - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/](https://github.com/TahaSh/swapy)
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [quansync-dev/quansync - "Superposition" between sync and async](https://github.com/quansync-dev/quansync)
 - [cameronnapoli/llm-translate - Wrapper to translate text using an LLM API.](https://github.com/cameronnapoli/llm-translate)
 - [songkeys/Translateer - An unlimited free Google Translate API using Puppeteer](https://github.com/songkeys/Translateer)
-- [yxw007/translate - 🎉一个简单的翻译库，支持多翻译引擎。A simple translation library that supports multiple translation engines](https://github.com/yxw007/translate)
-- [electronicarts/CnC_Red_Alert - Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
-- [mastra-ai/mastra - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.](https://github.com/mastra-ai/mastra)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
