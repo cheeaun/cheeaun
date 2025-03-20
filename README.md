@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antfu/shiki-stream - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.](https://github.com/antfu/shiki-stream)
+- [addyosmani/enhance - Enhance and upscale your images using AI - right in your browser](https://github.com/addyosmani/enhance)
 - [keithclark/ZzFXM - A super small music generator for use in size-limited JavaScript productions](https://github.com/keithclark/ZzFXM)
 - [KilledByAPixel/ZzFX - A Tiny JavaScript Sound FX System](https://github.com/KilledByAPixel/ZzFX)
 - [kripken/box2d.js - Port of Box2D to JavaScript using Emscripten](https://github.com/kripken/box2d.js)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pnggroup/pngcheck - Development of pngcheck 4](https://github.com/pnggroup/pngcheck)
 - [Nazku-com/Xenon - a fediverse client](https://github.com/Nazku-com/Xenon)
 - [quansync-dev/quansync - "Superposition" between sync and async](https://github.com/quansync-dev/quansync)
-- [cameronnapoli/llm-translate - Wrapper to translate text using an LLM API.](https://github.com/cameronnapoli/llm-translate)
-- [songkeys/Translateer - An unlimited free Google Translate API using Puppeteer](https://github.com/songkeys/Translateer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
