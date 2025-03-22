@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [humanwhocodes/crosspost - A JavaScript utility for posting across multiple social networks at once](https://github.com/humanwhocodes/crosspost)
 - [antfu/shiki-stream - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.](https://github.com/antfu/shiki-stream)
 - [addyosmani/enhance - Enhance and upscale your images using AI - right in your browser](https://github.com/addyosmani/enhance)
 - [keithclark/ZzFXM - A super small music generator for use in size-limited JavaScript productions](https://github.com/keithclark/ZzFXM)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cline/cline - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
 - [pnggroup/pngcheck - Development of pngcheck 4](https://github.com/pnggroup/pngcheck)
 - [Nazku-com/Xenon - a fediverse client](https://github.com/Nazku-com/Xenon)
-- [quansync-dev/quansync - "Superposition" between sync and async](https://github.com/quansync-dev/quansync)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
