@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [animir/node-rate-limiter-flexible - Atomic counters and rate limiting tools. Limit resource access at any scale.](https://github.com/animir/node-rate-limiter-flexible)
 - [dahlia/hackerspub - ActivityPub-enabled social network for hackers](https://github.com/dahlia/hackerspub)
 - [humanwhocodes/crosspost - A JavaScript utility for posting across multiple social networks at once](https://github.com/humanwhocodes/crosspost)
 - [antfu/shiki-stream - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.](https://github.com/antfu/shiki-stream)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [microsoft/typescript-go - Staging repo for development of native port of TypeScript](https://github.com/microsoft/typescript-go)
 - [mastodon/fediscoverer](https://github.com/mastodon/fediscoverer)
 - [cline/cline - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
-- [pnggroup/pngcheck - Development of pngcheck 4](https://github.com/pnggroup/pngcheck)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
