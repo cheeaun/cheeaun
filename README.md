@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [civilblur/mazanoke - A self-hosted local image compressor that runs in your browser.](https://github.com/civilblur/mazanoke)
 - [KSXGitHub/parallel-disk-usage - Highly parallelized, blazing fast directory tree analyzer](https://github.com/KSXGitHub/parallel-disk-usage)
 - [animir/node-rate-limiter-flexible - Atomic counters and rate limiting tools. Limit resource access at any scale.](https://github.com/animir/node-rate-limiter-flexible)
 - [dahlia/hackerspub - ActivityPub-enabled social network for hackers](https://github.com/dahlia/hackerspub)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui)
 - [fastplotlib/fastplotlib - Next-gen fast plotting library running on WGPU using the pygfx rendering engine](https://github.com/fastplotlib/fastplotlib)
 - [microsoft/typescript-go - Staging repo for development of native port of TypeScript](https://github.com/microsoft/typescript-go)
-- [mastodon/fediscoverer](https://github.com/mastodon/fediscoverer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
