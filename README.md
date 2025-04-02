@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [orbitinghail/sqlsync - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.](https://github.com/orbitinghail/sqlsync)
 - [civilblur/mazanoke - A self-hosted local image compressor that runs in your browser.](https://github.com/civilblur/mazanoke)
 - [KSXGitHub/parallel-disk-usage - Highly parallelized, blazing fast directory tree analyzer](https://github.com/KSXGitHub/parallel-disk-usage)
 - [animir/node-rate-limiter-flexible - Atomic counters and rate limiting tools. Limit resource access at any scale.](https://github.com/animir/node-rate-limiter-flexible)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [TahaSh/swapy - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/](https://github.com/TahaSh/swapy)
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui)
 - [fastplotlib/fastplotlib - Next-gen fast plotting library running on WGPU using the pygfx rendering engine](https://github.com/fastplotlib/fastplotlib)
-- [microsoft/typescript-go - Staging repo for development of native port of TypeScript](https://github.com/microsoft/typescript-go)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
