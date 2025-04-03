@@ -32,7 +32,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [civilblur/mazanoke - A self-hosted local image compressor that runs in your browser.](https://github.com/civilblur/mazanoke)
 - [KSXGitHub/parallel-disk-usage - Highly parallelized, blazing fast directory tree analyzer](https://github.com/KSXGitHub/parallel-disk-usage)
 - [animir/node-rate-limiter-flexible - Atomic counters and rate limiting tools. Limit resource access at any scale.](https://github.com/animir/node-rate-limiter-flexible)
-- [dahlia/hackerspub - ActivityPub-enabled social network for hackers](https://github.com/dahlia/hackerspub)
+- [hackers-pub/hackerspub - ActivityPub-enabled social network for hackers](https://github.com/hackers-pub/hackerspub)
 - [humanwhocodes/crosspost - A JavaScript utility for posting across multiple social networks at once](https://github.com/humanwhocodes/crosspost)
 - [antfu/shiki-stream - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.](https://github.com/antfu/shiki-stream)
 - [addyosmani/enhance - Enhance and upscale your images using AI - right in your browser](https://github.com/addyosmani/enhance)
