@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antiwork/gumroad](https://github.com/antiwork/gumroad)
+- [cloudfour/image-compare - A web component for comparing images with a slider.](https://github.com/cloudfour/image-compare)
 - [nivenly/community](https://github.com/nivenly/community)
 - [orbitinghail/sqlsync - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.](https://github.com/orbitinghail/sqlsync)
 - [civilblur/mazanoke - A self-hosted local image optimizer that runs in your browser.](https://github.com/civilblur/mazanoke)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [KilledByAPixel/ZzFX - A Tiny JavaScript Sound FX System](https://github.com/KilledByAPixel/ZzFX)
 - [kripken/box2d.js - Port of Box2D to JavaScript using Emscripten](https://github.com/kripken/box2d.js)
 - [tilezen/joerd - Joerd can be used to download, merge and generate tiles from digital elevation data](https://github.com/tilezen/joerd)
-- [TahaSh/swapy - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/](https://github.com/TahaSh/swapy)
-- [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
