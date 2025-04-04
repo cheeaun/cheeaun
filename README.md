@@ -29,7 +29,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 <!-- starred repos start -->
 - [nivenly/community](https://github.com/nivenly/community)
 - [orbitinghail/sqlsync - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.](https://github.com/orbitinghail/sqlsync)
-- [civilblur/mazanoke - A self-hosted local image compressor that runs in your browser.](https://github.com/civilblur/mazanoke)
+- [civilblur/mazanoke - A self-hosted local image optimizer that runs in your browser.](https://github.com/civilblur/mazanoke)
 - [KSXGitHub/parallel-disk-usage - Highly parallelized, blazing fast directory tree analyzer](https://github.com/KSXGitHub/parallel-disk-usage)
 - [animir/node-rate-limiter-flexible - Atomic counters and rate limiting tools. Limit resource access at any scale.](https://github.com/animir/node-rate-limiter-flexible)
 - [hackers-pub/hackerspub - ActivityPub-enabled social network for hackers](https://github.com/hackers-pub/hackerspub)
