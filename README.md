@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fokus-dev/uaplus](https://github.com/fokus-dev/uaplus)
 - [css-naked-day/css-naked-day - Show off your semantic <body>!](https://github.com/css-naked-day/css-naked-day)
 - [symmetricalboy/gen-alt-text - WORK IN PROGRESS - PLEASE TEST & GIVE FEEDBACK!](https://github.com/symmetricalboy/gen-alt-text)
 - [antiwork/gumroad](https://github.com/antiwork/gumroad)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antfu/shiki-stream - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.](https://github.com/antfu/shiki-stream)
 - [addyosmani/enhance - Enhance and upscale your images using AI - right in your browser](https://github.com/addyosmani/enhance)
 - [keithclark/ZzFXM - A super small music generator for use in size-limited JavaScript productions](https://github.com/keithclark/ZzFXM)
-- [KilledByAPixel/ZzFX - A Tiny JavaScript Sound FX System](https://github.com/KilledByAPixel/ZzFX)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
