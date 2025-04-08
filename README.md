@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [symmetricalboy/gen-alt-text - WORK IN PROGRESS - PLEASE TEST & GIVE FEEDBACK!](https://github.com/symmetricalboy/gen-alt-text)
 - [antiwork/gumroad](https://github.com/antiwork/gumroad)
 - [cloudfour/image-compare - A web component for comparing images with a slider.](https://github.com/cloudfour/image-compare)
 - [nivenly/community](https://github.com/nivenly/community)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [keithclark/ZzFXM - A super small music generator for use in size-limited JavaScript productions](https://github.com/keithclark/ZzFXM)
 - [KilledByAPixel/ZzFX - A Tiny JavaScript Sound FX System](https://github.com/KilledByAPixel/ZzFX)
 - [kripken/box2d.js - Port of Box2D to JavaScript using Emscripten](https://github.com/kripken/box2d.js)
-- [tilezen/joerd - Joerd can be used to download, merge and generate tiles from digital elevation data](https://github.com/tilezen/joerd)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
