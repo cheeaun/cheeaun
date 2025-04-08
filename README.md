@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [fokus-dev/uaplus](https://github.com/fokus-dev/uaplus)
-- [css-naked-day/css-naked-day - Show off your semantic <body>!](https://github.com/css-naked-day/css-naked-day)
+- [css-naked-day/css-naked-day.github.io - Show off your semantic <body>!](https://github.com/css-naked-day/css-naked-day.github.io)
 - [symmetricalboy/gen-alt-text - WORK IN PROGRESS - PLEASE TEST & GIVE FEEDBACK!](https://github.com/symmetricalboy/gen-alt-text)
 - [antiwork/gumroad](https://github.com/antiwork/gumroad)
 - [cloudfour/image-compare - A web component for comparing images with a slider.](https://github.com/cloudfour/image-compare)
