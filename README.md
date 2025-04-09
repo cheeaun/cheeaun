@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [holepunchto/bare - Small and modular JavaScript runtime for desktop and mobile](https://github.com/holepunchto/bare)
+- [L-Blondy/up-fetch - Advanced fetch client builder](https://github.com/L-Blondy/up-fetch)
 - [fokus-dev/uaplus](https://github.com/fokus-dev/uaplus)
 - [css-naked-day/css-naked-day.github.io - Show off your semantic <body>!](https://github.com/css-naked-day/css-naked-day.github.io)
 - [symmetricalboy/gen-alt-text - WORK IN PROGRESS - PLEASE TEST & GIVE FEEDBACK!](https://github.com/symmetricalboy/gen-alt-text)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hackers-pub/hackerspub - ActivityPub-enabled social network for hackers](https://github.com/hackers-pub/hackerspub)
 - [humanwhocodes/crosspost - A JavaScript utility for posting across multiple social networks at once](https://github.com/humanwhocodes/crosspost)
 - [antfu/shiki-stream - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.](https://github.com/antfu/shiki-stream)
-- [addyosmani/enhance - Enhance and upscale your images using AI - right in your browser](https://github.com/addyosmani/enhance)
-- [keithclark/ZzFXM - A super small music generator for use in size-limited JavaScript productions](https://github.com/keithclark/ZzFXM)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
