@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [OmniSVG/OmniSVG - OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.](https://github.com/OmniSVG/OmniSVG)
 - [zbycz/osmapp - Lets make a universal app for OpenStreetMap](https://github.com/zbycz/osmapp)
 - [valtiojs/valtio-persist](https://github.com/valtiojs/valtio-persist)
 - [holepunchto/bare - Small and modular JavaScript runtime for desktop and mobile](https://github.com/holepunchto/bare)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [civilblur/mazanoke - A self-hosted local image optimizer that runs in your browser.](https://github.com/civilblur/mazanoke)
 - [KSXGitHub/parallel-disk-usage - Highly parallelized, blazing fast directory tree analyzer](https://github.com/KSXGitHub/parallel-disk-usage)
 - [animir/node-rate-limiter-flexible - Atomic counters and rate limiting tools. Limit resource access at any scale.](https://github.com/animir/node-rate-limiter-flexible)
-- [hackers-pub/hackerspub - ActivityPub-enabled social network for hackers](https://github.com/hackers-pub/hackerspub)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
