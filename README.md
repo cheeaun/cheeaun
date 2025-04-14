@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [GIScience/ohsome-planet - Transform OSM (history) PBF files into GeoParquet. Enrich with OSM changeset metadata and country information.](https://github.com/GIScience/ohsome-planet)
+- [ipshipyard/ipfs-deploy-action - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs](https://github.com/ipshipyard/ipfs-deploy-action)
 - [pbzweihander/fediday.org - The Federated Fediverse Day](https://github.com/pbzweihander/fediday.org)
 - [OmniSVG/OmniSVG - OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.](https://github.com/OmniSVG/OmniSVG)
 - [zbycz/osmapp - Lets make a universal app for OpenStreetMap](https://github.com/zbycz/osmapp)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cloudfour/image-compare - A web component for comparing images with a slider.](https://github.com/cloudfour/image-compare)
 - [nivenly/community](https://github.com/nivenly/community)
 - [orbitinghail/sqlsync - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.](https://github.com/orbitinghail/sqlsync)
-- [civilblur/mazanoke - A self-hosted local image optimizer that runs in your browser.](https://github.com/civilblur/mazanoke)
-- [KSXGitHub/parallel-disk-usage - Highly parallelized, blazing fast directory tree analyzer](https://github.com/KSXGitHub/parallel-disk-usage)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
