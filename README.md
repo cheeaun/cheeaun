@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vasturiano/react-sunburst-chart - A sunburst interactive chart React component for visualizing hierarchical data](https://github.com/vasturiano/react-sunburst-chart)
+- [vasturiano/sunburst-chart - A sunburst interactive chart web component for visualizing hierarchical data](https://github.com/vasturiano/sunburst-chart)
+- [webtui/webtui](https://github.com/webtui/webtui)
 - [GIScience/ohsome-planet - Transform OSM (history) PBF files into GeoParquet. Enrich with OSM changeset metadata and country information.](https://github.com/GIScience/ohsome-planet)
 - [ipshipyard/ipfs-deploy-action - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs](https://github.com/ipshipyard/ipfs-deploy-action)
 - [pbzweihander/fediday.org - The Federated Fediverse Day](https://github.com/pbzweihander/fediday.org)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [css-naked-day/css-naked-day.github.io - Show off your semantic <body>!](https://github.com/css-naked-day/css-naked-day.github.io)
 - [symmetricalboy/gen-alt-text - WORK IN PROGRESS - PLEASE TEST & GIVE FEEDBACK!](https://github.com/symmetricalboy/gen-alt-text)
 - [antiwork/gumroad](https://github.com/antiwork/gumroad)
-- [cloudfour/image-compare - A web component for comparing images with a slider.](https://github.com/cloudfour/image-compare)
-- [nivenly/community](https://github.com/nivenly/community)
-- [orbitinghail/sqlsync - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.](https://github.com/orbitinghail/sqlsync)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
