@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jbetancur/react-data-table-component - A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.](https://github.com/jbetancur/react-data-table-component)
 - [vasturiano/react-sunburst-chart - A sunburst interactive chart React component for visualizing hierarchical data](https://github.com/vasturiano/react-sunburst-chart)
 - [vasturiano/sunburst-chart - A sunburst interactive chart web component for visualizing hierarchical data](https://github.com/vasturiano/sunburst-chart)
 - [webtui/webtui](https://github.com/webtui/webtui)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fokus-dev/uaplus](https://github.com/fokus-dev/uaplus)
 - [css-naked-day/css-naked-day.github.io - Show off your semantic <body>!](https://github.com/css-naked-day/css-naked-day.github.io)
 - [symmetricalboy/gen-alt-text - WORK IN PROGRESS - PLEASE TEST & GIVE FEEDBACK!](https://github.com/symmetricalboy/gen-alt-text)
-- [antiwork/gumroad](https://github.com/antiwork/gumroad)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
