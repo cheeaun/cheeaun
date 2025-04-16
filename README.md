@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ngxson/wllama - WebAssembly binding for llama.cpp - Enabling on-browser LLM inference](https://github.com/ngxson/wllama)
 - [Ray-D-Song/lexe - Package your Node.js application into a single executable file, but only 10MB.🔥](https://github.com/Ray-D-Song/lexe)
 - [jbetancur/react-data-table-component - A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.](https://github.com/jbetancur/react-data-table-component)
 - [vasturiano/react-sunburst-chart - A sunburst interactive chart React component for visualizing hierarchical data](https://github.com/vasturiano/react-sunburst-chart)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [holepunchto/bare - Small and modular JavaScript runtime for desktop and mobile](https://github.com/holepunchto/bare)
 - [L-Blondy/up-fetch - Advanced fetch client builder](https://github.com/L-Blondy/up-fetch)
 - [fokus-dev/uaplus](https://github.com/fokus-dev/uaplus)
-- [css-naked-day/css-naked-day.github.io - Show off your semantic <body>!](https://github.com/css-naked-day/css-naked-day.github.io)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
