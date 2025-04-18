@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tinylibs/tinyexec - 📟 A tiny, higher level interface around child_process](https://github.com/tinylibs/tinyexec)
+- [humanwhocodes/mentoss - The best way to mock JavaScript fetch requests](https://github.com/humanwhocodes/mentoss)
 - [ngxson/wllama - WebAssembly binding for llama.cpp - Enabling on-browser LLM inference](https://github.com/ngxson/wllama)
 - [Ray-D-Song/lexe - Package your Node.js application into a single executable file, but only 10MB.🔥](https://github.com/Ray-D-Song/lexe)
 - [jbetancur/react-data-table-component - A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.](https://github.com/jbetancur/react-data-table-component)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zbycz/osmapp - Lets make a universal app for OpenStreetMap](https://github.com/zbycz/osmapp)
 - [valtiojs/valtio-persist](https://github.com/valtiojs/valtio-persist)
 - [holepunchto/bare - Small and modular JavaScript runtime for desktop and mobile](https://github.com/holepunchto/bare)
-- [L-Blondy/up-fetch - Advanced fetch client builder](https://github.com/L-Blondy/up-fetch)
-- [fokus-dev/uaplus](https://github.com/fokus-dev/uaplus)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
