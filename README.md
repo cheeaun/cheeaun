@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [adamchaboryk/gifa11y - Gifa11y is a customizable vanilla javascript plugin that easily adds accessible play/pause buttons to animated GIFs.](https://github.com/adamchaboryk/gifa11y)
 - [jeffsikes/mastodon-featured-profiles - A streamlined tool for easier management of your featured profiles.](https://github.com/jeffsikes/mastodon-featured-profiles)
 - [tiagorangel1/cap - Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work](https://github.com/tiagorangel1/cap)
 - [tinylibs/tinyexec - 📟 A tiny, higher level interface around child_process](https://github.com/tinylibs/tinyexec)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ipshipyard/ipfs-deploy-action - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs](https://github.com/ipshipyard/ipfs-deploy-action)
 - [pbzweihander/fediday.org - The Federated Fediverse Day](https://github.com/pbzweihander/fediday.org)
 - [OmniSVG/OmniSVG - OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.](https://github.com/OmniSVG/OmniSVG)
-- [zbycz/osmapp - Lets make a universal app for OpenStreetMap](https://github.com/zbycz/osmapp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
