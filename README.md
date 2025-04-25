@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mkljczk/url-purify - A fork of ClearURLs with the goal of turning it into a reusable library](https://github.com/mkljczk/url-purify)
 - [ihugang/ocrtool-mcp - MCP OCR module using macOS Vision framework](https://github.com/ihugang/ocrtool-mcp)
 - [adamchaboryk/gifa11y - Gifa11y is a customizable vanilla javascript plugin that easily adds accessible play/pause buttons to animated GIFs.](https://github.com/adamchaboryk/gifa11y)
 - [jeffsikes/mastodon-featured-profiles - A streamlined tool for easier management of your featured profiles.](https://github.com/jeffsikes/mastodon-featured-profiles)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [webtui/webtui](https://github.com/webtui/webtui)
 - [GIScience/ohsome-planet - Transform OSM (history) PBF files into GeoParquet. Enrich with OSM changeset metadata and country information.](https://github.com/GIScience/ohsome-planet)
 - [ipshipyard/ipfs-deploy-action - Official IPFS GitHub Action for deploying static sites (or builds) to IPFS nodes/pinning services with CAR files, and addressing site builds with CIDs](https://github.com/ipshipyard/ipfs-deploy-action)
-- [pbzweihander/fediday.org - The Federated Fediverse Day](https://github.com/pbzweihander/fediday.org)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
