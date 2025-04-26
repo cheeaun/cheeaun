@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [woodpecker-ci/woodpecker - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.](https://github.com/woodpecker-ci/woodpecker)
 - [wipfli/maplibre-gl-complex-text - Render complex text with Harfbuzz in MapLibre GL JS through the RTL plugin hook](https://github.com/wipfli/maplibre-gl-complex-text)
 - [mkljczk/url-purify - A fork of ClearURLs with the goal of turning it into a reusable library](https://github.com/mkljczk/url-purify)
 - [ihugang/ocrtool-mcp - MCP OCR module using macOS Vision framework](https://github.com/ihugang/ocrtool-mcp)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vasturiano/react-sunburst-chart - A sunburst interactive chart React component for visualizing hierarchical data](https://github.com/vasturiano/react-sunburst-chart)
 - [vasturiano/sunburst-chart - A sunburst interactive chart web component for visualizing hierarchical data](https://github.com/vasturiano/sunburst-chart)
 - [webtui/webtui](https://github.com/webtui/webtui)
-- [GIScience/ohsome-planet - Transform OSM (history) PBF files into GeoParquet. Enrich with OSM changeset metadata and country information.](https://github.com/GIScience/ohsome-planet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
