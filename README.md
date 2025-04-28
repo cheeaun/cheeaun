@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nmattia/quad-shader - Zero-deps library for creating WebGL-based applications using Vite and TypeScript](https://github.com/nmattia/quad-shader)
 - [woodpecker-ci/woodpecker - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.](https://github.com/woodpecker-ci/woodpecker)
 - [wipfli/maplibre-gl-complex-text - Render complex text with Harfbuzz in MapLibre GL JS through the RTL plugin hook](https://github.com/wipfli/maplibre-gl-complex-text)
 - [mkljczk/url-purify - A fork of ClearURLs with the goal of turning it into a reusable library](https://github.com/mkljczk/url-purify)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jbetancur/react-data-table-component - A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.](https://github.com/jbetancur/react-data-table-component)
 - [vasturiano/react-sunburst-chart - A sunburst interactive chart React component for visualizing hierarchical data](https://github.com/vasturiano/react-sunburst-chart)
 - [vasturiano/sunburst-chart - A sunburst interactive chart web component for visualizing hierarchical data](https://github.com/vasturiano/sunburst-chart)
-- [webtui/webtui](https://github.com/webtui/webtui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
