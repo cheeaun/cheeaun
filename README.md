@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [xdadda/mini-gl - webgl image editing library with filters and effects ](https://github.com/xdadda/mini-gl)
 - [ioriayane/Hagoromo - This is a multi-column Bluesky client.](https://github.com/ioriayane/Hagoromo)
 - [nmattia/quad-shader - Zero-deps library for creating WebGL-based applications using Vite and TypeScript](https://github.com/nmattia/quad-shader)
 - [woodpecker-ci/woodpecker - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.](https://github.com/woodpecker-ci/woodpecker)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ngxson/wllama - WebAssembly binding for llama.cpp - Enabling on-browser LLM inference](https://github.com/ngxson/wllama)
 - [Ray-D-Song/lexe - Package your Node.js application into a single executable file, but only 10MB.🔥](https://github.com/Ray-D-Song/lexe)
 - [jbetancur/react-data-table-component - A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.](https://github.com/jbetancur/react-data-table-component)
-- [vasturiano/react-sunburst-chart - A sunburst interactive chart React component for visualizing hierarchical data](https://github.com/vasturiano/react-sunburst-chart)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
