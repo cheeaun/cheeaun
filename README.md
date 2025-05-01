@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tirr-c/jxl-oxide - Pure Rust implementation of JPEG XL decoder](https://github.com/tirr-c/jxl-oxide)
+- [micr0-dev/Altbot - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio.](https://github.com/micr0-dev/Altbot)
 - [h3js/srvx - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.](https://github.com/h3js/srvx)
 - [xdadda/mini-gl - webgl image editing library with filters and effects ](https://github.com/xdadda/mini-gl)
 - [ioriayane/Hagoromo - This is a multi-column Bluesky client.](https://github.com/ioriayane/Hagoromo)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tiagorangel1/cap - Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work](https://github.com/tiagorangel1/cap)
 - [tinylibs/tinyexec - 📟 A tiny, higher level interface around child_process](https://github.com/tinylibs/tinyexec)
 - [humanwhocodes/mentoss - The best way to mock JavaScript fetch requests](https://github.com/humanwhocodes/mentoss)
-- [ngxson/wllama - WebAssembly binding for llama.cpp - Enabling on-browser LLM inference](https://github.com/ngxson/wllama)
-- [Ray-D-Song/lexe - Package your Node.js application into a single executable file, but only 10MB.🔥](https://github.com/Ray-D-Song/lexe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
