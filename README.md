@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [s414june/glowrea - 光景，讓Mastodon景致——如光流動](https://github.com/s414june/glowrea)
+- [rbozan/animated-emojis-rs - Noto Animated emojis in Rust](https://github.com/rbozan/animated-emojis-rs)
 - [tirr-c/jxl-oxide - Pure Rust implementation of JPEG XL decoder](https://github.com/tirr-c/jxl-oxide)
 - [micr0-dev/Altbot - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio.](https://github.com/micr0-dev/Altbot)
 - [h3js/srvx - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.](https://github.com/h3js/srvx)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [adamchaboryk/gifa11y - Gifa11y is a customizable vanilla javascript plugin that easily adds accessible play/pause buttons to animated GIFs.](https://github.com/adamchaboryk/gifa11y)
 - [jeffsikes/mastodon-featured-profiles - A streamlined tool for easier management of your featured profiles.](https://github.com/jeffsikes/mastodon-featured-profiles)
 - [tiagorangel1/cap - Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work](https://github.com/tiagorangel1/cap)
-- [tinylibs/tinyexec - 📟 A tiny, higher level interface around child_process](https://github.com/tinylibs/tinyexec)
-- [humanwhocodes/mentoss - The best way to mock JavaScript fetch requests](https://github.com/humanwhocodes/mentoss)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
