@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [BDX-town/elk - A nimble Akkoma web client](https://github.com/BDX-town/elk)
 - [s414june/glowrea - 光景，讓Mastodon景致——如光流動](https://github.com/s414june/glowrea)
 - [rbozan/animated-emojis-rs - Noto Animated emojis in Rust](https://github.com/rbozan/animated-emojis-rs)
 - [tirr-c/jxl-oxide - Pure Rust implementation of JPEG XL decoder](https://github.com/tirr-c/jxl-oxide)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ihugang/ocrtool-mcp - MCP OCR module using macOS Vision framework](https://github.com/ihugang/ocrtool-mcp)
 - [adamchaboryk/gifa11y - Gifa11y is a customizable vanilla javascript plugin that easily adds accessible play/pause buttons to animated GIFs.](https://github.com/adamchaboryk/gifa11y)
 - [jeffsikes/mastodon-featured-profiles - A streamlined tool for easier management of your featured profiles.](https://github.com/jeffsikes/mastodon-featured-profiles)
-- [tiagorangel1/cap - Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work](https://github.com/tiagorangel1/cap)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
