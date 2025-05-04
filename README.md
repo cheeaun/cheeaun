@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [argosopentech/argos-translate - Open-source offline translation library written in Python](https://github.com/argosopentech/argos-translate)
 - [vercel/ai - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ](https://github.com/vercel/ai)
 - [BDX-town/elk - A nimble Akkoma web client](https://github.com/BDX-town/elk)
 - [s414june/glowrea - 光景，讓Mastodon景致——如光流動](https://github.com/s414june/glowrea)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wipfli/maplibre-gl-complex-text - Render complex text with Harfbuzz in MapLibre GL JS through the RTL plugin hook](https://github.com/wipfli/maplibre-gl-complex-text)
 - [mkljczk/url-purify - A fork of ClearURLs with the goal of turning it into a reusable library](https://github.com/mkljczk/url-purify)
 - [ihugang/ocrtool-mcp - MCP OCR module using macOS Vision framework](https://github.com/ihugang/ocrtool-mcp)
-- [adamchaboryk/gifa11y - Gifa11y is a customizable vanilla javascript plugin that easily adds accessible play/pause buttons to animated GIFs.](https://github.com/adamchaboryk/gifa11y)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
