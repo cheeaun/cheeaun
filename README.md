@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dolanmiu/docx - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.](https://github.com/dolanmiu/docx)
 - [argosopentech/argos-translate - Open-source offline translation library written in Python](https://github.com/argosopentech/argos-translate)
 - [vercel/ai - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ](https://github.com/vercel/ai)
 - [BDX-town/elk - A nimble Akkoma web client](https://github.com/BDX-town/elk)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [woodpecker-ci/woodpecker - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.](https://github.com/woodpecker-ci/woodpecker)
 - [wipfli/maplibre-gl-complex-text - Render complex text with Harfbuzz in MapLibre GL JS through the RTL plugin hook](https://github.com/wipfli/maplibre-gl-complex-text)
 - [mkljczk/url-purify - A fork of ClearURLs with the goal of turning it into a reusable library](https://github.com/mkljczk/url-purify)
-- [ihugang/ocrtool-mcp - MCP OCR module using macOS Vision framework](https://github.com/ihugang/ocrtool-mcp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
