@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/unhead - The full stack <head> package for any framework.](https://github.com/unjs/unhead)
 - [VERT-sh/VERT - The next-generation file converter. Open source, fully local* and free forever.](https://github.com/VERT-sh/VERT)
 - [lukasbach/headless-tree - The definitive tree component for the Web](https://github.com/lukasbach/headless-tree)
 - [liveblocks/frimousse - A lightweight, unstyled, and composable emoji picker for React.](https://github.com/liveblocks/frimousse)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [h3js/srvx - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.](https://github.com/h3js/srvx)
 - [xdadda/mini-gl - webgl image editing library with filters and effects ](https://github.com/xdadda/mini-gl)
 - [ioriayane/Hagoromo - This is a multi-column Bluesky client.](https://github.com/ioriayane/Hagoromo)
-- [nmattia/quad-shader - Zero-deps library for creating WebGL-based applications using Vite and TypeScript](https://github.com/nmattia/quad-shader)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
