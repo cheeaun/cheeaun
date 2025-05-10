@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [VERT-sh/VERT - The next-generation file converter. Open source, fully local* and free forever.](https://github.com/VERT-sh/VERT)
+- [lukasbach/headless-tree - The definitive tree component for the Web](https://github.com/lukasbach/headless-tree)
+- [liveblocks/frimousse - A lightweight, unstyled, and composable emoji picker for React.](https://github.com/liveblocks/frimousse)
 - [dolanmiu/docx - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.](https://github.com/dolanmiu/docx)
 - [argosopentech/argos-translate - Open-source offline translation library written in Python](https://github.com/argosopentech/argos-translate)
 - [vercel/ai - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ](https://github.com/vercel/ai)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [xdadda/mini-gl - webgl image editing library with filters and effects ](https://github.com/xdadda/mini-gl)
 - [ioriayane/Hagoromo - This is a multi-column Bluesky client.](https://github.com/ioriayane/Hagoromo)
 - [nmattia/quad-shader - Zero-deps library for creating WebGL-based applications using Vite and TypeScript](https://github.com/nmattia/quad-shader)
-- [woodpecker-ci/woodpecker - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.](https://github.com/woodpecker-ci/woodpecker)
-- [wipfli/maplibre-gl-complex-text - Render complex text with Harfbuzz in MapLibre GL JS through the RTL plugin hook](https://github.com/wipfli/maplibre-gl-complex-text)
-- [mkljczk/url-purify - A fork of ClearURLs with the goal of turning it into a reusable library](https://github.com/mkljczk/url-purify)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
