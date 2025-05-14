@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dmotz/trystero - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase](https://github.com/dmotz/trystero)
+- [kpdecker/jsdiff - A javascript text differencing implementation.](https://github.com/kpdecker/jsdiff)
+- [hyparam/hyparquet - parquet file parser for javascript](https://github.com/hyparam/hyparquet)
+- [gitbrent/PptxGenJS - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.](https://github.com/gitbrent/PptxGenJS)
+- [macieklamberski/feedsmith - Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.](https://github.com/macieklamberski/feedsmith)
 - [devsgowhere/devsgowhere](https://github.com/devsgowhere/devsgowhere)
 - [alienzhou/giframe - extract the first frame in GIF without reading whole bytes,  support both browser and nodejs  📸](https://github.com/alienzhou/giframe)
 - [unjs/unhead - The full stack <head> package for any framework.](https://github.com/unjs/unhead)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [argosopentech/argos-translate - Open-source offline translation library written in Python](https://github.com/argosopentech/argos-translate)
 - [vercel/ai - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ](https://github.com/vercel/ai)
 - [BDX-town/elk - A nimble Akkoma web client](https://github.com/BDX-town/elk)
-- [s414june/glowrea - 光景，讓Mastodon景致——如光流動](https://github.com/s414june/glowrea)
-- [rbozan/animated-emojis-rs - Noto Animated emojis in Rust](https://github.com/rbozan/animated-emojis-rs)
-- [tirr-c/jxl-oxide - Pure Rust implementation of JPEG XL decoder](https://github.com/tirr-c/jxl-oxide)
-- [micr0-dev/Altbot - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio.](https://github.com/micr0-dev/Altbot)
-- [h3js/srvx - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.](https://github.com/h3js/srvx)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
