@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [modelcontextprotocol/servers - Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
 - [dmotz/trystero - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase](https://github.com/dmotz/trystero)
 - [kpdecker/jsdiff - A javascript text differencing implementation.](https://github.com/kpdecker/jsdiff)
 - [hyparam/hyparquet - parquet file parser for javascript](https://github.com/hyparam/hyparquet)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dolanmiu/docx - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.](https://github.com/dolanmiu/docx)
 - [argosopentech/argos-translate - Open-source offline translation library written in Python](https://github.com/argosopentech/argos-translate)
 - [vercel/ai - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ](https://github.com/vercel/ai)
-- [BDX-town/elk - A nimble Akkoma web client](https://github.com/BDX-town/elk)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
