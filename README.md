@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [billorcutt/i_dropped_my_phone_the_screen_cracked - web audio, cracked.](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 - [punkpeye/awesome-mcp-servers - A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [HelloCSV/HelloCSV - https://hellocsv.github.io/HelloCSV/](https://github.com/HelloCSV/HelloCSV)
 - [hunvreus/basecoat - A components library built with Tailwind CSS that works with any web stack.](https://github.com/hunvreus/basecoat)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [alienzhou/giframe - extract the first frame in GIF without reading whole bytes,  support both browser and nodejs  📸](https://github.com/alienzhou/giframe)
 - [unjs/unhead - The full stack <head> package for any framework.](https://github.com/unjs/unhead)
 - [VERT-sh/VERT - The next-generation file converter. Open source, fully local* and free forever.](https://github.com/VERT-sh/VERT)
-- [lukasbach/headless-tree - The definitive tree component for the Web](https://github.com/lukasbach/headless-tree)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
