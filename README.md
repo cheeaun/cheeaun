@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [altcha-org/altcha - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.](https://github.com/altcha-org/altcha)
+- [reiver/fediverse-icons - Free icons for Fediverse](https://github.com/reiver/fediverse-icons)
 - [billorcutt/i_dropped_my_phone_the_screen_cracked - web audio, cracked.](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 - [punkpeye/awesome-mcp-servers - A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [HelloCSV/HelloCSV - https://hellocsv.github.io/HelloCSV/](https://github.com/HelloCSV/HelloCSV)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [macieklamberski/feedsmith - Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.](https://github.com/macieklamberski/feedsmith)
 - [devsgowhere/devsgowhere](https://github.com/devsgowhere/devsgowhere)
 - [alienzhou/giframe - extract the first frame in GIF without reading whole bytes,  support both browser and nodejs  📸](https://github.com/alienzhou/giframe)
-- [unjs/unhead - The full stack <head> package for any framework.](https://github.com/unjs/unhead)
-- [VERT-sh/VERT - The next-generation file converter. Open source, fully local* and free forever.](https://github.com/VERT-sh/VERT)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
