@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [punkpeye/awesome-mcp-servers - A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
+- [HelloCSV/HelloCSV - https://hellocsv.github.io/HelloCSV/](https://github.com/HelloCSV/HelloCSV)
+- [hunvreus/basecoat - A components library built with Tailwind CSS that works with any web stack.](https://github.com/hunvreus/basecoat)
+- [mozilla-firefox/firefox - The official repository of Mozilla's Firefox web browser.](https://github.com/mozilla-firefox/firefox)
 - [modelcontextprotocol/servers - Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
 - [dmotz/trystero - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase](https://github.com/dmotz/trystero)
 - [kpdecker/jsdiff - A javascript text differencing implementation.](https://github.com/kpdecker/jsdiff)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unjs/unhead - The full stack <head> package for any framework.](https://github.com/unjs/unhead)
 - [VERT-sh/VERT - The next-generation file converter. Open source, fully local* and free forever.](https://github.com/VERT-sh/VERT)
 - [lukasbach/headless-tree - The definitive tree component for the Web](https://github.com/lukasbach/headless-tree)
-- [liveblocks/frimousse - A lightweight, unstyled, and composable emoji picker for React.](https://github.com/liveblocks/frimousse)
-- [dolanmiu/docx - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.](https://github.com/dolanmiu/docx)
-- [argosopentech/argos-translate - Open-source offline translation library written in Python](https://github.com/argosopentech/argos-translate)
-- [vercel/ai - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ](https://github.com/vercel/ai)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
