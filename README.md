@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [xtool-org/xtool - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.](https://github.com/xtool-org/xtool)
+- [rimu/pdqhash-python - Python bindings for Facebook's PDQ hash, with REST API](https://github.com/rimu/pdqhash-python)
 - [remsky/Kokoro-FastAPI - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching](https://github.com/remsky/Kokoro-FastAPI)
 - [vcms-io/solidis - High-performance, SOLID-structured RESP client for Redis and other RESP-compatible servers](https://github.com/vcms-io/solidis)
 - [altcha-org/altcha - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.](https://github.com/altcha-org/altcha)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dmotz/trystero - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase](https://github.com/dmotz/trystero)
 - [kpdecker/jsdiff - A javascript text differencing implementation.](https://github.com/kpdecker/jsdiff)
 - [hyparam/hyparquet - parquet file parser for javascript](https://github.com/hyparam/hyparquet)
-- [gitbrent/PptxGenJS - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.](https://github.com/gitbrent/PptxGenJS)
-- [macieklamberski/feedsmith - Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.](https://github.com/macieklamberski/feedsmith)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
