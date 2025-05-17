@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [remsky/Kokoro-FastAPI - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching](https://github.com/remsky/Kokoro-FastAPI)
+- [vcms-io/solidis - High-performance, SOLID-structured RESP client for Redis and other RESP-compatible servers](https://github.com/vcms-io/solidis)
 - [altcha-org/altcha - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.](https://github.com/altcha-org/altcha)
 - [reiver/fediverse-icons - Free icons for Fediverse](https://github.com/reiver/fediverse-icons)
 - [billorcutt/i_dropped_my_phone_the_screen_cracked - web audio, cracked.](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hyparam/hyparquet - parquet file parser for javascript](https://github.com/hyparam/hyparquet)
 - [gitbrent/PptxGenJS - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.](https://github.com/gitbrent/PptxGenJS)
 - [macieklamberski/feedsmith - Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.](https://github.com/macieklamberski/feedsmith)
-- [devsgowhere/devsgowhere](https://github.com/devsgowhere/devsgowhere)
-- [alienzhou/giframe - extract the first frame in GIF without reading whole bytes,  support both browser and nodejs  📸](https://github.com/alienzhou/giframe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
