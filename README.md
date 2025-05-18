@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [hiroi-sora/Umi-OCR - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。](https://github.com/hiroi-sora/Umi-OCR)
+- [scalar/scalar - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support](https://github.com/scalar/scalar)
+- [kuronekony4n/astream-extension - Download: https://astream-ext.pages.dev/](https://github.com/kuronekony4n/astream-extension)
+- [shiyiya/oplayer - :zap: Another HTM5 video player.](https://github.com/shiyiya/oplayer)
 - [xtool-org/xtool - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.](https://github.com/xtool-org/xtool)
 - [rimu/pdqhash-python - Python bindings for Facebook's PDQ hash, with REST API](https://github.com/rimu/pdqhash-python)
 - [remsky/Kokoro-FastAPI - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching](https://github.com/remsky/Kokoro-FastAPI)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [HelloCSV/HelloCSV - https://hellocsv.github.io/HelloCSV/](https://github.com/HelloCSV/HelloCSV)
 - [hunvreus/basecoat - A components library built with Tailwind CSS that works with any web stack.](https://github.com/hunvreus/basecoat)
 - [mozilla-firefox/firefox - The official repository of Mozilla's Firefox web browser.](https://github.com/mozilla-firefox/firefox)
-- [modelcontextprotocol/servers - Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
-- [dmotz/trystero - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase](https://github.com/dmotz/trystero)
-- [kpdecker/jsdiff - A javascript text differencing implementation.](https://github.com/kpdecker/jsdiff)
-- [hyparam/hyparquet - parquet file parser for javascript](https://github.com/hyparam/hyparquet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
