@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ruifigueira/playwright-crx - Playwright for chrome extensions](https://github.com/ruifigueira/playwright-crx)
 - [fedidb/fedidb-nuxt - the next generation frontend for FediDB.com](https://github.com/fedidb/fedidb-nuxt)
 - [hiroi-sora/Umi-OCR - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。](https://github.com/hiroi-sora/Umi-OCR)
 - [scalar/scalar - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support](https://github.com/scalar/scalar)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [billorcutt/i_dropped_my_phone_the_screen_cracked - web audio, cracked.](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 - [punkpeye/awesome-mcp-servers - A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [HelloCSV/HelloCSV - https://hellocsv.github.io/HelloCSV/](https://github.com/HelloCSV/HelloCSV)
-- [hunvreus/basecoat - A components library built with Tailwind CSS that works with any web stack.](https://github.com/hunvreus/basecoat)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
