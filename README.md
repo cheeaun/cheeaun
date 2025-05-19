@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [placemark/betterknown - modern parser & stringifier for WKT, EWKT, and GeoJSON](https://github.com/placemark/betterknown)
+- [gkjohnson/three-geojson - Three.js shape loaders for GeoJSON and WKT formats](https://github.com/gkjohnson/three-geojson)
 - [rust-lang/rustup - The Rust toolchain installer](https://github.com/rust-lang/rustup)
 - [skift-org/vaev - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine](https://github.com/skift-org/vaev)
 - [ruifigueira/playwright-crx - Playwright for chrome extensions](https://github.com/ruifigueira/playwright-crx)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [remsky/Kokoro-FastAPI - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching](https://github.com/remsky/Kokoro-FastAPI)
 - [vcms-io/solidis - High-performance, SOLID-structured RESP client for Redis and other RESP-compatible servers](https://github.com/vcms-io/solidis)
 - [altcha-org/altcha - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.](https://github.com/altcha-org/altcha)
-- [reiver/fediverse-icons - Free icons for Fediverse](https://github.com/reiver/fediverse-icons)
-- [billorcutt/i_dropped_my_phone_the_screen_cracked - web audio, cracked.](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
