@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rust-lang/rustup - The Rust toolchain installer](https://github.com/rust-lang/rustup)
 - [skift-org/vaev - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine](https://github.com/skift-org/vaev)
 - [ruifigueira/playwright-crx - Playwright for chrome extensions](https://github.com/ruifigueira/playwright-crx)
 - [fedidb/fedidb-nuxt - the next generation frontend for FediDB.com](https://github.com/fedidb/fedidb-nuxt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [altcha-org/altcha - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.](https://github.com/altcha-org/altcha)
 - [reiver/fediverse-icons - Free icons for Fediverse](https://github.com/reiver/fediverse-icons)
 - [billorcutt/i_dropped_my_phone_the_screen_cracked - web audio, cracked.](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
-- [punkpeye/awesome-mcp-servers - A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
