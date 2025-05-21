@@ -27,8 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/NLWeb - Natural Language Web](https://github.com/microsoft/NLWeb)
 - [reearth/resium - React components for 🌏 Cesium](https://github.com/reearth/resium)
-- [sdegutis/90s.dev](https://github.com/sdegutis/90s.dev)
 - [a-viv-a/deer-social - fork of social app with toggles for niche features](https://github.com/a-viv-a/deer-social)
 - [kscalelabs/kbot - The K-Scale Robot](https://github.com/kscalelabs/kbot)
 - [placemark/betterknown - modern parser & stringifier for WKT, EWKT, and GeoJSON](https://github.com/placemark/betterknown)
