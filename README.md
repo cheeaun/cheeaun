@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [reearth/resium - React components for 🌏 Cesium](https://github.com/reearth/resium)
+- [sdegutis/90s.dev](https://github.com/sdegutis/90s.dev)
 - [a-viv-a/deer-social - fork of social app with toggles for niche features](https://github.com/a-viv-a/deer-social)
 - [kscalelabs/kbot - The K-Scale Robot](https://github.com/kscalelabs/kbot)
 - [placemark/betterknown - modern parser & stringifier for WKT, EWKT, and GeoJSON](https://github.com/placemark/betterknown)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kuronekony4n/astream-extension - Download: https://astream-ext.pages.dev/](https://github.com/kuronekony4n/astream-extension)
 - [shiyiya/oplayer - :zap: Another HTM5 video player.](https://github.com/shiyiya/oplayer)
 - [xtool-org/xtool - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.](https://github.com/xtool-org/xtool)
-- [rimu/pdqhash-python - Python bindings for Facebook's PDQ hash, with REST API](https://github.com/rimu/pdqhash-python)
-- [remsky/Kokoro-FastAPI - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching](https://github.com/remsky/Kokoro-FastAPI)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
