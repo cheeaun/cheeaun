@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [diffusionstudio/core - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.](https://github.com/diffusionstudio/core)
 - [microsoft/NLWeb - Natural Language Web](https://github.com/microsoft/NLWeb)
 - [reearth/resium - React components for 🌏 Cesium](https://github.com/reearth/resium)
 - [a-viv-a/deer-social - fork of social app with toggles for niche features](https://github.com/a-viv-a/deer-social)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [scalar/scalar - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support](https://github.com/scalar/scalar)
 - [kuronekony4n/astream-extension - Download: https://astream-ext.pages.dev/](https://github.com/kuronekony4n/astream-extension)
 - [shiyiya/oplayer - :zap: Another HTM5 video player.](https://github.com/shiyiya/oplayer)
-- [xtool-org/xtool - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.](https://github.com/xtool-org/xtool)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
