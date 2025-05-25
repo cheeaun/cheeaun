@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [orbitalmartian8/orbitfore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/orbitalmartian8/orbitfore)
 - [importantimport/hatsu - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.](https://github.com/importantimport/hatsu)
 - [sqliteai/sqlite-js - Create custom SQLite functions in JavaScript. Extend your database with scalars, aggregates, window functions, and collations directly in JavaScript.](https://github.com/sqliteai/sqlite-js)
 - [diffusionstudio/core - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.](https://github.com/diffusionstudio/core)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ruifigueira/playwright-crx - Playwright for chrome extensions](https://github.com/ruifigueira/playwright-crx)
 - [fedidb/fedidb-nuxt - the next generation frontend for FediDB.com](https://github.com/fedidb/fedidb-nuxt)
 - [hiroi-sora/Umi-OCR - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。](https://github.com/hiroi-sora/Umi-OCR)
-- [scalar/scalar - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support](https://github.com/scalar/scalar)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
