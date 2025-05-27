@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [BenjaminAster/CSS-Minecraft - A Minecraft clone made with pure HTML & CSS – no JavaScript.](https://github.com/BenjaminAster/CSS-Minecraft)
 - [garden-co/jazz - Toolkit for backendless apps](https://github.com/garden-co/jazz)
 - [orbitalmartian8/orbitfore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/orbitalmartian8/orbitfore)
 - [importantimport/hatsu - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.](https://github.com/importantimport/hatsu)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rust-lang/rustup - The Rust toolchain installer](https://github.com/rust-lang/rustup)
 - [skift-org/vaev - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine](https://github.com/skift-org/vaev)
 - [ruifigueira/playwright-crx - Playwright for chrome extensions](https://github.com/ruifigueira/playwright-crx)
-- [fedidb/fedidb-nuxt - the next generation frontend for FediDB.com](https://github.com/fedidb/fedidb-nuxt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
