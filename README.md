@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google-ai-edge/gallery - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.](https://github.com/google-ai-edge/gallery)
 - [BenjaminAster/CSS-Minecraft - A Minecraft clone made with pure HTML & CSS – no JavaScript.](https://github.com/BenjaminAster/CSS-Minecraft)
 - [garden-co/jazz - Toolkit for backendless apps](https://github.com/garden-co/jazz)
 - [orbitalmartian8/orbitfore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/orbitalmartian8/orbitfore)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gkjohnson/three-geojson - Three.js shape loaders for GeoJSON and WKT formats](https://github.com/gkjohnson/three-geojson)
 - [rust-lang/rustup - The Rust toolchain installer](https://github.com/rust-lang/rustup)
 - [skift-org/vaev - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine](https://github.com/skift-org/vaev)
-- [ruifigueira/playwright-crx - Playwright for chrome extensions](https://github.com/ruifigueira/playwright-crx)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
