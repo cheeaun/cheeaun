@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [axa-group/oauth2-mock-server - A development and test oriented OAuth2 mock server](https://github.com/axa-group/oauth2-mock-server)
+- [kepano/defuddle - Extract the main content from web pages.](https://github.com/kepano/defuddle)
+- [ivnvxd/arc-export - Export pinned Arc Browser tabs for importing bookmarks into other browsers](https://github.com/ivnvxd/arc-export)
 - [google-ai-edge/gallery - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.](https://github.com/google-ai-edge/gallery)
 - [BenjaminAster/CSS-Minecraft - A Minecraft clone made with pure HTML & CSS – no JavaScript.](https://github.com/BenjaminAster/CSS-Minecraft)
 - [garden-co/jazz - Toolkit for backendless apps](https://github.com/garden-co/jazz)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [a-viv-a/deer-social - fork of social app with toggles for niche features](https://github.com/a-viv-a/deer-social)
 - [kscalelabs/kbot - The K-Scale Robot](https://github.com/kscalelabs/kbot)
 - [placemark/betterknown - modern parser & stringifier for WKT, EWKT, and GeoJSON](https://github.com/placemark/betterknown)
-- [gkjohnson/three-geojson - Three.js shape loaders for GeoJSON and WKT formats](https://github.com/gkjohnson/three-geojson)
-- [rust-lang/rustup - The Rust toolchain installer](https://github.com/rust-lang/rustup)
-- [skift-org/vaev - 🌊 A lightning-fast, lightweight, and secure HTML/CSS engine](https://github.com/skift-org/vaev)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
