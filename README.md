@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [social-web-foundation/acct-handler - Experiment with the acct: URL format](https://github.com/social-web-foundation/acct-handler)
+- [social-web-foundation/ap-components - Web components for ActivityPub](https://github.com/social-web-foundation/ap-components)
 - [axa-group/oauth2-mock-server - A development and test oriented OAuth2 mock server](https://github.com/axa-group/oauth2-mock-server)
 - [kepano/defuddle - Extract the main content from web pages.](https://github.com/kepano/defuddle)
 - [ivnvxd/arc-export - Export pinned Arc Browser tabs for importing bookmarks into other browsers](https://github.com/ivnvxd/arc-export)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [microsoft/NLWeb - Natural Language Web](https://github.com/microsoft/NLWeb)
 - [reearth/resium - React components for 🌏 Cesium](https://github.com/reearth/resium)
 - [a-viv-a/deer-social - fork of social app with toggles for niche features](https://github.com/a-viv-a/deer-social)
-- [kscalelabs/kbot - The K-Scale Robot](https://github.com/kscalelabs/kbot)
-- [placemark/betterknown - modern parser & stringifier for WKT, EWKT, and GeoJSON](https://github.com/placemark/betterknown)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
