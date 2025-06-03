@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [michelcrypt4d4mus/fedialgo_demo_app_foryoufeed - Demo app to show off fedialgo, a customizable algorithm for your Mastodon timeline that is made of awesome.](https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed)
+- [michelcrypt4d4mus/fedialgo - A customizable algorithm to shape your Mastodon timeline.](https://github.com/michelcrypt4d4mus/fedialgo)
 - [social-web-foundation/acct-handler - Experiment with the acct: URL format](https://github.com/social-web-foundation/acct-handler)
 - [social-web-foundation/ap-components - Web components for ActivityPub](https://github.com/social-web-foundation/ap-components)
 - [axa-group/oauth2-mock-server - A development and test oriented OAuth2 mock server](https://github.com/axa-group/oauth2-mock-server)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sqliteai/sqlite-js - Create custom SQLite functions in JavaScript. Extend your database with scalars, aggregates, window functions, and collations directly in JavaScript.](https://github.com/sqliteai/sqlite-js)
 - [diffusionstudio/core - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.](https://github.com/diffusionstudio/core)
 - [microsoft/NLWeb - Natural Language Web](https://github.com/microsoft/NLWeb)
-- [reearth/resium - React components for 🌏 Cesium](https://github.com/reearth/resium)
-- [a-viv-a/deer-social - fork of social app with toggles for niche features](https://github.com/a-viv-a/deer-social)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
