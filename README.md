@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [abraham/mastodon-openapi - Mastodon API OpenAPI spec parsed from the Mastodon markdown docs.](https://github.com/abraham/mastodon-openapi)
 - [neon443/AirAP - airplay to an ios device](https://github.com/neon443/AirAP)
 - [michelcrypt4d4mus/fedialgo_demo_app_foryoufeed - Demo app to show off fedialgo, a customizable algorithm for your Mastodon timeline that is made of awesome.](https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed)
 - [michelcrypt4d4mus/fedialgo - A customizable algorithm to shape your Mastodon timeline.](https://github.com/michelcrypt4d4mus/fedialgo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [orbitalmartian8/orbitfore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/orbitalmartian8/orbitfore)
 - [importantimport/hatsu - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.](https://github.com/importantimport/hatsu)
 - [sqliteai/sqlite-js - Create custom SQLite functions in JavaScript. Extend your database with scalars, aggregates, window functions, and collations directly in JavaScript.](https://github.com/sqliteai/sqlite-js)
-- [diffusionstudio/core - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.](https://github.com/diffusionstudio/core)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
