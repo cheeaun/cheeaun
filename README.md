@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [good-lly/s3mini - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq](https://github.com/good-lly/s3mini)
+- [lucasromerodb/liquid-glass-effect-macos - Demo here](https://github.com/lucasromerodb/liquid-glass-effect-macos)
+- [rdev/liquid-glass-react - Apple's Liquid Glass effect for React](https://github.com/rdev/liquid-glass-react)
 - [photostructure/tz-lookup - JavaScript Library for Timezone Lookup by Location](https://github.com/photostructure/tz-lookup)
 - [abraham/mastodon-openapi - Mastodon API OpenAPI spec parsed from the Mastodon markdown docs.](https://github.com/abraham/mastodon-openapi)
 - [neon443/AirAP - airplay to an ios device](https://github.com/neon443/AirAP)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ivnvxd/arc-export - Export pinned Arc Browser tabs for importing bookmarks into other browsers](https://github.com/ivnvxd/arc-export)
 - [google-ai-edge/gallery - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.](https://github.com/google-ai-edge/gallery)
 - [BenjaminAster/CSS-Minecraft - A Minecraft clone made with pure HTML & CSS – no JavaScript.](https://github.com/BenjaminAster/CSS-Minecraft)
-- [garden-co/jazz - Toolkit for backendless apps](https://github.com/garden-co/jazz)
-- [orbitalmartian8/orbitfore - A somewhat unstable fediverse client with better support for Akkoma and glitch-soc instances.](https://github.com/orbitalmartian8/orbitfore)
-- [importantimport/hatsu - 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.](https://github.com/importantimport/hatsu)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
