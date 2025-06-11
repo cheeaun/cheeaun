@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kenrick95/ikuyo - Plan your next trip!](https://github.com/kenrick95/ikuyo)
 - [good-lly/s3mini - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq](https://github.com/good-lly/s3mini)
 - [lucasromerodb/liquid-glass-effect-macos - Demo here](https://github.com/lucasromerodb/liquid-glass-effect-macos)
 - [rdev/liquid-glass-react - Apple's Liquid Glass effect for React](https://github.com/rdev/liquid-glass-react)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kepano/defuddle - Extract the main content from web pages.](https://github.com/kepano/defuddle)
 - [ivnvxd/arc-export - Export pinned Arc Browser tabs for importing bookmarks into other browsers](https://github.com/ivnvxd/arc-export)
 - [google-ai-edge/gallery - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.](https://github.com/google-ai-edge/gallery)
-- [BenjaminAster/CSS-Minecraft - A Minecraft clone made with pure HTML & CSS – no JavaScript.](https://github.com/BenjaminAster/CSS-Minecraft)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
