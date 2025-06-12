@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sparkjsdev/spark - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js](https://github.com/sparkjsdev/spark)
 - [kenrick95/ikuyo - Plan your next trip!](https://github.com/kenrick95/ikuyo)
 - [good-lly/s3mini - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq](https://github.com/good-lly/s3mini)
 - [lucasromerodb/liquid-glass-effect-macos - Demo here](https://github.com/lucasromerodb/liquid-glass-effect-macos)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [axa-group/oauth2-mock-server - A development and test oriented OAuth2 mock server](https://github.com/axa-group/oauth2-mock-server)
 - [kepano/defuddle - Extract the main content from web pages.](https://github.com/kepano/defuddle)
 - [ivnvxd/arc-export - Export pinned Arc Browser tabs for importing bookmarks into other browsers](https://github.com/ivnvxd/arc-export)
-- [google-ai-edge/gallery - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.](https://github.com/google-ai-edge/gallery)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
