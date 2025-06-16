@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [MobilityData/gbfs - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.     Maintained by MobilityData](https://github.com/MobilityData/gbfs)
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass)
 - [irfanhakim-as/mango - Mastodon bot module for Django](https://github.com/irfanhakim-as/mango)
 - [json-schema-org/json-schema-spec - The JSON Schema specification](https://github.com/json-schema-org/json-schema-spec)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [michelcrypt4d4mus/fedialgo_demo_app_foryoufeed - Demo app to show off fedialgo, a customizable algorithm for your Mastodon timeline that is made of awesome.](https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed)
 - [michelcrypt4d4mus/fedialgo - A customizable algorithm to shape your Mastodon timeline.](https://github.com/michelcrypt4d4mus/fedialgo)
 - [social-web-foundation/acct-handler - Experiment with the acct: URL format](https://github.com/social-web-foundation/acct-handler)
-- [social-web-foundation/ap-components - Web components for ActivityPub](https://github.com/social-web-foundation/ap-components)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
