@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shuding/liquid-glass](https://github.com/shuding/liquid-glass)
 - [irfanhakim-as/mango - Mastodon bot module for Django](https://github.com/irfanhakim-as/mango)
 - [json-schema-org/json-schema-spec - The JSON Schema specification](https://github.com/json-schema-org/json-schema-spec)
 - [sparkjsdev/spark - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js](https://github.com/sparkjsdev/spark)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [michelcrypt4d4mus/fedialgo - A customizable algorithm to shape your Mastodon timeline.](https://github.com/michelcrypt4d4mus/fedialgo)
 - [social-web-foundation/acct-handler - Experiment with the acct: URL format](https://github.com/social-web-foundation/acct-handler)
 - [social-web-foundation/ap-components - Web components for ActivityPub](https://github.com/social-web-foundation/ap-components)
-- [axa-group/oauth2-mock-server - A development and test oriented OAuth2 mock server](https://github.com/axa-group/oauth2-mock-server)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
