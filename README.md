@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jordanbaird/Ice - Powerful menu bar manager for macOS](https://github.com/jordanbaird/Ice)
 - [MobilityData/gbfs - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.     Maintained by MobilityData](https://github.com/MobilityData/gbfs)
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass)
 - [irfanhakim-as/mango - Mastodon bot module for Django](https://github.com/irfanhakim-as/mango)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [neon443/AirAP - airplay to an ios device](https://github.com/neon443/AirAP)
 - [michelcrypt4d4mus/fedialgo_demo_app_foryoufeed - Demo app to show off fedialgo, a customizable algorithm for your Mastodon timeline that is made of awesome.](https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed)
 - [michelcrypt4d4mus/fedialgo - A customizable algorithm to shape your Mastodon timeline.](https://github.com/michelcrypt4d4mus/fedialgo)
-- [social-web-foundation/acct-handler - Experiment with the acct: URL format](https://github.com/social-web-foundation/acct-handler)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
