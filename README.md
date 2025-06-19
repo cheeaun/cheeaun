@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/automd - 🤖 Automated markdown maintainer](https://github.com/unjs/automd)
 - [zumerlab/snapdom - snapDOM captures HTML elements to images with exceptional speed and accuracy.](https://github.com/zumerlab/snapdom)
 - [jordanbaird/Ice - Powerful menu bar manager for macOS](https://github.com/jordanbaird/Ice)
 - [MobilityData/gbfs - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.     Maintained by MobilityData](https://github.com/MobilityData/gbfs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [photostructure/tz-lookup - JavaScript Library for Timezone Lookup by Location](https://github.com/photostructure/tz-lookup)
 - [abraham/mastodon-openapi - Mastodon API OpenAPI spec parsed from the Mastodon markdown docs.](https://github.com/abraham/mastodon-openapi)
 - [neon443/AirAP - airplay to an ios device](https://github.com/neon443/AirAP)
-- [michelcrypt4d4mus/fedialgo_demo_app_foryoufeed - Demo app to show off fedialgo, a customizable algorithm for your Mastodon timeline that is made of awesome.](https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
