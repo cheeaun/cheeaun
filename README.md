@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [geomatico/maplibre-cog-protocol - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS](https://github.com/geomatico/maplibre-cog-protocol)
 - [unjs/automd - 🤖 Automated markdown maintainer](https://github.com/unjs/automd)
 - [zumerlab/snapdom - snapDOM captures HTML elements to images with exceptional speed and accuracy.](https://github.com/zumerlab/snapdom)
 - [jordanbaird/Ice - Powerful menu bar manager for macOS](https://github.com/jordanbaird/Ice)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rdev/liquid-glass-react - Apple's Liquid Glass effect for React](https://github.com/rdev/liquid-glass-react)
 - [photostructure/tz-lookup - JavaScript Library for Timezone Lookup by Location](https://github.com/photostructure/tz-lookup)
 - [abraham/mastodon-openapi - Mastodon API OpenAPI spec parsed from the Mastodon markdown docs.](https://github.com/abraham/mastodon-openapi)
-- [neon443/AirAP - airplay to an ios device](https://github.com/neon443/AirAP)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
