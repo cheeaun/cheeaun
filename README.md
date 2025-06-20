@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [xitanggg/emoogle-emoji-picker - 🐶The emoji picker React component created and used by Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-picker)
 - [xitanggg/emoogle-emoji-search-engine - 🔍The best emoji search engine for finding emojis. Created by and powers Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-search-engine)
 - [badrex/emojeez - AI-powered semantic search engine for emojis in 50+ languages, developed in Python](https://github.com/badrex/emojeez)
 - [geomatico/maplibre-cog-protocol - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS](https://github.com/geomatico/maplibre-cog-protocol)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kenrick95/ikuyo - Plan your next trip!](https://github.com/kenrick95/ikuyo)
 - [good-lly/s3mini - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq](https://github.com/good-lly/s3mini)
 - [lucasromerodb/liquid-glass-effect-macos - Demo here](https://github.com/lucasromerodb/liquid-glass-effect-macos)
-- [rdev/liquid-glass-react - Apple's Liquid Glass effect for React](https://github.com/rdev/liquid-glass-react)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
