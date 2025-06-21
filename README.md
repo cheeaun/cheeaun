@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Flomp/wanderer - wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
 - [ebbejan/tux-racer-js - Play Tux Racer in your browser!](https://github.com/ebbejan/tux-racer-js)
 - [xitanggg/emoogle-emoji-picker - 🐶The emoji picker React component created and used by Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-picker)
 - [xitanggg/emoogle-emoji-search-engine - 🔍The best emoji search engine for finding emojis. Created by and powers Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-search-engine)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [json-schema-org/json-schema-spec - The JSON Schema specification](https://github.com/json-schema-org/json-schema-spec)
 - [sparkjsdev/spark - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js](https://github.com/sparkjsdev/spark)
 - [kenrick95/ikuyo - Plan your next trip!](https://github.com/kenrick95/ikuyo)
-- [good-lly/s3mini - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq](https://github.com/good-lly/s3mini)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
