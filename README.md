@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [qwerasd205/AnnotationMono - A lovingly crafted handwriting-style monospace font.](https://github.com/qwerasd205/AnnotationMono)
+- [sursly/sono - A soft monospace variable font](https://github.com/sursly/sono)
 - [Flomp/wanderer - wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
 - [ebbejan/tux-racer-js - Play Tux Racer in your browser!](https://github.com/ebbejan/tux-racer-js)
 - [xitanggg/emoogle-emoji-picker - 🐶The emoji picker React component created and used by Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-picker)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass)
 - [irfanhakim-as/mango - Mastodon bot module for Django](https://github.com/irfanhakim-as/mango)
 - [json-schema-org/json-schema-spec - The JSON Schema specification](https://github.com/json-schema-org/json-schema-spec)
-- [sparkjsdev/spark - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js](https://github.com/sparkjsdev/spark)
-- [kenrick95/ikuyo - Plan your next trip!](https://github.com/kenrick95/ikuyo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
