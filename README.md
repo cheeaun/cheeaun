@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zeppelin-social/social-app - Zeppelin fork of https://deer.social](https://github.com/zeppelin-social/social-app)
 - [qwerasd205/AnnotationMono - A lovingly crafted handwriting-style monospace font.](https://github.com/qwerasd205/AnnotationMono)
 - [sursly/sono - A soft monospace variable font](https://github.com/sursly/sono)
 - [Flomp/wanderer - wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MobilityData/gbfs - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.     Maintained by MobilityData](https://github.com/MobilityData/gbfs)
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass)
 - [irfanhakim-as/mango - Mastodon bot module for Django](https://github.com/irfanhakim-as/mango)
-- [json-schema-org/json-schema-spec - The JSON Schema specification](https://github.com/json-schema-org/json-schema-spec)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
