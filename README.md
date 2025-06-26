@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NativeMindBrowser/NativeMindExtension - NativeMind: Your fully private, open-source, on-device AI assistant](https://github.com/NativeMindBrowser/NativeMindExtension)
 - [zeppelin-social/social-app - Zeppelin fork of https://deer.social](https://github.com/zeppelin-social/social-app)
 - [qwerasd205/AnnotationMono - A lovingly crafted handwriting-style monospace font.](https://github.com/qwerasd205/AnnotationMono)
 - [sursly/sono - A soft monospace variable font](https://github.com/sursly/sono)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jordanbaird/Ice - Powerful menu bar manager for macOS](https://github.com/jordanbaird/Ice)
 - [MobilityData/gbfs - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.     Maintained by MobilityData](https://github.com/MobilityData/gbfs)
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass)
-- [irfanhakim-as/mango - Mastodon bot module for Django](https://github.com/irfanhakim-as/mango)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
