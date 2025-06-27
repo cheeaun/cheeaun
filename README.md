@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [andreruffert/syntax-highlight-element - 👓 Syntax Highlighting using the CSS Custom Highlight API](https://github.com/andreruffert/syntax-highlight-element)
 - [NativeMindBrowser/NativeMindExtension - NativeMind: Your fully private, open-source, on-device AI assistant](https://github.com/NativeMindBrowser/NativeMindExtension)
 - [zeppelin-social/social-app - Zeppelin fork of https://deer.social](https://github.com/zeppelin-social/social-app)
 - [qwerasd205/AnnotationMono - A lovingly crafted handwriting-style monospace font.](https://github.com/qwerasd205/AnnotationMono)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zumerlab/snapdom - snapDOM captures HTML elements to images with exceptional speed and accuracy.](https://github.com/zumerlab/snapdom)
 - [jordanbaird/Ice - Powerful menu bar manager for macOS](https://github.com/jordanbaird/Ice)
 - [MobilityData/gbfs - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.     Maintained by MobilityData](https://github.com/MobilityData/gbfs)
-- [shuding/liquid-glass](https://github.com/shuding/liquid-glass)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
