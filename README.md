@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [section83/MacYTDL - A macOS GUI front-end for the YT-DLP video downloader](https://github.com/section83/MacYTDL)
+- [zenangst/KeyboardCowboy - :keyboard: The missing keyboard shortcut utility for macOS](https://github.com/zenangst/KeyboardCowboy)
 - [INSPIDE/h3j-h3t - Light H3 data formats for client side geometry generation and rendering using MapLibreGL](https://github.com/INSPIDE/h3j-h3t)
 - [wipfli/pgf-glyph-ranges - Positioned Glyph Font Glyph Ranges for MapLibre GL JS and MapLibre Native](https://github.com/wipfli/pgf-glyph-ranges)
 - [scriptscat/scriptcat - 脚本猫，一个可以执行用户脚本的浏览器扩展](https://github.com/scriptscat/scriptcat)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [xitanggg/emoogle-emoji-picker - 🐶The emoji picker React component created and used by Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-picker)
 - [xitanggg/emoogle-emoji-search-engine - 🔍The best emoji search engine for finding emojis. Created by and powers Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-search-engine)
 - [badrex/emojeez - AI-powered semantic search engine for emojis in 50+ languages, developed in Python](https://github.com/badrex/emojeez)
-- [geomatico/maplibre-cog-protocol - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS](https://github.com/geomatico/maplibre-cog-protocol)
-- [unjs/automd - 🤖 Automated markdown maintainer](https://github.com/unjs/automd)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
