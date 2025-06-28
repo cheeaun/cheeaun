@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [INSPIDE/h3j-h3t - Light H3 data formats for client side geometry generation and rendering using MapLibreGL](https://github.com/INSPIDE/h3j-h3t)
+- [wipfli/pgf-glyph-ranges - Positioned Glyph Font Glyph Ranges for MapLibre GL JS and MapLibre Native](https://github.com/wipfli/pgf-glyph-ranges)
+- [scriptscat/scriptcat - 脚本猫，一个可以执行用户脚本的浏览器扩展](https://github.com/scriptscat/scriptcat)
 - [andreruffert/syntax-highlight-element - 👓 Syntax Highlighting using the CSS Custom Highlight API](https://github.com/andreruffert/syntax-highlight-element)
 - [NativeMindBrowser/NativeMindExtension - NativeMind: Your fully private, open-source, on-device AI assistant](https://github.com/NativeMindBrowser/NativeMindExtension)
 - [zeppelin-social/social-app - Zeppelin fork of https://deer.social](https://github.com/zeppelin-social/social-app)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [badrex/emojeez - AI-powered semantic search engine for emojis in 50+ languages, developed in Python](https://github.com/badrex/emojeez)
 - [geomatico/maplibre-cog-protocol - Custom protocol to load Cloud Optimized GeoTIFFs (COG) in Maplibre GL JS](https://github.com/geomatico/maplibre-cog-protocol)
 - [unjs/automd - 🤖 Automated markdown maintainer](https://github.com/unjs/automd)
-- [zumerlab/snapdom - snapDOM captures HTML elements to images with exceptional speed and accuracy.](https://github.com/zumerlab/snapdom)
-- [jordanbaird/Ice - Powerful menu bar manager for macOS](https://github.com/jordanbaird/Ice)
-- [MobilityData/gbfs - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.     Maintained by MobilityData](https://github.com/MobilityData/gbfs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
