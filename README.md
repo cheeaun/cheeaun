@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [haydenbleasel/ultracite - The AI-ready formatter that helps you write and generate code faster.](https://github.com/haydenbleasel/ultracite)
 - [section83/MacYTDL - A macOS GUI front-end for the YT-DLP video downloader](https://github.com/section83/MacYTDL)
 - [zenangst/KeyboardCowboy - :keyboard: The missing keyboard shortcut utility for macOS](https://github.com/zenangst/KeyboardCowboy)
 - [INSPIDE/h3j-h3t - Light H3 data formats for client side geometry generation and rendering using MapLibreGL](https://github.com/INSPIDE/h3j-h3t)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ebbejan/tux-racer-js - Play Tux Racer in your browser!](https://github.com/ebbejan/tux-racer-js)
 - [xitanggg/emoogle-emoji-picker - 🐶The emoji picker React component created and used by Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-picker)
 - [xitanggg/emoogle-emoji-search-engine - 🔍The best emoji search engine for finding emojis. Created by and powers Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-search-engine)
-- [badrex/emojeez - AI-powered semantic search engine for emojis in 50+ languages, developed in Python](https://github.com/badrex/emojeez)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
