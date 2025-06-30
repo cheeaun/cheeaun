@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [eemeli/intl-pluralrules - Polyfill for Intl.PluralRules](https://github.com/eemeli/intl-pluralrules)
+- [gametorch/image_to_pixel_art_wasm - An open source "Rust ↦ WASM, k-Means Color Quantization" crate for Image-to-Pixel-Art conversions in the browser](https://github.com/gametorch/image_to_pixel_art_wasm)
 - [haydenbleasel/ultracite - The AI-ready formatter that helps you write and generate code faster.](https://github.com/haydenbleasel/ultracite)
 - [section83/MacYTDL - A macOS GUI front-end for the YT-DLP video downloader](https://github.com/section83/MacYTDL)
 - [zenangst/KeyboardCowboy - :keyboard: The missing keyboard shortcut utility for macOS](https://github.com/zenangst/KeyboardCowboy)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sursly/sono - A soft monospace variable font](https://github.com/sursly/sono)
 - [Flomp/wanderer - wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
 - [ebbejan/tux-racer-js - Play Tux Racer in your browser!](https://github.com/ebbejan/tux-racer-js)
-- [xitanggg/emoogle-emoji-picker - 🐶The emoji picker React component created and used by Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-picker)
-- [xitanggg/emoogle-emoji-search-engine - 🔍The best emoji search engine for finding emojis. Created by and powers Emoogle, the best emoji desktop app for emoji fans.](https://github.com/xitanggg/emoogle-emoji-search-engine)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
