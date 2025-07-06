@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AkshayKalose/789-Zip - A native macOS app for the 7-Zip archiving utility.](https://github.com/AkshayKalose/789-Zip)
 - [protomaps/basemaps-assets - Fonts and sprites for basemaps, hosted on GitHub Pages](https://github.com/protomaps/basemaps-assets)
 - [eemeli/intl-pluralrules - Polyfill for Intl.PluralRules](https://github.com/eemeli/intl-pluralrules)
 - [gametorch/image_to_pixel_art_wasm - An open source "Rust ↦ WASM, k-Means Color Quantization" crate for Image-to-Pixel-Art conversions in the browser](https://github.com/gametorch/image_to_pixel_art_wasm)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zeppelin-social/social-app - Zeppelin fork of https://deer.social](https://github.com/zeppelin-social/social-app)
 - [qwerasd205/AnnotationMono - A lovingly crafted handwriting-style monospace font.](https://github.com/qwerasd205/AnnotationMono)
 - [sursly/sono - A soft monospace variable font](https://github.com/sursly/sono)
-- [Flomp/wanderer - wanderer is a self-hosted trail database. Save your adventures!](https://github.com/Flomp/wanderer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
