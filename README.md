@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zen-browser/desktop - Welcome to a calmer internet](https://github.com/zen-browser/desktop)
 - [yongsk0066/css_if_logic_gate](https://github.com/yongsk0066/css_if_logic_gate)
 - [AkshayKalose/789-Zip - A native macOS app for the 7-Zip archiving utility.](https://github.com/AkshayKalose/789-Zip)
 - [protomaps/basemaps-assets - Fonts and sprites for basemaps, hosted on GitHub Pages](https://github.com/protomaps/basemaps-assets)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [andreruffert/syntax-highlight-element - 👓 Syntax Highlighting using the CSS Custom Highlight API](https://github.com/andreruffert/syntax-highlight-element)
 - [NativeMindBrowser/NativeMindExtension - NativeMind: Your fully private, open-source, on-device AI assistant](https://github.com/NativeMindBrowser/NativeMindExtension)
 - [zeppelin-social/social-app - Zeppelin fork of https://deer.social](https://github.com/zeppelin-social/social-app)
-- [qwerasd205/AnnotationMono - A lovingly crafted handwriting-style monospace font.](https://github.com/qwerasd205/AnnotationMono)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
