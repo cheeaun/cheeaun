@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Conxt/WindowGlue - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.](https://github.com/Conxt/WindowGlue)
 - [Dimillian/HyperGit - A small & fast frontend to quickly search your Github repositories and files](https://github.com/Dimillian/HyperGit)
 - [georgescutelnicu/Manga-Translator - Translate text found within speech bubbles in manga images.](https://github.com/georgescutelnicu/Manga-Translator)
 - [zyddnys/manga-image-translator - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/](https://github.com/zyddnys/manga-image-translator)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zenangst/KeyboardCowboy - :keyboard: The missing keyboard shortcut utility for macOS](https://github.com/zenangst/KeyboardCowboy)
 - [INSPIDE/h3j-h3t - Light H3 data formats for client side geometry generation and rendering using MapLibreGL](https://github.com/INSPIDE/h3j-h3t)
 - [wipfli/pgf-glyph-ranges - Positioned Glyph Font Glyph Ranges for MapLibre GL JS and MapLibre Native](https://github.com/wipfli/pgf-glyph-ranges)
-- [scriptscat/scriptcat - 脚本猫，一个可以执行用户脚本的浏览器扩展](https://github.com/scriptscat/scriptcat)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
