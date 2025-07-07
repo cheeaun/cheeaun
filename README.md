@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Dimillian/HyperGit - A small & fast frontend to quickly search your Github repositories and files](https://github.com/Dimillian/HyperGit)
 - [georgescutelnicu/Manga-Translator - Translate text found within speech bubbles in manga images.](https://github.com/georgescutelnicu/Manga-Translator)
 - [zyddnys/manga-image-translator - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/](https://github.com/zyddnys/manga-image-translator)
 - [zen-browser/desktop - Welcome to a calmer internet](https://github.com/zen-browser/desktop)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [INSPIDE/h3j-h3t - Light H3 data formats for client side geometry generation and rendering using MapLibreGL](https://github.com/INSPIDE/h3j-h3t)
 - [wipfli/pgf-glyph-ranges - Positioned Glyph Font Glyph Ranges for MapLibre GL JS and MapLibre Native](https://github.com/wipfli/pgf-glyph-ranges)
 - [scriptscat/scriptcat - 脚本猫，一个可以执行用户脚本的浏览器扩展](https://github.com/scriptscat/scriptcat)
-- [andreruffert/syntax-highlight-element - 👓 Syntax Highlighting using the CSS Custom Highlight API](https://github.com/andreruffert/syntax-highlight-element)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
