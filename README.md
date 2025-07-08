@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [epanet-js/epanet-js-toolkit - Model a water distribution network in JavaScript using the OWA-EPANET engine](https://github.com/epanet-js/epanet-js-toolkit)
 - [Conxt/WindowGlue - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.](https://github.com/Conxt/WindowGlue)
 - [Dimillian/HyperGit - A small & fast frontend to quickly search your Github repositories and files](https://github.com/Dimillian/HyperGit)
 - [georgescutelnicu/Manga-Translator - Translate text found within speech bubbles in manga images.](https://github.com/georgescutelnicu/Manga-Translator)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [section83/MacYTDL - A macOS GUI front-end for the YT-DLP video downloader](https://github.com/section83/MacYTDL)
 - [zenangst/KeyboardCowboy - :keyboard: The missing keyboard shortcut utility for macOS](https://github.com/zenangst/KeyboardCowboy)
 - [INSPIDE/h3j-h3t - Light H3 data formats for client side geometry generation and rendering using MapLibreGL](https://github.com/INSPIDE/h3j-h3t)
-- [wipfli/pgf-glyph-ranges - Positioned Glyph Font Glyph Ranges for MapLibre GL JS and MapLibre Native](https://github.com/wipfli/pgf-glyph-ranges)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
