@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sayunuh/mofu-ui - Mastodon ウエブ画面の為の Mofu UI と称するカスタムスタイルシート](https://github.com/sayunuh/mofu-ui)
+- [kushalpandya/Petrichor - An offline macOS music player](https://github.com/kushalpandya/Petrichor)
 - [zachleat/line-numbers - A web component to add line numbers next to various HTML elements](https://github.com/zachleat/line-numbers)
 - [CyberTimon/RapidRAW - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.](https://github.com/CyberTimon/RapidRAW)
 - [josdejong/jsonrepair - Repair invalid JSON documents](https://github.com/josdejong/jsonrepair)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [AkshayKalose/789-Zip - A native macOS app for the 7-Zip archiving utility.](https://github.com/AkshayKalose/789-Zip)
 - [protomaps/basemaps-assets - Fonts and sprites for basemaps, hosted on GitHub Pages](https://github.com/protomaps/basemaps-assets)
 - [eemeli/intl-pluralrules - Polyfill for Intl.PluralRules](https://github.com/eemeli/intl-pluralrules)
-- [gametorch/image_to_pixel_art_wasm - An open source "Rust ↦ WASM, k-Means Color Quantization" crate for Image-to-Pixel-Art conversions in the browser](https://github.com/gametorch/image_to_pixel_art_wasm)
-- [haydenbleasel/ultracite - The AI-ready formatter that helps you write and generate code faster.](https://github.com/haydenbleasel/ultracite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
