@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zachleat/line-numbers - A web component to add line numbers next to various HTML elements](https://github.com/zachleat/line-numbers)
 - [CyberTimon/RapidRAW - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.](https://github.com/CyberTimon/RapidRAW)
 - [josdejong/jsonrepair - Repair invalid JSON documents](https://github.com/josdejong/jsonrepair)
 - [epanet-js/epanet-js-toolkit - Model a water distribution network in JavaScript using the OWA-EPANET engine](https://github.com/epanet-js/epanet-js-toolkit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [eemeli/intl-pluralrules - Polyfill for Intl.PluralRules](https://github.com/eemeli/intl-pluralrules)
 - [gametorch/image_to_pixel_art_wasm - An open source "Rust ↦ WASM, k-Means Color Quantization" crate for Image-to-Pixel-Art conversions in the browser](https://github.com/gametorch/image_to_pixel_art_wasm)
 - [haydenbleasel/ultracite - The AI-ready formatter that helps you write and generate code faster.](https://github.com/haydenbleasel/ultracite)
-- [section83/MacYTDL - A macOS GUI front-end for the YT-DLP video downloader](https://github.com/section83/MacYTDL)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
