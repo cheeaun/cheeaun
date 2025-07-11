@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [barry-ran/QtScrcpy - Android real-time display control software](https://github.com/barry-ran/QtScrcpy)
+- [addyosmani/video-compress - Video compression in the browser using FFMPEG.wasm](https://github.com/addyosmani/video-compress)
 - [sayunuh/mofu-ui - Mastodon ウエブ画面の為の Mofu UI と称するカスタムスタイルシート](https://github.com/sayunuh/mofu-ui)
 - [kushalpandya/Petrichor - An offline macOS music player](https://github.com/kushalpandya/Petrichor)
 - [zachleat/line-numbers - A web component to add line numbers next to various HTML elements](https://github.com/zachleat/line-numbers)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zen-browser/desktop - Welcome to a calmer internet](https://github.com/zen-browser/desktop)
 - [yongsk0066/css_if_logic_gate](https://github.com/yongsk0066/css_if_logic_gate)
 - [AkshayKalose/789-Zip - A native macOS app for the 7-Zip archiving utility.](https://github.com/AkshayKalose/789-Zip)
-- [protomaps/basemaps-assets - Fonts and sprites for basemaps, hosted on GitHub Pages](https://github.com/protomaps/basemaps-assets)
-- [eemeli/intl-pluralrules - Polyfill for Intl.PluralRules](https://github.com/eemeli/intl-pluralrules)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
