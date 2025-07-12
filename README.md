@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [OvertureMaps/explore-site](https://github.com/OvertureMaps/explore-site)
+- [dahlia/upyo - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.](https://github.com/dahlia/upyo)
 - [Stanko/monorail - Turn any CSS keyframe animation into an interactive graph](https://github.com/Stanko/monorail)
 - [barry-ran/QtScrcpy - Android real-time display control software](https://github.com/barry-ran/QtScrcpy)
 - [addyosmani/video-compress - Video compression in the browser using FFMPEG.wasm](https://github.com/addyosmani/video-compress)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Dimillian/HyperGit - A small & fast frontend to quickly search your Github repositories and files](https://github.com/Dimillian/HyperGit)
 - [georgescutelnicu/Manga-Translator - Translate text found within speech bubbles in manga images.](https://github.com/georgescutelnicu/Manga-Translator)
 - [zyddnys/manga-image-translator - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/](https://github.com/zyddnys/manga-image-translator)
-- [zen-browser/desktop - Welcome to a calmer internet](https://github.com/zen-browser/desktop)
-- [yongsk0066/css_if_logic_gate](https://github.com/yongsk0066/css_if_logic_gate)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
