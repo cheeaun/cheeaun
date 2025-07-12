@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Stanko/monorail - Turn any CSS keyframe animation into an interactive graph](https://github.com/Stanko/monorail)
 - [barry-ran/QtScrcpy - Android real-time display control software](https://github.com/barry-ran/QtScrcpy)
 - [addyosmani/video-compress - Video compression in the browser using FFMPEG.wasm](https://github.com/addyosmani/video-compress)
 - [sayunuh/mofu-ui - Mastodon ウエブ画面の為の Mofu UI と称するカスタムスタイルシート](https://github.com/sayunuh/mofu-ui)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zyddnys/manga-image-translator - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/](https://github.com/zyddnys/manga-image-translator)
 - [zen-browser/desktop - Welcome to a calmer internet](https://github.com/zen-browser/desktop)
 - [yongsk0066/css_if_logic_gate](https://github.com/yongsk0066/css_if_logic_gate)
-- [AkshayKalose/789-Zip - A native macOS app for the 7-Zip archiving utility.](https://github.com/AkshayKalose/789-Zip)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
