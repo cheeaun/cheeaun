@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fred-wang/MathFonts - WOFF/WOFF2 math fonts and sample CSS stylesheets](https://github.com/fred-wang/MathFonts)
 - [ronkok/Temml - TeX-to-MathML conversion library in JavaScript](https://github.com/ronkok/Temml)
 - [Kalabasa/simple-live-reload](https://github.com/Kalabasa/simple-live-reload)
 - [OvertureMaps/explore-site](https://github.com/OvertureMaps/explore-site)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [josdejong/jsonrepair - Repair invalid JSON documents](https://github.com/josdejong/jsonrepair)
 - [epanet-js/epanet-js-toolkit - Model a water distribution network in JavaScript using the OWA-EPANET engine](https://github.com/epanet-js/epanet-js-toolkit)
 - [Conxt/WindowGlue - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.](https://github.com/Conxt/WindowGlue)
-- [Dimillian/HyperGit - A small & fast frontend to quickly search your Github repositories and files](https://github.com/Dimillian/HyperGit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
