@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vladkens/macmon - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️](https://github.com/vladkens/macmon)
 - [fred-wang/MathFonts - WOFF/WOFF2 math fonts and sample CSS stylesheets](https://github.com/fred-wang/MathFonts)
 - [ronkok/Temml - TeX-to-MathML conversion library in JavaScript](https://github.com/ronkok/Temml)
 - [Kalabasa/simple-live-reload](https://github.com/Kalabasa/simple-live-reload)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [CyberTimon/RapidRAW - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.](https://github.com/CyberTimon/RapidRAW)
 - [josdejong/jsonrepair - Repair invalid JSON documents](https://github.com/josdejong/jsonrepair)
 - [epanet-js/epanet-js-toolkit - Model a water distribution network in JavaScript using the OWA-EPANET engine](https://github.com/epanet-js/epanet-js-toolkit)
-- [Conxt/WindowGlue - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.](https://github.com/Conxt/WindowGlue)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
