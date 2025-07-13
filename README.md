@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Kalabasa/simple-live-reload](https://github.com/Kalabasa/simple-live-reload)
 - [OvertureMaps/explore-site](https://github.com/OvertureMaps/explore-site)
 - [dahlia/upyo - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.](https://github.com/dahlia/upyo)
 - [Stanko/monorail - Turn any CSS keyframe animation into an interactive graph](https://github.com/Stanko/monorail)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Conxt/WindowGlue - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.](https://github.com/Conxt/WindowGlue)
 - [Dimillian/HyperGit - A small & fast frontend to quickly search your Github repositories and files](https://github.com/Dimillian/HyperGit)
 - [georgescutelnicu/Manga-Translator - Translate text found within speech bubbles in manga images.](https://github.com/georgescutelnicu/Manga-Translator)
-- [zyddnys/manga-image-translator - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/](https://github.com/zyddnys/manga-image-translator)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
