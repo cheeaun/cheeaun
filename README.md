@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Heydon/principles-of-web-accessibility - How to approach accessible web interface design](https://github.com/Heydon/principles-of-web-accessibility)
+- [opendatalab/MinerU - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。](https://github.com/opendatalab/MinerU)
 - [vladkens/macmon - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️](https://github.com/vladkens/macmon)
 - [fred-wang/MathFonts - WOFF/WOFF2 math fonts and sample CSS stylesheets](https://github.com/fred-wang/MathFonts)
 - [ronkok/Temml - TeX-to-MathML conversion library in JavaScript](https://github.com/ronkok/Temml)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kushalpandya/Petrichor - An offline macOS music player](https://github.com/kushalpandya/Petrichor)
 - [zachleat/line-numbers - A web component to add line numbers next to various HTML elements](https://github.com/zachleat/line-numbers)
 - [CyberTimon/RapidRAW - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.](https://github.com/CyberTimon/RapidRAW)
-- [josdejong/jsonrepair - Repair invalid JSON documents](https://github.com/josdejong/jsonrepair)
-- [epanet-js/epanet-js-toolkit - Model a water distribution network in JavaScript using the OWA-EPANET engine](https://github.com/epanet-js/epanet-js-toolkit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
