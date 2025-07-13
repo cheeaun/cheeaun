@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ronkok/Temml - TeX-to-MathML conversion library in JavaScript](https://github.com/ronkok/Temml)
 - [Kalabasa/simple-live-reload](https://github.com/Kalabasa/simple-live-reload)
 - [OvertureMaps/explore-site](https://github.com/OvertureMaps/explore-site)
 - [dahlia/upyo - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.](https://github.com/dahlia/upyo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [epanet-js/epanet-js-toolkit - Model a water distribution network in JavaScript using the OWA-EPANET engine](https://github.com/epanet-js/epanet-js-toolkit)
 - [Conxt/WindowGlue - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.](https://github.com/Conxt/WindowGlue)
 - [Dimillian/HyperGit - A small & fast frontend to quickly search your Github repositories and files](https://github.com/Dimillian/HyperGit)
-- [georgescutelnicu/Manga-Translator - Translate text found within speech bubbles in manga images.](https://github.com/georgescutelnicu/Manga-Translator)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
