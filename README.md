@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fred-wang/TeXZilla - LALR Javascript LaTeX-to-MathML converter compatible with Unicode](https://github.com/fred-wang/TeXZilla)
 - [Heydon/principles-of-web-accessibility - How to approach accessible web interface design](https://github.com/Heydon/principles-of-web-accessibility)
 - [opendatalab/MinerU - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。](https://github.com/opendatalab/MinerU)
 - [vladkens/macmon - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️](https://github.com/vladkens/macmon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sayunuh/mofu-ui - Mastodon ウエブ画面の為の Mofu UI と称するカスタムスタイルシート](https://github.com/sayunuh/mofu-ui)
 - [kushalpandya/Petrichor - An offline macOS music player](https://github.com/kushalpandya/Petrichor)
 - [zachleat/line-numbers - A web component to add line numbers next to various HTML elements](https://github.com/zachleat/line-numbers)
-- [CyberTimon/RapidRAW - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.](https://github.com/CyberTimon/RapidRAW)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
