@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Deathbyteacup/fluentbird - FluentBird is a userChrome.css theme for Mozilla Thunderbird, that implemenets Windows 11 Fluent Design and Mica transparency materials.](https://github.com/Deathbyteacup/fluentbird)
 - [marionebl/svg-term-cli - Share terminal sessions via SVG and CSS](https://github.com/marionebl/svg-term-cli)
 - [af/envalid - Environment variable validation for Node, Bun, and other compatible JS runtimes](https://github.com/af/envalid)
 - [christianjuth/blorp - Bl🪐rp Social – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!](https://github.com/christianjuth/blorp)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [OvertureMaps/explore-site](https://github.com/OvertureMaps/explore-site)
 - [dahlia/upyo - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.](https://github.com/dahlia/upyo)
 - [Stanko/monorail - Turn any CSS keyframe animation into an interactive graph](https://github.com/Stanko/monorail)
-- [barry-ran/QtScrcpy - Android real-time display control software](https://github.com/barry-ran/QtScrcpy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
