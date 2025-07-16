@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [marionebl/svg-term-cli - Share terminal sessions via SVG and CSS](https://github.com/marionebl/svg-term-cli)
+- [af/envalid - Environment variable validation for Node, Bun, and other compatible JS runtimes](https://github.com/af/envalid)
 - [christianjuth/blorp - Bl🪐rp Social – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!](https://github.com/christianjuth/blorp)
 - [geoarrow/deck.gl-layers - deck.gl layers for rendering GeoArrow data](https://github.com/geoarrow/deck.gl-layers)
 - [fred-wang/TeXZilla - LALR Javascript LaTeX-to-MathML converter compatible with Unicode](https://github.com/fred-wang/TeXZilla)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dahlia/upyo - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.](https://github.com/dahlia/upyo)
 - [Stanko/monorail - Turn any CSS keyframe animation into an interactive graph](https://github.com/Stanko/monorail)
 - [barry-ran/QtScrcpy - Android real-time display control software](https://github.com/barry-ran/QtScrcpy)
-- [addyosmani/video-compress - Video compression in the browser using FFMPEG.wasm](https://github.com/addyosmani/video-compress)
-- [sayunuh/mofu-ui - Mastodon ウエブ画面の為の Mofu UI と称するカスタムスタイルシート](https://github.com/sayunuh/mofu-ui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
