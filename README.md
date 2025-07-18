@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pollen-robotics/AmazingHand - Code and model to control the AH!](https://github.com/pollen-robotics/AmazingHand)
 - [naogify/jma-wind-map - 気象庁「全球数値予報モデルGPV (GSM全球域)」データ（GRIB2）から風ベクトル（U、V）データを取得しRGBエンコーディングしたPNGを地図上に可視化するサンプルです。](https://github.com/naogify/jma-wind-map)
 - [Deathbyteacup/fluentbird - FluentBird is a userChrome.css theme for Mozilla Thunderbird, that implemenets Windows 11 Fluent Design and Mica transparency materials.](https://github.com/Deathbyteacup/fluentbird)
 - [marionebl/svg-term-cli - Share terminal sessions via SVG and CSS](https://github.com/marionebl/svg-term-cli)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ronkok/Temml - TeX-to-MathML conversion library in JavaScript](https://github.com/ronkok/Temml)
 - [Kalabasa/simple-live-reload](https://github.com/Kalabasa/simple-live-reload)
 - [OvertureMaps/explore-site](https://github.com/OvertureMaps/explore-site)
-- [dahlia/upyo - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.](https://github.com/dahlia/upyo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
