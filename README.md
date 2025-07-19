@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yokoffing/NextDNS-Config - Setup guide for NextDNS, a DoH proxy with advanced capabilities](https://github.com/yokoffing/NextDNS-Config)
 - [brunosimon/infinite-world - Infinite procedurally generated world generated in WebGL with Three.js ](https://github.com/brunosimon/infinite-world)
 - [pollen-robotics/AmazingHand - Code and model to control the AH!](https://github.com/pollen-robotics/AmazingHand)
 - [naogify/jma-wind-map - 気象庁「全球数値予報モデルGPV (GSM全球域)」データ（GRIB2）から風ベクトル（U、V）データを取得しRGBエンコーディングしたPNGを地図上に可視化するサンプルです。](https://github.com/naogify/jma-wind-map)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vladkens/macmon - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️](https://github.com/vladkens/macmon)
 - [fred-wang/MathFonts - WOFF/WOFF2 math fonts and sample CSS stylesheets](https://github.com/fred-wang/MathFonts)
 - [ronkok/Temml - TeX-to-MathML conversion library in JavaScript](https://github.com/ronkok/Temml)
-- [Kalabasa/simple-live-reload](https://github.com/Kalabasa/simple-live-reload)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
