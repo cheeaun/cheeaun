@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maplibre/maplibre-tile-spec - Next generation vector tiles format](https://github.com/maplibre/maplibre-tile-spec)
 - [arnog/mathlive - A web component for easy math input](https://github.com/arnog/mathlive)
 - [yokoffing/NextDNS-Config - Setup guide for NextDNS, a DoH proxy with advanced capabilities](https://github.com/yokoffing/NextDNS-Config)
 - [brunosimon/infinite-world - Infinite procedurally generated world generated in WebGL with Three.js ](https://github.com/brunosimon/infinite-world)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Heydon/principles-of-web-accessibility - How to approach accessible web interface design](https://github.com/Heydon/principles-of-web-accessibility)
 - [opendatalab/MinerU - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。](https://github.com/opendatalab/MinerU)
 - [vladkens/macmon - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️](https://github.com/vladkens/macmon)
-- [fred-wang/MathFonts - WOFF/WOFF2 math fonts and sample CSS stylesheets](https://github.com/fred-wang/MathFonts)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
