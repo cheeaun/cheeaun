@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Quad9DNS/GlobeOfWonder - WebGL globe for displaying websocket JSON realtime data and static markers on the Earth's surface](https://github.com/Quad9DNS/GlobeOfWonder)
 - [Automattic/harper - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered](https://github.com/Automattic/harper)
 - [rstacruz/codebase-analysis-prompt](https://github.com/rstacruz/codebase-analysis-prompt)
 - [xuanx1/sgOpenData](https://github.com/xuanx1/sgOpenData)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [af/envalid - Environment variable validation for Node, Bun, and other compatible JS runtimes](https://github.com/af/envalid)
 - [christianjuth/blorp - Bl🪐rp Social – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!](https://github.com/christianjuth/blorp)
 - [geoarrow/deck.gl-layers - deck.gl layers for rendering GeoArrow data](https://github.com/geoarrow/deck.gl-layers)
-- [fred-wang/TeXZilla - LALR Javascript LaTeX-to-MathML converter compatible with Unicode](https://github.com/fred-wang/TeXZilla)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
