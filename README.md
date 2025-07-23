@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [Automattic/harper - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered](https://github.com/Automattic/harper)
-- [rstacruz/code-base-analysis-prompt](https://github.com/rstacruz/code-base-analysis-prompt)
+- [rstacruz/codebase-analysis-prompt](https://github.com/rstacruz/codebase-analysis-prompt)
 - [xuanx1/sgOpenData](https://github.com/xuanx1/sgOpenData)
 - [maplibre/maplibre-tile-spec - Next generation vector tiles format](https://github.com/maplibre/maplibre-tile-spec)
 - [arnog/mathlive - A web component for easy math input](https://github.com/arnog/mathlive)
