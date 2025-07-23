@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Automattic/harper - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered](https://github.com/Automattic/harper)
 - [rstacruz/code-base-analysis-prompt](https://github.com/rstacruz/code-base-analysis-prompt)
 - [xuanx1/sgOpenData](https://github.com/xuanx1/sgOpenData)
 - [maplibre/maplibre-tile-spec - Next generation vector tiles format](https://github.com/maplibre/maplibre-tile-spec)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [christianjuth/blorp - Bl🪐rp Social – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!](https://github.com/christianjuth/blorp)
 - [geoarrow/deck.gl-layers - deck.gl layers for rendering GeoArrow data](https://github.com/geoarrow/deck.gl-layers)
 - [fred-wang/TeXZilla - LALR Javascript LaTeX-to-MathML converter compatible with Unicode](https://github.com/fred-wang/TeXZilla)
-- [Heydon/principles-of-web-accessibility - How to approach accessible web interface design](https://github.com/Heydon/principles-of-web-accessibility)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
