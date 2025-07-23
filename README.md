@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rstacruz/code-base-analysis-prompt](https://github.com/rstacruz/code-base-analysis-prompt)
 - [xuanx1/sgOpenData](https://github.com/xuanx1/sgOpenData)
 - [maplibre/maplibre-tile-spec - Next generation vector tiles format](https://github.com/maplibre/maplibre-tile-spec)
 - [arnog/mathlive - A web component for easy math input](https://github.com/arnog/mathlive)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [geoarrow/deck.gl-layers - deck.gl layers for rendering GeoArrow data](https://github.com/geoarrow/deck.gl-layers)
 - [fred-wang/TeXZilla - LALR Javascript LaTeX-to-MathML converter compatible with Unicode](https://github.com/fred-wang/TeXZilla)
 - [Heydon/principles-of-web-accessibility - How to approach accessible web interface design](https://github.com/Heydon/principles-of-web-accessibility)
-- [opendatalab/MinerU - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。](https://github.com/opendatalab/MinerU)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
