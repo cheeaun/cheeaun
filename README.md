@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pnorman/spirit](https://github.com/pnorman/spirit)
+- [pnorman/tilekiln](https://github.com/pnorman/tilekiln)
+- [shortbread-tiles/shortbread-docs - Documentation of the Shortbread vector tile schema](https://github.com/shortbread-tiles/shortbread-docs)
 - [Quad9DNS/GlobeOfWonder - WebGL globe for displaying websocket JSON realtime data and static markers on the Earth's surface](https://github.com/Quad9DNS/GlobeOfWonder)
 - [Automattic/harper - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered](https://github.com/Automattic/harper)
 - [rstacruz/codebase-analysis-prompt](https://github.com/rstacruz/codebase-analysis-prompt)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [naogify/jma-wind-map - 気象庁「全球数値予報モデルGPV (GSM全球域)」データ（GRIB2）から風ベクトル（U、V）データを取得しRGBエンコーディングしたPNGを地図上に可視化するサンプルです。](https://github.com/naogify/jma-wind-map)
 - [Deathbyteacup/fluentbird - FluentBird is a userChrome.css theme for Mozilla Thunderbird, that implemenets Windows 11 Fluent Design and Mica transparency materials.](https://github.com/Deathbyteacup/fluentbird)
 - [marionebl/svg-term-cli - Share terminal sessions via SVG and CSS](https://github.com/marionebl/svg-term-cli)
-- [af/envalid - Environment variable validation for Node, Bun, and other compatible JS runtimes](https://github.com/af/envalid)
-- [christianjuth/blorp - Bl🪐rp Social – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!](https://github.com/christianjuth/blorp)
-- [geoarrow/deck.gl-layers - deck.gl layers for rendering GeoArrow data](https://github.com/geoarrow/deck.gl-layers)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
