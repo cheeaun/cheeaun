@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [anishathalye/lumen - Magic auto brightness based on screen contents 💡](https://github.com/anishathalye/lumen)
 - [pnorman/spirit](https://github.com/pnorman/spirit)
 - [pnorman/tilekiln](https://github.com/pnorman/tilekiln)
 - [shortbread-tiles/shortbread-docs - Documentation of the Shortbread vector tile schema](https://github.com/shortbread-tiles/shortbread-docs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pollen-robotics/AmazingHand - Code and model to control the AH!](https://github.com/pollen-robotics/AmazingHand)
 - [naogify/jma-wind-map - 気象庁「全球数値予報モデルGPV (GSM全球域)」データ（GRIB2）から風ベクトル（U、V）データを取得しRGBエンコーディングしたPNGを地図上に可視化するサンプルです。](https://github.com/naogify/jma-wind-map)
 - [Deathbyteacup/fluentbird - FluentBird is a userChrome.css theme for Mozilla Thunderbird, that implemenets Windows 11 Fluent Design and Mica transparency materials.](https://github.com/Deathbyteacup/fluentbird)
-- [marionebl/svg-term-cli - Share terminal sessions via SVG and CSS](https://github.com/marionebl/svg-term-cli)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
