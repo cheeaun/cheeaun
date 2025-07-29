@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [qq15725/modern-gif - 🚀 JavaScript GIF Codec.](https://github.com/qq15725/modern-gif)
 - [kntng/romanize - Library for romanization of languages](https://github.com/kntng/romanize)
 - [hexenq/kuroshiro - Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.](https://github.com/hexenq/kuroshiro)
 - [polm/cutlet - Japanese to romaji converter in Python](https://github.com/polm/cutlet)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [xuanx1/sgOpenData](https://github.com/xuanx1/sgOpenData)
 - [maplibre/maplibre-tile-spec - Next generation vector tiles format](https://github.com/maplibre/maplibre-tile-spec)
 - [arnog/mathlive - A web component for easy math input](https://github.com/arnog/mathlive)
-- [yokoffing/NextDNS-Config - Setup guide for NextDNS, a DoH proxy with advanced capabilities](https://github.com/yokoffing/NextDNS-Config)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
