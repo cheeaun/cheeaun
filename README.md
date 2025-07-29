@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kntng/romanize - Library for romanization of languages](https://github.com/kntng/romanize)
+- [hexenq/kuroshiro - Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.](https://github.com/hexenq/kuroshiro)
 - [polm/cutlet - Japanese to romaji converter in Python](https://github.com/polm/cutlet)
 - [iaphub/react-native-iaphub - The easiest way to implement IAP (In-app purchase) in your React Native app.](https://github.com/iaphub/react-native-iaphub)
 - [anishathalye/lumen - Magic auto brightness based on screen contents 💡](https://github.com/anishathalye/lumen)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [maplibre/maplibre-tile-spec - Next generation vector tiles format](https://github.com/maplibre/maplibre-tile-spec)
 - [arnog/mathlive - A web component for easy math input](https://github.com/arnog/mathlive)
 - [yokoffing/NextDNS-Config - Setup guide for NextDNS, a DoH proxy with advanced capabilities](https://github.com/yokoffing/NextDNS-Config)
-- [brunosimon/infinite-world - Infinite procedurally generated world generated in WebGL with Three.js ](https://github.com/brunosimon/infinite-world)
-- [pollen-robotics/AmazingHand - Code and model to control the AH!](https://github.com/pollen-robotics/AmazingHand)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
