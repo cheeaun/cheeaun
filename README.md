@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ronikaufman/flexflex - A typeface that responds to spatial requirements rather than imposing them](https://github.com/ronikaufman/flexflex)
 - [observablehq/notebook-kit - A command-line tool for building static sites from Observable Notebooks](https://github.com/observablehq/notebook-kit)
 - [qq15725/modern-gif - 🚀 JavaScript GIF Codec.](https://github.com/qq15725/modern-gif)
 - [kntng/romanize - Library for romanization of languages](https://github.com/kntng/romanize)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Automattic/harper - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered](https://github.com/Automattic/harper)
 - [rstacruz/codebase-analysis-prompt](https://github.com/rstacruz/codebase-analysis-prompt)
 - [xuanx1/sgOpenData](https://github.com/xuanx1/sgOpenData)
-- [maplibre/maplibre-tile-spec - Next generation vector tiles format](https://github.com/maplibre/maplibre-tile-spec)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
