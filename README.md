@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [craigbuckler/staticsearch - Static site search engine](https://github.com/craigbuckler/staticsearch)
 - [ronikaufman/flexflex - A typeface that responds to spatial requirements rather than imposing them](https://github.com/ronikaufman/flexflex)
 - [observablehq/notebook-kit - A command-line tool for building static sites from Observable Notebooks](https://github.com/observablehq/notebook-kit)
 - [qq15725/modern-gif - 🚀 JavaScript GIF Codec.](https://github.com/qq15725/modern-gif)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Quad9DNS/GlobeOfWonder - WebGL globe for displaying websocket JSON realtime data and static markers on the Earth's surface](https://github.com/Quad9DNS/GlobeOfWonder)
 - [Automattic/harper - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered](https://github.com/Automattic/harper)
 - [rstacruz/codebase-analysis-prompt](https://github.com/rstacruz/codebase-analysis-prompt)
-- [xuanx1/sgOpenData](https://github.com/xuanx1/sgOpenData)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
