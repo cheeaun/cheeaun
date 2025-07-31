@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [naughtyduk/liquidGL - liquidGL – Ultra-light glassmorphism for the web (Liquid Glass)](https://github.com/naughtyduk/liquidGL)
+- [PixiEditor/PixiEditor - PixiEditor is a Universal Editor for all your 2D needs](https://github.com/PixiEditor/PixiEditor)
 - [craigbuckler/staticsearch - Static site search engine](https://github.com/craigbuckler/staticsearch)
 - [ronikaufman/flexflex - A typeface that responds to spatial requirements rather than imposing them](https://github.com/ronikaufman/flexflex)
 - [observablehq/notebook-kit - A command-line tool for building static sites from Observable Notebooks](https://github.com/observablehq/notebook-kit)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pnorman/tilekiln](https://github.com/pnorman/tilekiln)
 - [shortbread-tiles/shortbread-docs - Documentation of the Shortbread vector tile schema](https://github.com/shortbread-tiles/shortbread-docs)
 - [Quad9DNS/GlobeOfWonder - WebGL globe for displaying websocket JSON realtime data and static markers on the Earth's surface](https://github.com/Quad9DNS/GlobeOfWonder)
-- [Automattic/harper - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered](https://github.com/Automattic/harper)
-- [rstacruz/codebase-analysis-prompt](https://github.com/rstacruz/codebase-analysis-prompt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
