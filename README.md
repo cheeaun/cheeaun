@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unicode-org/message-format-wg - Developing a standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
+- [unicode-org/icu4x - Solving i18n for client-side and resource-constrained environments.](https://github.com/unicode-org/icu4x)
 - [naughtyduk/liquidGL - liquidGL – Ultra-light glassmorphism for the web (Liquid Glass)](https://github.com/naughtyduk/liquidGL)
 - [PixiEditor/PixiEditor - PixiEditor is a Universal Editor for all your 2D needs](https://github.com/PixiEditor/PixiEditor)
 - [craigbuckler/staticsearch - Static site search engine](https://github.com/craigbuckler/staticsearch)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [anishathalye/lumen - Magic auto brightness based on screen contents 💡](https://github.com/anishathalye/lumen)
 - [pnorman/spirit](https://github.com/pnorman/spirit)
 - [pnorman/tilekiln](https://github.com/pnorman/tilekiln)
-- [shortbread-tiles/shortbread-docs - Documentation of the Shortbread vector tile schema](https://github.com/shortbread-tiles/shortbread-docs)
-- [Quad9DNS/GlobeOfWonder - WebGL globe for displaying websocket JSON realtime data and static markers on the Earth's surface](https://github.com/Quad9DNS/GlobeOfWonder)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
