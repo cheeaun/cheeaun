@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [phensley/cldr-engine - Internationalization and localization in Typescript with Unicode CLDR, batteries included](https://github.com/phensley/cldr-engine)
 - [wooorm/bcp-47-match - Match BCP 47 language tags with language ranges per RFC 4647](https://github.com/wooorm/bcp-47-match)
 - [shiosyakeyakini-info/miria - Misskey client application for iOS, Android (and other platforms) made by flutter](https://github.com/shiosyakeyakini-info/miria)
 - [poppingmoon/aria - A cross-platform Misskey client built with Flutter](https://github.com/poppingmoon/aria)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kntng/romanize - Library for romanization of languages](https://github.com/kntng/romanize)
 - [hexenq/kuroshiro - Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.](https://github.com/hexenq/kuroshiro)
 - [polm/cutlet - Japanese to romaji converter in Python](https://github.com/polm/cutlet)
-- [iaphub/react-native-iaphub - The easiest way to implement IAP (In-app purchase) in your React Native app.](https://github.com/iaphub/react-native-iaphub)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
