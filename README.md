@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ethersync/ethersync - Peer-to-peer, editor-agnostic collaborative editing of local text files.](https://github.com/ethersync/ethersync)
 - [phensley/cldr-engine - Internationalization and localization in Typescript with Unicode CLDR, batteries included](https://github.com/phensley/cldr-engine)
 - [wooorm/bcp-47-match - Match BCP 47 language tags with language ranges per RFC 4647](https://github.com/wooorm/bcp-47-match)
 - [shiosyakeyakini-info/miria - Misskey client application for iOS, Android (and other platforms) made by flutter](https://github.com/shiosyakeyakini-info/miria)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [qq15725/modern-gif - 🚀 JavaScript GIF Codec.](https://github.com/qq15725/modern-gif)
 - [kntng/romanize - Library for romanization of languages](https://github.com/kntng/romanize)
 - [hexenq/kuroshiro - Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.](https://github.com/hexenq/kuroshiro)
-- [polm/cutlet - Japanese to romaji converter in Python](https://github.com/polm/cutlet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
