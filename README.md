@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [codpro2005/ts-regexp - A strictly typed & minimal RegExp wrapper.](https://github.com/codpro2005/ts-regexp)
 - [jesseplusplus/decodon - media-focused fork of mastodon that supports only private/followers-only accounts](https://github.com/jesseplusplus/decodon)
 - [ethersync/ethersync - Peer-to-peer, editor-agnostic collaborative editing of local text files.](https://github.com/ethersync/ethersync)
 - [phensley/cldr-engine - Internationalization and localization in Typescript with Unicode CLDR, batteries included](https://github.com/phensley/cldr-engine)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ronikaufman/flexflex - A typeface that responds to spatial requirements rather than imposing them](https://github.com/ronikaufman/flexflex)
 - [observablehq/notebook-kit - A command-line tool for building static sites from Observable Notebooks](https://github.com/observablehq/notebook-kit)
 - [qq15725/modern-gif - 🚀 JavaScript GIF Codec.](https://github.com/qq15725/modern-gif)
-- [kntng/romanize - Library for romanization of languages](https://github.com/kntng/romanize)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
