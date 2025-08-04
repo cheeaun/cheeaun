@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rit3zh/expo-animated-toast -  🍞 Minimal animated toast UI for Expo + React Native with custom content, actions, and polish.](https://github.com/rit3zh/expo-animated-toast)
 - [codpro2005/ts-regexp - A strictly typed & minimal RegExp wrapper.](https://github.com/codpro2005/ts-regexp)
 - [jesseplusplus/decodon - media-focused fork of mastodon that supports only private/followers-only accounts](https://github.com/jesseplusplus/decodon)
 - [ethersync/ethersync - Peer-to-peer, editor-agnostic collaborative editing of local text files.](https://github.com/ethersync/ethersync)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [craigbuckler/staticsearch - Static site search engine](https://github.com/craigbuckler/staticsearch)
 - [ronikaufman/flexflex - A typeface that responds to spatial requirements rather than imposing them](https://github.com/ronikaufman/flexflex)
 - [observablehq/notebook-kit - A command-line tool for building static sites from Observable Notebooks](https://github.com/observablehq/notebook-kit)
-- [qq15725/modern-gif - 🚀 JavaScript GIF Codec.](https://github.com/qq15725/modern-gif)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
