@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shuding/bidc - Bidirectional Channels for JavaScript](https://github.com/shuding/bidc)
 - [minbrowser/min - A fast, minimal browser that protects your privacy](https://github.com/minbrowser/min)
 - [rit3zh/expo-animated-toast -  🍞 Minimal animated toast UI for Expo + React Native with custom content, actions, and polish.](https://github.com/rit3zh/expo-animated-toast)
 - [codpro2005/ts-regexp - A strictly typed & minimal RegExp wrapper.](https://github.com/codpro2005/ts-regexp)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [naughtyduk/liquidGL - liquidGL – Ultra-light glassmorphism for the web (Liquid Glass)](https://github.com/naughtyduk/liquidGL)
 - [PixiEditor/PixiEditor - PixiEditor is a Universal Editor for all your 2D needs](https://github.com/PixiEditor/PixiEditor)
 - [craigbuckler/staticsearch - Static site search engine](https://github.com/craigbuckler/staticsearch)
-- [ronikaufman/flexflex - A typeface that responds to spatial requirements rather than imposing them](https://github.com/ronikaufman/flexflex)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
