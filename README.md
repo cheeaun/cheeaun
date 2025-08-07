@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google-github-actions/run-gemini-cli - A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
 - [shuding/bidc - Bidirectional Channels for JavaScript](https://github.com/shuding/bidc)
 - [minbrowser/min - A fast, minimal browser that protects your privacy](https://github.com/minbrowser/min)
 - [rit3zh/expo-animated-toast -  🍞 Minimal animated toast UI for Expo + React Native with custom content, actions, and polish.](https://github.com/rit3zh/expo-animated-toast)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unicode-org/icu4x - Solving i18n for client-side and resource-constrained environments.](https://github.com/unicode-org/icu4x)
 - [naughtyduk/liquidGL - liquidGL – Ultra-light glassmorphism for the web (Liquid Glass)](https://github.com/naughtyduk/liquidGL)
 - [PixiEditor/PixiEditor - PixiEditor is a Universal Editor for all your 2D needs](https://github.com/PixiEditor/PixiEditor)
-- [craigbuckler/staticsearch - Static site search engine](https://github.com/craigbuckler/staticsearch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
