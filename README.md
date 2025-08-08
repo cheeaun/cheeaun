@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [OpenCut-app/OpenCut - The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 - [google-github-actions/run-gemini-cli - A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
 - [shuding/bidc - Bidirectional Channels for JavaScript](https://github.com/shuding/bidc)
 - [minbrowser/min - A fast, minimal browser that protects your privacy](https://github.com/minbrowser/min)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unicode-org/message-format-wg - Developing a standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
 - [unicode-org/icu4x - Solving i18n for client-side and resource-constrained environments.](https://github.com/unicode-org/icu4x)
 - [naughtyduk/liquidGL - liquidGL – Ultra-light glassmorphism for the web (Liquid Glass)](https://github.com/naughtyduk/liquidGL)
-- [PixiEditor/PixiEditor - PixiEditor is a Universal Editor for all your 2D needs](https://github.com/PixiEditor/PixiEditor)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
