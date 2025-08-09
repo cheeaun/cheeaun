@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [a-b-street/osm2streets - Convert OSM to street networks with detailed geometry](https://github.com/a-b-street/osm2streets)
 - [OpenCut-app/OpenCut - The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 - [google-github-actions/run-gemini-cli - A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
 - [shuding/bidc - Bidirectional Channels for JavaScript](https://github.com/shuding/bidc)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [poppingmoon/aria - A cross-platform Misskey client built with Flutter](https://github.com/poppingmoon/aria)
 - [unicode-org/message-format-wg - Developing a standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
 - [unicode-org/icu4x - Solving i18n for client-side and resource-constrained environments.](https://github.com/unicode-org/icu4x)
-- [naughtyduk/liquidGL - liquidGL – Ultra-light glassmorphism for the web (Liquid Glass)](https://github.com/naughtyduk/liquidGL)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
