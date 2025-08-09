@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [thunderbird/send-suite - ⛔️ [DEPRECATED] Send moved to -> https://github.com/thunderbird/tbpro-add-on](https://github.com/thunderbird/send-suite)
 - [a-b-street/osm2streets - Convert OSM to street networks with detailed geometry](https://github.com/a-b-street/osm2streets)
 - [OpenCut-app/OpenCut - The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 - [google-github-actions/run-gemini-cli - A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shiosyakeyakini-info/miria - Misskey client application for iOS, Android (and other platforms) made by flutter](https://github.com/shiosyakeyakini-info/miria)
 - [poppingmoon/aria - A cross-platform Misskey client built with Flutter](https://github.com/poppingmoon/aria)
 - [unicode-org/message-format-wg - Developing a standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
-- [unicode-org/icu4x - Solving i18n for client-side and resource-constrained environments.](https://github.com/unicode-org/icu4x)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
