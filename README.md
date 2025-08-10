@@ -32,7 +32,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [a-b-street/osm2streets - Convert OSM to street networks with detailed geometry](https://github.com/a-b-street/osm2streets)
 - [OpenCut-app/OpenCut - The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 - [google-github-actions/run-gemini-cli - A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
-- [shuding/bidc - Bidirectional Channels for JavaScript](https://github.com/shuding/bidc)
+- [vercel/bidc - Bidirectional Channels for JavaScript](https://github.com/vercel/bidc)
 - [minbrowser/min - A fast, minimal browser that protects your privacy](https://github.com/minbrowser/min)
 - [rit3zh/expo-animated-toast -  🍞 Minimal animated toast UI for Expo + React Native with custom content, actions, and polish.](https://github.com/rit3zh/expo-animated-toast)
 - [codpro2005/ts-regexp - A strictly typed & minimal RegExp wrapper.](https://github.com/codpro2005/ts-regexp)
