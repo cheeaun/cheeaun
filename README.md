@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alexburba/Work-Sans-Cyr-Typeface - Cyrillic fork of the Work Sans typeface](https://github.com/alexburba/Work-Sans-Cyr-Typeface)
 - [adap/flower - Flower: A Friendly Federated AI Framework](https://github.com/adap/flower)
 - [thunderbird/send-suite - ⛔️ [DEPRECATED] Send moved to -> https://github.com/thunderbird/tbpro-add-on](https://github.com/thunderbird/send-suite)
 - [a-b-street/osm2streets - Convert OSM to street networks with detailed geometry](https://github.com/a-b-street/osm2streets)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [phensley/cldr-engine - Internationalization and localization in Typescript with Unicode CLDR, batteries included](https://github.com/phensley/cldr-engine)
 - [wooorm/bcp-47-match - Match BCP 47 language tags with language ranges per RFC 4647](https://github.com/wooorm/bcp-47-match)
 - [shiosyakeyakini-info/miria - Misskey client application for iOS, Android (and other platforms) made by flutter](https://github.com/shiosyakeyakini-info/miria)
-- [poppingmoon/aria - A cross-platform Misskey client built with Flutter](https://github.com/poppingmoon/aria)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
