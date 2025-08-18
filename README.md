@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tessalt/echo-chamber-js - Commenting without the comments](https://github.com/tessalt/echo-chamber-js)
 - [kossnocorp/smolxxh - Tiny xxHash JS implementation](https://github.com/kossnocorp/smolxxh)
 - [kossnocorp/smolcanon - Tiny JS objects canonicalization for hashing](https://github.com/kossnocorp/smolcanon)
 - [alexburba/Work-Sans-Cyr-Typeface - Cyrillic fork of the Work Sans typeface](https://github.com/alexburba/Work-Sans-Cyr-Typeface)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [codpro2005/ts-regexp - A strictly typed & minimal RegExp wrapper.](https://github.com/codpro2005/ts-regexp)
 - [jesseplusplus/decodon - media-focused fork of mastodon that supports only private/followers-only accounts](https://github.com/jesseplusplus/decodon)
 - [ethersync/ethersync - Peer-to-peer, editor-agnostic collaborative editing of local text files.](https://github.com/ethersync/ethersync)
-- [phensley/cldr-engine - Internationalization and localization in Typescript with Unicode CLDR, batteries included](https://github.com/phensley/cldr-engine)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
