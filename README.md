@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rari-build/rari - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by Rust runtime, delivering 4x faster performance than Next.js with zero-config setup and universal NPM support.](https://github.com/rari-build/rari)
 - [blacksky-algorithms/blacksky.community - Fork of Bluesky customized for community use](https://github.com/blacksky-algorithms/blacksky.community)
 - [sidequestjs/sidequest - Sidequest is a modern, scalable background job processor for Node.js applications.](https://github.com/sidequestjs/sidequest)
 - [social-web-foundation/reactivitypub - A React component library for ActivityPub API clients](https://github.com/social-web-foundation/reactivitypub)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [thunderbird/send-suite - ⛔️ [DEPRECATED] Send moved to -> https://github.com/thunderbird/tbpro-add-on](https://github.com/thunderbird/send-suite)
 - [a-b-street/osm2streets - Convert OSM to street networks with detailed geometry](https://github.com/a-b-street/osm2streets)
 - [OpenCut-app/OpenCut - The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
-- [google-github-actions/run-gemini-cli - A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
