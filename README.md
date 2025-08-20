@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [blacksky-algorithms/blacksky.community - Fork of Bluesky customized for community use](https://github.com/blacksky-algorithms/blacksky.community)
+- [sidequestjs/sidequest - Sidequest is a modern, scalable background job processor for Node.js applications.](https://github.com/sidequestjs/sidequest)
+- [social-web-foundation/reactivitypub - A React component library for ActivityPub API clients](https://github.com/social-web-foundation/reactivitypub)
+- [terrastruct/d2 - D2 is a modern diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2)
+- [gemini-testing/looks-same - Node.js library for comparing images](https://github.com/gemini-testing/looks-same)
 - [evanp/onepage.pub - A one-page ActivityPub server](https://github.com/evanp/onepage.pub)
 - [tessalt/echo-chamber-js - Commenting without the comments](https://github.com/tessalt/echo-chamber-js)
 - [kossnocorp/smolxxh - Tiny xxHash JS implementation](https://github.com/kossnocorp/smolxxh)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [a-b-street/osm2streets - Convert OSM to street networks with detailed geometry](https://github.com/a-b-street/osm2streets)
 - [OpenCut-app/OpenCut - The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 - [google-github-actions/run-gemini-cli - A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
-- [vercel/bidc - Bidirectional Channels for JavaScript](https://github.com/vercel/bidc)
-- [minbrowser/min - A fast, minimal browser that protects your privacy](https://github.com/minbrowser/min)
-- [rit3zh/expo-animated-toast -  🍞 Minimal animated toast UI for Expo + React Native with custom content, actions, and polish.](https://github.com/rit3zh/expo-animated-toast)
-- [codpro2005/ts-regexp - A strictly typed & minimal RegExp wrapper.](https://github.com/codpro2005/ts-regexp)
-- [jesseplusplus/decodon - media-focused fork of mastodon that supports only private/followers-only accounts](https://github.com/jesseplusplus/decodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
