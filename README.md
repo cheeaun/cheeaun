@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [browser-use/cdp-use - 🩹Pure CDP but type-safe in Python](https://github.com/browser-use/cdp-use)
+- [cferdinandi/kelp - A UI library for people who love HTML, powered by modern CSS and Web Components.](https://github.com/cferdinandi/kelp)
 - [rari-build/rari - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by a Rust runtime, delivering 4x faster performance than Next.js with zero-config setup and universal NPM support.](https://github.com/rari-build/rari)
 - [blacksky-algorithms/blacksky.community - Fork of Bluesky customized for community use](https://github.com/blacksky-algorithms/blacksky.community)
 - [sidequestjs/sidequest - Sidequest is a modern, scalable background job processor for Node.js applications.](https://github.com/sidequestjs/sidequest)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [alexburba/Work-Sans-Cyr-Typeface - Cyrillic fork of the Work Sans typeface](https://github.com/alexburba/Work-Sans-Cyr-Typeface)
 - [adap/flower - Flower: A Friendly Federated AI Framework](https://github.com/adap/flower)
 - [thunderbird/send-suite - ⛔️ [DEPRECATED] Send moved to -> https://github.com/thunderbird/tbpro-add-on](https://github.com/thunderbird/send-suite)
-- [a-b-street/osm2streets - Convert OSM to street networks with detailed geometry](https://github.com/a-b-street/osm2streets)
-- [OpenCut-app/OpenCut - The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
