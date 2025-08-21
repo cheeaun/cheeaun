@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [universal-tool-calling-protocol/python-utcp - Official python implementation of the UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
+- [Growth-Kinetics/DiffMem - Git Based Memory Storage for Conversational AI Agent](https://github.com/Growth-Kinetics/DiffMem)
 - [browser-use/cdp-use - 🩹Pure CDP but type-safe in Python](https://github.com/browser-use/cdp-use)
 - [cferdinandi/kelp - A UI library for people who love HTML, powered by modern CSS and Web Components.](https://github.com/cferdinandi/kelp)
 - [rari-build/rari - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by a Rust runtime, delivering 4x faster performance than Next.js with zero-config setup and universal NPM support.](https://github.com/rari-build/rari)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kossnocorp/smolxxh - Tiny xxHash JS implementation](https://github.com/kossnocorp/smolxxh)
 - [kossnocorp/smolcanon - Tiny JS objects canonicalization for hashing](https://github.com/kossnocorp/smolcanon)
 - [alexburba/Work-Sans-Cyr-Typeface - Cyrillic fork of the Work Sans typeface](https://github.com/alexburba/Work-Sans-Cyr-Typeface)
-- [adap/flower - Flower: A Friendly Federated AI Framework](https://github.com/adap/flower)
-- [thunderbird/send-suite - ⛔️ [DEPRECATED] Send moved to -> https://github.com/thunderbird/tbpro-add-on](https://github.com/thunderbird/send-suite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
