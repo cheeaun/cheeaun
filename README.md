@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/file-tree - A file tree component for the web](https://github.com/WebReflection/file-tree)
 - [universal-tool-calling-protocol/python-utcp - Official python implementation of the UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
 - [Growth-Kinetics/DiffMem - Git Based Memory Storage for Conversational AI Agent](https://github.com/Growth-Kinetics/DiffMem)
 - [browser-use/cdp-use - 🩹Pure CDP but type-safe in Python](https://github.com/browser-use/cdp-use)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tessalt/echo-chamber-js - Commenting without the comments](https://github.com/tessalt/echo-chamber-js)
 - [kossnocorp/smolxxh - Tiny xxHash JS implementation](https://github.com/kossnocorp/smolxxh)
 - [kossnocorp/smolcanon - Tiny JS objects canonicalization for hashing](https://github.com/kossnocorp/smolcanon)
-- [alexburba/Work-Sans-Cyr-Typeface - Cyrillic fork of the Work Sans typeface](https://github.com/alexburba/Work-Sans-Cyr-Typeface)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
