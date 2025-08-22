@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kane50613/takumi - Render your React components to images. Available for Rust, Node.js, and WebAssembly.](https://github.com/kane50613/takumi)
+- [shuding/nstr - number → string, but looks good](https://github.com/shuding/nstr)
 - [puckeditor/puck - The visual editor for React](https://github.com/puckeditor/puck)
 - [WebReflection/file-tree - A file tree component for the web](https://github.com/WebReflection/file-tree)
 - [universal-tool-calling-protocol/python-utcp - Official python implementation of the UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [terrastruct/d2 - D2 is a modern diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2)
 - [gemini-testing/looks-same - Node.js library for comparing images](https://github.com/gemini-testing/looks-same)
 - [evanp/onepage.pub - A one-page ActivityPub server](https://github.com/evanp/onepage.pub)
-- [tessalt/echo-chamber-js - Commenting without the comments](https://github.com/tessalt/echo-chamber-js)
-- [kossnocorp/smolxxh - Tiny xxHash JS implementation](https://github.com/kossnocorp/smolxxh)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
