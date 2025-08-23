@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [saucer/saucer - 🛸 A modern, cross-platform C++ webview library](https://github.com/saucer/saucer)
+- [timbray/RFC9839 - Go-language library to check for problematic Unicode code points](https://github.com/timbray/RFC9839)
 - [pop-os/cosmic-text - Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
 - [DioxusLabs/taffy - A high performance rust-powered UI layout library](https://github.com/DioxusLabs/taffy)
 - [kane50613/takumi - Render your React components to images. Available for Rust, Node.js, and WebAssembly.](https://github.com/kane50613/takumi)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rari-build/rari - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by a Rust runtime, delivering 4x faster performance than Next.js with zero-config setup and universal NPM support.](https://github.com/rari-build/rari)
 - [blacksky-algorithms/blacksky.community - Fork of Bluesky customized for community use](https://github.com/blacksky-algorithms/blacksky.community)
 - [sidequestjs/sidequest - Sidequest is a modern, scalable background job processor for Node.js applications.](https://github.com/sidequestjs/sidequest)
-- [social-web-foundation/reactivitypub - A React component library for ActivityPub API clients](https://github.com/social-web-foundation/reactivitypub)
-- [terrastruct/d2 - D2 is a modern diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
