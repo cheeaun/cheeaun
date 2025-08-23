@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pop-os/cosmic-text - Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
+- [DioxusLabs/taffy - A high performance rust-powered UI layout library](https://github.com/DioxusLabs/taffy)
 - [kane50613/takumi - Render your React components to images. Available for Rust, Node.js, and WebAssembly.](https://github.com/kane50613/takumi)
 - [shuding/nstr - number → string, but looks good](https://github.com/shuding/nstr)
 - [puckeditor/puck - The visual editor for React](https://github.com/puckeditor/puck)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sidequestjs/sidequest - Sidequest is a modern, scalable background job processor for Node.js applications.](https://github.com/sidequestjs/sidequest)
 - [social-web-foundation/reactivitypub - A React component library for ActivityPub API clients](https://github.com/social-web-foundation/reactivitypub)
 - [terrastruct/d2 - D2 is a modern diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2)
-- [gemini-testing/looks-same - Node.js library for comparing images](https://github.com/gemini-testing/looks-same)
-- [evanp/onepage.pub - A one-page ActivityPub server](https://github.com/evanp/onepage.pub)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
