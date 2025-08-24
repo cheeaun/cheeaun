@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [roryclear/clearcam - Add object detection, tracking, and mobile notifications to any RTSP Camera or iPhone.](https://github.com/roryclear/clearcam)
 - [remarkablemark/html-react-parser - 📝 HTML to React parser.](https://github.com/remarkablemark/html-react-parser)
 - [knotbin/airport - AT Protocol PDS migration built in Deno Fresh](https://github.com/knotbin/airport)
 - [bellard/quickjs - Public repository of the QuickJS Javascript Engine.](https://github.com/bellard/quickjs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [universal-tool-calling-protocol/python-utcp - Official python implementation of the UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
 - [Growth-Kinetics/DiffMem - Git Based Memory Storage for Conversational AI Agent](https://github.com/Growth-Kinetics/DiffMem)
 - [browser-use/cdp-use - 🩹Pure CDP but type-safe in Python](https://github.com/browser-use/cdp-use)
-- [cferdinandi/kelp - A UI library for people who love HTML, powered by modern CSS and Web Components.](https://github.com/cferdinandi/kelp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
