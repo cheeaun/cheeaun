@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [knotbin/airport - AT Protocol PDS migration built in Deno Fresh](https://github.com/knotbin/airport)
 - [bellard/quickjs - Public repository of the QuickJS Javascript Engine.](https://github.com/bellard/quickjs)
 - [saucer/saucer - 🛸 A modern, cross-platform C++ webview library](https://github.com/saucer/saucer)
 - [timbray/RFC9839 - Go-language library to check for problematic Unicode code points](https://github.com/timbray/RFC9839)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [browser-use/cdp-use - 🩹Pure CDP but type-safe in Python](https://github.com/browser-use/cdp-use)
 - [cferdinandi/kelp - A UI library for people who love HTML, powered by modern CSS and Web Components.](https://github.com/cferdinandi/kelp)
 - [rari-build/rari - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by a Rust runtime, delivering 4x faster performance than Next.js with zero-config setup and universal NPM support.](https://github.com/rari-build/rari)
-- [blacksky-algorithms/blacksky.community - Fork of Bluesky customized for community use](https://github.com/blacksky-algorithms/blacksky.community)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
