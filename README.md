@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kentaromiura/ShallowT](https://github.com/kentaromiura/ShallowT)
 - [calibreapp/image-actions - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.](https://github.com/calibreapp/image-actions)
 - [roryclear/clearcam - Add object detection, tracking, and mobile notifications to any RTSP Camera or iPhone.](https://github.com/roryclear/clearcam)
 - [remarkablemark/html-react-parser - 📝 HTML to React parser.](https://github.com/remarkablemark/html-react-parser)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [puckeditor/puck - The visual editor for React](https://github.com/puckeditor/puck)
 - [WebReflection/file-tree - A file tree component for the web](https://github.com/WebReflection/file-tree)
 - [universal-tool-calling-protocol/python-utcp - Official python implementation of the UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
-- [Growth-Kinetics/DiffMem - Git Based Memory Storage for Conversational AI Agent](https://github.com/Growth-Kinetics/DiffMem)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
