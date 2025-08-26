@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [blacksky-algorithms/rsky -  An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.](https://github.com/blacksky-algorithms/rsky)
+- [slevithan/regex - JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.](https://github.com/slevithan/regex)
 - [kentaromiura/ShallowT](https://github.com/kentaromiura/ShallowT)
 - [calibreapp/image-actions - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.](https://github.com/calibreapp/image-actions)
 - [roryclear/clearcam - Add object detection, tracking, and mobile notifications to any RTSP Camera or iPhone.](https://github.com/roryclear/clearcam)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kane50613/takumi - Render your React components to images. Available for Rust, Node.js, and WebAssembly.](https://github.com/kane50613/takumi)
 - [shuding/nstr - number → string, but looks good](https://github.com/shuding/nstr)
 - [puckeditor/puck - The visual editor for React](https://github.com/puckeditor/puck)
-- [WebReflection/file-tree - A file tree component for the web](https://github.com/WebReflection/file-tree)
-- [universal-tool-calling-protocol/python-utcp - Official python implementation of the UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
