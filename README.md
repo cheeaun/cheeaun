@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [SliceOSM/sliceosm-frontend - Frontend for downloading minutely on-demand OpenStreetMap data](https://github.com/SliceOSM/sliceosm-frontend)
+- [bdon/OSMExpress - Fast database file format for OpenStreetMap](https://github.com/bdon/OSMExpress)
 - [blacksky-algorithms/rsky -  An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.](https://github.com/blacksky-algorithms/rsky)
 - [slevithan/regex - JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.](https://github.com/slevithan/regex)
 - [kentaromiura/ShallowT](https://github.com/kentaromiura/ShallowT)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pop-os/cosmic-text - Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
 - [DioxusLabs/taffy - A high performance rust-powered UI layout library](https://github.com/DioxusLabs/taffy)
 - [kane50613/takumi - Render your React components to images. Available for Rust, Node.js, and WebAssembly.](https://github.com/kane50613/takumi)
-- [shuding/nstr - number → string, but looks good](https://github.com/shuding/nstr)
-- [puckeditor/puck - The visual editor for React](https://github.com/puckeditor/puck)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
