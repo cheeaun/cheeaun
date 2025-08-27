@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [astral-sh/uv - An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
+- [spinel-coop/rv - 💎💨 Next-gen very fast Ruby tooling](https://github.com/spinel-coop/rv)
 - [SliceOSM/sliceosm-frontend - Frontend for downloading minutely on-demand OpenStreetMap data](https://github.com/SliceOSM/sliceosm-frontend)
 - [bdon/OSMExpress - Fast database file format for OpenStreetMap](https://github.com/bdon/OSMExpress)
 - [blacksky-algorithms/rsky -  An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.](https://github.com/blacksky-algorithms/rsky)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [saucer/saucer - 🛸 A modern, cross-platform C++ webview library](https://github.com/saucer/saucer)
 - [timbray/RFC9839 - Go-language library to check for problematic Unicode code points](https://github.com/timbray/RFC9839)
 - [pop-os/cosmic-text - Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
-- [DioxusLabs/taffy - A high performance rust-powered UI layout library](https://github.com/DioxusLabs/taffy)
-- [kane50613/takumi - Render your React components to images. Available for Rust, Node.js, and WebAssembly.](https://github.com/kane50613/takumi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
