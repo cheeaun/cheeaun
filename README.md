@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [forem/forem - For empowering community 🌱](https://github.com/forem/forem)
 - [yamadashy/repomix - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.](https://github.com/yamadashy/repomix)
 - [image-js/fast-jpeg - JPEG image decoder written entirely in JavaScript](https://github.com/image-js/fast-jpeg)
 - [image-js/image-js - Image processing and manipulation in JavaScript](https://github.com/image-js/image-js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bdon/OSMExpress - Fast database file format for OpenStreetMap](https://github.com/bdon/OSMExpress)
 - [blacksky-algorithms/rsky -  An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.](https://github.com/blacksky-algorithms/rsky)
 - [slevithan/regex - JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.](https://github.com/slevithan/regex)
-- [kentaromiura/ShallowT](https://github.com/kentaromiura/ShallowT)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
