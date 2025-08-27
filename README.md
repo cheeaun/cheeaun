@@ -27,6 +27,14 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yamadashy/repomix - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.](https://github.com/yamadashy/repomix)
+- [image-js/fast-jpeg - JPEG image decoder written entirely in JavaScript](https://github.com/image-js/fast-jpeg)
+- [image-js/image-js - Image processing and manipulation in JavaScript](https://github.com/image-js/image-js)
+- [langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.](https://github.com/langflow-ai/langflow)
+- [webmachinelearning/webmcp - 🤖 WebMCP 🧪](https://github.com/webmachinelearning/webmcp)
+- [philnash/alttextr - An app that uses Langflow and OpenAI to generate alt text suggestions for images](https://github.com/philnash/alttextr)
+- [jhuckaby/Cronicle - A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
+- [samhenrigold/apple-event-shader](https://github.com/samhenrigold/apple-event-shader)
 - [astral-sh/uv - An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
 - [spinel-coop/rv - 💎💨 Next-gen very fast Ruby tooling](https://github.com/spinel-coop/rv)
 - [SliceOSM/sliceosm-frontend - Frontend for downloading minutely on-demand OpenStreetMap data](https://github.com/SliceOSM/sliceosm-frontend)
@@ -34,14 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [blacksky-algorithms/rsky -  An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.](https://github.com/blacksky-algorithms/rsky)
 - [slevithan/regex - JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.](https://github.com/slevithan/regex)
 - [kentaromiura/ShallowT](https://github.com/kentaromiura/ShallowT)
-- [calibreapp/image-actions - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.](https://github.com/calibreapp/image-actions)
-- [roryclear/clearcam - Add object detection, tracking, and mobile notifications to any RTSP Camera or iPhone.](https://github.com/roryclear/clearcam)
-- [remarkablemark/html-react-parser - 📝 HTML to React parser.](https://github.com/remarkablemark/html-react-parser)
-- [knotbin/airport - AT Protocol PDS migration built in Deno Fresh](https://github.com/knotbin/airport)
-- [bellard/quickjs - Public repository of the QuickJS Javascript Engine.](https://github.com/bellard/quickjs)
-- [saucer/saucer - 🛸 A modern, cross-platform C++ webview library](https://github.com/saucer/saucer)
-- [timbray/RFC9839 - Go-language library to check for problematic Unicode code points](https://github.com/timbray/RFC9839)
-- [pop-os/cosmic-text - Pure Rust multi-line text handling](https://github.com/pop-os/cosmic-text)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
