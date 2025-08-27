@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JakeRoggenbuck/regolith - A server-side TypeScript and JavaScript library immune to Regular Expression Denial of Service (ReDoS) attacks by using Rust and linear RegEx under the hood. Regolith has a linear worst case time complexity, compared to the default RegExp found in TypeScript and JavaScript, which has an exponential worst case.](https://github.com/JakeRoggenbuck/regolith)
 - [forem/forem - For empowering community 🌱](https://github.com/forem/forem)
 - [yamadashy/repomix - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.](https://github.com/yamadashy/repomix)
 - [image-js/fast-jpeg - JPEG image decoder written entirely in JavaScript](https://github.com/image-js/fast-jpeg)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [SliceOSM/sliceosm-frontend - Frontend for downloading minutely on-demand OpenStreetMap data](https://github.com/SliceOSM/sliceosm-frontend)
 - [bdon/OSMExpress - Fast database file format for OpenStreetMap](https://github.com/bdon/OSMExpress)
 - [blacksky-algorithms/rsky -  An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.](https://github.com/blacksky-algorithms/rsky)
-- [slevithan/regex - JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.](https://github.com/slevithan/regex)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
