@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [47ng/nuqs - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.](https://github.com/47ng/nuqs)
 - [unjs/fontaine - Automatic font fallback based on font metrics](https://github.com/unjs/fontaine)
 - [FaFre/WebLibre - Browse privately, search locally. Organize tabs, block tracking, and use Tor.](https://github.com/FaFre/WebLibre)
 - [JakeRoggenbuck/regolith - A server-side TypeScript and JavaScript library immune to Regular Expression Denial of Service (ReDoS) attacks by using Rust and linear RegEx under the hood. Regolith has a linear worst case time complexity, compared to the default RegExp found in TypeScript and JavaScript, which has an exponential worst case.](https://github.com/JakeRoggenbuck/regolith)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [samhenrigold/apple-event-shader](https://github.com/samhenrigold/apple-event-shader)
 - [astral-sh/uv - An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
 - [spinel-coop/rv - 💎💨 Next-gen very fast Ruby tooling](https://github.com/spinel-coop/rv)
-- [SliceOSM/sliceosm-frontend - Frontend for downloading minutely on-demand OpenStreetMap data](https://github.com/SliceOSM/sliceosm-frontend)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
