@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fengyuanchen/compressorjs - JavaScript image compressor.](https://github.com/fengyuanchen/compressorjs)
+- [Chainlift/liftkit - Components from design to production](https://github.com/Chainlift/liftkit)
 - [vercel/streamdown - A drop-in replacement for react-markdown, designed for AI-powered streaming.](https://github.com/vercel/streamdown)
 - [47ng/nuqs - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.](https://github.com/47ng/nuqs)
 - [unjs/fontaine - Automatic font fallback based on font metrics](https://github.com/unjs/fontaine)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [webmachinelearning/webmcp - 🤖 WebMCP 🧪](https://github.com/webmachinelearning/webmcp)
 - [philnash/alttextr - An app that uses Langflow and OpenAI to generate alt text suggestions for images](https://github.com/philnash/alttextr)
 - [jhuckaby/Cronicle - A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
-- [samhenrigold/apple-event-shader](https://github.com/samhenrigold/apple-event-shader)
-- [astral-sh/uv - An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
