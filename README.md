@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel/streamdown - A drop-in replacement for react-markdown, designed for AI-powered streaming.](https://github.com/vercel/streamdown)
 - [47ng/nuqs - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.](https://github.com/47ng/nuqs)
 - [unjs/fontaine - Automatic font fallback based on font metrics](https://github.com/unjs/fontaine)
 - [FaFre/WebLibre - Browse privately, search locally. Organize tabs, block tracking, and use Tor.](https://github.com/FaFre/WebLibre)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jhuckaby/Cronicle - A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
 - [samhenrigold/apple-event-shader](https://github.com/samhenrigold/apple-event-shader)
 - [astral-sh/uv - An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
-- [spinel-coop/rv - 💎💨 Next-gen very fast Ruby tooling](https://github.com/spinel-coop/rv)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
