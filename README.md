@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [subframe7536/maple-font - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项](https://github.com/subframe7536/maple-font)
+- [0xType/0xProto - A programming font focused on source code legibility](https://github.com/0xType/0xProto)
 - [fengyuanchen/compressorjs - JavaScript image compressor.](https://github.com/fengyuanchen/compressorjs)
 - [Chainlift/liftkit - Components from design to production](https://github.com/Chainlift/liftkit)
 - [vercel/streamdown - A drop-in replacement for react-markdown, designed for AI-powered streaming.](https://github.com/vercel/streamdown)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [image-js/image-js - Image processing and manipulation in JavaScript](https://github.com/image-js/image-js)
 - [langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.](https://github.com/langflow-ai/langflow)
 - [webmachinelearning/webmcp - 🤖 WebMCP 🧪](https://github.com/webmachinelearning/webmcp)
-- [philnash/alttextr - An app that uses Langflow and OpenAI to generate alt text suggestions for images](https://github.com/philnash/alttextr)
-- [jhuckaby/Cronicle - A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
