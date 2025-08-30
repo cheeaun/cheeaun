@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [morgansleeper/Yamanotes - A music box of train station melodies from the JR Yamanote Line 🚃](https://github.com/morgansleeper/Yamanotes)
 - [subframe7536/maple-font - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项](https://github.com/subframe7536/maple-font)
 - [0xType/0xProto - A programming font focused on source code legibility](https://github.com/0xType/0xProto)
 - [fengyuanchen/compressorjs - JavaScript image compressor.](https://github.com/fengyuanchen/compressorjs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [image-js/fast-jpeg - JPEG image decoder written entirely in JavaScript](https://github.com/image-js/fast-jpeg)
 - [image-js/image-js - Image processing and manipulation in JavaScript](https://github.com/image-js/image-js)
 - [langflow-ai/langflow - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.](https://github.com/langflow-ai/langflow)
-- [webmachinelearning/webmcp - 🤖 WebMCP 🧪](https://github.com/webmachinelearning/webmcp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
