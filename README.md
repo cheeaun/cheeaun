@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [anze3db/fedidevs - Discover amazing developers across the fediverse 🌐](https://github.com/anze3db/fedidevs)
 - [ricci/distributed-social-networks - Code and data used to compute how distributed various social networks are in practice](https://github.com/ricci/distributed-social-networks)
 - [morgansleeper/Yamanotes - A music box of train station melodies from the JR Yamanote Line 🚃](https://github.com/morgansleeper/Yamanotes)
 - [subframe7536/maple-font - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项](https://github.com/subframe7536/maple-font)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [forem/forem - For empowering community 🌱](https://github.com/forem/forem)
 - [yamadashy/repomix - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.](https://github.com/yamadashy/repomix)
 - [image-js/fast-jpeg - JPEG image decoder written entirely in JavaScript](https://github.com/image-js/fast-jpeg)
-- [image-js/image-js - Image processing and manipulation in JavaScript](https://github.com/image-js/image-js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
