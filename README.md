@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dumbmatter/fakeIndexedDB - A pure JS in-memory implementation of the IndexedDB API](https://github.com/dumbmatter/fakeIndexedDB)
 - [anze3db/fedidevs - Discover amazing developers across the fediverse 🌐](https://github.com/anze3db/fedidevs)
 - [ricci/distributed-social-networks - Code and data used to compute how distributed various social networks are in practice](https://github.com/ricci/distributed-social-networks)
 - [morgansleeper/Yamanotes - A music box of train station melodies from the JR Yamanote Line 🚃](https://github.com/morgansleeper/Yamanotes)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JakeRoggenbuck/regolith - A server-side TypeScript and JavaScript library immune to Regular Expression Denial of Service (ReDoS) attacks by using Rust and linear RegEx under the hood. Regolith has a linear worst case time complexity, compared to the default RegExp found in TypeScript and JavaScript, which has an exponential worst case.](https://github.com/JakeRoggenbuck/regolith)
 - [forem/forem - For empowering community 🌱](https://github.com/forem/forem)
 - [yamadashy/repomix - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.](https://github.com/yamadashy/repomix)
-- [image-js/fast-jpeg - JPEG image decoder written entirely in JavaScript](https://github.com/image-js/fast-jpeg)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
