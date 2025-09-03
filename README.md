@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/VibeVoice - Frontier Open-Source Text-to-Speech](https://github.com/microsoft/VibeVoice)
 - [Vanessa219/vditor - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.](https://github.com/Vanessa219/vditor)
 - [dumbmatter/fakeIndexedDB - A pure JS in-memory implementation of the IndexedDB API](https://github.com/dumbmatter/fakeIndexedDB)
 - [anze3db/fedidevs - Discover amazing developers across the fediverse 🌐](https://github.com/anze3db/fedidevs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unjs/fontaine - Automatic font fallback based on font metrics](https://github.com/unjs/fontaine)
 - [FaFre/WebLibre - Browse privately, search locally. Organize tabs, block tracking, and use Tor.](https://github.com/FaFre/WebLibre)
 - [JakeRoggenbuck/regolith - A server-side TypeScript and JavaScript library immune to Regular Expression Denial of Service (ReDoS) attacks by using Rust and linear RegEx under the hood. Regolith has a linear worst case time complexity, compared to the default RegExp found in TypeScript and JavaScript, which has an exponential worst case.](https://github.com/JakeRoggenbuck/regolith)
-- [forem/forem - For empowering community 🌱](https://github.com/forem/forem)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
