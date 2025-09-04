@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [swicg/activitypub-trust-and-safety - ActivityPub Trust and Safety Taskforce](https://github.com/swicg/activitypub-trust-and-safety)
 - [pamelafox/ndjson-readablestream - A small JS package for reading a ReadableStream of NDJSON ](https://github.com/pamelafox/ndjson-readablestream)
 - [WICG/isolated-web-apps - Repository for explainers and other documents related to the Isolated Web Apps proposal.](https://github.com/WICG/isolated-web-apps)
 - [matlfb/mastodon-alt-text-generator - Generate Mastodon image alts automatically](https://github.com/matlfb/mastodon-alt-text-generator)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Chainlift/liftkit - Components from design to production](https://github.com/Chainlift/liftkit)
 - [vercel/streamdown - A drop-in replacement for react-markdown, designed for AI-powered streaming.](https://github.com/vercel/streamdown)
 - [47ng/nuqs - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.](https://github.com/47ng/nuqs)
-- [unjs/fontaine - Automatic font fallback based on font metrics](https://github.com/unjs/fontaine)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
