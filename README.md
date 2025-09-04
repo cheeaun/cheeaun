@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cornerstonejs/cornerstone3D - Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.](https://github.com/cornerstonejs/cornerstone3D)
+- [embedpdf/embed-pdf-viewer - A PDF viewer that seamlessly integrates with any JavaScript project](https://github.com/embedpdf/embed-pdf-viewer)
+- [tholman/cursor-effects - Old-school cursor effects for your browser built with modern JavaScript](https://github.com/tholman/cursor-effects)
+- [csswizardry/Obs.js - Context-aware web performance for everyone](https://github.com/csswizardry/Obs.js)
+- [panphora/overtype - The markdown editor that's just a textarea https://overtype.dev](https://github.com/panphora/overtype)
 - [swicg/activitypub-trust-and-safety - ActivityPub Trust and Safety Taskforce](https://github.com/swicg/activitypub-trust-and-safety)
 - [pamelafox/ndjson-readablestream - A small JS package for reading a ReadableStream of NDJSON ](https://github.com/pamelafox/ndjson-readablestream)
 - [WICG/isolated-web-apps - Repository for explainers and other documents related to the Isolated Web Apps proposal.](https://github.com/WICG/isolated-web-apps)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ricci/distributed-social-networks - Code and data used to compute how distributed various social networks are in practice](https://github.com/ricci/distributed-social-networks)
 - [morgansleeper/Yamanotes - A music box of train station melodies from the JR Yamanote Line 🚃](https://github.com/morgansleeper/Yamanotes)
 - [subframe7536/maple-font - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项](https://github.com/subframe7536/maple-font)
-- [0xType/0xProto - A programming font focused on source code legibility](https://github.com/0xType/0xProto)
-- [fengyuanchen/compressorjs - JavaScript image compressor.](https://github.com/fengyuanchen/compressorjs)
-- [Chainlift/liftkit - Components from design to production](https://github.com/Chainlift/liftkit)
-- [vercel/streamdown - A drop-in replacement for react-markdown, designed for AI-powered streaming.](https://github.com/vercel/streamdown)
-- [47ng/nuqs - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.](https://github.com/47ng/nuqs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
