@@ -29,7 +29,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 <!-- starred repos start -->
 - [WICG/isolated-web-apps - Repository for explainers and other documents related to the Isolated Web Apps proposal.](https://github.com/WICG/isolated-web-apps)
 - [matlfb/mastodon-alt-text-generator - Generate Mastodon image alts automatically](https://github.com/matlfb/mastodon-alt-text-generator)
-- [microsoft/VibeVoice - Frontier Open-Source Text-to-Speech](https://github.com/microsoft/VibeVoice)
 - [Vanessa219/vditor - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.](https://github.com/Vanessa219/vditor)
 - [dumbmatter/fakeIndexedDB - A pure JS in-memory implementation of the IndexedDB API](https://github.com/dumbmatter/fakeIndexedDB)
 - [anze3db/fedidevs - Discover amazing developers across the fediverse 🌐](https://github.com/anze3db/fedidevs)
@@ -42,6 +41,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vercel/streamdown - A drop-in replacement for react-markdown, designed for AI-powered streaming.](https://github.com/vercel/streamdown)
 - [47ng/nuqs - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.](https://github.com/47ng/nuqs)
 - [unjs/fontaine - Automatic font fallback based on font metrics](https://github.com/unjs/fontaine)
+- [FaFre/WebLibre - Browse privately, search locally. Organize tabs, block tracking, and use Tor.](https://github.com/FaFre/WebLibre)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
