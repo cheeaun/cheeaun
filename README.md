@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [joinloops/loops-app - Mobile app for Loops](https://github.com/joinloops/loops-app)
+- [joinloops/loops-server - The federated short video sharing platform.](https://github.com/joinloops/loops-server)
 - [cornerstonejs/cornerstone3D - Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.](https://github.com/cornerstonejs/cornerstone3D)
 - [embedpdf/embed-pdf-viewer - A PDF viewer that seamlessly integrates with any JavaScript project](https://github.com/embedpdf/embed-pdf-viewer)
 - [tholman/cursor-effects - Old-school cursor effects for your browser built with modern JavaScript](https://github.com/tholman/cursor-effects)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dumbmatter/fakeIndexedDB - A pure JS in-memory implementation of the IndexedDB API](https://github.com/dumbmatter/fakeIndexedDB)
 - [anze3db/fedidevs - Discover amazing developers across the fediverse 🌐](https://github.com/anze3db/fedidevs)
 - [ricci/distributed-social-networks - Code and data used to compute how distributed various social networks are in practice](https://github.com/ricci/distributed-social-networks)
-- [morgansleeper/Yamanotes - A music box of train station melodies from the JR Yamanote Line 🚃](https://github.com/morgansleeper/Yamanotes)
-- [subframe7536/maple-font - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项](https://github.com/subframe7536/maple-font)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
