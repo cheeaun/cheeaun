@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [swicg/general - General issue tracker for the group](https://github.com/swicg/general)
 - [Vanilagy/mediabunny - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.](https://github.com/Vanilagy/mediabunny)
 - [trueadm/ripple - the elegant TypeScript UI framework](https://github.com/trueadm/ripple)
 - [Kilo-Org/kilocode - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social](https://github.com/Kilo-Org/kilocode)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pamelafox/ndjson-readablestream - A small JS package for reading a ReadableStream of NDJSON ](https://github.com/pamelafox/ndjson-readablestream)
 - [WICG/isolated-web-apps - Repository for explainers and other documents related to the Isolated Web Apps proposal.](https://github.com/WICG/isolated-web-apps)
 - [matlfb/mastodon-alt-text-generator - Generate Mastodon image alts automatically](https://github.com/matlfb/mastodon-alt-text-generator)
-- [Vanessa219/vditor - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.](https://github.com/Vanessa219/vditor)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
