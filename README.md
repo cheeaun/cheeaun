@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Kilo-Org/kilocode - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social](https://github.com/Kilo-Org/kilocode)
 - [joinloops/loops-app - Mobile app for Loops](https://github.com/joinloops/loops-app)
 - [joinloops/loops-server - The federated short video sharing platform.](https://github.com/joinloops/loops-server)
 - [cornerstonejs/cornerstone3D - Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.](https://github.com/cornerstonejs/cornerstone3D)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Vanessa219/vditor - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.](https://github.com/Vanessa219/vditor)
 - [dumbmatter/fakeIndexedDB - A pure JS in-memory implementation of the IndexedDB API](https://github.com/dumbmatter/fakeIndexedDB)
 - [anze3db/fedidevs - Discover amazing developers across the fediverse 🌐](https://github.com/anze3db/fedidevs)
-- [ricci/distributed-social-networks - Code and data used to compute how distributed various social networks are in practice](https://github.com/ricci/distributed-social-networks)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
