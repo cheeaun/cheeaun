@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [samhenrigold/LidAngleSensor - tfw when you when your lid when uhh angle your lid sensor](https://github.com/samhenrigold/LidAngleSensor)
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
 - [swicg/general - General issue tracker for the group](https://github.com/swicg/general)
 - [Vanilagy/mediabunny - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.](https://github.com/Vanilagy/mediabunny)
 - [trueadm/ripple - the elegant TypeScript UI framework](https://github.com/trueadm/ripple)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [panphora/overtype - The markdown editor that's just a textarea https://overtype.dev](https://github.com/panphora/overtype)
 - [swicg/activitypub-trust-and-safety - ActivityPub Trust and Safety Taskforce](https://github.com/swicg/activitypub-trust-and-safety)
 - [pamelafox/ndjson-readablestream - A small JS package for reading a ReadableStream of NDJSON ](https://github.com/pamelafox/ndjson-readablestream)
-- [WICG/isolated-web-apps - Repository for explainers and other documents related to the Isolated Web Apps proposal.](https://github.com/WICG/isolated-web-apps)
-- [matlfb/mastodon-alt-text-generator - Generate Mastodon image alts automatically](https://github.com/matlfb/mastodon-alt-text-generator)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
