@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cosmoslide/cosmoslide](https://github.com/cosmoslide/cosmoslide)
 - [samhenrigold/LidAngleSensor - tfw when you when your lid when uhh angle your lid sensor](https://github.com/samhenrigold/LidAngleSensor)
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
 - [swicg/general - General issue tracker for the group](https://github.com/swicg/general)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [csswizardry/Obs.js - Context-aware web performance for everyone](https://github.com/csswizardry/Obs.js)
 - [panphora/overtype - The markdown editor that's just a textarea https://overtype.dev](https://github.com/panphora/overtype)
 - [swicg/activitypub-trust-and-safety - ActivityPub Trust and Safety Taskforce](https://github.com/swicg/activitypub-trust-and-safety)
-- [pamelafox/ndjson-readablestream - A small JS package for reading a ReadableStream of NDJSON ](https://github.com/pamelafox/ndjson-readablestream)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
