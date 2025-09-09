@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fastify/env-schema - Validate your env variables using Ajv and dotenv](https://github.com/fastify/env-schema)
 - [9001/copyparty - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty)
 - [cosmoslide/cosmoslide](https://github.com/cosmoslide/cosmoslide)
 - [samhenrigold/LidAngleSensor - tfw when you when your lid when uhh angle your lid sensor](https://github.com/samhenrigold/LidAngleSensor)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [embedpdf/embed-pdf-viewer - A PDF viewer that seamlessly integrates with any JavaScript project](https://github.com/embedpdf/embed-pdf-viewer)
 - [tholman/cursor-effects - Old-school cursor effects for your browser built with modern JavaScript](https://github.com/tholman/cursor-effects)
 - [csswizardry/Obs.js - Context-aware web performance for everyone](https://github.com/csswizardry/Obs.js)
-- [panphora/overtype - The markdown editor that's just a textarea https://overtype.dev](https://github.com/panphora/overtype)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
