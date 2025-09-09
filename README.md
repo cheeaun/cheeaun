@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [val-town/codemirror-ts - lint, hover, goto, autocomplete, and twoslash extensions for CodeMirror + TypeScript](https://github.com/val-town/codemirror-ts)
+- [AbelVM/maplibre-preload - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibreGL JS.](https://github.com/AbelVM/maplibre-preload)
+- [mapcomponents/react-map-components-maplibre - A react component framework for declarative GIS application development.](https://github.com/mapcomponents/react-map-components-maplibre)
+- [open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
 - [fastify/env-schema - Validate your env variables using Ajv and dotenv](https://github.com/fastify/env-schema)
 - [9001/copyparty - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty)
 - [cosmoslide/cosmoslide](https://github.com/cosmoslide/cosmoslide)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Kilo-Org/kilocode - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social](https://github.com/Kilo-Org/kilocode)
 - [joinloops/loops-app - Mobile app for Loops](https://github.com/joinloops/loops-app)
 - [joinloops/loops-server - The federated short video sharing platform.](https://github.com/joinloops/loops-server)
-- [cornerstonejs/cornerstone3D - Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.](https://github.com/cornerstonejs/cornerstone3D)
-- [embedpdf/embed-pdf-viewer - A PDF viewer that seamlessly integrates with any JavaScript project](https://github.com/embedpdf/embed-pdf-viewer)
-- [tholman/cursor-effects - Old-school cursor effects for your browser built with modern JavaScript](https://github.com/tholman/cursor-effects)
-- [csswizardry/Obs.js - Context-aware web performance for everyone](https://github.com/csswizardry/Obs.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
