@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Expensify/react-native-live-markdown - Drop-in replacement for React Native's TextInput component with Markdown formatting.](https://github.com/Expensify/react-native-live-markdown)
+- [software-mansion-labs/react-native-enriched - Rich text input component for React Native.](https://github.com/software-mansion-labs/react-native-enriched)
 - [val-town/codemirror-ts - lint, hover, goto, autocomplete, and twoslash extensions for CodeMirror + TypeScript](https://github.com/val-town/codemirror-ts)
 - [AbelVM/maplibre-preload - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibreGL JS.](https://github.com/AbelVM/maplibre-preload)
 - [mapcomponents/react-map-components-maplibre - A react component framework for declarative GIS application development.](https://github.com/mapcomponents/react-map-components-maplibre)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Vanilagy/mediabunny - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.](https://github.com/Vanilagy/mediabunny)
 - [trueadm/ripple - the elegant TypeScript UI framework](https://github.com/trueadm/ripple)
 - [Kilo-Org/kilocode - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social](https://github.com/Kilo-Org/kilocode)
-- [joinloops/loops-app - Mobile app for Loops](https://github.com/joinloops/loops-app)
-- [joinloops/loops-server - The federated short video sharing platform.](https://github.com/joinloops/loops-server)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
