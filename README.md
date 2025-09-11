@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dahlia/optique - Type-safe combinatorial CLI parser for TypeScript](https://github.com/dahlia/optique)
+- [whyisdifficult/jiratui - A Textual User Interface for interacting with Atlassian Jira from your shell](https://github.com/whyisdifficult/jiratui)
 - [sienori/simple-translate - WebExtensions for translating text on web pages](https://github.com/sienori/simple-translate)
 - [Expensify/react-native-live-markdown - Drop-in replacement for React Native's TextInput component with Markdown formatting.](https://github.com/Expensify/react-native-live-markdown)
 - [software-mansion-labs/react-native-enriched - Rich text input component for React Native.](https://github.com/software-mansion-labs/react-native-enriched)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [samhenrigold/LidAngleSensor - tfw when you when your lid when uhh angle your lid sensor](https://github.com/samhenrigold/LidAngleSensor)
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
 - [swicg/general - General issue tracker for the group](https://github.com/swicg/general)
-- [Vanilagy/mediabunny - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.](https://github.com/Vanilagy/mediabunny)
-- [trueadm/ripple - the elegant TypeScript UI framework](https://github.com/trueadm/ripple)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
