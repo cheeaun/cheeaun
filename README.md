@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sienori/simple-translate - WebExtensions for translating text on web pages](https://github.com/sienori/simple-translate)
 - [Expensify/react-native-live-markdown - Drop-in replacement for React Native's TextInput component with Markdown formatting.](https://github.com/Expensify/react-native-live-markdown)
 - [software-mansion-labs/react-native-enriched - Rich text input component for React Native.](https://github.com/software-mansion-labs/react-native-enriched)
 - [val-town/codemirror-ts - lint, hover, goto, autocomplete, and twoslash extensions for CodeMirror + TypeScript](https://github.com/val-town/codemirror-ts)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [swicg/general - General issue tracker for the group](https://github.com/swicg/general)
 - [Vanilagy/mediabunny - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.](https://github.com/Vanilagy/mediabunny)
 - [trueadm/ripple - the elegant TypeScript UI framework](https://github.com/trueadm/ripple)
-- [Kilo-Org/kilocode - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social](https://github.com/Kilo-Org/kilocode)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
