@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [harlan-zw/mdream - ☁️ Convert any site to clean markdown & llms.txt. Boost your site's AI discoverability or generate LLM context for a project you're working with.](https://github.com/harlan-zw/mdream)
 - [dahlia/optique - Type-safe combinatorial CLI parser for TypeScript](https://github.com/dahlia/optique)
 - [whyisdifficult/jiratui - A Textual User Interface for interacting with Atlassian Jira from your shell](https://github.com/whyisdifficult/jiratui)
 - [sienori/simple-translate - WebExtensions for translating text on web pages](https://github.com/sienori/simple-translate)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cosmoslide/cosmoslide](https://github.com/cosmoslide/cosmoslide)
 - [samhenrigold/LidAngleSensor - tfw when you when your lid when uhh angle your lid sensor](https://github.com/samhenrigold/LidAngleSensor)
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
-- [swicg/general - General issue tracker for the group](https://github.com/swicg/general)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
