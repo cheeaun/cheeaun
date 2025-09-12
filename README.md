@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shuding/legid - A library for generating safe, legit and random URL-compat IDs.](https://github.com/shuding/legid)
+- [cmj0121/glacial - The pure client for the Mastodon](https://github.com/cmj0121/glacial)
+- [xuanx1/seoulMetro](https://github.com/xuanx1/seoulMetro)
+- [vivlim/pillbug - a (work in progress) gotosocial client](https://github.com/vivlim/pillbug)
 - [harlan-zw/mdream - ☁️ Convert any site to clean markdown & llms.txt. Boost your site's AI discoverability or generate LLM context for a project you're working with.](https://github.com/harlan-zw/mdream)
 - [dahlia/optique - Type-safe combinatorial CLI parser for TypeScript](https://github.com/dahlia/optique)
 - [whyisdifficult/jiratui - A Textual User Interface for interacting with Atlassian Jira from your shell](https://github.com/whyisdifficult/jiratui)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mapcomponents/react-map-components-maplibre - A react component framework for declarative GIS application development.](https://github.com/mapcomponents/react-map-components-maplibre)
 - [open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
 - [fastify/env-schema - Validate your env variables using Ajv and dotenv](https://github.com/fastify/env-schema)
-- [9001/copyparty - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty)
-- [cosmoslide/cosmoslide](https://github.com/cosmoslide/cosmoslide)
-- [samhenrigold/LidAngleSensor - tfw when you when your lid when uhh angle your lid sensor](https://github.com/samhenrigold/LidAngleSensor)
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
