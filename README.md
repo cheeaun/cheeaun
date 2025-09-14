@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [evanp/activitypub-bot - An ActivityPub server-side bot framework](https://github.com/evanp/activitypub-bot)
 - [kavishdevar/librepods - AirPods libreated from Apple's ecosystem.](https://github.com/kavishdevar/librepods)
 - [shuding/legid - A library for generating safe, legit and random URL-compat IDs.](https://github.com/shuding/legid)
 - [cmj0121/glacial - The pure client for the Mastodon](https://github.com/cmj0121/glacial)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [val-town/codemirror-ts - lint, hover, goto, autocomplete, and twoslash extensions for CodeMirror + TypeScript](https://github.com/val-town/codemirror-ts)
 - [AbelVM/maplibre-preload - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibreGL JS.](https://github.com/AbelVM/maplibre-preload)
 - [mapcomponents/react-map-components-maplibre - A react component framework for declarative GIS application development.](https://github.com/mapcomponents/react-map-components-maplibre)
-- [open-webui/open-webui - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
