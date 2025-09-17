@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [foldaway/mrtdown-site](https://github.com/foldaway/mrtdown-site)
+- [foldaway/mrtdown-data - Data repository for https://mrtdown.org](https://github.com/foldaway/mrtdown-data)
 - [CelestiaProject/Celestia - Real-time 3D visualization of space.](https://github.com/CelestiaProject/Celestia)
 - [evanp/activitypub-bot - An ActivityPub server-side bot framework](https://github.com/evanp/activitypub-bot)
 - [kavishdevar/librepods - AirPods libreated from Apple's ecosystem.](https://github.com/kavishdevar/librepods)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sienori/simple-translate - WebExtensions for translating text on web pages](https://github.com/sienori/simple-translate)
 - [Expensify/react-native-live-markdown - Drop-in replacement for React Native's TextInput component with Markdown formatting.](https://github.com/Expensify/react-native-live-markdown)
 - [software-mansion-labs/react-native-enriched - Rich text input component for React Native.](https://github.com/software-mansion-labs/react-native-enriched)
-- [val-town/codemirror-ts - lint, hover, goto, autocomplete, and twoslash extensions for CodeMirror + TypeScript](https://github.com/val-town/codemirror-ts)
-- [AbelVM/maplibre-preload - A tiny zero-configuration plugin for preloading tiles and smoothen the experience when using targeted movements in MapLibreGL JS.](https://github.com/AbelVM/maplibre-preload)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
