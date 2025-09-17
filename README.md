@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sindresorhus/terminal-image - Display images in the terminal](https://github.com/sindresorhus/terminal-image)
 - [foldaway/mrtdown-site](https://github.com/foldaway/mrtdown-site)
 - [foldaway/mrtdown-data - Data repository for https://mrtdown.org](https://github.com/foldaway/mrtdown-data)
 - [CelestiaProject/Celestia - Real-time 3D visualization of space.](https://github.com/CelestiaProject/Celestia)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [whyisdifficult/jiratui - A Textual User Interface for interacting with Atlassian Jira from your shell](https://github.com/whyisdifficult/jiratui)
 - [sienori/simple-translate - WebExtensions for translating text on web pages](https://github.com/sienori/simple-translate)
 - [Expensify/react-native-live-markdown - Drop-in replacement for React Native's TextInput component with Markdown formatting.](https://github.com/Expensify/react-native-live-markdown)
-- [software-mansion-labs/react-native-enriched - Rich text input component for React Native.](https://github.com/software-mansion-labs/react-native-enriched)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
