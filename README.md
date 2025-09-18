@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [hackmdio/codimd - CodiMD - Realtime collaborative markdown notes on all platforms.](https://github.com/hackmdio/codimd)
 - [sindresorhus/terminal-image - Display images in the terminal](https://github.com/sindresorhus/terminal-image)
 - [foldaway/mrtdown-site](https://github.com/foldaway/mrtdown-site)
 - [foldaway/mrtdown-data - Data repository for https://mrtdown.org](https://github.com/foldaway/mrtdown-data)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dahlia/optique - Type-safe combinatorial CLI parser for TypeScript](https://github.com/dahlia/optique)
 - [whyisdifficult/jiratui - A Textual User Interface for interacting with Atlassian Jira from your shell](https://github.com/whyisdifficult/jiratui)
 - [sienori/simple-translate - WebExtensions for translating text on web pages](https://github.com/sienori/simple-translate)
-- [Expensify/react-native-live-markdown - Drop-in replacement for React Native's TextInput component with Markdown formatting.](https://github.com/Expensify/react-native-live-markdown)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
