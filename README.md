@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bluwy/renoma - A recursive node_modules analyzer with opinionated package health checks](https://github.com/bluwy/renoma)
 - [Nutomic/ibis - A federated online encyclopedia](https://github.com/Nutomic/ibis)
 - [hackmdio/codimd - CodiMD - Realtime collaborative markdown notes on all platforms.](https://github.com/hackmdio/codimd)
 - [sindresorhus/terminal-image - Display images in the terminal](https://github.com/sindresorhus/terminal-image)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vivlim/pillbug - a (work in progress) gotosocial client](https://github.com/vivlim/pillbug)
 - [harlan-zw/mdream - ☁️ Convert any site to clean markdown & llms.txt. Boost your site's AI discoverability or generate LLM context for a project you're working with.](https://github.com/harlan-zw/mdream)
 - [dahlia/optique - Type-safe combinatorial CLI parser for TypeScript](https://github.com/dahlia/optique)
-- [whyisdifficult/jiratui - A Textual User Interface for interacting with Atlassian Jira from your shell](https://github.com/whyisdifficult/jiratui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
