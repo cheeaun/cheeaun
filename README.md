@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JerryZLiu/Dayflow - Generate a timeline of your day, automatically](https://github.com/JerryZLiu/Dayflow)
 - [LarsKoelpin/magic-bytes - A library for detecting file types.](https://github.com/LarsKoelpin/magic-bytes)
 - [QwenLM/Qwen3-VL - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-VL)
 - [bluwy/renoma - A recursive node_modules analyzer with opinionated package health checks](https://github.com/bluwy/renoma)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shuding/legid - A library for generating safe, legit and random URL-compat IDs.](https://github.com/shuding/legid)
 - [cmj0121/glacial - The pure client for the Mastodon](https://github.com/cmj0121/glacial)
 - [xuanx1/seoulMetro](https://github.com/xuanx1/seoulMetro)
-- [vivlim/pillbug - a (work in progress) gotosocial client](https://github.com/vivlim/pillbug)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
