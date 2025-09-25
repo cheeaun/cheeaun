@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [software-mansion-labs/expo-live-activity - A library for Live Activities in React Native](https://github.com/software-mansion-labs/expo-live-activity)
 - [JerryZLiu/Dayflow - Generate a timeline of your day, automatically](https://github.com/JerryZLiu/Dayflow)
 - [LarsKoelpin/magic-bytes - A library for detecting file types.](https://github.com/LarsKoelpin/magic-bytes)
 - [QwenLM/Qwen3-VL - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-VL)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kavishdevar/librepods - AirPods libreated from Apple's ecosystem.](https://github.com/kavishdevar/librepods)
 - [shuding/legid - A library for generating safe, legit and random URL-compat IDs.](https://github.com/shuding/legid)
 - [cmj0121/glacial - The pure client for the Mastodon](https://github.com/cmj0121/glacial)
-- [xuanx1/seoulMetro](https://github.com/xuanx1/seoulMetro)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
