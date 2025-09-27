@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shoelace-style/webawesome - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!](https://github.com/shoelace-style/webawesome)
+- [quietui/quiet - A UI library for the Web focusing on accessibility, longevity, performance, and simplicity.](https://github.com/quietui/quiet)
 - [e18e/action-dependency-diff - A GitHub action to report dependency changes and potential problems](https://github.com/e18e/action-dependency-diff)
 - [software-mansion-labs/expo-live-activity - A library for Live Activities in React Native](https://github.com/software-mansion-labs/expo-live-activity)
 - [JerryZLiu/Dayflow - Generate a timeline of your day, automatically](https://github.com/JerryZLiu/Dayflow)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [foldaway/mrtdown-data - Data repository for https://mrtdown.org](https://github.com/foldaway/mrtdown-data)
 - [CelestiaProject/Celestia - Real-time 3D visualization of space.](https://github.com/CelestiaProject/Celestia)
 - [evanp/activitypub-bot - An ActivityPub server-side bot framework](https://github.com/evanp/activitypub-bot)
-- [kavishdevar/librepods - AirPods libreated from Apple's ecosystem.](https://github.com/kavishdevar/librepods)
-- [shuding/legid - A library for generating safe, legit and random URL-compat IDs.](https://github.com/shuding/legid)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
