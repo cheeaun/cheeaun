@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mrusme/kopi - Command-line (CLI) coffee journal designed for coffee enthusiasts.](https://github.com/mrusme/kopi)
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)
 - [LalitSinghRana/dynamic-middle-ellipsis - Framework agnostic code to dynamically truncate long text in the center.](https://github.com/LalitSinghRana/dynamic-middle-ellipsis)
 - [francoismichel/ssh3 - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Nutomic/ibis - A federated online encyclopedia](https://github.com/Nutomic/ibis)
 - [hackmdio/codimd - CodiMD - Realtime collaborative markdown notes on all platforms.](https://github.com/hackmdio/codimd)
 - [sindresorhus/terminal-image - Display images in the terminal](https://github.com/sindresorhus/terminal-image)
-- [foldaway/mrtdown-site](https://github.com/foldaway/mrtdown-site)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
