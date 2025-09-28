@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [francoismichel/ssh3 - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
 - [shoelace-style/webawesome - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!](https://github.com/shoelace-style/webawesome)
 - [quietui/quiet - A UI library for the Web focusing on accessibility, longevity, performance, and simplicity.](https://github.com/quietui/quiet)
 - [e18e/action-dependency-diff - A GitHub action to report dependency changes and potential problems](https://github.com/e18e/action-dependency-diff)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [foldaway/mrtdown-site](https://github.com/foldaway/mrtdown-site)
 - [foldaway/mrtdown-data - Data repository for https://mrtdown.org](https://github.com/foldaway/mrtdown-data)
 - [CelestiaProject/Celestia - Real-time 3D visualization of space.](https://github.com/CelestiaProject/Celestia)
-- [evanp/activitypub-bot - An ActivityPub server-side bot framework](https://github.com/evanp/activitypub-bot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
