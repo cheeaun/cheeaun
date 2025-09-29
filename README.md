@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [skorokithakis/catt - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.](https://github.com/skorokithakis/catt)
+- [mrousavy/nitro - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI](https://github.com/mrousavy/nitro)
+- [easrng/atpkgs](https://github.com/easrng/atpkgs)
+- [pulsar-edit/pulsar - A Community-led Hyper-Hackable Text Editor](https://github.com/pulsar-edit/pulsar)
 - [mrusme/kopi - Command-line (CLI) coffee journal designed for coffee enthusiasts.](https://github.com/mrusme/kopi)
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)
 - [LalitSinghRana/dynamic-middle-ellipsis - Framework agnostic code to dynamically truncate long text in the center.](https://github.com/LalitSinghRana/dynamic-middle-ellipsis)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JerryZLiu/Dayflow - Generate a timeline of your day, automatically](https://github.com/JerryZLiu/Dayflow)
 - [LarsKoelpin/magic-bytes - A library for detecting file types.](https://github.com/LarsKoelpin/magic-bytes)
 - [QwenLM/Qwen3-VL - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-VL)
-- [bluwy/renoma - A recursive node_modules analyzer with opinionated package health checks](https://github.com/bluwy/renoma)
-- [Nutomic/ibis - A federated online encyclopedia](https://github.com/Nutomic/ibis)
-- [hackmdio/codimd - CodiMD - Realtime collaborative markdown notes on all platforms.](https://github.com/hackmdio/codimd)
-- [sindresorhus/terminal-image - Display images in the terminal](https://github.com/sindresorhus/terminal-image)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
