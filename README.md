@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jonasgeiler/oxvgui - ⚡ Web GUI for OXVG, for easy & visual compression of SVG images!](https://github.com/jonasgeiler/oxvgui)
 - [skorokithakis/catt - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.](https://github.com/skorokithakis/catt)
 - [mrousavy/nitro - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI](https://github.com/mrousavy/nitro)
 - [easrng/atpkgs](https://github.com/easrng/atpkgs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [software-mansion-labs/expo-live-activity - A library for Live Activities in React Native](https://github.com/software-mansion-labs/expo-live-activity)
 - [JerryZLiu/Dayflow - Generate a timeline of your day, automatically](https://github.com/JerryZLiu/Dayflow)
 - [LarsKoelpin/magic-bytes - A library for detecting file types.](https://github.com/LarsKoelpin/magic-bytes)
-- [QwenLM/Qwen3-VL - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-VL)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
