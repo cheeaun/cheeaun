@@ -33,7 +33,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [easrng/atpkgs](https://github.com/easrng/atpkgs)
 - [pulsar-edit/pulsar - A Community-led Hyper-Hackable Text Editor](https://github.com/pulsar-edit/pulsar)
 - [mrusme/kopi - Command-line (CLI) coffee journal designed for coffee enthusiasts.](https://github.com/mrusme/kopi)
-- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)
+- [cloudflare/vibesdk - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ](https://github.com/cloudflare/vibesdk)
 - [LalitSinghRana/dynamic-middle-ellipsis - Framework agnostic code to dynamically truncate long text in the center.](https://github.com/LalitSinghRana/dynamic-middle-ellipsis)
 - [francoismichel/ssh3 - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
 - [shoelace-style/webawesome - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!](https://github.com/shoelace-style/webawesome)
