@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [karakeep-app/karakeep - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search](https://github.com/karakeep-app/karakeep)
 - [kagisearch/kite-public - Open source repository for Kite, news app by Kagi.](https://github.com/kagisearch/kite-public)
 - [tryandromeda/andromeda - JS runtime lolz](https://github.com/tryandromeda/andromeda)
 - [alshdavid/ion - A Positively Charged JavaScript Runtime ](https://github.com/alshdavid/ion)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cloudflare/vibesdk - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ](https://github.com/cloudflare/vibesdk)
 - [LalitSinghRana/dynamic-middle-ellipsis - Framework agnostic code to dynamically truncate long text in the center.](https://github.com/LalitSinghRana/dynamic-middle-ellipsis)
 - [francoismichel/ssh3 - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
-- [shoelace-style/webawesome - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!](https://github.com/shoelace-style/webawesome)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
