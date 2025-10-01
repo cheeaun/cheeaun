@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kagisearch/kite-public - Open source repository for Kite, news app by Kagi.](https://github.com/kagisearch/kite-public)
+- [tryandromeda/andromeda - JS runtime lolz](https://github.com/tryandromeda/andromeda)
+- [alshdavid/ion - A Positively Charged JavaScript Runtime ](https://github.com/alshdavid/ion)
+- [fetch-kit/ffetch - TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.](https://github.com/fetch-kit/ffetch)
+- [ayuhito/modern-tar - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.](https://github.com/ayuhito/modern-tar)
 - [jonasgeiler/oxvgui - ⚡ Web GUI for OXVG, for easy & visual compression of SVG images!](https://github.com/jonasgeiler/oxvgui)
 - [skorokithakis/catt - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.](https://github.com/skorokithakis/catt)
 - [mrousavy/nitro - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI](https://github.com/mrousavy/nitro)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [LalitSinghRana/dynamic-middle-ellipsis - Framework agnostic code to dynamically truncate long text in the center.](https://github.com/LalitSinghRana/dynamic-middle-ellipsis)
 - [francoismichel/ssh3 - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
 - [shoelace-style/webawesome - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!](https://github.com/shoelace-style/webawesome)
-- [quietui/quiet - A UI library for the Web focusing on accessibility, longevity, performance, and simplicity.](https://github.com/quietui/quiet)
-- [e18e/action-dependency-diff - A GitHub action to report dependency changes and potential problems](https://github.com/e18e/action-dependency-diff)
-- [software-mansion-labs/expo-live-activity - A library for Live Activities in React Native](https://github.com/software-mansion-labs/expo-live-activity)
-- [JerryZLiu/Dayflow - Generate a timeline of your day, automatically](https://github.com/JerryZLiu/Dayflow)
-- [LarsKoelpin/magic-bytes - A library for detecting file types.](https://github.com/LarsKoelpin/magic-bytes)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
