@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fedi-libs/apkit - Powerful Toolkit for ActivityPub Implementations.](https://github.com/fedi-libs/apkit)
 - [berkmancenter/activitypub-fuzzer - A small program to help build social media software on the Fediverse. It emulates known Fediverse software, helping solve the problem where developers have to manually test compatibility with dozens of other projects.](https://github.com/berkmancenter/activitypub-fuzzer)
 - [karakeep-app/karakeep - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search](https://github.com/karakeep-app/karakeep)
 - [kagisearch/kite-public - Open source repository for Kite, news app by Kagi.](https://github.com/kagisearch/kite-public)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pulsar-edit/pulsar - A Community-led Hyper-Hackable Text Editor](https://github.com/pulsar-edit/pulsar)
 - [mrusme/kopi - Command-line (CLI) coffee journal designed for coffee enthusiasts.](https://github.com/mrusme/kopi)
 - [cloudflare/vibesdk - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ](https://github.com/cloudflare/vibesdk)
-- [LalitSinghRana/dynamic-middle-ellipsis - Framework agnostic code to dynamically truncate long text in the center.](https://github.com/LalitSinghRana/dynamic-middle-ellipsis)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
