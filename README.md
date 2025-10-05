@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WaniKani/WanaKana - Javascript library for detecting and transforming between Hiragana, Katakana, and Romaji](https://github.com/WaniKani/WanaKana)
+- [masnormen/ziyo - Monorepo for the stupidly simple Kanji dictionary and search engine, Ziyo.](https://github.com/masnormen/ziyo)
+- [greeeen-dev/natsumi-browser - Welcome to your personal internet.](https://github.com/greeeen-dev/natsumi-browser)
 - [rit3zh/expo-ios-popover - 🎯 SwiftUI Popovers in React Native — lightweight, native popovers with arrow support](https://github.com/rit3zh/expo-ios-popover)
 - [fedi-libs/apkit - Powerful Toolkit for ActivityPub Implementations.](https://github.com/fedi-libs/apkit)
 - [berkmancenter/activitypub-fuzzer - A small program to help build social media software on the Fediverse. It emulates known Fediverse software, helping solve the problem where developers have to manually test compatibility with dozens of other projects.](https://github.com/berkmancenter/activitypub-fuzzer)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jonasgeiler/oxvgui - ⚡ Web GUI for OXVG, for easy & visual compression of SVG images!](https://github.com/jonasgeiler/oxvgui)
 - [skorokithakis/catt - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.](https://github.com/skorokithakis/catt)
 - [mrousavy/nitro - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI](https://github.com/mrousavy/nitro)
-- [easrng/atpkgs](https://github.com/easrng/atpkgs)
-- [pulsar-edit/pulsar - A Community-led Hyper-Hackable Text Editor](https://github.com/pulsar-edit/pulsar)
-- [mrusme/kopi - Command-line (CLI) coffee journal designed for coffee enthusiasts.](https://github.com/mrusme/kopi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
