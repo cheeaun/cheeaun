@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [swicg/activitypub-api - ActivityPub API Task Force repository.](https://github.com/swicg/activitypub-api)
 - [WaniKani/WanaKana - Javascript library for detecting and transforming between Hiragana, Katakana, and Romaji](https://github.com/WaniKani/WanaKana)
 - [masnormen/ziyo - Monorepo for the stupidly simple Kanji dictionary and search engine, Ziyo.](https://github.com/masnormen/ziyo)
 - [greeeen-dev/natsumi-browser - Welcome to your personal internet.](https://github.com/greeeen-dev/natsumi-browser)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ayuhito/modern-tar - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.](https://github.com/ayuhito/modern-tar)
 - [jonasgeiler/oxvgui - ⚡ Web GUI for OXVG, for easy & visual compression of SVG images!](https://github.com/jonasgeiler/oxvgui)
 - [skorokithakis/catt - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.](https://github.com/skorokithakis/catt)
-- [mrousavy/nitro - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI](https://github.com/mrousavy/nitro)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
