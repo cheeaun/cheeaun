@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [manyfold3d/fasp_client - A Rails engine implementing the client (non-provider) side of the FASP standard (https://fediscovery.org)](https://github.com/manyfold3d/fasp_client)
+- [Enichan/feditag - FediTag uses JavaScript to embed a feed of Mastodon posts from one account using a particular hashtag on a website or page.](https://github.com/Enichan/feditag)
 - [sindresorhus/css-extras - Useful CSS custom functions using the new @​function rule](https://github.com/sindresorhus/css-extras)
 - [mastodon/featured_collections - Thinking about federated Starter Packs](https://github.com/mastodon/featured_collections)
 - [dmtrKovalenko/odiff - A very fast SIMD-first image comparison library (with nodejs API)](https://github.com/dmtrKovalenko/odiff)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fedi-libs/apkit - Powerful Toolkit for ActivityPub Implementations.](https://github.com/fedi-libs/apkit)
 - [berkmancenter/activitypub-fuzzer - A small program to help build social media software on the Fediverse. It emulates known Fediverse software, helping solve the problem where developers have to manually test compatibility with dozens of other projects.](https://github.com/berkmancenter/activitypub-fuzzer)
 - [karakeep-app/karakeep - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search](https://github.com/karakeep-app/karakeep)
-- [kagisearch/kite-public - Open source repository for Kite, news app by Kagi.](https://github.com/kagisearch/kite-public)
-- [tryandromeda/andromeda - JS runtime lolz](https://github.com/tryandromeda/andromeda)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
