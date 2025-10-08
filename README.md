@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dmtrKovalenko/odiff - A very fast SIMD-first image comparison library (with nodejs API)](https://github.com/dmtrKovalenko/odiff)
 - [PeculiarVentures/GammaCV - GammaCV is a WebGL accelerated Computer Vision library for browser](https://github.com/PeculiarVentures/GammaCV)
 - [facebook/openzl - A novel data compression framework](https://github.com/facebook/openzl)
 - [swicg/activitypub-api - ActivityPub API Task Force repository.](https://github.com/swicg/activitypub-api)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tryandromeda/andromeda - JS runtime lolz](https://github.com/tryandromeda/andromeda)
 - [alshdavid/ion - A Positively Charged JavaScript Runtime ](https://github.com/alshdavid/ion)
 - [fetch-kit/ffetch - TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.](https://github.com/fetch-kit/ffetch)
-- [ayuhito/modern-tar - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.](https://github.com/ayuhito/modern-tar)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
