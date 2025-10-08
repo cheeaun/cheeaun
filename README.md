@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sindresorhus/css-extras - Useful CSS custom functions using the new @​function rule](https://github.com/sindresorhus/css-extras)
 - [mastodon/featured_collections - Thinking about federated Starter Packs](https://github.com/mastodon/featured_collections)
 - [dmtrKovalenko/odiff - A very fast SIMD-first image comparison library (with nodejs API)](https://github.com/dmtrKovalenko/odiff)
 - [PeculiarVentures/GammaCV - GammaCV is a WebGL accelerated Computer Vision library for browser](https://github.com/PeculiarVentures/GammaCV)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [karakeep-app/karakeep - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search](https://github.com/karakeep-app/karakeep)
 - [kagisearch/kite-public - Open source repository for Kite, news app by Kagi.](https://github.com/kagisearch/kite-public)
 - [tryandromeda/andromeda - JS runtime lolz](https://github.com/tryandromeda/andromeda)
-- [alshdavid/ion - A Positively Charged JavaScript Runtime ](https://github.com/alshdavid/ion)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
