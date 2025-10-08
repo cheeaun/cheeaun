@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mastodon/featured_collections - Thinking about federated Starter Packs](https://github.com/mastodon/featured_collections)
 - [dmtrKovalenko/odiff - A very fast SIMD-first image comparison library (with nodejs API)](https://github.com/dmtrKovalenko/odiff)
 - [PeculiarVentures/GammaCV - GammaCV is a WebGL accelerated Computer Vision library for browser](https://github.com/PeculiarVentures/GammaCV)
 - [facebook/openzl - A novel data compression framework](https://github.com/facebook/openzl)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kagisearch/kite-public - Open source repository for Kite, news app by Kagi.](https://github.com/kagisearch/kite-public)
 - [tryandromeda/andromeda - JS runtime lolz](https://github.com/tryandromeda/andromeda)
 - [alshdavid/ion - A Positively Charged JavaScript Runtime ](https://github.com/alshdavid/ion)
-- [fetch-kit/ffetch - TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.](https://github.com/fetch-kit/ffetch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
