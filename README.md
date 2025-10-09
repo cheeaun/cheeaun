@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [khcrysalis/Feather - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.](https://github.com/khcrysalis/Feather)
+- [CharlesWiltgen/taglib-wasm - TagLib for TypeScript platforms: Deno, Node.js, Bun, browsers, and Cloudflare Workers](https://github.com/CharlesWiltgen/taglib-wasm)
+- [CharlesWiltgen/PWAscore - PWA Browser Scorecards](https://github.com/CharlesWiltgen/PWAscore)
 - [manyfold3d/fasp_client - A Rails engine implementing the client (non-provider) side of the FASP standard (https://fediscovery.org)](https://github.com/manyfold3d/fasp_client)
 - [Enichan/feditag - FediTag uses JavaScript to embed a feed of Mastodon posts from one account using a particular hashtag on a website or page.](https://github.com/Enichan/feditag)
 - [sindresorhus/css-extras - Useful CSS custom functions using the new @​function rule](https://github.com/sindresorhus/css-extras)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [masnormen/ziyo - Monorepo for the stupidly simple Kanji dictionary and search engine, Ziyo.](https://github.com/masnormen/ziyo)
 - [greeeen-dev/natsumi-browser - Welcome to your personal internet.](https://github.com/greeeen-dev/natsumi-browser)
 - [rit3zh/expo-ios-popover - 🎯 SwiftUI Popovers in React Native — lightweight, native popovers with arrow support](https://github.com/rit3zh/expo-ios-popover)
-- [fedi-libs/apkit - Powerful Toolkit for ActivityPub Implementations.](https://github.com/fedi-libs/apkit)
-- [berkmancenter/activitypub-fuzzer - A small program to help build social media software on the Fediverse. It emulates known Fediverse software, helping solve the problem where developers have to manually test compatibility with dozens of other projects.](https://github.com/berkmancenter/activitypub-fuzzer)
-- [karakeep-app/karakeep - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search](https://github.com/karakeep-app/karakeep)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
