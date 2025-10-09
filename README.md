@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Sec-ant/zxing-wasm - ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.](https://github.com/Sec-ant/zxing-wasm)
 - [khcrysalis/Feather - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.](https://github.com/khcrysalis/Feather)
 - [CharlesWiltgen/taglib-wasm - TagLib for TypeScript platforms: Deno, Node.js, Bun, browsers, and Cloudflare Workers](https://github.com/CharlesWiltgen/taglib-wasm)
 - [CharlesWiltgen/PWAscore - PWA Browser Scorecards](https://github.com/CharlesWiltgen/PWAscore)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WaniKani/WanaKana - Javascript library for detecting and transforming between Hiragana, Katakana, and Romaji](https://github.com/WaniKani/WanaKana)
 - [masnormen/ziyo - Monorepo for the stupidly simple Kanji dictionary and search engine, Ziyo.](https://github.com/masnormen/ziyo)
 - [greeeen-dev/natsumi-browser - Welcome to your personal internet.](https://github.com/greeeen-dev/natsumi-browser)
-- [rit3zh/expo-ios-popover - 🎯 SwiftUI Popovers in React Native — lightweight, native popovers with arrow support](https://github.com/rit3zh/expo-ios-popover)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
