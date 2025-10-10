@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kozakdenys/qr-code-styling - Automaticly generate your styled QR code in your web app.](https://github.com/kozakdenys/qr-code-styling)
+- [pomerantsev/accented - A frontend library for continuous accessibility testing and issue highlighting](https://github.com/pomerantsev/accented)
+- [nimiq/qr-creator - Lightweight library for stylish QR codes](https://github.com/nimiq/qr-creator)
+- [nimiq/qr-scanner - Lightweight Javascript QR Code Scanner](https://github.com/nimiq/qr-scanner)
 - [Sec-ant/zxing-wasm - ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.](https://github.com/Sec-ant/zxing-wasm)
 - [khcrysalis/Feather - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.](https://github.com/khcrysalis/Feather)
 - [CharlesWiltgen/taglib-wasm - TagLib for TypeScript platforms: Deno, Node.js, Bun, browsers, and Cloudflare Workers](https://github.com/CharlesWiltgen/taglib-wasm)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dmtrKovalenko/odiff - A very fast SIMD-first image comparison library (with nodejs API)](https://github.com/dmtrKovalenko/odiff)
 - [PeculiarVentures/GammaCV - GammaCV is a WebGL accelerated Computer Vision library for browser](https://github.com/PeculiarVentures/GammaCV)
 - [facebook/openzl - A novel data compression framework](https://github.com/facebook/openzl)
-- [swicg/activitypub-api - ActivityPub API Task Force repository.](https://github.com/swicg/activitypub-api)
-- [WaniKani/WanaKana - Javascript library for detecting and transforming between Hiragana, Katakana, and Romaji](https://github.com/WaniKani/WanaKana)
-- [masnormen/ziyo - Monorepo for the stupidly simple Kanji dictionary and search engine, Ziyo.](https://github.com/masnormen/ziyo)
-- [greeeen-dev/natsumi-browser - Welcome to your personal internet.](https://github.com/greeeen-dev/natsumi-browser)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
