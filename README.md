@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [0xZhangKe/Fread - Mastdon\Bluesky\RSS client, implementation based on Kotlin Multiplatform and Compose Multiplatform.](https://github.com/0xZhangKe/Fread)
 - [kozakdenys/qr-code-styling - Automaticly generate your styled QR code in your web app.](https://github.com/kozakdenys/qr-code-styling)
 - [pomerantsev/accented - A frontend library for continuous accessibility testing and issue highlighting](https://github.com/pomerantsev/accented)
 - [nimiq/qr-creator - Lightweight library for stylish QR codes](https://github.com/nimiq/qr-creator)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mastodon/featured_collections - Thinking about federated Starter Packs](https://github.com/mastodon/featured_collections)
 - [dmtrKovalenko/odiff - A very fast SIMD-first image comparison library (with nodejs API)](https://github.com/dmtrKovalenko/odiff)
 - [PeculiarVentures/GammaCV - GammaCV is a WebGL accelerated Computer Vision library for browser](https://github.com/PeculiarVentures/GammaCV)
-- [facebook/openzl - A novel data compression framework](https://github.com/facebook/openzl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
