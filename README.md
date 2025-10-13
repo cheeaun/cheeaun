@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gezilinll/pica-gpu -  a high-quality, GPU-accelerated image resizer](https://github.com/gezilinll/pica-gpu)
+- [alemart/speedy-vision - GPU-accelerated Computer Vision library for JavaScript.](https://github.com/alemart/speedy-vision)
 - [NekoDrone/catsky-social - 🐱 Soothing soft social-app fork with all the niche toggles! (Unofficial)](https://github.com/NekoDrone/catsky-social)
 - [0xZhangKe/Fread - Mastdon\Bluesky\RSS client, implementation based on Kotlin Multiplatform and Compose Multiplatform.](https://github.com/0xZhangKe/Fread)
 - [kozakdenys/qr-code-styling - Automaticly generate your styled QR code in your web app.](https://github.com/kozakdenys/qr-code-styling)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [manyfold3d/fasp_client - A Rails engine implementing the client (non-provider) side of the FASP standard (https://fediscovery.org)](https://github.com/manyfold3d/fasp_client)
 - [Enichan/feditag - FediTag uses JavaScript to embed a feed of Mastodon posts from one account using a particular hashtag on a website or page.](https://github.com/Enichan/feditag)
 - [sindresorhus/css-extras - Useful CSS custom functions using the new @​function rule](https://github.com/sindresorhus/css-extras)
-- [mastodon/featured_collections - Thinking about federated Starter Packs](https://github.com/mastodon/featured_collections)
-- [dmtrKovalenko/odiff - A very fast SIMD-first image comparison library (with nodejs API)](https://github.com/dmtrKovalenko/odiff)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
