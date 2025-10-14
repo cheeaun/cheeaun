@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antfu/fast-npm-meta - A lightweight API server to get npm package metadata, resolve the latest versions on server, and batch multiple package resolutions in one request.](https://github.com/antfu/fast-npm-meta)
+- [paulmillr/qr - Minimal 0-dep QR code generator & reader](https://github.com/paulmillr/qr)
+- [PEDx/nano-scan - NanoScan is a lightweight, high-performance web barcode and QR code scanner powered by zxing-wasm；](https://github.com/PEDx/nano-scan)
+- [undecaf/zbar-wasm - A WebAssembly build of the ZBar Bar Code Reader](https://github.com/undecaf/zbar-wasm)
 - [gezilinll/pica-gpu -  a high-quality, GPU-accelerated image resizer](https://github.com/gezilinll/pica-gpu)
 - [alemart/speedy-vision - GPU-accelerated Computer Vision library for JavaScript.](https://github.com/alemart/speedy-vision)
 - [NekoDrone/catsky-social - 🐱 Soothing soft social-app fork with all the niche toggles! (Unofficial)](https://github.com/NekoDrone/catsky-social)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Sec-ant/zxing-wasm - ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.](https://github.com/Sec-ant/zxing-wasm)
 - [khcrysalis/Feather - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.](https://github.com/khcrysalis/Feather)
 - [CharlesWiltgen/taglib-wasm - TagLib for TypeScript platforms: Deno, Node.js, Bun, browsers, and Cloudflare Workers](https://github.com/CharlesWiltgen/taglib-wasm)
-- [CharlesWiltgen/PWAscore - PWA Browser Scorecards](https://github.com/CharlesWiltgen/PWAscore)
-- [manyfold3d/fasp_client - A Rails engine implementing the client (non-provider) side of the FASP standard (https://fediscovery.org)](https://github.com/manyfold3d/fasp_client)
-- [Enichan/feditag - FediTag uses JavaScript to embed a feed of Mastodon posts from one account using a particular hashtag on a website or page.](https://github.com/Enichan/feditag)
-- [sindresorhus/css-extras - Useful CSS custom functions using the new @​function rule](https://github.com/sindresorhus/css-extras)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
