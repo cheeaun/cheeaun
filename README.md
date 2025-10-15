@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gardenfence/blocklist - A basic fediverse blocklist for Mastodon admins to block the most well known sources of hate speech, harassment, etc.](https://github.com/gardenfence/blocklist)
 - [bruits/maudit - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!](https://github.com/bruits/maudit)
 - [antfu/fast-npm-meta - A lightweight API server to get npm package metadata, resolve the latest versions on server, and batch multiple package resolutions in one request.](https://github.com/antfu/fast-npm-meta)
 - [paulmillr/qr - Minimal 0-dep QR code generator & reader](https://github.com/paulmillr/qr)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nimiq/qr-creator - Lightweight library for stylish QR codes](https://github.com/nimiq/qr-creator)
 - [nimiq/qr-scanner - Lightweight Javascript QR Code Scanner](https://github.com/nimiq/qr-scanner)
 - [Sec-ant/zxing-wasm - ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.](https://github.com/Sec-ant/zxing-wasm)
-- [khcrysalis/Feather - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.](https://github.com/khcrysalis/Feather)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
