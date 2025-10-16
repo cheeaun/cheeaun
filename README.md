@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [MirrowApp/mirrow - SVGs. One file. Zero fuss. ](https://github.com/MirrowApp/mirrow)
+- [edmundhung/conform - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.](https://github.com/edmundhung/conform)
+- [dprint/jsonc-parser - JSONC parsing and manipulation for Rust](https://github.com/dprint/jsonc-parser)
+- [dsherret/jsonc-morph - Programmatically edit JSONC in JavaScript.](https://github.com/dsherret/jsonc-morph)
 - [gardenfence/blocklist - A basic fediverse blocklist for Mastodon admins to block the most well known sources of hate speech, harassment, etc.](https://github.com/gardenfence/blocklist)
 - [bruits/maudit - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!](https://github.com/bruits/maudit)
 - [antfu/fast-npm-meta - A lightweight API server to get npm package metadata, resolve the latest versions on server, and batch multiple package resolutions in one request.](https://github.com/antfu/fast-npm-meta)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [NekoDrone/catsky-social - 🐱 Soothing soft social-app fork with all the niche toggles! (Unofficial)](https://github.com/NekoDrone/catsky-social)
 - [0xZhangKe/Fread - Mastdon\Bluesky\RSS client, implementation based on Kotlin Multiplatform and Compose Multiplatform.](https://github.com/0xZhangKe/Fread)
 - [kozakdenys/qr-code-styling - Automaticly generate your styled QR code in your web app.](https://github.com/kozakdenys/qr-code-styling)
-- [pomerantsev/accented - A frontend library for continuous accessibility testing and issue highlighting](https://github.com/pomerantsev/accented)
-- [nimiq/qr-creator - Lightweight library for stylish QR codes](https://github.com/nimiq/qr-creator)
-- [nimiq/qr-scanner - Lightweight Javascript QR Code Scanner](https://github.com/nimiq/qr-scanner)
-- [Sec-ant/zxing-wasm - ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.](https://github.com/Sec-ant/zxing-wasm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
