@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [squidowl/halloy - IRC application written in Rust](https://github.com/squidowl/halloy)
 - [MirrowApp/mirrow - SVGs. One file. Zero fuss. ](https://github.com/MirrowApp/mirrow)
 - [edmundhung/conform - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.](https://github.com/edmundhung/conform)
 - [dprint/jsonc-parser - JSONC parsing and manipulation for Rust](https://github.com/dprint/jsonc-parser)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [alemart/speedy-vision - GPU-accelerated Computer Vision library for JavaScript.](https://github.com/alemart/speedy-vision)
 - [NekoDrone/catsky-social - 🐱 Soothing soft social-app fork with all the niche toggles! (Unofficial)](https://github.com/NekoDrone/catsky-social)
 - [0xZhangKe/Fread - Mastdon\Bluesky\RSS client, implementation based on Kotlin Multiplatform and Compose Multiplatform.](https://github.com/0xZhangKe/Fread)
-- [kozakdenys/qr-code-styling - Automaticly generate your styled QR code in your web app.](https://github.com/kozakdenys/qr-code-styling)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
