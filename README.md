@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lovell/media-type - JavaScript module to parse and validate RFC6838/RFC9694 media types, anything from 'text/plain' to 'application/vnd.company.app.entity-v2+xml;charset=utf8'](https://github.com/lovell/media-type)
 - [brave/adblock-rust - Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
 - [squidowl/halloy - IRC application written in Rust](https://github.com/squidowl/halloy)
 - [MirrowApp/mirrow - SVGs. One file. Zero fuss. ](https://github.com/MirrowApp/mirrow)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [undecaf/zbar-wasm - A WebAssembly build of the ZBar Bar Code Reader](https://github.com/undecaf/zbar-wasm)
 - [gezilinll/pica-gpu -  a high-quality, GPU-accelerated image resizer](https://github.com/gezilinll/pica-gpu)
 - [alemart/speedy-vision - GPU-accelerated Computer Vision library for JavaScript.](https://github.com/alemart/speedy-vision)
-- [NekoDrone/catsky-social - 🐱 Soothing soft social-app fork with all the niche toggles! (Unofficial)](https://github.com/NekoDrone/catsky-social)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
