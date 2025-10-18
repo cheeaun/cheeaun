@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [landrok/activitypub - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.](https://github.com/landrok/activitypub)
+- [anthropics/skills - Public repository for Skills](https://github.com/anthropics/skills)
 - [lovell/media-type - JavaScript module to parse and validate RFC6838/RFC9694 media types, anything from 'text/plain' to 'application/vnd.company.app.entity-v2+xml;charset=utf8'](https://github.com/lovell/media-type)
 - [brave/adblock-rust - Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
 - [squidowl/halloy - IRC application written in Rust](https://github.com/squidowl/halloy)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [paulmillr/qr - Minimal 0-dep QR code generator & reader](https://github.com/paulmillr/qr)
 - [PEDx/nano-scan - NanoScan is a lightweight, high-performance web barcode and QR code scanner powered by zxing-wasm；](https://github.com/PEDx/nano-scan)
 - [undecaf/zbar-wasm - A WebAssembly build of the ZBar Bar Code Reader](https://github.com/undecaf/zbar-wasm)
-- [gezilinll/pica-gpu -  a high-quality, GPU-accelerated image resizer](https://github.com/gezilinll/pica-gpu)
-- [alemart/speedy-vision - GPU-accelerated Computer Vision library for JavaScript.](https://github.com/alemart/speedy-vision)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
