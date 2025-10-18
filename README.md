@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Touffy/client-zip - A client-side streaming ZIP generator](https://github.com/Touffy/client-zip)
 - [landrok/activitypub - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.](https://github.com/landrok/activitypub)
 - [anthropics/skills - Public repository for Skills](https://github.com/anthropics/skills)
 - [lovell/media-type - JavaScript module to parse and validate RFC6838/RFC9694 media types, anything from 'text/plain' to 'application/vnd.company.app.entity-v2+xml;charset=utf8'](https://github.com/lovell/media-type)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antfu/fast-npm-meta - A lightweight API server to get npm package metadata, resolve the latest versions on server, and batch multiple package resolutions in one request.](https://github.com/antfu/fast-npm-meta)
 - [paulmillr/qr - Minimal 0-dep QR code generator & reader](https://github.com/paulmillr/qr)
 - [PEDx/nano-scan - NanoScan is a lightweight, high-performance web barcode and QR code scanner powered by zxing-wasm；](https://github.com/PEDx/nano-scan)
-- [undecaf/zbar-wasm - A WebAssembly build of the ZBar Bar Code Reader](https://github.com/undecaf/zbar-wasm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
