@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JonasKruckenberg/k23 - Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
+- [servo/servo - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.](https://github.com/servo/servo)
+- [wuchalejs/wuchale - Protobuf-like i18n from plain code](https://github.com/wuchalejs/wuchale)
+- [jacob-ebey/protoflare - Protoflare helps you build AT Protocol apps on Cloudflare faster.](https://github.com/jacob-ebey/protoflare)
+- [joinloops/loops-expo - Official Loops mobile app (WIP)](https://github.com/joinloops/loops-expo)
 - [Touffy/client-zip - A client-side streaming ZIP generator](https://github.com/Touffy/client-zip)
 - [landrok/activitypub - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.](https://github.com/landrok/activitypub)
 - [anthropics/skills - Public repository for Skills](https://github.com/anthropics/skills)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [edmundhung/conform - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.](https://github.com/edmundhung/conform)
 - [dprint/jsonc-parser - JSONC parsing and manipulation for Rust](https://github.com/dprint/jsonc-parser)
 - [dsherret/jsonc-morph - Programmatically edit JSONC in JavaScript.](https://github.com/dsherret/jsonc-morph)
-- [gardenfence/blocklist - A basic fediverse blocklist for Mastodon admins to block the most well known sources of hate speech, harassment, etc.](https://github.com/gardenfence/blocklist)
-- [bruits/maudit - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!](https://github.com/bruits/maudit)
-- [antfu/fast-npm-meta - A lightweight API server to get npm package metadata, resolve the latest versions on server, and batch multiple package resolutions in one request.](https://github.com/antfu/fast-npm-meta)
-- [paulmillr/qr - Minimal 0-dep QR code generator & reader](https://github.com/paulmillr/qr)
-- [PEDx/nano-scan - NanoScan is a lightweight, high-performance web barcode and QR code scanner powered by zxing-wasm；](https://github.com/PEDx/nano-scan)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
