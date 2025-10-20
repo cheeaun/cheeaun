@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tunjid/heron - A graceful multiplatform bluesky client](https://github.com/tunjid/heron)
+- [deepseek-ai/DeepSeek-OCR - Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR)
 - [JonasKruckenberg/k23 - Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 - [servo/servo - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.](https://github.com/servo/servo)
 - [wuchalejs/wuchale - Protobuf-like i18n from plain code](https://github.com/wuchalejs/wuchale)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [squidowl/halloy - IRC application written in Rust](https://github.com/squidowl/halloy)
 - [MirrowApp/mirrow - SVGs. One file. Zero fuss. ](https://github.com/MirrowApp/mirrow)
 - [edmundhung/conform - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.](https://github.com/edmundhung/conform)
-- [dprint/jsonc-parser - JSONC parsing and manipulation for Rust](https://github.com/dprint/jsonc-parser)
-- [dsherret/jsonc-morph - Programmatically edit JSONC in JavaScript.](https://github.com/dsherret/jsonc-morph)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
