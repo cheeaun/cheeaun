@@ -33,7 +33,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [servo/servo - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.](https://github.com/servo/servo)
 - [wuchalejs/wuchale - Protobuf-like i18n from plain code](https://github.com/wuchalejs/wuchale)
 - [jacob-ebey/protoflare - Protoflare helps you build AT Protocol apps on Cloudflare faster.](https://github.com/jacob-ebey/protoflare)
-- [joinloops/loops-expo - Official Loops mobile app (WIP)](https://github.com/joinloops/loops-expo)
+- [joinloops/loops-expo - The federated short video sharing platform app.](https://github.com/joinloops/loops-expo)
 - [Touffy/client-zip - A client-side streaming ZIP generator](https://github.com/Touffy/client-zip)
 - [landrok/activitypub - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.](https://github.com/landrok/activitypub)
 - [anthropics/skills - Public repository for Skills](https://github.com/anthropics/skills)
