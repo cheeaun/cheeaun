@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [junhoyeo/BetterOCR - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.](https://github.com/junhoyeo/BetterOCR)
 - [bgreenwell/doxx - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!](https://github.com/bgreenwell/doxx)
 - [echogarden-project/text-segmentation - A library for multilingual word, phrase and sentence segmentation.](https://github.com/echogarden-project/text-segmentation)
 - [ruanchaves/hashformers - Hashformers is a framework for hashtag segmentation with Transformers and Large Language Models (LLMs).](https://github.com/ruanchaves/hashformers)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [landrok/activitypub - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.](https://github.com/landrok/activitypub)
 - [anthropics/skills - Public repository for Skills](https://github.com/anthropics/skills)
 - [lovell/media-type - JavaScript module to parse and validate RFC6838/RFC9694 media types, anything from 'text/plain' to 'application/vnd.company.app.entity-v2+xml;charset=utf8'](https://github.com/lovell/media-type)
-- [brave/adblock-rust - Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
