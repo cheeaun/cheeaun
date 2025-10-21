@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bgreenwell/doxx - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!](https://github.com/bgreenwell/doxx)
+- [echogarden-project/text-segmentation - A library for multilingual word, phrase and sentence segmentation.](https://github.com/echogarden-project/text-segmentation)
+- [ruanchaves/hashformers - Hashformers is a framework for hashtag segmentation with Transformers and Large Language Models (LLMs).](https://github.com/ruanchaves/hashformers)
 - [tunjid/heron - A graceful multiplatform bluesky client](https://github.com/tunjid/heron)
 - [deepseek-ai/DeepSeek-OCR - Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR)
 - [JonasKruckenberg/k23 - Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [anthropics/skills - Public repository for Skills](https://github.com/anthropics/skills)
 - [lovell/media-type - JavaScript module to parse and validate RFC6838/RFC9694 media types, anything from 'text/plain' to 'application/vnd.company.app.entity-v2+xml;charset=utf8'](https://github.com/lovell/media-type)
 - [brave/adblock-rust - Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
-- [squidowl/halloy - IRC application written in Rust](https://github.com/squidowl/halloy)
-- [MirrowApp/mirrow - SVGs. One file. Zero fuss. ](https://github.com/MirrowApp/mirrow)
-- [edmundhung/conform - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.](https://github.com/edmundhung/conform)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
