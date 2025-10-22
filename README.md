@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [obra/superpowers-chrome - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies](https://github.com/obra/superpowers-chrome)
 - [zenfyrdev/phanpy - A minimalistic opinionated Mastodon web client](https://github.com/zenfyrdev/phanpy)
 - [junhoyeo/BetterOCR - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.](https://github.com/junhoyeo/BetterOCR)
 - [bgreenwell/doxx - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!](https://github.com/bgreenwell/doxx)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [joinloops/loops-expo - The federated short video sharing platform app.](https://github.com/joinloops/loops-expo)
 - [Touffy/client-zip - A client-side streaming ZIP generator](https://github.com/Touffy/client-zip)
 - [landrok/activitypub - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.](https://github.com/landrok/activitypub)
-- [anthropics/skills - Public repository for Skills](https://github.com/anthropics/skills)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
