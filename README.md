@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sysmaya/Grayscale-Image-to-STL - Convierte imágenes en escala de grises en modelos 3D STL directamente en tu navegador. 100% online, sin registro ni servidor. Ajusta brillo, contraste y altura para generar relieves listos para impresión 3D o CNC usando Three.js.](https://github.com/sysmaya/Grayscale-Image-to-STL)
 - [fuma-nama/fumadocs - The beautiful & flexible React.js docs framework.](https://github.com/fuma-nama/fumadocs)
 - [deta/surf - AI Notebooks](https://github.com/deta/surf)
 - [fabiospampinato/zeptomatch - An absurdly small glob matcher that packs a punch.](https://github.com/fabiospampinato/zeptomatch)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [deepseek-ai/DeepSeek-OCR - Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR)
 - [JonasKruckenberg/k23 - Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 - [servo/servo - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.](https://github.com/servo/servo)
-- [wuchalejs/wuchale - Protobuf-like i18n from plain code](https://github.com/wuchalejs/wuchale)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
