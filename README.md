@@ -36,7 +36,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fabiospampinato/zeptomatch - An absurdly small glob matcher that packs a punch.](https://github.com/fabiospampinato/zeptomatch)
 - [mozilla/sanitizer-polyfill - rewrite constructor arguments, call DOMPurify, profit](https://github.com/mozilla/sanitizer-polyfill)
 - [obra/superpowers-chrome - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies](https://github.com/obra/superpowers-chrome)
-- [zenfyrdev/phanpy - A minimalistic opinionated Mastodon web client](https://github.com/zenfyrdev/phanpy)
+- [synth-download/phanpy - A minimalistic opinionated Mastodon web client](https://github.com/synth-download/phanpy)
 - [junhoyeo/BetterOCR - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.](https://github.com/junhoyeo/BetterOCR)
 - [bgreenwell/doxx - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!](https://github.com/bgreenwell/doxx)
 - [echogarden-project/text-segmentation - A library for multilingual word, phrase and sentence segmentation.](https://github.com/echogarden-project/text-segmentation)
