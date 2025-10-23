@@ -27,10 +27,12 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LemmyNet/activitypub-federation-rust - High-level Rust library for the Activitypub protocol](https://github.com/LemmyNet/activitypub-federation-rust)
+- [paoloricciuti/tmcp - Typescript SDK to build MCP servers in an agnostic way](https://github.com/paoloricciuti/tmcp)
 - [EmissarySocial/atlas - Annotate real-world locations on the Fediverse](https://github.com/EmissarySocial/atlas)
 - [sysmaya/Grayscale-Image-to-STL - Convierte imágenes en escala de grises en modelos 3D STL directamente en tu navegador. 100% online, sin registro ni servidor. Ajusta brillo, contraste y altura para generar relieves listos para impresión 3D o CNC usando Three.js.](https://github.com/sysmaya/Grayscale-Image-to-STL)
 - [fuma-nama/fumadocs - The beautiful & flexible React.js docs framework.](https://github.com/fuma-nama/fumadocs)
-- [deta/surf - AI Notebooks](https://github.com/deta/surf)
+- [deta/surf - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).](https://github.com/deta/surf)
 - [fabiospampinato/zeptomatch - An absurdly small glob matcher that packs a punch.](https://github.com/fabiospampinato/zeptomatch)
 - [mozilla/sanitizer-polyfill - rewrite constructor arguments, call DOMPurify, profit](https://github.com/mozilla/sanitizer-polyfill)
 - [obra/superpowers-chrome - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies](https://github.com/obra/superpowers-chrome)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [echogarden-project/text-segmentation - A library for multilingual word, phrase and sentence segmentation.](https://github.com/echogarden-project/text-segmentation)
 - [ruanchaves/hashformers - Hashformers is a framework for hashtag segmentation with Transformers and Large Language Models (LLMs).](https://github.com/ruanchaves/hashformers)
 - [tunjid/heron - A graceful multiplatform bluesky client](https://github.com/tunjid/heron)
-- [deepseek-ai/DeepSeek-OCR - Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR)
-- [JonasKruckenberg/k23 - Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
