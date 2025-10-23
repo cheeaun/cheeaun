@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fuma-nama/fumadocs - The beautiful & flexible React.js docs framework.](https://github.com/fuma-nama/fumadocs)
+- [deta/surf - AI Notebooks](https://github.com/deta/surf)
+- [fabiospampinato/zeptomatch - An absurdly small glob matcher that packs a punch.](https://github.com/fabiospampinato/zeptomatch)
 - [mozilla/sanitizer-polyfill - rewrite constructor arguments, call DOMPurify, profit](https://github.com/mozilla/sanitizer-polyfill)
 - [obra/superpowers-chrome - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies](https://github.com/obra/superpowers-chrome)
 - [zenfyrdev/phanpy - A minimalistic opinionated Mastodon web client](https://github.com/zenfyrdev/phanpy)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JonasKruckenberg/k23 - Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 - [servo/servo - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.](https://github.com/servo/servo)
 - [wuchalejs/wuchale - Protobuf-like i18n from plain code](https://github.com/wuchalejs/wuchale)
-- [jacob-ebey/protoflare - Protoflare helps you build AT Protocol apps on Cloudflare faster.](https://github.com/jacob-ebey/protoflare)
-- [joinloops/loops-expo - The federated short video sharing platform app.](https://github.com/joinloops/loops-expo)
-- [Touffy/client-zip - A client-side streaming ZIP generator](https://github.com/Touffy/client-zip)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
