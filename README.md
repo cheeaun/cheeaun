@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jb55/binmoji - A compact, lossless, 64-bit emoji encoding](https://github.com/jb55/binmoji)
 - [kaitai-io/kaitai_struct - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust](https://github.com/kaitai-io/kaitai_struct)
 - [LemmyNet/activitypub-federation-rust - High-level Rust library for the Activitypub protocol](https://github.com/LemmyNet/activitypub-federation-rust)
 - [paoloricciuti/tmcp - Typescript SDK to build MCP servers in an agnostic way](https://github.com/paoloricciuti/tmcp)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [junhoyeo/BetterOCR - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.](https://github.com/junhoyeo/BetterOCR)
 - [bgreenwell/doxx - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!](https://github.com/bgreenwell/doxx)
 - [echogarden-project/text-segmentation - A library for multilingual word, phrase and sentence segmentation.](https://github.com/echogarden-project/text-segmentation)
-- [ruanchaves/hashformers - Hashformers is a framework for hashtag segmentation with Transformers and Large Language Models (LLMs).](https://github.com/ruanchaves/hashformers)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
