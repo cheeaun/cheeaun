@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kaitai-io/kaitai_struct - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust](https://github.com/kaitai-io/kaitai_struct)
 - [LemmyNet/activitypub-federation-rust - High-level Rust library for the Activitypub protocol](https://github.com/LemmyNet/activitypub-federation-rust)
 - [paoloricciuti/tmcp - Typescript SDK to build MCP servers in an agnostic way](https://github.com/paoloricciuti/tmcp)
 - [EmissarySocial/atlas - Annotate real-world locations on the Fediverse](https://github.com/EmissarySocial/atlas)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bgreenwell/doxx - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!](https://github.com/bgreenwell/doxx)
 - [echogarden-project/text-segmentation - A library for multilingual word, phrase and sentence segmentation.](https://github.com/echogarden-project/text-segmentation)
 - [ruanchaves/hashformers - Hashformers is a framework for hashtag segmentation with Transformers and Large Language Models (LLMs).](https://github.com/ruanchaves/hashformers)
-- [tunjid/heron - A graceful multiplatform bluesky client](https://github.com/tunjid/heron)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
