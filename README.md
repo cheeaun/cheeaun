@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stackblitz-labs/pkg.pr.new - 📦️ Continuous (Preview) Releases for your libraries! ](https://github.com/stackblitz-labs/pkg.pr.new)
+- [matfantinel/iphanpy - Fork of Phanpy, set up as an iOS app](https://github.com/matfantinel/iphanpy)
 - [vite-pwa/workbox - 📦 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/vite-pwa/workbox)
 - [jb55/binmoji - A compact, lossless, 64-bit emoji encoding](https://github.com/jb55/binmoji)
 - [kaitai-io/kaitai_struct - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust](https://github.com/kaitai-io/kaitai_struct)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mozilla/sanitizer-polyfill - rewrite constructor arguments, call DOMPurify, profit](https://github.com/mozilla/sanitizer-polyfill)
 - [obra/superpowers-chrome - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies](https://github.com/obra/superpowers-chrome)
 - [synth-download/phanpy - A minimalistic opinionated Mastodon web client](https://github.com/synth-download/phanpy)
-- [junhoyeo/BetterOCR - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.](https://github.com/junhoyeo/BetterOCR)
-- [bgreenwell/doxx - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!](https://github.com/bgreenwell/doxx)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
