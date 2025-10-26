@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [f3d-app/f3d - Fast and minimalist 3D viewer.](https://github.com/f3d-app/f3d)
 - [stackblitz-labs/pkg.pr.new - 📦️ Continuous (Preview) Releases for your libraries! ](https://github.com/stackblitz-labs/pkg.pr.new)
 - [matfantinel/iphanpy - Fork of Phanpy, set up as an iOS app](https://github.com/matfantinel/iphanpy)
 - [vite-pwa/workbox - 📦 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/vite-pwa/workbox)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fabiospampinato/zeptomatch - An absurdly small glob matcher that packs a punch.](https://github.com/fabiospampinato/zeptomatch)
 - [mozilla/sanitizer-polyfill - rewrite constructor arguments, call DOMPurify, profit](https://github.com/mozilla/sanitizer-polyfill)
 - [obra/superpowers-chrome - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies](https://github.com/obra/superpowers-chrome)
-- [synth-download/phanpy - A minimalistic opinionated Mastodon web client](https://github.com/synth-download/phanpy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
