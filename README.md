@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [atauenis/webone - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.](https://github.com/atauenis/webone)
 - [f3d-app/f3d - Fast and minimalist 3D viewer.](https://github.com/f3d-app/f3d)
 - [stackblitz-labs/pkg.pr.new - 📦️ Continuous (Preview) Releases for your libraries! ](https://github.com/stackblitz-labs/pkg.pr.new)
 - [matfantinel/iphanpy - Fork of Phanpy, set up as an iOS app](https://github.com/matfantinel/iphanpy)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [deta/surf - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).](https://github.com/deta/surf)
 - [fabiospampinato/zeptomatch - An absurdly small glob matcher that packs a punch.](https://github.com/fabiospampinato/zeptomatch)
 - [mozilla/sanitizer-polyfill - rewrite constructor arguments, call DOMPurify, profit](https://github.com/mozilla/sanitizer-polyfill)
-- [obra/superpowers-chrome - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies](https://github.com/obra/superpowers-chrome)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
