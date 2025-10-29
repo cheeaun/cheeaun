@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [node-unicode/node-unicode-data - JavaScript-compatible Unicode data generator. Arrays of code points, arrays of symbols, and regular expressions for every Unicode version’s categories, scripts, blocks, and properties — neatly packaged into a separate npm package per Unicode version.](https://github.com/node-unicode/node-unicode-data)
 - [atauenis/webone - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.](https://github.com/atauenis/webone)
 - [f3d-app/f3d - Fast and minimalist 3D viewer.](https://github.com/f3d-app/f3d)
 - [stackblitz-labs/pkg.pr.new - 📦️ Continuous (Preview) Releases for your libraries! ](https://github.com/stackblitz-labs/pkg.pr.new)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fuma-nama/fumadocs - The beautiful & flexible React.js docs framework.](https://github.com/fuma-nama/fumadocs)
 - [deta/surf - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).](https://github.com/deta/surf)
 - [fabiospampinato/zeptomatch - An absurdly small glob matcher that packs a punch.](https://github.com/fabiospampinato/zeptomatch)
-- [mozilla/sanitizer-polyfill - rewrite constructor arguments, call DOMPurify, profit](https://github.com/mozilla/sanitizer-polyfill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
