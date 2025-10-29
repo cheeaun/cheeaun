@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [legions-developer/invoicely - Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS](https://github.com/legions-developer/invoicely)
+- [legions-developer/evilcharts - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.](https://github.com/legions-developer/evilcharts)
+- [ije/mono-jsx - `<html>` as a `Response`.](https://github.com/ije/mono-jsx)
+- [esm-dev/modern-monaco - A modern version of Monaco Editor.](https://github.com/esm-dev/modern-monaco)
 - [node-unicode/node-unicode-data - JavaScript-compatible Unicode data generator. Arrays of code points, arrays of symbols, and regular expressions for every Unicode version’s categories, scripts, blocks, and properties — neatly packaged into a separate npm package per Unicode version.](https://github.com/node-unicode/node-unicode-data)
 - [atauenis/webone - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.](https://github.com/atauenis/webone)
 - [f3d-app/f3d - Fast and minimalist 3D viewer.](https://github.com/f3d-app/f3d)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [LemmyNet/activitypub-federation-rust - High-level Rust library for the Activitypub protocol](https://github.com/LemmyNet/activitypub-federation-rust)
 - [paoloricciuti/tmcp - Typescript SDK to build MCP servers in an agnostic way](https://github.com/paoloricciuti/tmcp)
 - [EmissarySocial/atlas - Annotate real-world locations on the Fediverse](https://github.com/EmissarySocial/atlas)
-- [sysmaya/Grayscale-Image-to-STL - Convierte imágenes en escala de grises en modelos 3D STL directamente en tu navegador. 100% online, sin registro ni servidor. Ajusta brillo, contraste y altura para generar relieves listos para impresión 3D o CNC usando Three.js.](https://github.com/sysmaya/Grayscale-Image-to-STL)
-- [fuma-nama/fumadocs - The beautiful & flexible React.js docs framework.](https://github.com/fuma-nama/fumadocs)
-- [deta/surf - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).](https://github.com/deta/surf)
-- [fabiospampinato/zeptomatch - An absurdly small glob matcher that packs a punch.](https://github.com/fabiospampinato/zeptomatch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
