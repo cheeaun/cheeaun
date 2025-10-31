@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ealush/emoji-picker-react - The most popular React Emoji Picker](https://github.com/ealush/emoji-picker-react)
 - [legions-developer/invoicely - Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS](https://github.com/legions-developer/invoicely)
 - [legions-developer/evilcharts - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.](https://github.com/legions-developer/evilcharts)
 - [ije/mono-jsx - `<html>` as a `Response`.](https://github.com/ije/mono-jsx)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kaitai-io/kaitai_struct - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust](https://github.com/kaitai-io/kaitai_struct)
 - [LemmyNet/activitypub-federation-rust - High-level Rust library for the Activitypub protocol](https://github.com/LemmyNet/activitypub-federation-rust)
 - [paoloricciuti/tmcp - Typescript SDK to build MCP servers in an agnostic way](https://github.com/paoloricciuti/tmcp)
-- [EmissarySocial/atlas - Annotate real-world locations on the Fediverse](https://github.com/EmissarySocial/atlas)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
