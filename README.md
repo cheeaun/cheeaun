@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DeclanChidlow/BritCSS - Fixes CSS to use non-bastardised spellings.](https://github.com/DeclanChidlow/BritCSS)
 - [johansan/notebook-navigator - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.](https://github.com/johansan/notebook-navigator)
 - [ealush/emoji-picker-react - The most popular React Emoji Picker](https://github.com/ealush/emoji-picker-react)
 - [legions-developer/invoicely - Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS](https://github.com/legions-developer/invoicely)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vite-pwa/workbox - 📦 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/vite-pwa/workbox)
 - [jb55/binmoji - A compact, lossless, 64-bit emoji encoding](https://github.com/jb55/binmoji)
 - [kaitai-io/kaitai_struct - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust](https://github.com/kaitai-io/kaitai_struct)
-- [LemmyNet/activitypub-federation-rust - High-level Rust library for the Activitypub protocol](https://github.com/LemmyNet/activitypub-federation-rust)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
