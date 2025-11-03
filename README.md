@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [katex-rs/katex-rs - KaTeX-rs is a Rust implementation of [KaTeX](https://github.com/KaTeX/KaTeX), providing fast mathematical typesetting capabilities, not limited to Javascript environments.](https://github.com/katex-rs/katex-rs)
 - [DeclanChidlow/BritCSS - Fixes CSS to use non-bastardised spellings.](https://github.com/DeclanChidlow/BritCSS)
 - [johansan/notebook-navigator - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.](https://github.com/johansan/notebook-navigator)
 - [ealush/emoji-picker-react - The most popular React Emoji Picker](https://github.com/ealush/emoji-picker-react)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [matfantinel/iphanpy - Fork of Phanpy, set up as an iOS app](https://github.com/matfantinel/iphanpy)
 - [vite-pwa/workbox - 📦 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/vite-pwa/workbox)
 - [jb55/binmoji - A compact, lossless, 64-bit emoji encoding](https://github.com/jb55/binmoji)
-- [kaitai-io/kaitai_struct - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust](https://github.com/kaitai-io/kaitai_struct)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
