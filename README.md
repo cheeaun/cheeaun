@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jayin92/Skyfall-GS - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://github.com/jayin92/Skyfall-GS)
+- [HydroniumLabs/h3o - Rust implementation of the H3 geospatial indexing system.](https://github.com/HydroniumLabs/h3o)
+- [lume/nimble-html - A light-weight `html` tagged template string function for writing declarative-reactive web apps. Zero dependencies.](https://github.com/lume/nimble-html)
 - [katex-rs/katex-rs - KaTeX-rs is a Rust implementation of [KaTeX](https://github.com/KaTeX/KaTeX), providing fast mathematical typesetting capabilities, not limited to Javascript environments.](https://github.com/katex-rs/katex-rs)
 - [DeclanChidlow/BritCSS - Fixes CSS to use non-bastardised spellings.](https://github.com/DeclanChidlow/BritCSS)
 - [johansan/notebook-navigator - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.](https://github.com/johansan/notebook-navigator)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [atauenis/webone - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.](https://github.com/atauenis/webone)
 - [f3d-app/f3d - Fast and minimalist 3D viewer.](https://github.com/f3d-app/f3d)
 - [stackblitz-labs/pkg.pr.new - 📦️ Continuous (Preview) Releases for your libraries! ](https://github.com/stackblitz-labs/pkg.pr.new)
-- [matfantinel/iphanpy - Fork of Phanpy, set up as an iOS app](https://github.com/matfantinel/iphanpy)
-- [vite-pwa/workbox - 📦 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/vite-pwa/workbox)
-- [jb55/binmoji - A compact, lossless, 64-bit emoji encoding](https://github.com/jb55/binmoji)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
