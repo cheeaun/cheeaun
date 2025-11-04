@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace)
 - [jayin92/Skyfall-GS - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://github.com/jayin92/Skyfall-GS)
 - [HydroniumLabs/h3o - Rust implementation of the H3 geospatial indexing system.](https://github.com/HydroniumLabs/h3o)
 - [lume/nimble-html - A light-weight `html` tagged template string function for writing declarative-reactive web apps. Zero dependencies.](https://github.com/lume/nimble-html)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [node-unicode/node-unicode-data - JavaScript-compatible Unicode data generator. Arrays of code points, arrays of symbols, and regular expressions for every Unicode version’s categories, scripts, blocks, and properties — neatly packaged into a separate npm package per Unicode version.](https://github.com/node-unicode/node-unicode-data)
 - [atauenis/webone - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.](https://github.com/atauenis/webone)
 - [f3d-app/f3d - Fast and minimalist 3D viewer.](https://github.com/f3d-app/f3d)
-- [stackblitz-labs/pkg.pr.new - 📦️ Continuous (Preview) Releases for your libraries! ](https://github.com/stackblitz-labs/pkg.pr.new)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
