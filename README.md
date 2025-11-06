@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JiriHoffmann/react-native-clusterer - React Native clustering library using C++ Supercluster implementation](https://github.com/JiriHoffmann/react-native-clusterer)
+- [brianvoe/slim-select - Slim advanced select dropdown](https://github.com/brianvoe/slim-select)
+- [shajidhasan/spoilerjs - A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations.](https://github.com/shajidhasan/spoilerjs)
+- [sverweij/dependency-cruiser - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.](https://github.com/sverweij/dependency-cruiser)
+- [sindresorhus/on-change - Watch an object or array for changes](https://github.com/sindresorhus/on-change)
 - [EvanBacon/expo-apple-colors - Use native Apple colors on all platforms](https://github.com/EvanBacon/expo-apple-colors)
 - [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace)
 - [jayin92/Skyfall-GS - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://github.com/jayin92/Skyfall-GS)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [johansan/notebook-navigator - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.](https://github.com/johansan/notebook-navigator)
 - [ealush/emoji-picker-react - The most popular React Emoji Picker](https://github.com/ealush/emoji-picker-react)
 - [legions-developer/invoicely - Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS](https://github.com/legions-developer/invoicely)
-- [legions-developer/evilcharts - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.](https://github.com/legions-developer/evilcharts)
-- [ije/mono-jsx - `<html>` as a `Response`.](https://github.com/ije/mono-jsx)
-- [esm-dev/modern-monaco - A modern version of Monaco Editor.](https://github.com/esm-dev/modern-monaco)
-- [node-unicode/node-unicode-data - JavaScript-compatible Unicode data generator. Arrays of code points, arrays of symbols, and regular expressions for every Unicode version’s categories, scripts, blocks, and properties — neatly packaged into a separate npm package per Unicode version.](https://github.com/node-unicode/node-unicode-data)
-- [atauenis/webone - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.](https://github.com/atauenis/webone)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
