@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [countertype/three-text - A high fidelity font renderer and text layout engine for Three.js](https://github.com/countertype/three-text)
 - [JiriHoffmann/react-native-clusterer - React Native clustering library using C++ Supercluster implementation](https://github.com/JiriHoffmann/react-native-clusterer)
 - [brianvoe/slim-select - Slim advanced select dropdown](https://github.com/brianvoe/slim-select)
 - [shajidhasan/spoilerjs - A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations.](https://github.com/shajidhasan/spoilerjs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [DeclanChidlow/BritCSS - Fixes CSS to use non-bastardised spellings.](https://github.com/DeclanChidlow/BritCSS)
 - [johansan/notebook-navigator - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.](https://github.com/johansan/notebook-navigator)
 - [ealush/emoji-picker-react - The most popular React Emoji Picker](https://github.com/ealush/emoji-picker-react)
-- [legions-developer/invoicely - Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS](https://github.com/legions-developer/invoicely)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
