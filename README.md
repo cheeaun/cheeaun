@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wevm/cuer - QR Code for React](https://github.com/wevm/cuer)
 - [Snapchat/Valdi - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.](https://github.com/Snapchat/Valdi)
 - [isaacs/tshy](https://github.com/isaacs/tshy)
 - [microsoft/PowerToys - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks](https://github.com/microsoft/PowerToys)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jayin92/Skyfall-GS - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://github.com/jayin92/Skyfall-GS)
 - [HydroniumLabs/h3o - Rust implementation of the H3 geospatial indexing system.](https://github.com/HydroniumLabs/h3o)
 - [lume/nimble-html - A light-weight `html` tagged template string function for writing declarative-reactive web apps. Zero dependencies.](https://github.com/lume/nimble-html)
-- [katex-rs/katex-rs - KaTeX-rs is a Rust implementation of [KaTeX](https://github.com/KaTeX/KaTeX), providing fast mathematical typesetting capabilities, not limited to Javascript environments.](https://github.com/katex-rs/katex-rs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
