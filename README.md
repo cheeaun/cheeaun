@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nuintun/qrcode - A pure JavaScript QRCode encode and decode library.](https://github.com/nuintun/qrcode)
 - [wevm/cuer - QR Code for React](https://github.com/wevm/cuer)
 - [Snapchat/Valdi - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.](https://github.com/Snapchat/Valdi)
 - [isaacs/tshy](https://github.com/isaacs/tshy)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace)
 - [jayin92/Skyfall-GS - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://github.com/jayin92/Skyfall-GS)
 - [HydroniumLabs/h3o - Rust implementation of the H3 geospatial indexing system.](https://github.com/HydroniumLabs/h3o)
-- [lume/nimble-html - A light-weight `html` tagged template string function for writing declarative-reactive web apps. Zero dependencies.](https://github.com/lume/nimble-html)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
