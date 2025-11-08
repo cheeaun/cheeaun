@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Snapchat/Valdi - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.](https://github.com/Snapchat/Valdi)
 - [isaacs/tshy](https://github.com/isaacs/tshy)
 - [microsoft/PowerToys - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks](https://github.com/microsoft/PowerToys)
 - [countertype/three-text - A high fidelity font renderer and text layout engine for Three.js](https://github.com/countertype/three-text)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [HydroniumLabs/h3o - Rust implementation of the H3 geospatial indexing system.](https://github.com/HydroniumLabs/h3o)
 - [lume/nimble-html - A light-weight `html` tagged template string function for writing declarative-reactive web apps. Zero dependencies.](https://github.com/lume/nimble-html)
 - [katex-rs/katex-rs - KaTeX-rs is a Rust implementation of [KaTeX](https://github.com/KaTeX/KaTeX), providing fast mathematical typesetting capabilities, not limited to Javascript environments.](https://github.com/katex-rs/katex-rs)
-- [DeclanChidlow/BritCSS - Fixes CSS to use non-bastardised spellings.](https://github.com/DeclanChidlow/BritCSS)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
