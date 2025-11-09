@@ -41,7 +41,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sverweij/dependency-cruiser - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.](https://github.com/sverweij/dependency-cruiser)
 - [sindresorhus/on-change - Watch an object or array for changes](https://github.com/sindresorhus/on-change)
 - [EvanBacon/expo-apple-colors - Use native Apple colors on all platforms](https://github.com/EvanBacon/expo-apple-colors)
-- [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace)
+- [leochiu-a/slidev-workspace - Slidev Workspace is a specialized command-line tool designed to manage and showcase multiple Slidev presentations.](https://github.com/leochiu-a/slidev-workspace)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
