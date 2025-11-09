@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sayyadirfanali/Myna - monospace typeface designed for symbol-rich programming](https://github.com/sayyadirfanali/Myna)
 - [cjpais/Handy - A free, open source, and extensible speech-to-text application that works completely offline.](https://github.com/cjpais/Handy)
 - [nuintun/qrcode - A pure JavaScript QRCode encode and decode library.](https://github.com/nuintun/qrcode)
 - [wevm/cuer - QR Code for React](https://github.com/wevm/cuer)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sindresorhus/on-change - Watch an object or array for changes](https://github.com/sindresorhus/on-change)
 - [EvanBacon/expo-apple-colors - Use native Apple colors on all platforms](https://github.com/EvanBacon/expo-apple-colors)
 - [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace)
-- [jayin92/Skyfall-GS - Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](https://github.com/jayin92/Skyfall-GS)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
