@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alanleungcn/puppeteer-google-translate - Translate texts or documents with Google Translate using Puppeteer](https://github.com/alanleungcn/puppeteer-google-translate)
 - [FxEmbed/polyglot - Scalable Translation Service](https://github.com/FxEmbed/polyglot)
 - [vitalets/google-translate-api - A free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/vitalets/google-translate-api)
 - [zensical/zensical - A modern static site generator by the creators of Material for MkDocs](https://github.com/zensical/zensical)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JiriHoffmann/react-native-clusterer - React Native clustering library using C++ Supercluster implementation](https://github.com/JiriHoffmann/react-native-clusterer)
 - [brianvoe/slim-select - Slim advanced select dropdown](https://github.com/brianvoe/slim-select)
 - [shajidhasan/spoilerjs - A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations.](https://github.com/shajidhasan/spoilerjs)
-- [sverweij/dependency-cruiser - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.](https://github.com/sverweij/dependency-cruiser)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
