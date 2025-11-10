@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [FxEmbed/polyglot - Scalable Translation Service](https://github.com/FxEmbed/polyglot)
+- [vitalets/google-translate-api - A free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/vitalets/google-translate-api)
 - [zensical/zensical - A modern static site generator by the creators of Material for MkDocs](https://github.com/zensical/zensical)
 - [sayyadirfanali/Myna - monospace typeface designed for symbol-rich programming](https://github.com/sayyadirfanali/Myna)
 - [cjpais/Handy - A free, open source, and extensible speech-to-text application that works completely offline.](https://github.com/cjpais/Handy)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [brianvoe/slim-select - Slim advanced select dropdown](https://github.com/brianvoe/slim-select)
 - [shajidhasan/spoilerjs - A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations.](https://github.com/shajidhasan/spoilerjs)
 - [sverweij/dependency-cruiser - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.](https://github.com/sverweij/dependency-cruiser)
-- [sindresorhus/on-change - Watch an object or array for changes](https://github.com/sindresorhus/on-change)
-- [EvanBacon/expo-apple-colors - Use native Apple colors on all platforms](https://github.com/EvanBacon/expo-apple-colors)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
