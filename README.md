@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Doarakko/git-first-commit - Find the first commit of any GitHub repository.](https://github.com/Doarakko/git-first-commit)
+- [bpceee/oldest - Go to the oldest page of commits.](https://github.com/bpceee/oldest)
 - [jesseduffield/lazygit - simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 - [alanleungcn/puppeteer-google-translate - Translate texts or documents with Google Translate using Puppeteer](https://github.com/alanleungcn/puppeteer-google-translate)
 - [FxEmbed/polyglot - Scalable Translation Service](https://github.com/FxEmbed/polyglot)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [isaacs/tshy](https://github.com/isaacs/tshy)
 - [microsoft/PowerToys - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks](https://github.com/microsoft/PowerToys)
 - [countertype/three-text - A high fidelity font renderer and text layout engine for Three.js](https://github.com/countertype/three-text)
-- [JiriHoffmann/react-native-clusterer - React Native clustering library using C++ Supercluster implementation](https://github.com/JiriHoffmann/react-native-clusterer)
-- [brianvoe/slim-select - Slim advanced select dropdown](https://github.com/brianvoe/slim-select)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
