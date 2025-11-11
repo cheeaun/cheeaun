@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [quickjs-ng/quickjs - QuickJS, the Next Generation: a mighty JavaScript engine](https://github.com/quickjs-ng/quickjs)
 - [Doarakko/git-first-commit - Find the first commit of any GitHub repository.](https://github.com/Doarakko/git-first-commit)
 - [bpceee/oldest - Go to the oldest page of commits.](https://github.com/bpceee/oldest)
 - [jesseduffield/lazygit - simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Snapchat/Valdi - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.](https://github.com/Snapchat/Valdi)
 - [isaacs/tshy](https://github.com/isaacs/tshy)
 - [microsoft/PowerToys - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks](https://github.com/microsoft/PowerToys)
-- [countertype/three-text - A high fidelity font renderer and text layout engine for Three.js](https://github.com/countertype/three-text)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
