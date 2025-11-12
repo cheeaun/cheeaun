@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [perkeep/perkeep - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.](https://github.com/perkeep/perkeep)
+- [MaddyUnderStars/shoot-client - React client for Shoot, the fediverse instant messenger ](https://github.com/MaddyUnderStars/shoot-client)
+- [MaddyUnderStars/shoot - ActivityPub federated instant messaging server](https://github.com/MaddyUnderStars/shoot)
 - [quickjs-ng/quickjs - QuickJS, the Next Generation: a mighty JavaScript engine](https://github.com/quickjs-ng/quickjs)
 - [Doarakko/git-first-commit - Find the first commit of any GitHub repository.](https://github.com/Doarakko/git-first-commit)
 - [bpceee/oldest - Go to the oldest page of commits.](https://github.com/bpceee/oldest)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cjpais/Handy - A free, open source, and extensible speech-to-text application that works completely offline.](https://github.com/cjpais/Handy)
 - [nuintun/qrcode - A pure JavaScript QRCode encode and decode library.](https://github.com/nuintun/qrcode)
 - [wevm/cuer - QR Code for React](https://github.com/wevm/cuer)
-- [Snapchat/Valdi - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.](https://github.com/Snapchat/Valdi)
-- [isaacs/tshy](https://github.com/isaacs/tshy)
-- [microsoft/PowerToys - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks](https://github.com/microsoft/PowerToys)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
