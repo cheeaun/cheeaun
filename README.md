@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lukehsiao/openring-rs - :chains: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs)
+- [mary-ext/bluesky-embed - Custom element for embedding Bluesky posts and profile feeds](https://github.com/mary-ext/bluesky-embed)
+- [Lexedia/VixBluesky -  VixBluesky: Embed Bluesky links in Discord!](https://github.com/Lexedia/VixBluesky)
 - [perkeep/perkeep - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.](https://github.com/perkeep/perkeep)
 - [MaddyUnderStars/shoot-client - React client for Shoot, the fediverse instant messenger ](https://github.com/MaddyUnderStars/shoot-client)
 - [MaddyUnderStars/shoot - ActivityPub federated instant messaging server](https://github.com/MaddyUnderStars/shoot)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vitalets/google-translate-api - A free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/vitalets/google-translate-api)
 - [zensical/zensical - A modern static site generator by the creators of Material for MkDocs](https://github.com/zensical/zensical)
 - [sayyadirfanali/Myna - monospace typeface designed for symbol-rich programming](https://github.com/sayyadirfanali/Myna)
-- [cjpais/Handy - A free, open source, and extensible speech-to-text application that works completely offline.](https://github.com/cjpais/Handy)
-- [nuintun/qrcode - A pure JavaScript QRCode encode and decode library.](https://github.com/nuintun/qrcode)
-- [wevm/cuer - QR Code for React](https://github.com/wevm/cuer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
