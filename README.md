@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [arcuru/eidetica - Decentralized DB. Remember Everything. Everywhere. All At Once.](https://github.com/arcuru/eidetica)
 - [datalab-to/chandra - OCR model that handles complex tables, forms, handwriting with full layout.](https://github.com/datalab-to/chandra)
 - [lukehsiao/openring-rs - :chains: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs)
 - [mary-ext/bluesky-embed - Custom element for embedding Bluesky posts and profile feeds](https://github.com/mary-ext/bluesky-embed)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [alanleungcn/puppeteer-google-translate - Translate texts or documents with Google Translate using Puppeteer](https://github.com/alanleungcn/puppeteer-google-translate)
 - [FxEmbed/polyglot - Scalable Translation Service](https://github.com/FxEmbed/polyglot)
 - [vitalets/google-translate-api - A free and unlimited API for Google Translate :dollar: :no_entry_sign:](https://github.com/vitalets/google-translate-api)
-- [zensical/zensical - A modern static site generator by the creators of Material for MkDocs](https://github.com/zensical/zensical)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
