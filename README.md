@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [serwist/serwist - A Swiss Army knife for service workers.](https://github.com/serwist/serwist)
 - [philfung/add-to-homescreen - Easily add website to your IOS/Android/Desktop homescreen.](https://github.com/philfung/add-to-homescreen)
 - [arcuru/eidetica - Decentralized DB. Remember Everything. Everywhere. All At Once.](https://github.com/arcuru/eidetica)
 - [datalab-to/chandra - OCR model that handles complex tables, forms, handwriting with full layout.](https://github.com/datalab-to/chandra)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bpceee/oldest - Go to the oldest page of commits.](https://github.com/bpceee/oldest)
 - [jesseduffield/lazygit - simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 - [alanleungcn/puppeteer-google-translate - Translate texts or documents with Google Translate using Puppeteer](https://github.com/alanleungcn/puppeteer-google-translate)
-- [FxEmbed/polyglot - Scalable Translation Service](https://github.com/FxEmbed/polyglot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
