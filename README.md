@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mohammadrafigh/NeoComment - a NeoDB client](https://github.com/mohammadrafigh/NeoComment)
 - [MikeKovarik/exifr - 📷 The fastest and most versatile JS EXIF reading library.](https://github.com/MikeKovarik/exifr)
 - [buyukakyuz/install-nothing - A terminal application that simulates installing things but doesn't actually install anything](https://github.com/buyukakyuz/install-nothing)
 - [FossifyOrg/Gallery - Browse your memories without any interruptions with this photo and video gallery](https://github.com/FossifyOrg/Gallery)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MaddyUnderStars/shoot-client - React client for Shoot, the fediverse instant messenger ](https://github.com/MaddyUnderStars/shoot-client)
 - [MaddyUnderStars/shoot - ActivityPub federated instant messaging server](https://github.com/MaddyUnderStars/shoot)
 - [quickjs-ng/quickjs - QuickJS, the Next Generation: a mighty JavaScript engine](https://github.com/quickjs-ng/quickjs)
-- [Doarakko/git-first-commit - Find the first commit of any GitHub repository.](https://github.com/Doarakko/git-first-commit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
