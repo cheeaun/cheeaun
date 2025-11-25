@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [crowdin/translate-readme - A GitHub Action to automate the translation of your README.md files via Crowdin ✨](https://github.com/crowdin/translate-readme)
 - [mohammadrafigh/NeoComment - a NeoDB client](https://github.com/mohammadrafigh/NeoComment)
 - [MikeKovarik/exifr - 📷 The fastest and most versatile JS EXIF reading library.](https://github.com/MikeKovarik/exifr)
 - [buyukakyuz/install-nothing - A terminal application that simulates installing things but doesn't actually install anything](https://github.com/buyukakyuz/install-nothing)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [perkeep/perkeep - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.](https://github.com/perkeep/perkeep)
 - [MaddyUnderStars/shoot-client - React client for Shoot, the fediverse instant messenger ](https://github.com/MaddyUnderStars/shoot-client)
 - [MaddyUnderStars/shoot - ActivityPub federated instant messaging server](https://github.com/MaddyUnderStars/shoot)
-- [quickjs-ng/quickjs - QuickJS, the Next Generation: a mighty JavaScript engine](https://github.com/quickjs-ng/quickjs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
