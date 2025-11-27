@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [williamtroup/Heat.js - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.](https://github.com/williamtroup/Heat.js)
 - [Lissy93/domain-locker - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!](https://github.com/Lissy93/domain-locker)
 - [crowdin/translate-readme - A GitHub Action to automate the translation of your README.md files via Crowdin ✨](https://github.com/crowdin/translate-readme)
 - [mohammadrafigh/NeoComment - a NeoDB client](https://github.com/mohammadrafigh/NeoComment)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mary-ext/bluesky-embed - Custom element for embedding Bluesky posts and profile feeds](https://github.com/mary-ext/bluesky-embed)
 - [Lexedia/VixBluesky -  VixBluesky: Embed Bluesky links in Discord!](https://github.com/Lexedia/VixBluesky)
 - [perkeep/perkeep - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.](https://github.com/perkeep/perkeep)
-- [MaddyUnderStars/shoot-client - React client for Shoot, the fediverse instant messenger ](https://github.com/MaddyUnderStars/shoot-client)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
