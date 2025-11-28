@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [trailbaseio/trailbase - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.](https://github.com/trailbaseio/trailbase)
 - [equalitie/ouisync - A secure peer-to-peer file synchronization app.](https://github.com/equalitie/ouisync)
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)
 - [kittibyte/deer-social - fork of deer social thats updated to the latest social app commit with some new features](https://github.com/kittibyte/deer-social)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [philfung/add-to-homescreen - Easily add website to your IOS/Android/Desktop homescreen.](https://github.com/philfung/add-to-homescreen)
 - [arcuru/eidetica - Decentralized DB. Remember Everything. Everywhere. All At Once.](https://github.com/arcuru/eidetica)
 - [datalab-to/chandra - OCR model that handles complex tables, forms, handwriting with full layout.](https://github.com/datalab-to/chandra)
-- [lukehsiao/openring-rs - :chains: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
