@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [raffomania/linkblocks - Federated website aggregator](https://github.com/raffomania/linkblocks)
+- [deemkeen/stegodon - Blog directly from ssh!](https://github.com/deemkeen/stegodon)
 - [trailbaseio/trailbase - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.](https://github.com/trailbaseio/trailbase)
 - [equalitie/ouisync - A secure peer-to-peer file synchronization app.](https://github.com/equalitie/ouisync)
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [FossifyOrg/Gallery - Browse your memories without any interruptions with this photo and video gallery](https://github.com/FossifyOrg/Gallery)
 - [serwist/serwist - A Swiss Army knife for service workers.](https://github.com/serwist/serwist)
 - [philfung/add-to-homescreen - Easily add website to your IOS/Android/Desktop homescreen.](https://github.com/philfung/add-to-homescreen)
-- [arcuru/eidetica - Decentralized DB. Remember Everything. Everywhere. All At Once.](https://github.com/arcuru/eidetica)
-- [datalab-to/chandra - OCR model that handles complex tables, forms, handwriting with full layout.](https://github.com/datalab-to/chandra)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
