@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [andesco/safari-color-tinting - Safari: Show Color in Tab Bar](https://github.com/andesco/safari-color-tinting)
 - [raffomania/linkblocks - Federated website aggregator](https://github.com/raffomania/linkblocks)
 - [deemkeen/stegodon - Blog directly from ssh!](https://github.com/deemkeen/stegodon)
 - [trailbaseio/trailbase - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.](https://github.com/trailbaseio/trailbase)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [buyukakyuz/install-nothing - A terminal application that simulates installing things but doesn't actually install anything](https://github.com/buyukakyuz/install-nothing)
 - [FossifyOrg/Gallery - Browse your memories without any interruptions with this photo and video gallery](https://github.com/FossifyOrg/Gallery)
 - [serwist/serwist - A Swiss Army knife for service workers.](https://github.com/serwist/serwist)
-- [philfung/add-to-homescreen - Easily add website to your IOS/Android/Desktop homescreen.](https://github.com/philfung/add-to-homescreen)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
