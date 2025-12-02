@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aadsm/jsmediatags - Media Tags Reader (ID3, MP4, FLAC)](https://github.com/aadsm/jsmediatags)
 - [coder/ghostty-web - Ghostty for the web with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 - [andesco/safari-color-tinting - Safari: Show Color in Tab Bar](https://github.com/andesco/safari-color-tinting)
 - [raffomania/linkblocks - Federated website aggregator](https://github.com/raffomania/linkblocks)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mohammadrafigh/NeoComment - a NeoDB client](https://github.com/mohammadrafigh/NeoComment)
 - [MikeKovarik/exifr - 📷 The fastest and most versatile JS EXIF reading library.](https://github.com/MikeKovarik/exifr)
 - [buyukakyuz/install-nothing - A terminal application that simulates installing things but doesn't actually install anything](https://github.com/buyukakyuz/install-nothing)
-- [FossifyOrg/Gallery - Browse your memories without any interruptions with this photo and video gallery](https://github.com/FossifyOrg/Gallery)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
