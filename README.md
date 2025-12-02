@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [coder/ghostty-web - Ghostty for the web with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 - [andesco/safari-color-tinting - Safari: Show Color in Tab Bar](https://github.com/andesco/safari-color-tinting)
 - [raffomania/linkblocks - Federated website aggregator](https://github.com/raffomania/linkblocks)
 - [deemkeen/stegodon - Blog directly from ssh!](https://github.com/deemkeen/stegodon)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MikeKovarik/exifr - 📷 The fastest and most versatile JS EXIF reading library.](https://github.com/MikeKovarik/exifr)
 - [buyukakyuz/install-nothing - A terminal application that simulates installing things but doesn't actually install anything](https://github.com/buyukakyuz/install-nothing)
 - [FossifyOrg/Gallery - Browse your memories without any interruptions with this photo and video gallery](https://github.com/FossifyOrg/Gallery)
-- [serwist/serwist - A Swiss Army knife for service workers.](https://github.com/serwist/serwist)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
