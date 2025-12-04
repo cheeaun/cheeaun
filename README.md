@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [PaulKinlan/generate-html-element](https://github.com/PaulKinlan/generate-html-element)
 - [mozilla-ai/byota - Blueprint to Build Your Own Timeline Algorithm](https://github.com/mozilla-ai/byota)
 - [larswaechter/voici.js - A Node.js library for pretty printing your data on the terminal🎨](https://github.com/larswaechter/voici.js)
 - [platformatic/platformatic - Platformatic Open Source monorepo!](https://github.com/platformatic/platformatic)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)
 - [kittibyte/deer-social - fork of deer social thats updated to the latest social app commit with some new features](https://github.com/kittibyte/deer-social)
 - [williamtroup/Heat.js - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.](https://github.com/williamtroup/Heat.js)
-- [Lissy93/domain-locker - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!](https://github.com/Lissy93/domain-locker)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
