@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nook-browser/Nook - A new browser, not owned by Atlassian.](https://github.com/nook-browser/Nook)
+- [yangjs6/mapbox-3d-tiles-demos - demos for mapbox-3d-tiles, https://github.com/yangjs6/mapbox-3d-tiles](https://github.com/yangjs6/mapbox-3d-tiles-demos)
+- [yangjs6/mapbox-3d-tiles - Integrate threejs with mapbox-gl to enable 3dtiles / 3dgs / gltf rendering.](https://github.com/yangjs6/mapbox-3d-tiles)
 - [PaulKinlan/generate-html-element](https://github.com/PaulKinlan/generate-html-element)
 - [mozilla-ai/byota - Blueprint to Build Your Own Timeline Algorithm](https://github.com/mozilla-ai/byota)
 - [larswaechter/voici.js - A Node.js library for pretty printing your data on the terminal🎨](https://github.com/larswaechter/voici.js)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [deemkeen/stegodon - Blog directly from ssh!](https://github.com/deemkeen/stegodon)
 - [trailbaseio/trailbase - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.](https://github.com/trailbaseio/trailbase)
 - [equalitie/ouisync - A secure peer-to-peer file synchronization app.](https://github.com/equalitie/ouisync)
-- [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2)
-- [kittibyte/deer-social - fork of deer social thats updated to the latest social app commit with some new features](https://github.com/kittibyte/deer-social)
-- [williamtroup/Heat.js - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.](https://github.com/williamtroup/Heat.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
