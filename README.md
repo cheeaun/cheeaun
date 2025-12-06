@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [W4G1/multithreading - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)](https://github.com/W4G1/multithreading)
 - [nook-browser/Nook - A new browser, not owned by Atlassian.](https://github.com/nook-browser/Nook)
 - [yangjs6/mapbox-3d-tiles-demos - demos for mapbox-3d-tiles, https://github.com/yangjs6/mapbox-3d-tiles](https://github.com/yangjs6/mapbox-3d-tiles-demos)
 - [yangjs6/mapbox-3d-tiles - Integrate threejs with mapbox-gl to enable 3dtiles / 3dgs / gltf rendering.](https://github.com/yangjs6/mapbox-3d-tiles)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [raffomania/linkblocks - Federated website aggregator](https://github.com/raffomania/linkblocks)
 - [deemkeen/stegodon - Blog directly from ssh!](https://github.com/deemkeen/stegodon)
 - [trailbaseio/trailbase - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.](https://github.com/trailbaseio/trailbase)
-- [equalitie/ouisync - A secure peer-to-peer file synchronization app.](https://github.com/equalitie/ouisync)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
