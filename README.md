@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cavi-au/Consent-O-Matic - Browser extension that automatically fills out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
 - [lipanski/docker-static-website - A very small Docker image (~80KB) to run any static website](https://github.com/lipanski/docker-static-website)
 - [andrii-kryvoviaz/slink - Self-hosted image sharing service](https://github.com/andrii-kryvoviaz/slink)
 - [W4G1/multithreading - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)](https://github.com/W4G1/multithreading)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [aadsm/jsmediatags - Media Tags Reader (ID3, MP4, FLAC)](https://github.com/aadsm/jsmediatags)
 - [coder/ghostty-web - Ghostty for the web with xterm.js API compatibility](https://github.com/coder/ghostty-web)
 - [andesco/safari-color-tinting - Safari: Show Color in Tab Bar](https://github.com/andesco/safari-color-tinting)
-- [raffomania/linkblocks - Federated website aggregator](https://github.com/raffomania/linkblocks)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
