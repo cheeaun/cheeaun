@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LayoutitStudio/voxcss - A CSS voxel engine. A 3D grid for the DOM. Renders HTML cuboids by stacking grid layers and applying transforms. ](https://github.com/LayoutitStudio/voxcss)
 - [cavi-au/Consent-O-Matic - Browser extension that automatically fills out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
 - [lipanski/docker-static-website - A very small Docker image (~80KB) to run any static website](https://github.com/lipanski/docker-static-website)
 - [andrii-kryvoviaz/slink - Self-hosted image sharing service](https://github.com/andrii-kryvoviaz/slink)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tinylibs/tinybench - 🔎 A simple, tiny and lightweight benchmarking library!](https://github.com/tinylibs/tinybench)
 - [aadsm/jsmediatags - Media Tags Reader (ID3, MP4, FLAC)](https://github.com/aadsm/jsmediatags)
 - [coder/ghostty-web - Ghostty for the web with xterm.js API compatibility](https://github.com/coder/ghostty-web)
-- [andesco/safari-color-tinting - Safari: Show Color in Tab Bar](https://github.com/andesco/safari-color-tinting)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
