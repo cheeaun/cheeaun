@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [simonw/tools - Assorted useful tools, almost entirely generated using LLMs](https://github.com/simonw/tools)
+- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser)
 - [aarongustafson/lazy-img - Custom element to lazy load an image based on screen size](https://github.com/aarongustafson/lazy-img)
 - [LayoutitStudio/voxcss - A CSS voxel engine. A 3D grid for the DOM. Renders HTML cuboids by stacking grid layers and applying transforms. ](https://github.com/LayoutitStudio/voxcss)
 - [cavi-au/Consent-O-Matic - Browser extension that automatically fills out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mozilla-ai/byota - Blueprint to Build Your Own Timeline Algorithm](https://github.com/mozilla-ai/byota)
 - [larswaechter/voici.js - A Node.js library for pretty printing your data on the terminal🎨](https://github.com/larswaechter/voici.js)
 - [platformatic/platformatic - Platformatic Open Source monorepo!](https://github.com/platformatic/platformatic)
-- [tinylibs/tinybench - 🔎 A simple, tiny and lightweight benchmarking library!](https://github.com/tinylibs/tinybench)
-- [aadsm/jsmediatags - Media Tags Reader (ID3, MP4, FLAC)](https://github.com/aadsm/jsmediatags)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
