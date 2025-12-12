@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JohnEarnest/Octo - A Chip8 IDE](https://github.com/JohnEarnest/Octo)
 - [simonw/tools - Assorted useful tools, almost entirely generated using LLMs](https://github.com/simonw/tools)
 - [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser)
 - [aarongustafson/lazy-img - Custom element to lazy load an image based on screen size](https://github.com/aarongustafson/lazy-img)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [PaulKinlan/generate-html-element](https://github.com/PaulKinlan/generate-html-element)
 - [mozilla-ai/byota - Blueprint to Build Your Own Timeline Algorithm](https://github.com/mozilla-ai/byota)
 - [larswaechter/voici.js - A Node.js library for pretty printing your data on the terminal🎨](https://github.com/larswaechter/voici.js)
-- [platformatic/platformatic - Platformatic Open Source monorepo!](https://github.com/platformatic/platformatic)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
