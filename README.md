@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nkzw-tech/fate - fate is a modern data client for React.](https://github.com/nkzw-tech/fate)
 - [JohnEarnest/Octo - A Chip8 IDE](https://github.com/JohnEarnest/Octo)
 - [simonw/tools - Assorted useful tools, almost entirely generated using LLMs](https://github.com/simonw/tools)
 - [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yangjs6/mapbox-3d-tiles - Integrate threejs with mapbox-gl to enable 3dtiles / 3dgs / gltf rendering.](https://github.com/yangjs6/mapbox-3d-tiles)
 - [PaulKinlan/generate-html-element](https://github.com/PaulKinlan/generate-html-element)
 - [mozilla-ai/byota - Blueprint to Build Your Own Timeline Algorithm](https://github.com/mozilla-ai/byota)
-- [larswaechter/voici.js - A Node.js library for pretty printing your data on the terminal🎨](https://github.com/larswaechter/voici.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
