@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [danielpetho/fancy](https://github.com/danielpetho/fancy)
+- [fediway/fediway - Algorithmic feeds for Mastodon ✨](https://github.com/fediway/fediway)
 - [tw93/Mole - 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
 - [flowershow/markdowndb - Turn markdown files into structured, queryable data with JS. Build markdown-powered docs, blogs, and sites quickly and reliably.](https://github.com/flowershow/markdowndb)
 - [thanhkeke97/RSTGameTranslation - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source](https://github.com/thanhkeke97/RSTGameTranslation)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cavi-au/Consent-O-Matic - Browser extension that automatically fills out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
 - [lipanski/docker-static-website - A very small Docker image (~80KB) to run any static website](https://github.com/lipanski/docker-static-website)
 - [andrii-kryvoviaz/slink - Self-hosted image sharing service](https://github.com/andrii-kryvoviaz/slink)
-- [W4G1/multithreading - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)](https://github.com/W4G1/multithreading)
-- [nook-browser/Nook - A new browser, not owned by Atlassian.](https://github.com/nook-browser/Nook)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
