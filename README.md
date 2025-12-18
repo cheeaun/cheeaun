@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tw93/Mole - 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
 - [flowershow/markdowndb - Turn markdown files into structured, queryable data with JS. Build markdown-powered docs, blogs, and sites quickly and reliably.](https://github.com/flowershow/markdowndb)
 - [thanhkeke97/RSTGameTranslation - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source](https://github.com/thanhkeke97/RSTGameTranslation)
 - [microsoft/docfind - A high-performance document search engine built in Rust with WebAssembly support.](https://github.com/microsoft/docfind)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [andrii-kryvoviaz/slink - Self-hosted image sharing service](https://github.com/andrii-kryvoviaz/slink)
 - [W4G1/multithreading - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)](https://github.com/W4G1/multithreading)
 - [nook-browser/Nook - A new browser, not owned by Atlassian.](https://github.com/nook-browser/Nook)
-- [yangjs6/mapbox-3d-tiles-demos - demos for mapbox-3d-tiles, https://github.com/yangjs6/mapbox-3d-tiles](https://github.com/yangjs6/mapbox-3d-tiles-demos)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
