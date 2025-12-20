@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Lulzx/tinypdf - Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.](https://github.com/Lulzx/tinypdf)
 - [danielpetho/fancy](https://github.com/danielpetho/fancy)
 - [fediway/fediway - Algorithmic feeds for Mastodon ✨](https://github.com/fediway/fediway)
 - [tw93/Mole - 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [LayoutitStudio/voxcss - A CSS voxel engine. A 3D grid for the DOM. Renders HTML cuboids by stacking grid layers and applying transforms. ](https://github.com/LayoutitStudio/voxcss)
 - [cavi-au/Consent-O-Matic - Browser extension that automatically fills out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
 - [lipanski/docker-static-website - A very small Docker image (~80KB) to run any static website](https://github.com/lipanski/docker-static-website)
-- [andrii-kryvoviaz/slink - Self-hosted image sharing service](https://github.com/andrii-kryvoviaz/slink)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
