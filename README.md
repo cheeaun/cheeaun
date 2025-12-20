@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mixmaxhq/search-string - Another simple parser for advanced search query syntax.](https://github.com/mixmaxhq/search-string)
 - [Lulzx/tinypdf - Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.](https://github.com/Lulzx/tinypdf)
 - [danielpetho/fancy](https://github.com/danielpetho/fancy)
 - [fediway/fediway - Algorithmic feeds for Mastodon ✨](https://github.com/fediway/fediway)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [aarongustafson/lazy-img - Custom element to lazy load an image based on screen size](https://github.com/aarongustafson/lazy-img)
 - [LayoutitStudio/voxcss - A CSS voxel engine. A 3D grid for the DOM. Renders HTML cuboids by stacking grid layers and applying transforms. ](https://github.com/LayoutitStudio/voxcss)
 - [cavi-au/Consent-O-Matic - Browser extension that automatically fills out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
-- [lipanski/docker-static-website - A very small Docker image (~80KB) to run any static website](https://github.com/lipanski/docker-static-website)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
