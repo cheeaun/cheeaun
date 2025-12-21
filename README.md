@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [delucis/sweetcorn - 🌽 Turn smooth pixels into crunchy kernels](https://github.com/delucis/sweetcorn)
 - [fastserial/lite3 - A JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3)
 - [mixmaxhq/search-string - Another simple parser for advanced search query syntax.](https://github.com/mixmaxhq/search-string)
 - [Lulzx/tinypdf - Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.](https://github.com/Lulzx/tinypdf)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [simonw/tools - Assorted useful tools, almost entirely generated using LLMs](https://github.com/simonw/tools)
 - [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser)
 - [aarongustafson/lazy-img - Custom element to lazy load an image based on screen size](https://github.com/aarongustafson/lazy-img)
-- [LayoutitStudio/voxcss - A CSS voxel engine. A 3D grid for the DOM. Renders HTML cuboids by stacking grid layers and applying transforms. ](https://github.com/LayoutitStudio/voxcss)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
