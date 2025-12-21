@@ -32,7 +32,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mixmaxhq/search-string - Another simple parser for advanced search query syntax.](https://github.com/mixmaxhq/search-string)
 - [Lulzx/tinypdf - Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.](https://github.com/Lulzx/tinypdf)
 - [danielpetho/fancy](https://github.com/danielpetho/fancy)
-- [fediway/fediway - Algorithmic feeds for Mastodon ✨](https://github.com/fediway/fediway)
+- [fediway/fediway - Recommendation engine for Mastodon ✨](https://github.com/fediway/fediway)
 - [tw93/Mole - 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
 - [flowershow/markdowndb - Turn markdown files into structured, queryable data with JS. Build markdown-powered docs, blogs, and sites quickly and reliably.](https://github.com/flowershow/markdowndb)
 - [thanhkeke97/RSTGameTranslation - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source](https://github.com/thanhkeke97/RSTGameTranslation)
