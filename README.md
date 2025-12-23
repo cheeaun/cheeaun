@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Spxg/sqlite-wasm-rs - wasm32-unknown-unknown bindings to the libsqlite3 library.](https://github.com/Spxg/sqlite-wasm-rs)
+- [npiesco/absurder-sql - absurder-sql which absurdly utilizes a custom SQLite VFS backend to treat IndexedDB like a disc and store data blocks.](https://github.com/npiesco/absurder-sql)
 - [delucis/sweetcorn - 🌽 Turn smooth pixels into crunchy kernels](https://github.com/delucis/sweetcorn)
 - [fastserial/lite3 - A JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3)
 - [mixmaxhq/search-string - Another simple parser for advanced search query syntax.](https://github.com/mixmaxhq/search-string)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nkzw-tech/fate - fate is a modern data client for React.](https://github.com/nkzw-tech/fate)
 - [JohnEarnest/Octo - A Chip8 IDE](https://github.com/JohnEarnest/Octo)
 - [simonw/tools - Assorted useful tools, almost entirely generated using LLMs](https://github.com/simonw/tools)
-- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser)
-- [aarongustafson/lazy-img - Custom element to lazy load an image based on screen size](https://github.com/aarongustafson/lazy-img)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
