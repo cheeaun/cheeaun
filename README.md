@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bellard/mquickjs - Public repository of the Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
+- [jlongster/tigma](https://github.com/jlongster/tigma)
 - [Spxg/sqlite-wasm-rs - wasm32-unknown-unknown bindings to the libsqlite3 library.](https://github.com/Spxg/sqlite-wasm-rs)
 - [npiesco/absurder-sql - absurder-sql which absurdly utilizes a custom SQLite VFS backend to treat IndexedDB like a disc and store data blocks.](https://github.com/npiesco/absurder-sql)
 - [delucis/sweetcorn - 🌽 Turn smooth pixels into crunchy kernels](https://github.com/delucis/sweetcorn)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [thanhkeke97/RSTGameTranslation - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source](https://github.com/thanhkeke97/RSTGameTranslation)
 - [microsoft/docfind - A high-performance document search engine built in Rust with WebAssembly support.](https://github.com/microsoft/docfind)
 - [nkzw-tech/fate - fate is a modern data client for React.](https://github.com/nkzw-tech/fate)
-- [JohnEarnest/Octo - A Chip8 IDE](https://github.com/JohnEarnest/Octo)
-- [simonw/tools - Assorted useful tools, almost entirely generated using LLMs](https://github.com/simonw/tools)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
