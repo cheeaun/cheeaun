@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [celoyd/potato - A small pansharpening model](https://github.com/celoyd/potato)
 - [bellard/mquickjs - Public repository of the Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
 - [jlongster/tigma](https://github.com/jlongster/tigma)
 - [Spxg/sqlite-wasm-rs - wasm32-unknown-unknown bindings to the libsqlite3 library.](https://github.com/Spxg/sqlite-wasm-rs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [flowershow/markdowndb - Turn markdown files into structured, queryable data with JS. Build markdown-powered docs, blogs, and sites quickly and reliably.](https://github.com/flowershow/markdowndb)
 - [thanhkeke97/RSTGameTranslation - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source](https://github.com/thanhkeke97/RSTGameTranslation)
 - [microsoft/docfind - A high-performance document search engine built in Rust with WebAssembly support.](https://github.com/microsoft/docfind)
-- [nkzw-tech/fate - fate is a modern data client for React.](https://github.com/nkzw-tech/fate)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
