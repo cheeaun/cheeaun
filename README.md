@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [john-kurkowski/tldextract - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).](https://github.com/john-kurkowski/tldextract)
 - [celoyd/potato - A small pansharpening model](https://github.com/celoyd/potato)
 - [bellard/mquickjs - Public repository of the Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
 - [jlongster/tigma](https://github.com/jlongster/tigma)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tw93/Mole - 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
 - [flowershow/markdowndb - Turn markdown files into structured, queryable data with JS. Build markdown-powered docs, blogs, and sites quickly and reliably.](https://github.com/flowershow/markdowndb)
 - [thanhkeke97/RSTGameTranslation - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source](https://github.com/thanhkeke97/RSTGameTranslation)
-- [microsoft/docfind - A high-performance document search engine built in Rust with WebAssembly support.](https://github.com/microsoft/docfind)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
