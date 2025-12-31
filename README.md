@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tobi/AudioPriorityBar - A native macOS menu bar app for managing audio device priorities](https://github.com/tobi/AudioPriorityBar)
 - [dahlia/vertana - LLM-powered agentic translation library for JavaScript/TypeScript](https://github.com/dahlia/vertana)
 - [john-kurkowski/tldextract - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).](https://github.com/john-kurkowski/tldextract)
 - [celoyd/potato - A small pansharpening model](https://github.com/celoyd/potato)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [danielpetho/fancy](https://github.com/danielpetho/fancy)
 - [fediway/fediway - Recommendation engine for Mastodon ✨](https://github.com/fediway/fediway)
 - [tw93/Mole - 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
-- [flowershow/markdowndb - Turn markdown files into structured, queryable data with JS. Build markdown-powered docs, blogs, and sites quickly and reliably.](https://github.com/flowershow/markdowndb)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
