@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [XapaJIaMnu/translateLocally - Fast and secure translation on your local machine, powered by marian and Bergamot.](https://github.com/XapaJIaMnu/translateLocally)
 - [tobi/AudioPriorityBar - A native macOS menu bar app for managing audio device priorities](https://github.com/tobi/AudioPriorityBar)
 - [dahlia/vertana - LLM-powered agentic translation library for JavaScript/TypeScript](https://github.com/dahlia/vertana)
 - [john-kurkowski/tldextract - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).](https://github.com/john-kurkowski/tldextract)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Lulzx/tinypdf - Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.](https://github.com/Lulzx/tinypdf)
 - [danielpetho/fancy](https://github.com/danielpetho/fancy)
 - [fediway/fediway - Recommendation engine for Mastodon ✨](https://github.com/fediway/fediway)
-- [tw93/Mole - 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
