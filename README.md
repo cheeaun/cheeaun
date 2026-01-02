@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [j-brooke/FracturedJson - JSON formatter that produces highly readable but fairly compact output. ](https://github.com/j-brooke/FracturedJson)
 - [maxpert/marmot - A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
 - [tixl3d/tixl - TiXL is an open source software to create realtime motion graphics.](https://github.com/tixl3d/tixl)
 - [XapaJIaMnu/translateLocally - Fast and secure translation on your local machine, powered by marian and Bergamot.](https://github.com/XapaJIaMnu/translateLocally)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [delucis/sweetcorn - 🌽 Turn smooth pixels into crunchy kernels](https://github.com/delucis/sweetcorn)
 - [fastserial/lite3 - A JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3)
 - [mixmaxhq/search-string - Another simple parser for advanced search query syntax.](https://github.com/mixmaxhq/search-string)
-- [Lulzx/tinypdf - Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.](https://github.com/Lulzx/tinypdf)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
