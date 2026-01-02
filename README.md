@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maxpert/marmot - A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
 - [tixl3d/tixl - TiXL is an open source software to create realtime motion graphics.](https://github.com/tixl3d/tixl)
 - [XapaJIaMnu/translateLocally - Fast and secure translation on your local machine, powered by marian and Bergamot.](https://github.com/XapaJIaMnu/translateLocally)
 - [tobi/AudioPriorityBar - A native macOS menu bar app for managing audio device priorities](https://github.com/tobi/AudioPriorityBar)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fastserial/lite3 - A JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3)
 - [mixmaxhq/search-string - Another simple parser for advanced search query syntax.](https://github.com/mixmaxhq/search-string)
 - [Lulzx/tinypdf - Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs.](https://github.com/Lulzx/tinypdf)
-- [danielpetho/fancy](https://github.com/danielpetho/fancy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
