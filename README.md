@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [steipete/bird - Bird is a cli for twitter, so your agents can tweet.](https://github.com/steipete/bird)
+- [mary-ext/danaus - work-in-progress atproto PDS](https://github.com/mary-ext/danaus)
+- [ente-io/ente - 🔥 End-to-end encrypted cloud for everything.](https://github.com/ente-io/ente)
 - [nicolargo/glances - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
 - [Dimillian/MastodonCLI - A CLI to interact with your Mastodon account](https://github.com/Dimillian/MastodonCLI)
 - [geledek/mini-singapore-3d - A real-time 3D digital map of Singapore's public transport system](https://github.com/geledek/mini-singapore-3d)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [john-kurkowski/tldextract - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).](https://github.com/john-kurkowski/tldextract)
 - [celoyd/potato - A small pansharpening model](https://github.com/celoyd/potato)
 - [bellard/mquickjs - Public repository of the Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
-- [jlongster/tigma](https://github.com/jlongster/tigma)
-- [Spxg/sqlite-wasm-rs - wasm32-unknown-unknown bindings to the libsqlite3 library.](https://github.com/Spxg/sqlite-wasm-rs)
-- [npiesco/absurder-sql - absurder-sql which absurdly utilizes a custom SQLite VFS backend to treat IndexedDB like a disc and store data blocks.](https://github.com/npiesco/absurder-sql)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
