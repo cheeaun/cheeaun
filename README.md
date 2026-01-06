@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nicolargo/glances - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
 - [Dimillian/MastodonCLI - A CLI to interact with your Mastodon account](https://github.com/Dimillian/MastodonCLI)
 - [geledek/mini-singapore-3d - A real-time 3D digital map of Singapore's public transport system](https://github.com/geledek/mini-singapore-3d)
 - [j-brooke/FracturedJson - JSON formatter that produces highly readable but fairly compact output. ](https://github.com/j-brooke/FracturedJson)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jlongster/tigma](https://github.com/jlongster/tigma)
 - [Spxg/sqlite-wasm-rs - wasm32-unknown-unknown bindings to the libsqlite3 library.](https://github.com/Spxg/sqlite-wasm-rs)
 - [npiesco/absurder-sql - absurder-sql which absurdly utilizes a custom SQLite VFS backend to treat IndexedDB like a disc and store data blocks.](https://github.com/npiesco/absurder-sql)
-- [delucis/sweetcorn - 🌽 Turn smooth pixels into crunchy kernels](https://github.com/delucis/sweetcorn)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
