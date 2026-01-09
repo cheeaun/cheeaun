@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [improsocial/impro - A Bluesky web client](https://github.com/improsocial/impro)
 - [remorses/playwriter - The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter)
 - [freeman-jiang/bikemap.nyc - 🚲 Every Citi Bike ride ever taken visualized on a map](https://github.com/freeman-jiang/bikemap.nyc)
 - [gingerbeardman/webgl-crt-shader - Tweakable CRT shader for web canvas](https://github.com/gingerbeardman/webgl-crt-shader)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tixl3d/tixl - TiXL is an open source software to create realtime motion graphics.](https://github.com/tixl3d/tixl)
 - [XapaJIaMnu/translateLocally - Fast and secure translation on your local machine, powered by marian and Bergamot.](https://github.com/XapaJIaMnu/translateLocally)
 - [tobi/AudioPriorityBar - A native macOS menu bar app for managing audio device priorities](https://github.com/tobi/AudioPriorityBar)
-- [dahlia/vertana - LLM-powered agentic translation library for JavaScript/TypeScript](https://github.com/dahlia/vertana)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
