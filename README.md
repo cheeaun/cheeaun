@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LayoutitStudio/layoutit-grid - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.](https://github.com/LayoutitStudio/layoutit-grid)
+- [mapterhorn/mapterhorn - Public terrain tiles for interactive web map visualizations](https://github.com/mapterhorn/mapterhorn)
+- [web-platform-tests/wpt - Test suites for Web platform specs — including WHATWG, W3C, and others](https://github.com/web-platform-tests/wpt)
+- [tomayac/input-switch-polyfill - A polyfill for <input type="checkbox" switch>](https://github.com/tomayac/input-switch-polyfill)
 - [improsocial/impro - A Bluesky web client](https://github.com/improsocial/impro)
 - [remorses/playwriter - The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter)
 - [freeman-jiang/bikemap.nyc - 🚲 Every Citi Bike ride ever taken visualized on a map](https://github.com/freeman-jiang/bikemap.nyc)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Dimillian/MastodonCLI - A CLI to interact with your Mastodon account](https://github.com/Dimillian/MastodonCLI)
 - [geledek/mini-singapore-3d - A real-time 3D digital map of Singapore's public transport system](https://github.com/geledek/mini-singapore-3d)
 - [j-brooke/FracturedJson - JSON formatter that produces highly readable but fairly compact output. ](https://github.com/j-brooke/FracturedJson)
-- [maxpert/marmot - A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
-- [tixl3d/tixl - TiXL is an open source software to create realtime motion graphics.](https://github.com/tixl3d/tixl)
-- [XapaJIaMnu/translateLocally - Fast and secure translation on your local machine, powered by marian and Bergamot.](https://github.com/XapaJIaMnu/translateLocally)
-- [tobi/AudioPriorityBar - A native macOS menu bar app for managing audio device priorities](https://github.com/tobi/AudioPriorityBar)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
