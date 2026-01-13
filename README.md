@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [civilblur/youlag - Youlag: A video extension for FreshRSS, offering a video-focused browsing experience for your RSS subscriptions.](https://github.com/civilblur/youlag)
 - [LayoutitStudio/layoutit-grid - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.](https://github.com/LayoutitStudio/layoutit-grid)
 - [mapterhorn/mapterhorn - Public terrain tiles for interactive web map visualizations](https://github.com/mapterhorn/mapterhorn)
 - [web-platform-tests/wpt - Test suites for Web platform specs — including WHATWG, W3C, and others](https://github.com/web-platform-tests/wpt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nicolargo/glances - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
 - [Dimillian/MastodonCLI - A CLI to interact with your Mastodon account](https://github.com/Dimillian/MastodonCLI)
 - [geledek/mini-singapore-3d - A real-time 3D digital map of Singapore's public transport system](https://github.com/geledek/mini-singapore-3d)
-- [j-brooke/FracturedJson - JSON formatter that produces highly readable but fairly compact output. ](https://github.com/j-brooke/FracturedJson)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
