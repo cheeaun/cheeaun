@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wes-goulet/swimple - A simple service worker library for request caching.](https://github.com/wes-goulet/swimple)
+- [corbindavenport/just-the-browser - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.](https://github.com/corbindavenport/just-the-browser)
+- [schedule-x/schedule-x - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.](https://github.com/schedule-x/schedule-x)
 - [civilblur/youlag - Youlag: A video extension for FreshRSS, offering a video-focused browsing experience for your RSS subscriptions.](https://github.com/civilblur/youlag)
 - [LayoutitStudio/layoutit-grid - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.](https://github.com/LayoutitStudio/layoutit-grid)
 - [mapterhorn/mapterhorn - Public terrain tiles for interactive web map visualizations](https://github.com/mapterhorn/mapterhorn)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [steipete/bird - Bird is a cli for twitter, so your agents can tweet.](https://github.com/steipete/bird)
 - [mary-ext/danaus - work-in-progress atproto PDS](https://github.com/mary-ext/danaus)
 - [ente-io/ente - 🔥 End-to-end encrypted cloud for everything.](https://github.com/ente-io/ente)
-- [nicolargo/glances - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
-- [Dimillian/MastodonCLI - A CLI to interact with your Mastodon account](https://github.com/Dimillian/MastodonCLI)
-- [geledek/mini-singapore-3d - A real-time 3D digital map of Singapore's public transport system](https://github.com/geledek/mini-singapore-3d)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
