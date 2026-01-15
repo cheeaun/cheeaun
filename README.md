@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mpc-qt/mpc-qt - Media Player Classic Qute Theater](https://github.com/mpc-qt/mpc-qt)
+- [callstackincubator/voltra - Voltra lets React Native developers build native iOS Live Activities, Dynamic Island layouts, and widgets as React components without writing Swift. It supports hot reload, push updates, and includes a config plugin that wires everything automatically.](https://github.com/callstackincubator/voltra)
 - [wes-goulet/swimple - A simple service worker library for request caching.](https://github.com/wes-goulet/swimple)
 - [corbindavenport/just-the-browser - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.](https://github.com/corbindavenport/just-the-browser)
 - [schedule-x/schedule-x - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.](https://github.com/schedule-x/schedule-x)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [freeman-jiang/bikemap.nyc - 🚲 Every Citi Bike ride ever taken visualized on a map](https://github.com/freeman-jiang/bikemap.nyc)
 - [gingerbeardman/webgl-crt-shader - Tweakable CRT shader for web canvas](https://github.com/gingerbeardman/webgl-crt-shader)
 - [steipete/bird - Bird is a cli for twitter, so your agents can tweet.](https://github.com/steipete/bird)
-- [mary-ext/danaus - work-in-progress atproto PDS](https://github.com/mary-ext/danaus)
-- [ente-io/ente - 🔥 End-to-end encrypted cloud for everything.](https://github.com/ente-io/ente)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
