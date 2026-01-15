@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microsoft/markitdown - Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
+- [HeyPuter/puter - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.](https://github.com/HeyPuter/puter)
 - [mpc-qt/mpc-qt - Media Player Classic Qute Theater](https://github.com/mpc-qt/mpc-qt)
 - [callstackincubator/voltra - Voltra lets React Native developers build native iOS Live Activities, Dynamic Island layouts, and widgets as React components without writing Swift. It supports hot reload, push updates, and includes a config plugin that wires everything automatically.](https://github.com/callstackincubator/voltra)
 - [wes-goulet/swimple - A simple service worker library for request caching.](https://github.com/wes-goulet/swimple)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [improsocial/impro - A Bluesky web client](https://github.com/improsocial/impro)
 - [remorses/playwriter - The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter)
 - [freeman-jiang/bikemap.nyc - 🚲 Every Citi Bike ride ever taken visualized on a map](https://github.com/freeman-jiang/bikemap.nyc)
-- [gingerbeardman/webgl-crt-shader - Tweakable CRT shader for web canvas](https://github.com/gingerbeardman/webgl-crt-shader)
-- [steipete/bird - Bird is a cli for twitter, so your agents can tweet.](https://github.com/steipete/bird)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
