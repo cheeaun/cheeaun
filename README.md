@@ -35,7 +35,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wes-goulet/swimple - A simple service worker library for request caching.](https://github.com/wes-goulet/swimple)
 - [corbindavenport/just-the-browser - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.](https://github.com/corbindavenport/just-the-browser)
 - [schedule-x/schedule-x - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.](https://github.com/schedule-x/schedule-x)
-- [civilblur/youlag - Youlag: A video extension for FreshRSS, offering a video-focused browsing experience for your RSS subscriptions.](https://github.com/civilblur/youlag)
+- [civilblur/youlag - Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design](https://github.com/civilblur/youlag)
 - [LayoutitStudio/layoutit-grid - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.](https://github.com/LayoutitStudio/layoutit-grid)
 - [mapterhorn/mapterhorn - Public terrain tiles for interactive web map visualizations](https://github.com/mapterhorn/mapterhorn)
 - [web-platform-tests/wpt - Test suites for Web platform specs — including WHATWG, W3C, and others](https://github.com/web-platform-tests/wpt)
