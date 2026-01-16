@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kyutai-labs/pocket-tts - A TTS that fits in your CPU (and pocket)](https://github.com/kyutai-labs/pocket-tts)
 - [microsoft/markitdown - Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
 - [HeyPuter/puter - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.](https://github.com/HeyPuter/puter)
 - [mpc-qt/mpc-qt - Media Player Classic Qute Theater](https://github.com/mpc-qt/mpc-qt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tomayac/input-switch-polyfill - A polyfill for <input type="checkbox" switch>](https://github.com/tomayac/input-switch-polyfill)
 - [improsocial/impro - A Bluesky web client](https://github.com/improsocial/impro)
 - [remorses/playwriter - The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter)
-- [freeman-jiang/bikemap.nyc - 🚲 Every Citi Bike ride ever taken visualized on a map](https://github.com/freeman-jiang/bikemap.nyc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
