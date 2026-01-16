@@ -3,11 +3,11 @@
 ## 📝 Blog posts
 
 <!-- feed start -->
+- 15 Jan 2026 - [2025 in review](https://cheeaun.com/blog/2026/01/2025-in-review/)
 - 12 Jan 2025 - [2024 in review](https://cheeaun.com/blog/2025/01/2024-in-review/)
 - 31 Dec 2023 - [2023 in review](https://cheeaun.com/blog/2023/12/2023-in-review/)
 - 31 Dec 2022 - [2022 in review](https://cheeaun.com/blog/2022/12/2022-in-review/)
 - 14 Feb 2022 - [Chengyu Wordle Is Not a Love Story](https://cheeaun.com/blog/2022/02/chengyu-wordle-is-not-a-love-story/)
-- 2 Jan 2022 - [2021 in review](https://cheeaun.com/blog/2022/01/2021-in-review/)
 <!-- feed end -->
 
 More in the [archives](https://cheeaun.com/blog/archives/).
