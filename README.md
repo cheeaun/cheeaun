@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [black-forest-labs/flux - Official inference repo for FLUX.1 models](https://github.com/black-forest-labs/flux)
 - [kyutai-labs/pocket-tts - A TTS that fits in your CPU (and pocket)](https://github.com/kyutai-labs/pocket-tts)
 - [microsoft/markitdown - Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
 - [HeyPuter/puter - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.](https://github.com/HeyPuter/puter)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [web-platform-tests/wpt - Test suites for Web platform specs — including WHATWG, W3C, and others](https://github.com/web-platform-tests/wpt)
 - [tomayac/input-switch-polyfill - A polyfill for <input type="checkbox" switch>](https://github.com/tomayac/input-switch-polyfill)
 - [improsocial/impro - A Bluesky web client](https://github.com/improsocial/impro)
-- [remorses/playwriter - The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
