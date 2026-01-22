@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [warper-org/warper - Ultra-fast React virtualization library powered by Rust and WebAssembly](https://github.com/warper-org/warper)
 - [expressive-code/expressive-code - A text marking & annotation engine for presenting source code on the web.](https://github.com/expressive-code/expressive-code)
 - [unadlib/localspace - A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API](https://github.com/unadlib/localspace)
 - [j9t/html-minifier-next - Super-configurable, well-tested, JavaScript-based HTML minifier (enhanced successor of HTML Minifier)](https://github.com/j9t/html-minifier-next)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wes-goulet/swimple - A simple service worker library for request caching.](https://github.com/wes-goulet/swimple)
 - [corbindavenport/just-the-browser - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.](https://github.com/corbindavenport/just-the-browser)
 - [schedule-x/schedule-x - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.](https://github.com/schedule-x/schedule-x)
-- [civilblur/youlag - Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design](https://github.com/civilblur/youlag)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
