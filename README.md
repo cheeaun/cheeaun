@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [expressive-code/expressive-code - A text marking & annotation engine for presenting source code on the web.](https://github.com/expressive-code/expressive-code)
+- [unadlib/localspace - A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API](https://github.com/unadlib/localspace)
+- [j9t/html-minifier-next - Super-configurable, well-tested, JavaScript-based HTML minifier (enhanced successor of HTML Minifier)](https://github.com/j9t/html-minifier-next)
+- [ChartGPU/ChartGPU - Beautiful, open source, WebGPU-based charting library](https://github.com/ChartGPU/ChartGPU)
 - [punkpeye/pipenet - Expose your local server to the public internet instantly](https://github.com/punkpeye/pipenet)
 - [black-forest-labs/flux - Official inference repo for FLUX.1 models](https://github.com/black-forest-labs/flux)
 - [kyutai-labs/pocket-tts - A TTS that fits in your CPU (and pocket)](https://github.com/kyutai-labs/pocket-tts)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [corbindavenport/just-the-browser - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.](https://github.com/corbindavenport/just-the-browser)
 - [schedule-x/schedule-x - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.](https://github.com/schedule-x/schedule-x)
 - [civilblur/youlag - Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design](https://github.com/civilblur/youlag)
-- [LayoutitStudio/layoutit-grid - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.](https://github.com/LayoutitStudio/layoutit-grid)
-- [mapterhorn/mapterhorn - Public terrain tiles for interactive web map visualizations](https://github.com/mapterhorn/mapterhorn)
-- [web-platform-tests/wpt - Test suites for Web platform specs — including WHATWG, W3C, and others](https://github.com/web-platform-tests/wpt)
-- [tomayac/input-switch-polyfill - A polyfill for <input type="checkbox" switch>](https://github.com/tomayac/input-switch-polyfill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
