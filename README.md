@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DoneDeal0/superdiff - Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a top-tier performance.](https://github.com/DoneDeal0/superdiff)
+- [github/copilot-sdk - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services](https://github.com/github/copilot-sdk)
 - [TrustTunnel/TrustTunnel - Modern, fast and obfuscated VPN protocol](https://github.com/TrustTunnel/TrustTunnel)
 - [skiptools/skip - Skip enables the creation of native SwiftUI apps for iOS and Android](https://github.com/skiptools/skip)
 - [warper-org/warper - Ultra-fast React virtualization library powered by Rust and WebAssembly](https://github.com/warper-org/warper)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [microsoft/markitdown - Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
 - [HeyPuter/puter - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.](https://github.com/HeyPuter/puter)
 - [mpc-qt/mpc-qt - Media Player Classic Qute Theater](https://github.com/mpc-qt/mpc-qt)
-- [callstackincubator/voltra - Voltra lets React Native developers build native iOS Live Activities, Dynamic Island layouts, and widgets as React components without writing Swift. It supports hot reload, push updates, and includes a config plugin that wires everything automatically.](https://github.com/callstackincubator/voltra)
-- [wes-goulet/swimple - A simple service worker library for request caching.](https://github.com/wes-goulet/swimple)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
