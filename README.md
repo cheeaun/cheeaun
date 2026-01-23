@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DeclanChidlow/techconf.directory - A listing of technology conferences.](https://github.com/DeclanChidlow/techconf.directory)
+- [WebOrigami/origami - Monorepo for the primary Web Origami packages](https://github.com/WebOrigami/origami)
 - [DoneDeal0/superdiff - Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a top-tier performance.](https://github.com/DoneDeal0/superdiff)
 - [github/copilot-sdk - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services](https://github.com/github/copilot-sdk)
 - [TrustTunnel/TrustTunnel - Modern, fast and obfuscated VPN protocol](https://github.com/TrustTunnel/TrustTunnel)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [black-forest-labs/flux - Official inference repo for FLUX.1 models](https://github.com/black-forest-labs/flux)
 - [kyutai-labs/pocket-tts - A TTS that fits in your CPU (and pocket)](https://github.com/kyutai-labs/pocket-tts)
 - [microsoft/markitdown - Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
-- [HeyPuter/puter - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.](https://github.com/HeyPuter/puter)
-- [mpc-qt/mpc-qt - Media Player Classic Qute Theater](https://github.com/mpc-qt/mpc-qt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
