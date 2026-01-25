@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AlejandroAkbal/Install-PWA - Install PWA (https://InstallPWA.com) is a utility website to teach end users how to install your PWA App.](https://github.com/AlejandroAkbal/Install-PWA)
 - [the-agency-ai/the-agency-starter - Convention-over-configuration framework for multi-agent Claude Code development](https://github.com/the-agency-ai/the-agency-starter)
 - [openscad/openscad - OpenSCAD - The Programmers Solid 3D CAD Modeller  ](https://github.com/openscad/openscad)
 - [expo/skills - A collection of AI agent skills for working with Expo projects and Expo Application Services](https://github.com/expo/skills)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unadlib/localspace - A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API](https://github.com/unadlib/localspace)
 - [j9t/html-minifier-next - Super-configurable, well-tested, JavaScript-based HTML minifier (enhanced successor of HTML Minifier)](https://github.com/j9t/html-minifier-next)
 - [ChartGPU/ChartGPU - Beautiful, open source, WebGPU-based charting library](https://github.com/ChartGPU/ChartGPU)
-- [punkpeye/pipenet - Expose your local server to the public internet instantly](https://github.com/punkpeye/pipenet)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
