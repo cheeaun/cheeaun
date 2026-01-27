@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [loomchild/sojourner-web - FOSDEM conference companion PWA](https://github.com/loomchild/sojourner-web)
 - [AlejandroAkbal/Install-PWA - Install PWA (https://InstallPWA.com) is a utility website to teach end users how to install your PWA App.](https://github.com/AlejandroAkbal/Install-PWA)
 - [the-agency-ai/the-agency-starter - Convention-over-configuration framework for multi-agent Claude Code development](https://github.com/the-agency-ai/the-agency-starter)
 - [openscad/openscad - OpenSCAD - The Programmers Solid 3D CAD Modeller  ](https://github.com/openscad/openscad)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [expressive-code/expressive-code - A text marking & annotation engine for presenting source code on the web.](https://github.com/expressive-code/expressive-code)
 - [unadlib/localspace - A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API](https://github.com/unadlib/localspace)
 - [j9t/html-minifier-next - Super-configurable, well-tested, JavaScript-based HTML minifier (enhanced successor of HTML Minifier)](https://github.com/j9t/html-minifier-next)
-- [ChartGPU/ChartGPU - Beautiful, open source, WebGPU-based charting library](https://github.com/ChartGPU/ChartGPU)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
