@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mozilla/standards-positions](https://github.com/mozilla/standards-positions)
 - [unjs/giget - ✨ Download templates and git repositories with pleasure!](https://github.com/unjs/giget)
 - [bombshell-dev/args - <1kB CLI flag parser](https://github.com/bombshell-dev/args)
 - [bombshell-dev/clack - Effortlessly build beautiful command-line apps](https://github.com/bombshell-dev/clack)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [DoneDeal0/superdiff - Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a top-tier performance.](https://github.com/DoneDeal0/superdiff)
 - [github/copilot-sdk - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services](https://github.com/github/copilot-sdk)
 - [TrustTunnel/TrustTunnel - Modern, fast and obfuscated VPN protocol](https://github.com/TrustTunnel/TrustTunnel)
-- [skiptools/skip - Skip enables the creation of native SwiftUI apps for iOS and Android](https://github.com/skiptools/skip)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
