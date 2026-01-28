@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/giget - ✨ Download templates and git repositories with pleasure!](https://github.com/unjs/giget)
+- [bombshell-dev/args - <1kB CLI flag parser](https://github.com/bombshell-dev/args)
+- [bombshell-dev/clack - Effortlessly build beautiful command-line apps](https://github.com/bombshell-dev/clack)
+- [bombshell-dev/tab - shell autocompletions for javascript CLIs](https://github.com/bombshell-dev/tab)
 - [loomchild/sojourner-web - FOSDEM conference companion PWA](https://github.com/loomchild/sojourner-web)
 - [AlejandroAkbal/Install-PWA - Install PWA (https://InstallPWA.com) is a utility website to teach end users how to install your PWA App.](https://github.com/AlejandroAkbal/Install-PWA)
 - [the-agency-ai/the-agency-starter - Convention-over-configuration framework for multi-agent Claude Code development](https://github.com/the-agency-ai/the-agency-starter)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [github/copilot-sdk - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services](https://github.com/github/copilot-sdk)
 - [TrustTunnel/TrustTunnel - Modern, fast and obfuscated VPN protocol](https://github.com/TrustTunnel/TrustTunnel)
 - [skiptools/skip - Skip enables the creation of native SwiftUI apps for iOS and Android](https://github.com/skiptools/skip)
-- [warper-org/warper - Ultra-fast React virtualization library powered by Rust and WebAssembly](https://github.com/warper-org/warper)
-- [expressive-code/expressive-code - A text marking & annotation engine for presenting source code on the web.](https://github.com/expressive-code/expressive-code)
-- [unadlib/localspace - A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API](https://github.com/unadlib/localspace)
-- [j9t/html-minifier-next - Super-configurable, well-tested, JavaScript-based HTML minifier (enhanced successor of HTML Minifier)](https://github.com/j9t/html-minifier-next)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
