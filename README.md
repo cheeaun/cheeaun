@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [LibPDF-js/core - A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.](https://github.com/LibPDF-js/core)
+- [npmx-dev/npmx.dev - a fast, modern browser for the npm registry](https://github.com/npmx-dev/npmx.dev)
+- [msonnb/fedisky - ActivityPub extension for Bluesky PDS](https://github.com/msonnb/fedisky)
 - [1jehuang/mermaid-rs-renderer - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.](https://github.com/1jehuang/mermaid-rs-renderer)
 - [mozilla/standards-positions](https://github.com/mozilla/standards-positions)
 - [unjs/giget - ✨ Download templates and git repositories with pleasure!](https://github.com/unjs/giget)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [openscad/openscad - OpenSCAD - The Programmers Solid 3D CAD Modeller  ](https://github.com/openscad/openscad)
 - [expo/skills - A collection of AI agent skills for working with Expo projects and Expo Application Services](https://github.com/expo/skills)
 - [DeclanChidlow/techconf.directory - A listing of technology conferences.](https://github.com/DeclanChidlow/techconf.directory)
-- [WebOrigami/origami - Monorepo for the primary Web Origami packages](https://github.com/WebOrigami/origami)
-- [DoneDeal0/superdiff - Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a top-tier performance.](https://github.com/DoneDeal0/superdiff)
-- [github/copilot-sdk - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services](https://github.com/github/copilot-sdk)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
