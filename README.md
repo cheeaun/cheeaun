@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nrenner/brouter-web - Web client for BRouter, a routing engine based on OpenStreetMap](https://github.com/nrenner/brouter-web)
 - [winstxnhdw/nllb-api - A performant high-throughput CPU-based API for Meta's No Language Left Behind (NLLB) using CTranslate2, hosted on Hugging Face Spaces.](https://github.com/winstxnhdw/nllb-api)
 - [tryvocalcat/badgefed - ActivityPub Badges Implementation](https://github.com/tryvocalcat/badgefed)
 - [LibPDF-js/core - A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.](https://github.com/LibPDF-js/core)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [loomchild/sojourner-web - FOSDEM conference companion PWA](https://github.com/loomchild/sojourner-web)
 - [AlejandroAkbal/Install-PWA - Install PWA (https://InstallPWA.com) is a utility website to teach end users how to install your PWA App.](https://github.com/AlejandroAkbal/Install-PWA)
 - [the-agency-ai/the-agency-starter - Convention-over-configuration framework for multi-agent Claude Code development](https://github.com/the-agency-ai/the-agency-starter)
-- [openscad/openscad - OpenSCAD - The Programmers Solid 3D CAD Modeller  ](https://github.com/openscad/openscad)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
