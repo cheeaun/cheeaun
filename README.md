@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tomayac/local-reverse-geocoder - Local reverse geocoder for Node.js based on GeoNames data](https://github.com/tomayac/local-reverse-geocoder)
 - [browserbase/stagehand - The AI Browser Automation Framework](https://github.com/browserbase/stagehand)
 - [nrenner/brouter-web - Web client for BRouter, a routing engine based on OpenStreetMap](https://github.com/nrenner/brouter-web)
 - [winstxnhdw/nllb-api - A performant high-throughput CPU-based API for Meta's No Language Left Behind (NLLB) using CTranslate2, hosted on Hugging Face Spaces.](https://github.com/winstxnhdw/nllb-api)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bombshell-dev/clack - Effortlessly build beautiful command-line apps](https://github.com/bombshell-dev/clack)
 - [bombshell-dev/tab - shell autocompletions for javascript CLIs](https://github.com/bombshell-dev/tab)
 - [loomchild/sojourner-web - FOSDEM conference companion PWA](https://github.com/loomchild/sojourner-web)
-- [AlejandroAkbal/Install-PWA - Install PWA (https://InstallPWA.com) is a utility website to teach end users how to install your PWA App.](https://github.com/AlejandroAkbal/Install-PWA)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
