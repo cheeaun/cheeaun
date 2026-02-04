@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tomayac/mastodon-edit-history - A tool that shows the edit history of toots on Mastodon](https://github.com/tomayac/mastodon-edit-history)
 - [pchalupa/expo-alternate-app-icons - Provides functions that let you change the app icon.](https://github.com/pchalupa/expo-alternate-app-icons)
 - [g9kpl/expo-dynamic-app-icon - Change your app's icon programmatically. Whenever you want. With Expo on iOS and Android.](https://github.com/g9kpl/expo-dynamic-app-icon)
 - [tomayac/local-reverse-geocoder - Local reverse geocoder for Node.js based on GeoNames data](https://github.com/tomayac/local-reverse-geocoder)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mozilla/standards-positions](https://github.com/mozilla/standards-positions)
 - [unjs/giget - ✨ Download templates and git repositories with pleasure!](https://github.com/unjs/giget)
 - [bombshell-dev/args - <1kB CLI flag parser](https://github.com/bombshell-dev/args)
-- [bombshell-dev/clack - Effortlessly build beautiful command-line apps](https://github.com/bombshell-dev/clack)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
