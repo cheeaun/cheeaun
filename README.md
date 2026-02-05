@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Fats403/simple-ffmpegjs - Simple Node.js helper around FFmpeg for video composition, transitions, audio mixing, and animated text overlays.](https://github.com/Fats403/simple-ffmpegjs)
+- [gavrielc/nanoclaw - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.](https://github.com/gavrielc/nanoclaw)
+- [stonerl/Thaw - Menu bar manager for macOS](https://github.com/stonerl/Thaw)
 - [callstackincubator/agent-device - CLI to control iOS and Android devices for AI agents](https://github.com/callstackincubator/agent-device)
 - [vercel-labs/agent-browser - Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
 - [mutativejs/travels - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch](https://github.com/mutativejs/travels)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nrenner/brouter-web - Web client for BRouter, a routing engine based on OpenStreetMap](https://github.com/nrenner/brouter-web)
 - [winstxnhdw/nllb-api - A performant high-throughput CPU-based API for Meta's No Language Left Behind (NLLB) using CTranslate2, hosted on Hugging Face Spaces.](https://github.com/winstxnhdw/nllb-api)
 - [tryvocalcat/badgefed - ActivityPub Badges Implementation](https://github.com/tryvocalcat/badgefed)
-- [LibPDF-js/core - A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.](https://github.com/LibPDF-js/core)
-- [npmx-dev/npmx.dev - a fast, modern browser for the npm registry](https://github.com/npmx-dev/npmx.dev)
-- [msonnb/fedisky - ActivityPub extension for Bluesky PDS](https://github.com/msonnb/fedisky)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
