@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [callstackincubator/agent-device - CLI to control iOS and Android devices for AI agents](https://github.com/callstackincubator/agent-device)
+- [vercel-labs/agent-browser - Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
+- [mutativejs/travels - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch](https://github.com/mutativejs/travels)
+- [chr15m/minimal-pwa - Minimal files + config for a PWA](https://github.com/chr15m/minimal-pwa)
 - [tomayac/mastodon-edit-history - A tool that shows the edit history of toots on Mastodon](https://github.com/tomayac/mastodon-edit-history)
 - [pchalupa/expo-alternate-app-icons - Provides functions that let you change the app icon.](https://github.com/pchalupa/expo-alternate-app-icons)
 - [g9kpl/expo-dynamic-app-icon - Change your app's icon programmatically. Whenever you want. With Expo on iOS and Android.](https://github.com/g9kpl/expo-dynamic-app-icon)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [LibPDF-js/core - A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.](https://github.com/LibPDF-js/core)
 - [npmx-dev/npmx.dev - a fast, modern browser for the npm registry](https://github.com/npmx-dev/npmx.dev)
 - [msonnb/fedisky - ActivityPub extension for Bluesky PDS](https://github.com/msonnb/fedisky)
-- [1jehuang/mermaid-rs-renderer - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.](https://github.com/1jehuang/mermaid-rs-renderer)
-- [mozilla/standards-positions](https://github.com/mozilla/standards-positions)
-- [unjs/giget - ✨ Download templates and git repositories with pleasure!](https://github.com/unjs/giget)
-- [bombshell-dev/args - <1kB CLI flag parser](https://github.com/bombshell-dev/args)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
