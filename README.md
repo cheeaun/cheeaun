@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kimusan/mastui - A TUI client for mastodon written in python](https://github.com/kimusan/mastui)
+- [seanharsh/better-auto-pip - Automatically enable Picture-in-Picture for videos when switching tabs Chrome or collapsing Vivaldi panels. Works with YouTube, Netflix, Plex, Twitch, and more.](https://github.com/seanharsh/better-auto-pip)
 - [Fats403/simple-ffmpegjs - Declarative video composition for Node.js — define clips, transitions, text, and audio as simple objects, and let FFmpeg handle the rest.](https://github.com/Fats403/simple-ffmpegjs)
 - [gavrielc/nanoclaw - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.](https://github.com/gavrielc/nanoclaw)
 - [stonerl/Thaw - Menu bar manager for macOS](https://github.com/stonerl/Thaw)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tomayac/local-reverse-geocoder - Local reverse geocoder for Node.js based on GeoNames data](https://github.com/tomayac/local-reverse-geocoder)
 - [browserbase/stagehand - The AI Browser Automation Framework](https://github.com/browserbase/stagehand)
 - [nrenner/brouter-web - Web client for BRouter, a routing engine based on OpenStreetMap](https://github.com/nrenner/brouter-web)
-- [winstxnhdw/nllb-api - A performant high-throughput CPU-based API for Meta's No Language Left Behind (NLLB) using CTranslate2, hosted on Hugging Face Spaces.](https://github.com/winstxnhdw/nllb-api)
-- [tryvocalcat/badgefed - ActivityPub Badges Implementation](https://github.com/tryvocalcat/badgefed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
