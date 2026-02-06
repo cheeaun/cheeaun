@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [Fats403/simple-ffmpegjs - Simple Node.js helper around FFmpeg for video composition, transitions, audio mixing, and animated text overlays.](https://github.com/Fats403/simple-ffmpegjs)
+- [Fats403/simple-ffmpegjs - Declarative video composition for Node.js — define clips, transitions, text, and audio as simple objects, and let FFmpeg handle the rest.](https://github.com/Fats403/simple-ffmpegjs)
 - [gavrielc/nanoclaw - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.](https://github.com/gavrielc/nanoclaw)
 - [stonerl/Thaw - Menu bar manager for macOS](https://github.com/stonerl/Thaw)
 - [callstackincubator/agent-device - CLI to control iOS and Android devices for AI agents](https://github.com/callstackincubator/agent-device)
