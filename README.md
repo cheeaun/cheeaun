@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [developmentseed/deck.gl-raster - Client-side, GPU-accelerated Cloud-Optimized GeoTIFF visualization in deck.gl](https://github.com/developmentseed/deck.gl-raster)
 - [kimusan/mastui - A TUI client for mastodon written in python](https://github.com/kimusan/mastui)
 - [seanharsh/better-auto-pip - Automatically enable Picture-in-Picture for videos when switching tabs Chrome or collapsing Vivaldi panels. Works with YouTube, Netflix, Plex, Twitch, and more.](https://github.com/seanharsh/better-auto-pip)
 - [Fats403/simple-ffmpegjs - Declarative video composition for Node.js — define clips, transitions, text, and audio as simple objects, and let FFmpeg handle the rest.](https://github.com/Fats403/simple-ffmpegjs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [g9kpl/expo-dynamic-app-icon - Change your app's icon programmatically. Whenever you want. With Expo on iOS and Android.](https://github.com/g9kpl/expo-dynamic-app-icon)
 - [tomayac/local-reverse-geocoder - Local reverse geocoder for Node.js based on GeoNames data](https://github.com/tomayac/local-reverse-geocoder)
 - [browserbase/stagehand - The AI Browser Automation Framework](https://github.com/browserbase/stagehand)
-- [nrenner/brouter-web - Web client for BRouter, a routing engine based on OpenStreetMap](https://github.com/nrenner/brouter-web)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
