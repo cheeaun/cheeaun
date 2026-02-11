@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [open-saas-directory/awesome-native-macosx-apps - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐](https://github.com/open-saas-directory/awesome-native-macosx-apps)
 - [TimOliver/vips-cocoa - Build libvips and all its dependencies as universal xcframeworks for iOS, macOS and visionOS.](https://github.com/TimOliver/vips-cocoa)
 - [hcschuetz/follow-toots - Following (replies to) mastodon toots](https://github.com/hcschuetz/follow-toots)
 - [developmentseed/deck.gl-raster - Client-side, GPU-accelerated Cloud-Optimized GeoTIFF visualization in deck.gl](https://github.com/developmentseed/deck.gl-raster)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chr15m/minimal-pwa - Minimal files + config for a PWA](https://github.com/chr15m/minimal-pwa)
 - [tomayac/mastodon-edit-history - A tool that shows the edit history of toots on Mastodon](https://github.com/tomayac/mastodon-edit-history)
 - [pchalupa/expo-alternate-app-icons - Provides functions that let you change the app icon.](https://github.com/pchalupa/expo-alternate-app-icons)
-- [g9kpl/expo-dynamic-app-icon - Change your app's icon programmatically. Whenever you want. With Expo on iOS and Android.](https://github.com/g9kpl/expo-dynamic-app-icon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
