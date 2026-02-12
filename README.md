@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mitchellh/vouch - A community trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
+- [rafcabezas/arc2zen - Arc to Zen migration tool](https://github.com/rafcabezas/arc2zen)
 - [zai-org/GLM-OCR - GLM-OCR: Accurate ×  Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
 - [ayeressian/bunnycdn-storage-deploy - Github action for deploying selected directory to BunnyCDN storage.](https://github.com/ayeressian/bunnycdn-storage-deploy)
 - [open-saas-directory/awesome-native-macosx-apps - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐](https://github.com/open-saas-directory/awesome-native-macosx-apps)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [stonerl/Thaw - Menu bar manager for macOS 26](https://github.com/stonerl/Thaw)
 - [callstackincubator/agent-device - CLI to control iOS and Android devices for AI agents](https://github.com/callstackincubator/agent-device)
 - [vercel-labs/agent-browser - Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
-- [mutativejs/travels - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch](https://github.com/mutativejs/travels)
-- [chr15m/minimal-pwa - Minimal files + config for a PWA](https://github.com/chr15m/minimal-pwa)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
