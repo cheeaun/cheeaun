@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zai-org/GLM-OCR - GLM-OCR: Accurate ×  Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
 - [ayeressian/bunnycdn-storage-deploy - Github action for deploying selected directory to BunnyCDN storage.](https://github.com/ayeressian/bunnycdn-storage-deploy)
 - [open-saas-directory/awesome-native-macosx-apps - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐](https://github.com/open-saas-directory/awesome-native-macosx-apps)
 - [TimOliver/vips-cocoa - Build libvips and all its dependencies as universal xcframeworks for iOS, macOS and visionOS.](https://github.com/TimOliver/vips-cocoa)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vercel-labs/agent-browser - Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
 - [mutativejs/travels - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch](https://github.com/mutativejs/travels)
 - [chr15m/minimal-pwa - Minimal files + config for a PWA](https://github.com/chr15m/minimal-pwa)
-- [tomayac/mastodon-edit-history - A tool that shows the edit history of toots on Mastodon](https://github.com/tomayac/mastodon-edit-history)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
