@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [edent/TweeView - A Tree View For Tweets](https://github.com/edent/TweeView)
 - [hello-pangea/dnd - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!](https://github.com/hello-pangea/dnd)
 - [Bengerthelorf/macIconChanger - Transform your Mac. One icon at a time.](https://github.com/Bengerthelorf/macIconChanger)
 - [mitchellh/vouch - A community trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [seanharsh/better-auto-pip - Automatically enable Picture-in-Picture for videos when switching tabs Chrome or collapsing Vivaldi panels. Works with YouTube, Netflix, Plex, Twitch, and more.](https://github.com/seanharsh/better-auto-pip)
 - [Fats403/simple-ffmpegjs - Declarative video composition for Node.js — define clips, transitions, text, and audio as simple objects, and let FFmpeg handle the rest.](https://github.com/Fats403/simple-ffmpegjs)
 - [qwibitai/nanoclaw - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK](https://github.com/qwibitai/nanoclaw)
-- [stonerl/Thaw - Menu bar manager for macOS 26](https://github.com/stonerl/Thaw)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
