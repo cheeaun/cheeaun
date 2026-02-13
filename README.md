@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tuanchauict/MonoSketch - An ASCII graph drawing app](https://github.com/tuanchauict/MonoSketch)
 - [anomalyco/opentui - OpenTUI is a library for building terminal user interfaces (TUIs)](https://github.com/anomalyco/opentui)
 - [edent/TweeView - A Tree View For Tweets](https://github.com/edent/TweeView)
 - [hello-pangea/dnd - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!](https://github.com/hello-pangea/dnd)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [developmentseed/deck.gl-raster - Client-side, GPU-accelerated Cloud-Optimized GeoTIFF visualization in deck.gl](https://github.com/developmentseed/deck.gl-raster)
 - [kimusan/mastui - A TUI client for mastodon written in python](https://github.com/kimusan/mastui)
 - [seanharsh/better-auto-pip - Automatically enable Picture-in-Picture for videos when switching tabs Chrome or collapsing Vivaldi panels. Works with YouTube, Netflix, Plex, Twitch, and more.](https://github.com/seanharsh/better-auto-pip)
-- [Fats403/simple-ffmpegjs - Declarative video composition for Node.js — define clips, transitions, text, and audio as simple objects, and let FFmpeg handle the rest.](https://github.com/Fats403/simple-ffmpegjs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
