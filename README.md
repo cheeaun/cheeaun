@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Bengerthelorf/macIconChanger - Transform your Mac. One icon at a time.](https://github.com/Bengerthelorf/macIconChanger)
 - [mitchellh/vouch - A community trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
 - [rafcabezas/arc2zen - Arc to Zen migration tool](https://github.com/rafcabezas/arc2zen)
 - [zai-org/GLM-OCR - GLM-OCR: Accurate ×  Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [qwibitai/nanoclaw - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK](https://github.com/qwibitai/nanoclaw)
 - [stonerl/Thaw - Menu bar manager for macOS 26](https://github.com/stonerl/Thaw)
 - [callstackincubator/agent-device - CLI to control iOS and Android devices for AI agents](https://github.com/callstackincubator/agent-device)
-- [vercel-labs/agent-browser - Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
