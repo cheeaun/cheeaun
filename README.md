@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [isaac-mason/crashcat - physics engine for javascript, built for games, simulations, and creative websites](https://github.com/isaac-mason/crashcat)
+- [Havoc6502/MOStodon - A Commodore 64 Mastodon Client. A C64 compatible Modem is required.](https://github.com/Havoc6502/MOStodon)
+- [Stygian-Tech/fedi-reader](https://github.com/Stygian-Tech/fedi-reader)
 - [tuanchauict/MonoSketch - An ASCII graph drawing app](https://github.com/tuanchauict/MonoSketch)
 - [anomalyco/opentui - OpenTUI is a library for building terminal user interfaces (TUIs)](https://github.com/anomalyco/opentui)
 - [edent/TweeView - A Tree View For Tweets](https://github.com/edent/TweeView)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [open-saas-directory/awesome-native-macosx-apps - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐](https://github.com/open-saas-directory/awesome-native-macosx-apps)
 - [TimOliver/vips-cocoa - Build libvips and all its dependencies as universal xcframeworks for iOS, macOS and visionOS.](https://github.com/TimOliver/vips-cocoa)
 - [hcschuetz/follow-toots - Following (replies to) mastodon toots](https://github.com/hcschuetz/follow-toots)
-- [developmentseed/deck.gl-raster - Client-side, GPU-accelerated Cloud-Optimized GeoTIFF visualization in deck.gl](https://github.com/developmentseed/deck.gl-raster)
-- [kimusan/mastui - A TUI client for mastodon written in python](https://github.com/kimusan/mastui)
-- [seanharsh/better-auto-pip - Automatically enable Picture-in-Picture for videos when switching tabs Chrome or collapsing Vivaldi panels. Works with YouTube, Netflix, Plex, Twitch, and more.](https://github.com/seanharsh/better-auto-pip)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
