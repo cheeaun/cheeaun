@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [i5heu/ublock-hide-yt-shorts - Maintained - uBlock Origin filter list to hide YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts)
 - [isaac-mason/crashcat - physics engine for javascript, built for games, simulations, and creative websites](https://github.com/isaac-mason/crashcat)
 - [Havoc6502/MOStodon - A Commodore 64 Mastodon Client. A C64 compatible Modem is required.](https://github.com/Havoc6502/MOStodon)
 - [Stygian-Tech/fedi-reader](https://github.com/Stygian-Tech/fedi-reader)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ayeressian/bunnycdn-storage-deploy - Github action for deploying selected directory to BunnyCDN storage.](https://github.com/ayeressian/bunnycdn-storage-deploy)
 - [open-saas-directory/awesome-native-macosx-apps - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐](https://github.com/open-saas-directory/awesome-native-macosx-apps)
 - [TimOliver/vips-cocoa - Build libvips and all its dependencies as universal xcframeworks for iOS, macOS and visionOS.](https://github.com/TimOliver/vips-cocoa)
-- [hcschuetz/follow-toots - Following (replies to) mastodon toots](https://github.com/hcschuetz/follow-toots)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
