@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [knadh/highlighted-input.js - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an <input> field.](https://github.com/knadh/highlighted-input.js)
+- [knadh/floatype.js - A tiny, zero-dependency, floating autocomplete / autosuggestion widget for textareas.](https://github.com/knadh/floatype.js)
 - [i5heu/ublock-hide-yt-shorts - Maintained - uBlock Origin filter list to hide YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts)
 - [isaac-mason/crashcat - physics engine for javascript, built for games, simulations, and creative websites](https://github.com/isaac-mason/crashcat)
 - [Havoc6502/MOStodon - A Commodore 64 Mastodon Client. A C64 compatible Modem is required.](https://github.com/Havoc6502/MOStodon)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rafcabezas/arc2zen - Arc to Zen migration tool](https://github.com/rafcabezas/arc2zen)
 - [zai-org/GLM-OCR - GLM-OCR: Accurate ×  Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
 - [ayeressian/bunnycdn-storage-deploy - Github action for deploying selected directory to BunnyCDN storage.](https://github.com/ayeressian/bunnycdn-storage-deploy)
-- [open-saas-directory/awesome-native-macosx-apps - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐](https://github.com/open-saas-directory/awesome-native-macosx-apps)
-- [TimOliver/vips-cocoa - Build libvips and all its dependencies as universal xcframeworks for iOS, macOS and visionOS.](https://github.com/TimOliver/vips-cocoa)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
