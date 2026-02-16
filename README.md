@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [otaviocc/Triton - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin](https://github.com/otaviocc/Triton)
 - [knadh/highlighted-input.js - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an <input> field.](https://github.com/knadh/highlighted-input.js)
 - [knadh/floatype.js - A tiny, zero-dependency, floating autocomplete / autosuggestion widget for textareas.](https://github.com/knadh/floatype.js)
 - [i5heu/ublock-hide-yt-shorts - Maintained - uBlock Origin filter list to hide YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mitchellh/vouch - A community trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
 - [rafcabezas/arc2zen - Arc to Zen migration tool](https://github.com/rafcabezas/arc2zen)
 - [zai-org/GLM-OCR - GLM-OCR: Accurate ×  Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
-- [ayeressian/bunnycdn-storage-deploy - Github action for deploying selected directory to BunnyCDN storage.](https://github.com/ayeressian/bunnycdn-storage-deploy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
