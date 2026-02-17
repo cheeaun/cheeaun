@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [andriydruk/swift-weather-app - Cross-platform Swift application for iOS/Mac/Android](https://github.com/andriydruk/swift-weather-app)
 - [curlconverter/curlconverter.github.io - Website for converting curl commands to code](https://github.com/curlconverter/curlconverter.github.io)
 - [rustnn/rustnn - Rust Implementation for WebNN](https://github.com/rustnn/rustnn)
 - [otaviocc/Triton - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin](https://github.com/otaviocc/Triton)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [edent/TweeView - A Tree View For Tweets](https://github.com/edent/TweeView)
 - [hello-pangea/dnd - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!](https://github.com/hello-pangea/dnd)
 - [Bengerthelorf/macIconChanger - Transform your Mac. One icon at a time.](https://github.com/Bengerthelorf/macIconChanger)
-- [mitchellh/vouch - A community trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
