@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rustnn/rustnn - Rust Implementation for WebNN](https://github.com/rustnn/rustnn)
 - [otaviocc/Triton - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin](https://github.com/otaviocc/Triton)
 - [knadh/highlighted-input.js - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an <input> field.](https://github.com/knadh/highlighted-input.js)
 - [knadh/floatype.js - A tiny, zero-dependency, floating autocomplete / autosuggestion widget for textareas.](https://github.com/knadh/floatype.js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Bengerthelorf/macIconChanger - Transform your Mac. One icon at a time.](https://github.com/Bengerthelorf/macIconChanger)
 - [mitchellh/vouch - A community trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
 - [rafcabezas/arc2zen - Arc to Zen migration tool](https://github.com/rafcabezas/arc2zen)
-- [zai-org/GLM-OCR - GLM-OCR: Accurate ×  Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
