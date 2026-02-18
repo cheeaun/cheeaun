@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [blackboardsh/electrobun - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.](https://github.com/blackboardsh/electrobun)
+- [christopherkarani/Wax - 🍯 Memory layer for on-device AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. ](https://github.com/christopherkarani/Wax)
 - [GoogleChromeLabs/view-transitions-mock - Bringing Same-Document View Transitions to all browsers. Kinda.](https://github.com/GoogleChromeLabs/view-transitions-mock)
 - [andriydruk/swift-weather-app - Cross-platform Swift application for iOS/Mac/Android](https://github.com/andriydruk/swift-weather-app)
 - [curlconverter/curlconverter.github.io - Website for converting curl commands to code](https://github.com/curlconverter/curlconverter.github.io)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Stygian-Tech/fedi-reader](https://github.com/Stygian-Tech/fedi-reader)
 - [tuanchauict/MonoSketch - An ASCII graph drawing app](https://github.com/tuanchauict/MonoSketch)
 - [anomalyco/opentui - OpenTUI is a library for building terminal user interfaces (TUIs)](https://github.com/anomalyco/opentui)
-- [edent/TweeView - A Tree View For Tweets](https://github.com/edent/TweeView)
-- [hello-pangea/dnd - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!](https://github.com/hello-pangea/dnd)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
