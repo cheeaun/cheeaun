@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [2chanhaeng/fedi.blue](https://github.com/2chanhaeng/fedi.blue)
+- [taleshape-com/shaper - Visualize and share your data. All in SQL. Powered by DuckDB.](https://github.com/taleshape-com/shaper)
 - [blackboardsh/electrobun - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.](https://github.com/blackboardsh/electrobun)
 - [christopherkarani/Wax - 🍯 Memory layer for on-device AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. ](https://github.com/christopherkarani/Wax)
 - [GoogleChromeLabs/view-transitions-mock - Bringing Same-Document View Transitions to all browsers. Kinda.](https://github.com/GoogleChromeLabs/view-transitions-mock)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [isaac-mason/crashcat - physics engine for javascript, built for games, simulations, and creative websites](https://github.com/isaac-mason/crashcat)
 - [Havoc6502/MOStodon - A Commodore 64 Mastodon Client. A C64 compatible Modem is required.](https://github.com/Havoc6502/MOStodon)
 - [Stygian-Tech/fedi-reader](https://github.com/Stygian-Tech/fedi-reader)
-- [tuanchauict/MonoSketch - An ASCII graph drawing app](https://github.com/tuanchauict/MonoSketch)
-- [anomalyco/opentui - OpenTUI is a library for building terminal user interfaces (TUIs)](https://github.com/anomalyco/opentui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
