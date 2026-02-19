@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pimalaya/himalaya - CLI to manage emails](https://github.com/pimalaya/himalaya)
 - [steipete/gifgrep - Grep the GIF. Stick the landing.](https://github.com/steipete/gifgrep)
 - [steipete/goplaces - Modern Google Places CLI in Go](https://github.com/steipete/goplaces)
 - [2chanhaeng/fedi.blue](https://github.com/2chanhaeng/fedi.blue)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [knadh/highlighted-input.js - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an <input> field.](https://github.com/knadh/highlighted-input.js)
 - [knadh/floatype.js - A tiny, zero-dependency, floating autocomplete / autosuggestion widget for textareas.](https://github.com/knadh/floatype.js)
 - [i5heu/ublock-hide-yt-shorts - Maintained - uBlock Origin filter list to hide YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts)
-- [isaac-mason/crashcat - physics engine for javascript, built for games, simulations, and creative websites](https://github.com/isaac-mason/crashcat)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
