@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [steipete/gifgrep - Grep the GIF. Stick the landing.](https://github.com/steipete/gifgrep)
+- [steipete/goplaces - Modern Google Places CLI in Go](https://github.com/steipete/goplaces)
 - [2chanhaeng/fedi.blue](https://github.com/2chanhaeng/fedi.blue)
 - [taleshape-com/shaper - Visualize and share your data. All in SQL. Powered by DuckDB.](https://github.com/taleshape-com/shaper)
 - [blackboardsh/electrobun - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.](https://github.com/blackboardsh/electrobun)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [knadh/floatype.js - A tiny, zero-dependency, floating autocomplete / autosuggestion widget for textareas.](https://github.com/knadh/floatype.js)
 - [i5heu/ublock-hide-yt-shorts - Maintained - uBlock Origin filter list to hide YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts)
 - [isaac-mason/crashcat - physics engine for javascript, built for games, simulations, and creative websites](https://github.com/isaac-mason/crashcat)
-- [Havoc6502/MOStodon - A Commodore 64 Mastodon Client. A C64 compatible Modem is required.](https://github.com/Havoc6502/MOStodon)
-- [Stygian-Tech/fedi-reader](https://github.com/Stygian-Tech/fedi-reader)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
