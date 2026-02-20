@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [steveyegge/gastown - Gas Town - multi-agent workspace manager](https://github.com/steveyegge/gastown)
+- [forwardemail/tangerine - Node.js DNS over HTTPS - :tangerine: Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support).  Made for @forwardemail.](https://github.com/forwardemail/tangerine)
+- [leaningtech/browserpod-meta - Run full-stack workloads directly in the browser. No installation or per-session cloud sandboxes required.](https://github.com/leaningtech/browserpod-meta)
+- [stoolap/stoolap-node - Stoolap NodeJS Bindings](https://github.com/stoolap/stoolap-node)
 - [achimala/farfield - Remote-control Codex or OpenCode agents from anywhere](https://github.com/achimala/farfield)
 - [pimalaya/himalaya - CLI to manage emails](https://github.com/pimalaya/himalaya)
 - [steipete/gifgrep - Grep the GIF. Stick the landing.](https://github.com/steipete/gifgrep)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [GoogleChromeLabs/view-transitions-mock - A non-visual polyfill for Same-Document View Transitions](https://github.com/GoogleChromeLabs/view-transitions-mock)
 - [andriydruk/swift-weather-app - Cross-platform Swift application for iOS/Mac/Android](https://github.com/andriydruk/swift-weather-app)
 - [curlconverter/curlconverter.github.io - Website for converting curl commands to code](https://github.com/curlconverter/curlconverter.github.io)
-- [rustnn/rustnn - Rust Implementation for WebNN](https://github.com/rustnn/rustnn)
-- [otaviocc/Triton - A native macOS client for omg.lol with support for Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin](https://github.com/otaviocc/Triton)
-- [knadh/highlighted-input.js - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an <input> field.](https://github.com/knadh/highlighted-input.js)
-- [knadh/floatype.js - A tiny, zero-dependency, floating autocomplete / autosuggestion widget for textareas.](https://github.com/knadh/floatype.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
