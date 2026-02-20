@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News)
+- [RtlZeroMemory/Rezi - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.](https://github.com/RtlZeroMemory/Rezi)
+- [steipete/mcporter - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.](https://github.com/steipete/mcporter)
 - [TanStack/hotkeys - Type-Safe keyboard shortcuts library with awesome devtools](https://github.com/TanStack/hotkeys)
 - [steveyegge/gastown - Gas Town - multi-agent workspace manager](https://github.com/steveyegge/gastown)
 - [forwardemail/tangerine - Node.js DNS over HTTPS - :tangerine: Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support).  Made for @forwardemail.](https://github.com/forwardemail/tangerine)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [2chanhaeng/fedi.blue](https://github.com/2chanhaeng/fedi.blue)
 - [taleshape-com/shaper - Visualize and share your data. All in SQL. Powered by DuckDB.](https://github.com/taleshape-com/shaper)
 - [blackboardsh/electrobun - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.](https://github.com/blackboardsh/electrobun)
-- [christopherkarani/Wax - 🍯 Memory layer for on-device AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. ](https://github.com/christopherkarani/Wax)
-- [GoogleChromeLabs/view-transitions-mock - A non-visual polyfill for Same-Document View Transitions](https://github.com/GoogleChromeLabs/view-transitions-mock)
-- [andriydruk/swift-weather-app - Cross-platform Swift application for iOS/Mac/Android](https://github.com/andriydruk/swift-weather-app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
