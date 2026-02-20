@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TanStack/hotkeys - Type-Safe keyboard shortcuts library with awesome devtools](https://github.com/TanStack/hotkeys)
 - [steveyegge/gastown - Gas Town - multi-agent workspace manager](https://github.com/steveyegge/gastown)
 - [forwardemail/tangerine - Node.js DNS over HTTPS - :tangerine: Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support).  Made for @forwardemail.](https://github.com/forwardemail/tangerine)
 - [leaningtech/browserpod-meta - Run full-stack workloads directly in the browser. No installation or per-session cloud sandboxes required.](https://github.com/leaningtech/browserpod-meta)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [christopherkarani/Wax - 🍯 Memory layer for on-device AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. ](https://github.com/christopherkarani/Wax)
 - [GoogleChromeLabs/view-transitions-mock - A non-visual polyfill for Same-Document View Transitions](https://github.com/GoogleChromeLabs/view-transitions-mock)
 - [andriydruk/swift-weather-app - Cross-platform Swift application for iOS/Mac/Android](https://github.com/andriydruk/swift-weather-app)
-- [curlconverter/curlconverter.github.io - Website for converting curl commands to code](https://github.com/curlconverter/curlconverter.github.io)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
