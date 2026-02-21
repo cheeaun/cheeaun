@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News)
+- [IronsideXXVI/Hacker-News - A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
 - [RtlZeroMemory/Rezi - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.](https://github.com/RtlZeroMemory/Rezi)
 - [steipete/mcporter - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.](https://github.com/steipete/mcporter)
 - [TanStack/hotkeys - Type-Safe keyboard shortcuts library with awesome devtools](https://github.com/TanStack/hotkeys)
