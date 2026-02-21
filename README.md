@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [darrenburns/dv - A beautiful, snappy, and highly interactive tool for exploring diffs without leaving your terminal.](https://github.com/darrenburns/dv)
 - [tiktok/sparkling - Cross-platform infrastructure from TikTok. ](https://github.com/tiktok/sparkling)
 - [IronsideXXVI/Hacker-News - A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
 - [RtlZeroMemory/Rezi - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.](https://github.com/RtlZeroMemory/Rezi)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [steipete/gifgrep - Grep the GIF. Stick the landing.](https://github.com/steipete/gifgrep)
 - [steipete/goplaces - Modern Google Places CLI in Go](https://github.com/steipete/goplaces)
 - [2chanhaeng/fedi.blue](https://github.com/2chanhaeng/fedi.blue)
-- [taleshape-com/shaper - Visualize and share your data. All in SQL. Powered by DuckDB.](https://github.com/taleshape-com/shaper)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
