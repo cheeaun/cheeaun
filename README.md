@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [retyui/react-native-bundle-discovery - Simple tooling to explore bundle size 📦, spot heavy packages, and inspect module/code structure in React Native apps.](https://github.com/retyui/react-native-bundle-discovery)
+- [slopus/happy - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured](https://github.com/slopus/happy)
 - [waysidemapping/pinhead - 📍 Quality public domain icons for your map pins](https://github.com/waysidemapping/pinhead)
 - [darrenburns/dv - A beautiful, snappy, and highly interactive tool for exploring diffs without leaving your terminal.](https://github.com/darrenburns/dv)
 - [tiktok/sparkling - Cross-platform infrastructure from TikTok. ](https://github.com/tiktok/sparkling)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [stoolap/stoolap-node - Stoolap NodeJS Bindings](https://github.com/stoolap/stoolap-node)
 - [achimala/farfield - Remote-control Codex or OpenCode agents from anywhere](https://github.com/achimala/farfield)
 - [pimalaya/himalaya - CLI to manage emails](https://github.com/pimalaya/himalaya)
-- [steipete/gifgrep - Grep the GIF. Stick the landing.](https://github.com/steipete/gifgrep)
-- [steipete/goplaces - Modern Google Places CLI in Go](https://github.com/steipete/goplaces)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
