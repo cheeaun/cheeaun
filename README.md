@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stefanbohacek/fediverse-invite - Customizable fediverse invitation you can share with your friends.](https://github.com/stefanbohacek/fediverse-invite)
+- [olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid](https://github.com/olvvier/apple-silicon-accelerometer)
 - [retyui/react-native-bundle-discovery - Simple tooling to explore bundle size 📦, spot heavy packages, and inspect module/code structure in React Native apps.](https://github.com/retyui/react-native-bundle-discovery)
 - [slopus/happy - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured](https://github.com/slopus/happy)
 - [waysidemapping/pinhead - 📍 Quality public domain icons for your map pins](https://github.com/waysidemapping/pinhead)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [forwardemail/tangerine - Node.js DNS over HTTPS - :tangerine: Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support).  Made for @forwardemail.](https://github.com/forwardemail/tangerine)
 - [leaningtech/browserpod-meta - Run full-stack workloads directly in the browser. No installation or per-session cloud sandboxes required.](https://github.com/leaningtech/browserpod-meta)
 - [stoolap/stoolap-node - Stoolap NodeJS Bindings](https://github.com/stoolap/stoolap-node)
-- [achimala/farfield - Remote-control Codex or OpenCode agents from anywhere](https://github.com/achimala/farfield)
-- [pimalaya/himalaya - CLI to manage emails](https://github.com/pimalaya/himalaya)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
