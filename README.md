@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [superhq-ai/shuru - A local-first microVM sandbox for running AI agents safely on macOS](https://github.com/superhq-ai/shuru)
 - [stefanbohacek/fediverse-invite - Customizable fediverse invitation you can share with your friends.](https://github.com/stefanbohacek/fediverse-invite)
 - [olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid](https://github.com/olvvier/apple-silicon-accelerometer)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [TanStack/hotkeys - Type-Safe keyboard shortcuts library with awesome devtools](https://github.com/TanStack/hotkeys)
 - [steveyegge/gastown - Gas Town - multi-agent workspace manager](https://github.com/steveyegge/gastown)
 - [forwardemail/tangerine - Node.js DNS over HTTPS - :tangerine: Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support).  Made for @forwardemail.](https://github.com/forwardemail/tangerine)
-- [leaningtech/browserpod-meta - Run full-stack workloads directly in the browser. No installation or per-session cloud sandboxes required.](https://github.com/leaningtech/browserpod-meta)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
