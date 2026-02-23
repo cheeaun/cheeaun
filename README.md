@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [superhq-ai/shuru - A local-first microVM sandbox for running AI agents safely on macOS](https://github.com/superhq-ai/shuru)
 - [stefanbohacek/fediverse-invite - Customizable fediverse invitation you can share with your friends.](https://github.com/stefanbohacek/fediverse-invite)
 - [olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid](https://github.com/olvvier/apple-silicon-accelerometer)
 - [retyui/react-native-bundle-discovery - Simple tooling to explore bundle size 📦, spot heavy packages, and inspect module/code structure in React Native apps.](https://github.com/retyui/react-native-bundle-discovery)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [steveyegge/gastown - Gas Town - multi-agent workspace manager](https://github.com/steveyegge/gastown)
 - [forwardemail/tangerine - Node.js DNS over HTTPS - :tangerine: Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support).  Made for @forwardemail.](https://github.com/forwardemail/tangerine)
 - [leaningtech/browserpod-meta - Run full-stack workloads directly in the browser. No installation or per-session cloud sandboxes required.](https://github.com/leaningtech/browserpod-meta)
-- [stoolap/stoolap-node - Stoolap NodeJS Bindings](https://github.com/stoolap/stoolap-node)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
