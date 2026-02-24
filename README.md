@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel-labs/portless - Replace port numbers with stable, named .localhost URLs. For humans and agents.](https://github.com/vercel-labs/portless)
+- [D4Vinci/Scrapling - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!](https://github.com/D4Vinci/Scrapling)
 - [pablodelucca/pixel-agents - Pixel office.](https://github.com/pablodelucca/pixel-agents)
 - [x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [superhq-ai/shuru - A local-first microVM sandbox for running AI agents safely on macOS](https://github.com/superhq-ai/shuru)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [IronsideXXVI/Hacker-News - A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
 - [RtlZeroMemory/Rezi - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.](https://github.com/RtlZeroMemory/Rezi)
 - [steipete/mcporter - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.](https://github.com/steipete/mcporter)
-- [TanStack/hotkeys - Type-Safe keyboard shortcuts library with awesome devtools](https://github.com/TanStack/hotkeys)
-- [steveyegge/gastown - Gas Town - multi-agent workspace manager](https://github.com/steveyegge/gastown)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
