@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tomkp/react-split-pane - React split-pane component](https://github.com/tomkp/react-split-pane)
 - [vercel-labs/portless - Replace port numbers with stable, named .localhost URLs. For humans and agents.](https://github.com/vercel-labs/portless)
 - [D4Vinci/Scrapling - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!](https://github.com/D4Vinci/Scrapling)
 - [pablodelucca/pixel-agents - Pixel office.](https://github.com/pablodelucca/pixel-agents)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tiktok/sparkling - Cross-platform infrastructure from TikTok. ](https://github.com/tiktok/sparkling)
 - [IronsideXXVI/Hacker-News - A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
 - [RtlZeroMemory/Rezi - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.](https://github.com/RtlZeroMemory/Rezi)
-- [steipete/mcporter - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.](https://github.com/steipete/mcporter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
