@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ciscorn/earcut-rs - A Rust port of the Earcut polygon triangulation library with performance in mind.](https://github.com/ciscorn/earcut-rs)
 - [srimanachanta/Stasis - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon](https://github.com/srimanachanta/Stasis)
 - [moeru-ai/xsai - 🤖💬 extra-small AI SDK.](https://github.com/moeru-ai/xsai)
 - [lqs/retrotick - 💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript](https://github.com/lqs/retrotick)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [retyui/react-native-bundle-discovery - Simple tooling to explore bundle size 📦, spot heavy packages, and inspect module/code structure in React Native apps.](https://github.com/retyui/react-native-bundle-discovery)
 - [slopus/happy - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured](https://github.com/slopus/happy)
 - [waysidemapping/pinhead - 📍 Quality public domain icons for your map pins](https://github.com/waysidemapping/pinhead)
-- [darrenburns/dv - A beautiful, snappy, and highly interactive tool for exploring diffs without leaving your terminal.](https://github.com/darrenburns/dv)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
