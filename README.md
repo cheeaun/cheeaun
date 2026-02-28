@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [moeru-ai/xsai - 🤖💬 extra-small AI SDK.](https://github.com/moeru-ai/xsai)
 - [lqs/retrotick - 💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript](https://github.com/lqs/retrotick)
 - [tomkp/react-split-pane - React split-pane component](https://github.com/tomkp/react-split-pane)
 - [vercel-labs/portless - Replace port numbers with stable, named .localhost URLs. For humans and agents.](https://github.com/vercel-labs/portless)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [waysidemapping/pinhead - 📍 Quality public domain icons for your map pins](https://github.com/waysidemapping/pinhead)
 - [darrenburns/dv - A beautiful, snappy, and highly interactive tool for exploring diffs without leaving your terminal.](https://github.com/darrenburns/dv)
 - [tiktok/sparkling - Cross-platform infrastructure from TikTok. ](https://github.com/tiktok/sparkling)
-- [IronsideXXVI/Hacker-News - A native macOS client for Hacker News, built with SwiftUI](https://github.com/IronsideXXVI/Hacker-News)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
