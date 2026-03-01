@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nullclaw/nullclaw - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig](https://github.com/nullclaw/nullclaw)
 - [ciscorn/earcut-rs - A Rust port of the Earcut polygon triangulation library with performance in mind.](https://github.com/ciscorn/earcut-rs)
 - [srimanachanta/Stasis - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon](https://github.com/srimanachanta/Stasis)
 - [moeru-ai/xsai - 🤖💬 extra-small AI SDK.](https://github.com/moeru-ai/xsai)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid](https://github.com/olvvier/apple-silicon-accelerometer)
 - [retyui/react-native-bundle-discovery - Simple tooling to explore bundle size 📦, spot heavy packages, and inspect module/code structure in React Native apps.](https://github.com/retyui/react-native-bundle-discovery)
 - [slopus/happy - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured](https://github.com/slopus/happy)
-- [waysidemapping/pinhead - 📍 Quality public domain icons for your map pins](https://github.com/waysidemapping/pinhead)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
