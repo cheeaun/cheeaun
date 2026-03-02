@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mastodon/mastodon-android - Official Android app for Mastodon](https://github.com/mastodon/mastodon-android)
+- [mastodon/mastodon-ios - Official iOS app for Mastodon](https://github.com/mastodon/mastodon-ios)
 - [hansenwebco/elefeed - A Mastadon web based client built as a test of various AI code assistants.](https://github.com/hansenwebco/elefeed)
 - [nullclaw/nullclaw - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig](https://github.com/nullclaw/nullclaw)
 - [ciscorn/earcut-rs - A Rust port of the Earcut polygon triangulation library with performance in mind.](https://github.com/ciscorn/earcut-rs)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [superhq-ai/shuru - A local-first microVM sandbox for running AI agents safely on macOS](https://github.com/superhq-ai/shuru)
 - [stefanbohacek/fediverse-invite - Customizable fediverse invitation you can share with your friends.](https://github.com/stefanbohacek/fediverse-invite)
-- [olvvier/apple-silicon-accelerometer - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid](https://github.com/olvvier/apple-silicon-accelerometer)
-- [retyui/react-native-bundle-discovery - Simple tooling to explore bundle size 📦, spot heavy packages, and inspect module/code structure in React Native apps.](https://github.com/retyui/react-native-bundle-discovery)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
