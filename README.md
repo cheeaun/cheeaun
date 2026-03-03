@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kytta/share2fedi - Cross-instance share page for the Fediverse](https://github.com/kytta/share2fedi)
+- [aadeexyz/tactus - Add native-like haptic feedback to any web app.](https://github.com/aadeexyz/tactus)
+- [lochie/web-haptics - Haptic feedback for the mobile web](https://github.com/lochie/web-haptics)
 - [isthismyniche/LongQ_Kopi](https://github.com/isthismyniche/LongQ_Kopi)
 - [petergpt/bullshit-benchmark - BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.](https://github.com/petergpt/bullshit-benchmark)
 - [mastodon/share - Share widget for Mastodon](https://github.com/mastodon/share)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [moeru-ai/xsai - 🤖💬 extra-small AI SDK.](https://github.com/moeru-ai/xsai)
 - [lqs/retrotick - 💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript](https://github.com/lqs/retrotick)
 - [tomkp/react-split-pane - React split-pane component](https://github.com/tomkp/react-split-pane)
-- [vercel-labs/portless - Replace port numbers with stable, named .localhost URLs. For humans and agents.](https://github.com/vercel-labs/portless)
-- [D4Vinci/Scrapling - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!](https://github.com/D4Vinci/Scrapling)
-- [pablodelucca/pixel-agents - Pixel office.](https://github.com/pablodelucca/pixel-agents)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
