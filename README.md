@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [isthismyniche/LongQ_Kopi](https://github.com/isthismyniche/LongQ_Kopi)
 - [petergpt/bullshit-benchmark - BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.](https://github.com/petergpt/bullshit-benchmark)
 - [mastodon/share - Share widget for Mastodon](https://github.com/mastodon/share)
 - [mastodon/mastodon-android - Official Android app for Mastodon](https://github.com/mastodon/mastodon-android)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vercel-labs/portless - Replace port numbers with stable, named .localhost URLs. For humans and agents.](https://github.com/vercel-labs/portless)
 - [D4Vinci/Scrapling - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!](https://github.com/D4Vinci/Scrapling)
 - [pablodelucca/pixel-agents - Pixel office.](https://github.com/pablodelucca/pixel-agents)
-- [x1xhlol/system-prompts-and-models-of-ai-tools - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
