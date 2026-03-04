@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [RelistenNet/gapless.js - Gapless audio playback javascript plugin (for seamless audio playback)](https://github.com/RelistenNet/gapless.js)
 - [kytta/share2fedi - Cross-instance share page for the Fediverse](https://github.com/kytta/share2fedi)
 - [aadeexyz/tactus - Add native-like haptic feedback to any web app.](https://github.com/aadeexyz/tactus)
 - [lochie/web-haptics - Haptic feedback for the mobile web](https://github.com/lochie/web-haptics)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [srimanachanta/Stasis - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon](https://github.com/srimanachanta/Stasis)
 - [moeru-ai/xsai - 🤖💬 extra-small AI SDK.](https://github.com/moeru-ai/xsai)
 - [lqs/retrotick - 💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript](https://github.com/lqs/retrotick)
-- [tomkp/react-split-pane - React split-pane component](https://github.com/tomkp/react-split-pane)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
