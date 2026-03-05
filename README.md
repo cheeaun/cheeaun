@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [opengeos/maplibre-gl-lidar - A MapLibre plugin for visualizing LiDAR Point Cloud](https://github.com/opengeos/maplibre-gl-lidar)
 - [oomfware/lang-detect - natural language detection library](https://github.com/oomfware/lang-detect)
 - [RelistenNet/gapless.js - Gapless audio playback javascript plugin (for seamless audio playback)](https://github.com/RelistenNet/gapless.js)
 - [kytta/share2fedi - Cross-instance share page for the Fediverse](https://github.com/kytta/share2fedi)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nullclaw/nullclaw - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig](https://github.com/nullclaw/nullclaw)
 - [ciscorn/earcut-rs - A Rust port of the Earcut polygon triangulation library with performance in mind.](https://github.com/ciscorn/earcut-rs)
 - [srimanachanta/Stasis - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon](https://github.com/srimanachanta/Stasis)
-- [moeru-ai/xsai - 🤖💬 extra-small AI SDK.](https://github.com/moeru-ai/xsai)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
