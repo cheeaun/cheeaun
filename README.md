@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/md4x - 📄 Fast and small markdown parser and renderer](https://github.com/unjs/md4x)
 - [akirk/enable-mastodon-apps - Allow accessing your WordPress blog with Mastodon clients](https://github.com/akirk/enable-mastodon-apps)
 - [sausheong/goclaw -  self-hosted AI agent gateway written in Go, inspired by OpenClaw. Single binary, low memory, fast startup.](https://github.com/sausheong/goclaw)
 - [opengeos/maplibre-gl-lidar - A MapLibre plugin for visualizing LiDAR Point Cloud](https://github.com/opengeos/maplibre-gl-lidar)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mastodon/mastodon-android - Official Android app for Mastodon](https://github.com/mastodon/mastodon-android)
 - [mastodon/mastodon-ios - Official iOS app for Mastodon](https://github.com/mastodon/mastodon-ios)
 - [hansenwebco/elefeed - A Mastadon web based client built as a test of various AI code assistants.](https://github.com/hansenwebco/elefeed)
-- [nullclaw/nullclaw - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig](https://github.com/nullclaw/nullclaw)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
