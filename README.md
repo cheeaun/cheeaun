@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [m1k1o/neko - A self hosted virtual browser that runs in docker and uses WebRTC.](https://github.com/m1k1o/neko)
 - [oomfware/safe-idn - detect IDN homograph spoofing](https://github.com/oomfware/safe-idn)
 - [pbakaus/impeccable - The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)
 - [blacksky-algorithms/atproto - Blacksky fork of bluesky-social/atproto with AppView performance optimizations, caching, and community features](https://github.com/blacksky-algorithms/atproto)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [aadeexyz/tactus - Add native-like haptic feedback to any web app.](https://github.com/aadeexyz/tactus)
 - [lochie/web-haptics - Haptic feedback for the mobile web](https://github.com/lochie/web-haptics)
 - [isthismyniche/LongQ_Kopi](https://github.com/isthismyniche/LongQ_Kopi)
-- [petergpt/bullshit-benchmark - BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.](https://github.com/petergpt/bullshit-benchmark)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
