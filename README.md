@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oomfware/safe-idn - detect IDN homograph spoofing](https://github.com/oomfware/safe-idn)
+- [pbakaus/impeccable - The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)
+- [blacksky-algorithms/atproto - Blacksky fork of bluesky-social/atproto with AppView performance optimizations, caching, and community features](https://github.com/blacksky-algorithms/atproto)
 - [alibaba/page-agent - JavaScript in-page GUI agent. Control web interfaces with natural language.](https://github.com/alibaba/page-agent)
 - [unjs/md4x - 📄 Fast and small markdown parser and renderer](https://github.com/unjs/md4x)
 - [akirk/enable-mastodon-apps - Allow accessing your WordPress blog with Mastodon clients](https://github.com/akirk/enable-mastodon-apps)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lochie/web-haptics - Haptic feedback for the mobile web](https://github.com/lochie/web-haptics)
 - [isthismyniche/LongQ_Kopi](https://github.com/isthismyniche/LongQ_Kopi)
 - [petergpt/bullshit-benchmark - BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.](https://github.com/petergpt/bullshit-benchmark)
-- [mastodon/share - Share widget for Mastodon](https://github.com/mastodon/share)
-- [mastodon/mastodon-android - Official Android app for Mastodon](https://github.com/mastodon/mastodon-android)
-- [mastodon/mastodon-ios - Official iOS app for Mastodon](https://github.com/mastodon/mastodon-ios)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
