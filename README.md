@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chuunibian/delta - Disk space analyzer with historical tracking.](https://github.com/chuunibian/delta)
+- [ShihabM/candyfloss - A Bluesky app for iOS](https://github.com/ShihabM/candyfloss)
+- [solarwinds/zig-build - Node.js native addon build and cross-compile library using Zig](https://github.com/solarwinds/zig-build)
 - [m1k1o/neko - A self hosted virtual browser that runs in docker and uses WebRTC.](https://github.com/m1k1o/neko)
 - [oomfware/safe-idn - detect IDN homograph spoofing](https://github.com/oomfware/safe-idn)
 - [pbakaus/impeccable - The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [oomfware/lang-detect - natural language detection library](https://github.com/oomfware/lang-detect)
 - [RelistenNet/gapless.js - Gapless audio playback javascript plugin (for seamless audio playback)](https://github.com/RelistenNet/gapless.js)
 - [kytta/share2fedi - Cross-instance share page for the Fediverse](https://github.com/kytta/share2fedi)
-- [aadeexyz/tactus - Add native-like haptic feedback to any web app.](https://github.com/aadeexyz/tactus)
-- [lochie/web-haptics - Haptic feedback for the mobile web](https://github.com/lochie/web-haptics)
-- [isthismyniche/LongQ_Kopi](https://github.com/isthismyniche/LongQ_Kopi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
