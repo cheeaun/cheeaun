@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gety-ai/apple-on-device-openai - OpenAI-compatible API server for Apple on-device models](https://github.com/gety-ai/apple-on-device-openai)
 - [git-bug/git-bug - Distributed, offline-first bug tracker embedded in git](https://github.com/git-bug/git-bug)
 - [chuunibian/delta - Disk space analyzer with historical tracking.](https://github.com/chuunibian/delta)
 - [ShihabM/candyfloss - A Bluesky app for iOS](https://github.com/ShihabM/candyfloss)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sausheong/goclaw -  self-hosted AI agent gateway written in Go, inspired by OpenClaw. Single binary, low memory, fast startup.](https://github.com/sausheong/goclaw)
 - [opengeos/maplibre-gl-lidar - A MapLibre plugin for visualizing LiDAR Point Cloud](https://github.com/opengeos/maplibre-gl-lidar)
 - [oomfware/lang-detect - natural language detection library](https://github.com/oomfware/lang-detect)
-- [RelistenNet/gapless.js - Gapless audio playback javascript plugin (for seamless audio playback)](https://github.com/RelistenNet/gapless.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
