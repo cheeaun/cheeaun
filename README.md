@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fadhlirahim/claude-starter-kit - Claude Code configuration kit for building fullstack TypeScript apps with TanStack Start,   tRPC, better-auth, Drizzle, and Biome. Includes CLAUDE.md conventions, 8 lifecycle hooks   (auto-format, file protection, forced review), 14 slash commands (/push, /scaffold,   /review), and 4 specialist agents. Drop into any project.](https://github.com/fadhlirahim/claude-starter-kit)
 - [gety-ai/apple-on-device-openai - OpenAI-compatible API server for Apple on-device models](https://github.com/gety-ai/apple-on-device-openai)
 - [git-bug/git-bug - Distributed, offline-first bug tracker embedded in git](https://github.com/git-bug/git-bug)
 - [chuunibian/delta - Disk space analyzer with historical tracking.](https://github.com/chuunibian/delta)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [akirk/enable-mastodon-apps - Allow accessing your WordPress blog with Mastodon clients](https://github.com/akirk/enable-mastodon-apps)
 - [sausheong/goclaw -  self-hosted AI agent gateway written in Go, inspired by OpenClaw. Single binary, low memory, fast startup.](https://github.com/sausheong/goclaw)
 - [opengeos/maplibre-gl-lidar - A MapLibre plugin for visualizing LiDAR Point Cloud](https://github.com/opengeos/maplibre-gl-lidar)
-- [oomfware/lang-detect - natural language detection library](https://github.com/oomfware/lang-detect)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
