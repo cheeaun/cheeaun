@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nuxt/nuxt - The Full-Stack Vue Framework.](https://github.com/nuxt/nuxt)
+- [pi0/mdzilla -  🦖 Markdown browser for humans and agents.  Browse docs from local directories, GitHub repos, and remote websites — all from your terminal.](https://github.com/pi0/mdzilla)
+- [pi0/mdshot - Render beautiful screenshots from Markdown. Powered by Takumi and MD4x.](https://github.com/pi0/mdshot)
+- [si14/okmain](https://github.com/si14/okmain)
+- [jundot/omlx - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar](https://github.com/jundot/omlx)
 - [fadhlirahim/claude-starter-kit - Claude Code configuration kit for building fullstack TypeScript apps with TanStack Start,   tRPC, better-auth, Drizzle, and Biome. Includes CLAUDE.md conventions, 8 lifecycle hooks   (auto-format, file protection, forced review), 14 slash commands (/push, /scaffold,   /review), and 4 specialist agents. Drop into any project.](https://github.com/fadhlirahim/claude-starter-kit)
 - [gety-ai/apple-on-device-openai - OpenAI-compatible API server for Apple on-device models](https://github.com/gety-ai/apple-on-device-openai)
 - [git-bug/git-bug - Distributed, offline-first bug tracker embedded in git](https://github.com/git-bug/git-bug)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [oomfware/safe-idn - detect IDN homograph spoofing](https://github.com/oomfware/safe-idn)
 - [pbakaus/impeccable - The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)
 - [blacksky-algorithms/atproto - Blacksky fork of bluesky-social/atproto with AppView performance optimizations, caching, and community features](https://github.com/blacksky-algorithms/atproto)
-- [alibaba/page-agent - JavaScript in-page GUI agent. Control web interfaces with natural language.](https://github.com/alibaba/page-agent)
-- [unjs/md4x - 📄 Fast and small markdown parser and renderer](https://github.com/unjs/md4x)
-- [akirk/enable-mastodon-apps - Allow accessing your WordPress blog with Mastodon clients](https://github.com/akirk/enable-mastodon-apps)
-- [sausheong/goclaw -  self-hosted AI agent gateway written in Go, inspired by OpenClaw. Single binary, low memory, fast startup.](https://github.com/sausheong/goclaw)
-- [opengeos/maplibre-gl-lidar - A MapLibre plugin for visualizing LiDAR Point Cloud](https://github.com/opengeos/maplibre-gl-lidar)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
