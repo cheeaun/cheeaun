@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [seldo/zeitgeist - A tiny webapp to summarize your social media feed so you don't have to read it all.](https://github.com/seldo/zeitgeist)
 - [ml-explore/mlx-lm - Run LLMs with MLX](https://github.com/ml-explore/mlx-lm)
 - [nuxt/nuxt - The Full-Stack Vue Framework.](https://github.com/nuxt/nuxt)
 - [pi0/mdzilla -  🦖 Markdown browser for humans and agents.  Browse docs from local directories, GitHub repos, and remote websites — all from your terminal.](https://github.com/pi0/mdzilla)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [solarwinds/zig-build - Node.js native addon build and cross-compile library using Zig](https://github.com/solarwinds/zig-build)
 - [m1k1o/neko - A self hosted virtual browser that runs in docker and uses WebRTC.](https://github.com/m1k1o/neko)
 - [oomfware/safe-idn - detect IDN homograph spoofing](https://github.com/oomfware/safe-idn)
-- [pbakaus/impeccable - The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
