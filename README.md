@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw](https://github.com/NVIDIA/NemoClaw)
 - [developit/mastodawn](https://github.com/developit/mastodawn)
 - [seldo/zeitgeist - A tiny webapp to summarize your social media feed so you don't have to read it all.](https://github.com/seldo/zeitgeist)
 - [ml-explore/mlx-lm - Run LLMs with MLX](https://github.com/ml-explore/mlx-lm)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chuunibian/delta - Disk space analyzer with historical tracking.](https://github.com/chuunibian/delta)
 - [ShihabM/candyfloss - A Bluesky app for iOS](https://github.com/ShihabM/candyfloss)
 - [solarwinds/zig-build - Node.js native addon build and cross-compile library using Zig](https://github.com/solarwinds/zig-build)
-- [m1k1o/neko - A self hosted virtual browser that runs in docker and uses WebRTC.](https://github.com/m1k1o/neko)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
