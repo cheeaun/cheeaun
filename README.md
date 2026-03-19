@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AppAndFlow/react-native-ease - 🍃 Lightweight declarative animations powered by platform APIs](https://github.com/AppAndFlow/react-native-ease)
+- [zhw2590582/ArtPlayer - :art: ArtPlayer.js is a modern and full featured HTML5 video player](https://github.com/zhw2590582/ArtPlayer)
 - [johnfactotum/foliate-js - Render e-books in the browser](https://github.com/johnfactotum/foliate-js)
 - [ywong137/speech-speed - Chrome extension that dynamically adjusts video playback speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)
 - [wasmerio/edgejs - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads](https://github.com/wasmerio/edgejs)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [si14/okmain](https://github.com/si14/okmain)
 - [jundot/omlx - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar](https://github.com/jundot/omlx)
 - [fadhlirahim/claude-starter-kit - Claude Code configuration kit for building fullstack TypeScript apps with TanStack Start,   tRPC, better-auth, Drizzle, and Biome. Includes CLAUDE.md conventions, 8 lifecycle hooks   (auto-format, file protection, forced review), 14 slash commands (/push, /scaffold,   /review), and 4 specialist agents. Drop into any project.](https://github.com/fadhlirahim/claude-starter-kit)
-- [gety-ai/apple-on-device-openai - OpenAI-compatible API server for Apple on-device models](https://github.com/gety-ai/apple-on-device-openai)
-- [git-bug/git-bug - Distributed, offline-first bug tracker embedded in git](https://github.com/git-bug/git-bug)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
