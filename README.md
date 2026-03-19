@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [longyangxi/bit-office - Pixel office for AI agents and multi-agent collaboration](https://github.com/longyangxi/bit-office)
-- [rjcorwin/cook - CLI/skill for workflow loops with Claude Code, Codex, and OpenCode.](https://github.com/rjcorwin/cook)
+- [rjcorwin/cook - A simple CLI for orchestrating Claude Code, Codex, and OpenCode](https://github.com/rjcorwin/cook)
 - [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
 - [AppAndFlow/react-native-ease - 🍃 Lightweight declarative animations powered by platform APIs](https://github.com/AppAndFlow/react-native-ease)
 - [zhw2590582/ArtPlayer - :art: ArtPlayer.js is a modern and full featured HTML5 video player](https://github.com/zhw2590582/ArtPlayer)
