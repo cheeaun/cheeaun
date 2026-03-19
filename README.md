@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [longyangxi/bit-office - Pixel office for AI agents and multi-agent collaboration](https://github.com/longyangxi/bit-office)
+- [rjcorwin/cook - CLI/skill for workflow loops with Claude Code, Codex, and OpenCode.](https://github.com/rjcorwin/cook)
 - [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
 - [AppAndFlow/react-native-ease - 🍃 Lightweight declarative animations powered by platform APIs](https://github.com/AppAndFlow/react-native-ease)
 - [zhw2590582/ArtPlayer - :art: ArtPlayer.js is a modern and full featured HTML5 video player](https://github.com/zhw2590582/ArtPlayer)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nuxt/nuxt - The Full-Stack Vue Framework.](https://github.com/nuxt/nuxt)
 - [pi0/mdzilla -  🦖 Markdown browser for humans and agents.  Browse docs from local directories, GitHub repos, and remote websites — all from your terminal.](https://github.com/pi0/mdzilla)
 - [pi0/mdshot - Render beautiful screenshots from Markdown. Powered by Takumi and MD4x.](https://github.com/pi0/mdshot)
-- [si14/okmain](https://github.com/si14/okmain)
-- [jundot/omlx - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar](https://github.com/jundot/omlx)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
