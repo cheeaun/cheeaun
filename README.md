@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
 - [AppAndFlow/react-native-ease - 🍃 Lightweight declarative animations powered by platform APIs](https://github.com/AppAndFlow/react-native-ease)
 - [zhw2590582/ArtPlayer - :art: ArtPlayer.js is a modern and full featured HTML5 video player](https://github.com/zhw2590582/ArtPlayer)
 - [johnfactotum/foliate-js - Render e-books in the browser](https://github.com/johnfactotum/foliate-js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pi0/mdshot - Render beautiful screenshots from Markdown. Powered by Takumi and MD4x.](https://github.com/pi0/mdshot)
 - [si14/okmain](https://github.com/si14/okmain)
 - [jundot/omlx - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar](https://github.com/jundot/omlx)
-- [fadhlirahim/claude-starter-kit - Claude Code configuration kit for building fullstack TypeScript apps with TanStack Start,   tRPC, better-auth, Drizzle, and Biome. Includes CLAUDE.md conventions, 8 lifecycle hooks   (auto-format, file protection, forced review), 14 slash commands (/push, /scaffold,   /review), and 4 specialist agents. Drop into any project.](https://github.com/fadhlirahim/claude-starter-kit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
