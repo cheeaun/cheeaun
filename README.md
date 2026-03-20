@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [KittenML/KittenTTS -  State-of-the-art TTS model under 25MB 😻 ](https://github.com/KittenML/KittenTTS)
-- [longyangxi/bit-office - Pixel office for AI agents and multi-agent collaboration](https://github.com/longyangxi/bit-office)
+- [longyangxi/OpenOffice - Pixel office for AI agents and multi-agent collaboration](https://github.com/longyangxi/OpenOffice)
 - [rjcorwin/cook - A simple CLI for orchestrating Claude Code, Codex, and OpenCode](https://github.com/rjcorwin/cook)
 - [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
 - [AppAndFlow/react-native-ease - 🍃 Lightweight declarative animations powered by platform APIs](https://github.com/AppAndFlow/react-native-ease)
