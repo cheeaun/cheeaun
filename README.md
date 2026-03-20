@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [KittenML/KittenTTS -  State-of-the-art TTS model under 25MB 😻 ](https://github.com/KittenML/KittenTTS)
-- [longyangxi/OpenOffice - Pixel office for AI agents and multi-agent collaboration](https://github.com/longyangxi/OpenOffice)
+- [longyangxi/OpenOffice - Open office for AI agents and multi-agent collaboration](https://github.com/longyangxi/OpenOffice)
 - [rjcorwin/cook - A simple CLI for orchestrating Claude Code, Codex, and OpenCode](https://github.com/rjcorwin/cook)
 - [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
 - [AppAndFlow/react-native-ease - 🍃 Lightweight declarative animations powered by platform APIs](https://github.com/AppAndFlow/react-native-ease)
@@ -36,7 +36,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [johnfactotum/foliate-js - Render e-books in the browser](https://github.com/johnfactotum/foliate-js)
 - [ywong137/speech-speed - Chrome extension that dynamically adjusts video playback speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)
 - [wasmerio/edgejs - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads](https://github.com/wasmerio/edgejs)
-- [NVIDIA/NemoClaw - NVIDIA plugin for secure installation of OpenClaw](https://github.com/NVIDIA/NemoClaw)
+- [NVIDIA/NemoClaw - Run OpenClaw securely inside NVIDIA OpenShell with managed inference](https://github.com/NVIDIA/NemoClaw)
 - [developit/mastodawn](https://github.com/developit/mastodawn)
 - [seldo/zeitgeist - A tiny webapp to summarize your social media feed so you don't have to read it all.](https://github.com/seldo/zeitgeist)
 - [ml-explore/mlx-lm - Run LLMs with MLX](https://github.com/ml-explore/mlx-lm)
