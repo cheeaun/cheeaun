@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [KittenML/KittenTTS -  State-of-the-art TTS model under 25MB 😻 ](https://github.com/KittenML/KittenTTS)
 - [longyangxi/bit-office - Pixel office for AI agents and multi-agent collaboration](https://github.com/longyangxi/bit-office)
 - [rjcorwin/cook - A simple CLI for orchestrating Claude Code, Codex, and OpenCode](https://github.com/rjcorwin/cook)
 - [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ml-explore/mlx-lm - Run LLMs with MLX](https://github.com/ml-explore/mlx-lm)
 - [nuxt/nuxt - The Full-Stack Vue Framework.](https://github.com/nuxt/nuxt)
 - [pi0/mdzilla -  🦖 Markdown browser for humans and agents.  Browse docs from local directories, GitHub repos, and remote websites — all from your terminal.](https://github.com/pi0/mdzilla)
-- [pi0/mdshot - Render beautiful screenshots from Markdown. Powered by Takumi and MD4x.](https://github.com/pi0/mdshot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
