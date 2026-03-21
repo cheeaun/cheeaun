@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [microlinkhq/optimo - Optimize and convert images and videos using format-specific compression pipelines on top of ImageMagick and FFmpeg.](https://github.com/microlinkhq/optimo)
+- [serkan-ozal/browser-devtools-mcp-vscode-extension - VSCode Extension for the Browser DevTools MCP Server which is a Playwright-based MCP server that exposes a live browser as a traceable, inspectable, debuggable and controllable execution environment for AI agents.](https://github.com/serkan-ozal/browser-devtools-mcp-vscode-extension)
 - [KittenML/KittenTTS -  State-of-the-art TTS model under 25MB 😻 ](https://github.com/KittenML/KittenTTS)
 - [longyangxi/OpenOffice - Open office for AI agents and multi-agent collaboration](https://github.com/longyangxi/OpenOffice)
 - [rjcorwin/cook - A simple CLI for orchestrating Claude Code, Codex, and OpenCode](https://github.com/rjcorwin/cook)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [developit/mastodawn](https://github.com/developit/mastodawn)
 - [seldo/zeitgeist - A tiny webapp to summarize your social media feed so you don't have to read it all.](https://github.com/seldo/zeitgeist)
 - [ml-explore/mlx-lm - Run LLMs with MLX](https://github.com/ml-explore/mlx-lm)
-- [nuxt/nuxt - The Full-Stack Vue Framework.](https://github.com/nuxt/nuxt)
-- [pi0/mdzilla -  🦖 Markdown browser for humans and agents.  Browse docs from local directories, GitHub repos, and remote websites — all from your terminal.](https://github.com/pi0/mdzilla)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
