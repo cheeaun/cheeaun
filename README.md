@@ -38,7 +38,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [johnfactotum/foliate-js - Render e-books in the browser](https://github.com/johnfactotum/foliate-js)
 - [ywong137/speech-speed - Chrome extension that dynamically adjusts video playback speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)
 - [wasmerio/edgejs - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads](https://github.com/wasmerio/edgejs)
-- [NVIDIA/NemoClaw - Run OpenClaw securely inside NVIDIA OpenShell with managed inference](https://github.com/NVIDIA/NemoClaw)
+- [NVIDIA/NemoClaw - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference](https://github.com/NVIDIA/NemoClaw)
 - [developit/mastodawn](https://github.com/developit/mastodawn)
 - [seldo/zeitgeist - A tiny webapp to summarize your social media feed so you don't have to read it all.](https://github.com/seldo/zeitgeist)
 - [ml-explore/mlx-lm - Run LLMs with MLX](https://github.com/ml-explore/mlx-lm)
