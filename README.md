@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kirso/aiworkindex - AI Work Index — 562 Singapore occupations and 80 modern roles scored for AI displacement risk. Deterministic three-layer model, no LLM in scoring. Built with SvelteKit 5.](https://github.com/kirso/aiworkindex)
 - [argyleink/css-color-component - a modern color picker for the web with support for all spaces](https://github.com/argyleink/css-color-component)
 - [unicode-rs/unicode-segmentation - Grapheme Cluster and Word boundaries according to UAX#29 rules](https://github.com/unicode-rs/unicode-segmentation)
 - [microlinkhq/optimo - Optimize and convert images and videos using format-specific compression pipelines on top of ImageMagick and FFmpeg.](https://github.com/microlinkhq/optimo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ywong137/speech-speed - Chrome extension that dynamically adjusts video playback speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)
 - [wasmerio/edgejs - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads](https://github.com/wasmerio/edgejs)
 - [NVIDIA/NemoClaw - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference](https://github.com/NVIDIA/NemoClaw)
-- [developit/mastodawn](https://github.com/developit/mastodawn)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
