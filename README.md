@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [argyleink/css-color-component - a modern color picker for the web with support for all spaces](https://github.com/argyleink/css-color-component)
+- [unicode-rs/unicode-segmentation - Grapheme Cluster and Word boundaries according to UAX#29 rules](https://github.com/unicode-rs/unicode-segmentation)
 - [microlinkhq/optimo - Optimize and convert images and videos using format-specific compression pipelines on top of ImageMagick and FFmpeg.](https://github.com/microlinkhq/optimo)
 - [serkan-ozal/browser-devtools-mcp-vscode-extension - VSCode Extension for the Browser DevTools MCP Server which is a Playwright-based MCP server that exposes a live browser as a traceable, inspectable, debuggable and controllable execution environment for AI agents.](https://github.com/serkan-ozal/browser-devtools-mcp-vscode-extension)
 - [KittenML/KittenTTS -  State-of-the-art TTS model under 25MB 😻 ](https://github.com/KittenML/KittenTTS)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wasmerio/edgejs - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads](https://github.com/wasmerio/edgejs)
 - [NVIDIA/NemoClaw - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference](https://github.com/NVIDIA/NemoClaw)
 - [developit/mastodawn](https://github.com/developit/mastodawn)
-- [seldo/zeitgeist - A tiny webapp to summarize your social media feed so you don't have to read it all.](https://github.com/seldo/zeitgeist)
-- [ml-explore/mlx-lm - Run LLMs with MLX](https://github.com/ml-explore/mlx-lm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
