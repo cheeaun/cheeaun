@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [trynova/nova - JS engine lolz](https://github.com/trynova/nova)
 - [dashersw/gea](https://github.com/dashersw/gea)
 - [kirso/aiworkindex - AI Work Index — 562 Singapore occupations and 80 modern roles scored for AI displacement risk. Deterministic three-layer model, no LLM in scoring. Built with SvelteKit 5.](https://github.com/kirso/aiworkindex)
 - [argyleink/css-color-component - a modern color picker for the web with support for all spaces](https://github.com/argyleink/css-color-component)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zhw2590582/ArtPlayer - :art: ArtPlayer.js is a modern and full featured HTML5 video player](https://github.com/zhw2590582/ArtPlayer)
 - [johnfactotum/foliate-js - Render e-books in the browser](https://github.com/johnfactotum/foliate-js)
 - [ywong137/speech-speed - Chrome extension that dynamically adjusts video playback speed based on how fast the speaker is talking](https://github.com/ywong137/speech-speed)
-- [wasmerio/edgejs - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads](https://github.com/wasmerio/edgejs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
