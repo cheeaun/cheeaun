@@ -35,7 +35,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [microlinkhq/optimo - Optimize and convert images and videos using format-specific compression pipelines on top of ImageMagick and FFmpeg.](https://github.com/microlinkhq/optimo)
 - [serkan-ozal/browser-devtools-mcp-vscode-extension - VSCode Extension for the Browser DevTools MCP Server which is a Playwright-based MCP server that exposes a live browser as a traceable, inspectable, debuggable and controllable execution environment for AI agents.](https://github.com/serkan-ozal/browser-devtools-mcp-vscode-extension)
 - [KittenML/KittenTTS -  State-of-the-art TTS model under 25MB 😻 ](https://github.com/KittenML/KittenTTS)
-- [longyangxi/OpenOffice - Open office for AI agents and multi-agent collaboration](https://github.com/longyangxi/OpenOffice)
+- [longyangxi/OpenOffice - A visible workspace for AI agents to collaborate as a single team.](https://github.com/longyangxi/OpenOffice)
 - [rjcorwin/cook - A simple CLI for orchestrating Claude Code, Codex, and OpenCode](https://github.com/rjcorwin/cook)
 - [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
 - [AppAndFlow/react-native-ease - 🍃 Lightweight declarative animations powered by platform APIs](https://github.com/AppAndFlow/react-native-ease)
