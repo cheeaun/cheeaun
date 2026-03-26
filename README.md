@@ -30,7 +30,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [websitebutlers/codefire-app - CodeFire gives AI coding tools persistent memory, task tracking, and project intelligence. A desktop companion for the AI-native workflow.](https://github.com/websitebutlers/codefire-app)
 - [haukened/mirrorselect - A command line utility to select the fastest mirror for Ubuntu. Alternative to netselect or mirror protocol.](https://github.com/haukened/mirrorselect)
 - [trynova/nova - JS engine lolz](https://github.com/trynova/nova)
-- [dashersw/gea](https://github.com/dashersw/gea)
+- [dashersw/gea - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.](https://github.com/dashersw/gea)
 - [kirso/aiworkindex - AI Work Index — 562 Singapore occupations and 80 modern roles scored for AI displacement risk. Deterministic three-layer model, no LLM in scoring. Built with SvelteKit 5.](https://github.com/kirso/aiworkindex)
 - [argyleink/css-color-component - a modern color picker for the web with support for all spaces](https://github.com/argyleink/css-color-component)
 - [unicode-rs/unicode-segmentation - Grapheme Cluster and Word boundaries according to UAX#29 rules](https://github.com/unicode-rs/unicode-segmentation)
