@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [huozhi/sugar-high - ✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped](https://github.com/huozhi/sugar-high)
 - [germ-network/oauth4swift - swift building blocks for oauth 2.1 clients, inspired by https://github.com/panva/oauth4webapi](https://github.com/germ-network/oauth4swift)
 - [websitebutlers/codefire-app - CodeFire gives AI coding tools persistent memory, task tracking, and project intelligence. A desktop companion for the AI-native workflow.](https://github.com/websitebutlers/codefire-app)
 - [haukened/mirrorselect - A command line utility to select the fastest mirror for Ubuntu. Alternative to netselect or mirror protocol.](https://github.com/haukened/mirrorselect)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [longyangxi/OpenOffice - A visible workspace for AI agents to collaborate as a single team.](https://github.com/longyangxi/OpenOffice)
 - [rjcorwin/cook - A simple CLI for orchestrating Claude Code, Codex, and OpenCode](https://github.com/rjcorwin/cook)
 - [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
-- [AppAndFlow/react-native-ease - 🍃 Lightweight declarative animations powered by platform APIs](https://github.com/AppAndFlow/react-native-ease)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
