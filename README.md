@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chenglou/pretext](https://github.com/chenglou/pretext)
 - [huozhi/sugar-high - ✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped](https://github.com/huozhi/sugar-high)
 - [germ-network/oauth4swift - swift building blocks for oauth 2.1 clients, inspired by https://github.com/panva/oauth4webapi](https://github.com/germ-network/oauth4swift)
 - [websitebutlers/codefire-app - CodeFire gives AI coding tools persistent memory, task tracking, and project intelligence. A desktop companion for the AI-native workflow.](https://github.com/websitebutlers/codefire-app)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [KittenML/KittenTTS -  State-of-the-art TTS model under 25MB 😻 ](https://github.com/KittenML/KittenTTS)
 - [longyangxi/OpenOffice - A visible workspace for AI agents to collaborate as a single team.](https://github.com/longyangxi/OpenOffice)
 - [rjcorwin/cook - A simple CLI for orchestrating Claude Code, Codex, and OpenCode](https://github.com/rjcorwin/cook)
-- [hackers-pub/android - Android client for Hackers' Pub](https://github.com/hackers-pub/android)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
