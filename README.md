@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [electrikmilk/cherri - Siri Shortcuts Programming Language 🍒](https://github.com/electrikmilk/cherri)
 - [SJang1/siliconbeest - Fediverse in Cloudflare Workers + live serverless code](https://github.com/SJang1/siliconbeest)
 - [IceCreamYou/THREE.Terrain - A procedural terrain generation engine for use with the Three.js 3D graphics library for the web.](https://github.com/IceCreamYou/THREE.Terrain)
 - [meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.](https://github.com/meodai/heerich)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [argyleink/css-color-component - a modern color picker for the web with support for all spaces](https://github.com/argyleink/css-color-component)
 - [unicode-rs/unicode-segmentation - Grapheme Cluster and Word boundaries according to UAX#29 rules](https://github.com/unicode-rs/unicode-segmentation)
 - [microlinkhq/optimo - Optimize and convert images and videos using format-specific compression pipelines on top of ImageMagick and FFmpeg.](https://github.com/microlinkhq/optimo)
-- [serkan-ozal/browser-devtools-mcp-vscode-extension - VSCode Extension for the Browser DevTools MCP Server which is a Playwright-based MCP server that exposes a live browser as a traceable, inspectable, debuggable and controllable execution environment for AI agents.](https://github.com/serkan-ozal/browser-devtools-mcp-vscode-extension)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
