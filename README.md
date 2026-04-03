@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [petersalomonsen/wasm-git - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org](https://github.com/petersalomonsen/wasm-git)
 - [electrikmilk/cherri - Siri Shortcuts Programming Language 🍒](https://github.com/electrikmilk/cherri)
 - [SJang1/siliconbeest - Fediverse in Cloudflare Workers + live serverless code](https://github.com/SJang1/siliconbeest)
 - [IceCreamYou/THREE.Terrain - A procedural terrain generation engine for use with the Three.js 3D graphics library for the web.](https://github.com/IceCreamYou/THREE.Terrain)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kirso/aiworkindex - AI Work Index — 562 Singapore occupations and 80 modern roles scored for AI displacement risk. Deterministic three-layer model, no LLM in scoring. Built with SvelteKit 5.](https://github.com/kirso/aiworkindex)
 - [argyleink/css-color-component - a modern color picker for the web with support for all spaces](https://github.com/argyleink/css-color-component)
 - [unicode-rs/unicode-segmentation - Grapheme Cluster and Word boundaries according to UAX#29 rules](https://github.com/unicode-rs/unicode-segmentation)
-- [microlinkhq/optimo - Optimize and convert images and videos using format-specific compression pipelines on top of ImageMagick and FFmpeg.](https://github.com/microlinkhq/optimo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
