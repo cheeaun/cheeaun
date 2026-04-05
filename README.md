@@ -33,7 +33,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [SJang1/siliconbeest - Fediverse in Cloudflare Workers + live serverless code](https://github.com/SJang1/siliconbeest)
 - [IceCreamYou/THREE.Terrain - A procedural terrain generation engine for use with the Three.js 3D graphics library for the web.](https://github.com/IceCreamYou/THREE.Terrain)
 - [meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.](https://github.com/meodai/heerich)
-- [chenglou/pretext](https://github.com/chenglou/pretext)
+- [chenglou/pretext - Fast, accurate & comprehensive text measurement & layout](https://github.com/chenglou/pretext)
 - [huozhi/sugar-high - ✏️ Super lightweight code syntax highlighter](https://github.com/huozhi/sugar-high)
 - [germ-network/oauth4swift - swift building blocks for oauth 2.1 clients, inspired by https://github.com/panva/oauth4webapi](https://github.com/germ-network/oauth4swift)
 - [websitebutlers/codefire-app - CodeFire gives AI coding tools persistent memory, task tracking, and project intelligence. A desktop companion for the AI-native workflow.](https://github.com/websitebutlers/codefire-app)
