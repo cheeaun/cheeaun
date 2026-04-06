@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [justrach/codedb - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.](https://github.com/justrach/codedb)
+- [capcom6/android-sms-gateway - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.](https://github.com/capcom6/android-sms-gateway)
 - [tornikegomareli/swift-pretextkit - Swift port of chenglou/pretext, arithmetic text measurement for Apple platforms](https://github.com/tornikegomareli/swift-pretextkit)
 - [petersalomonsen/wasm-git - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org](https://github.com/petersalomonsen/wasm-git)
 - [electrikmilk/cherri - Siri Shortcuts Programming Language 🍒](https://github.com/electrikmilk/cherri)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [haukened/mirrorselect - A command line utility to select the fastest mirror for Ubuntu. Alternative to netselect or mirror protocol.](https://github.com/haukened/mirrorselect)
 - [trynova/nova - JS engine lolz](https://github.com/trynova/nova)
 - [dashersw/gea - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.](https://github.com/dashersw/gea)
-- [kirso/aiworkindex - AI Work Index — 562 Singapore occupations and 80 modern roles scored for AI displacement risk. Deterministic three-layer model, no LLM in scoring. Built with SvelteKit 5.](https://github.com/kirso/aiworkindex)
-- [argyleink/css-color-component - a modern color picker for the web with support for all spaces](https://github.com/argyleink/css-color-component)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
