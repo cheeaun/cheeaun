@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TemujinCalidius/fedihome - Your home on the Fediverse. Self-hosted publishing with ActivityPub federation.](https://github.com/TemujinCalidius/fedihome)
 - [averygan/reclip - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.](https://github.com/averygan/reclip)
 - [knadh/oat - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.](https://github.com/knadh/oat)
 - [justrach/codedb - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.](https://github.com/justrach/codedb)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [huozhi/sugar-high - ✏️ Super lightweight code syntax highlighter](https://github.com/huozhi/sugar-high)
 - [germ-network/oauth4swift - swift building blocks for oauth 2.1 clients, inspired by https://github.com/panva/oauth4webapi](https://github.com/germ-network/oauth4swift)
 - [websitebutlers/codefire-app - CodeFire gives AI coding tools persistent memory, task tracking, and project intelligence. A desktop companion for the AI-native workflow.](https://github.com/websitebutlers/codefire-app)
-- [haukened/mirrorselect - A command line utility to select the fastest mirror for Ubuntu. Alternative to netselect or mirror protocol.](https://github.com/haukened/mirrorselect)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
