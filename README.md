@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [google/jsir - Next-generation JavaScript analysis tooling](https://github.com/google/jsir)
 - [4regab/TaskSync - Copilot chat sessions orchestrator](https://github.com/4regab/TaskSync)
 - [TemujinCalidius/fedihome - Your home on the Fediverse. Self-hosted publishing with ActivityPub federation.](https://github.com/TemujinCalidius/fedihome)
 - [averygan/reclip - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.](https://github.com/averygan/reclip)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.](https://github.com/meodai/heerich)
 - [chenglou/pretext - Fast, accurate & comprehensive text measurement & layout](https://github.com/chenglou/pretext)
 - [huozhi/sugar-high - ✏️ Super lightweight code syntax highlighter](https://github.com/huozhi/sugar-high)
-- [germ-network/oauth4swift - swift building blocks for oauth 2.1 clients, inspired by https://github.com/panva/oauth4webapi](https://github.com/germ-network/oauth4swift)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
