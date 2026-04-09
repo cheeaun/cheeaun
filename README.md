@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sindresorhus/fetch-extras - Useful utilities for working with Fetch](https://github.com/sindresorhus/fetch-extras)
+- [versatiles-org/maplibre-versatiles-styler - MapLibre GL JS plugin for editing and managing VersaTiles map styles directly in the browser.](https://github.com/versatiles-org/maplibre-versatiles-styler)
+- [versatiles-org/versatiles-style - Toolkit for generating MapLibre styles.](https://github.com/versatiles-org/versatiles-style)
+- [versatiles-org/versatiles-rs - Core Rust implementation of the VersaTiles toolkit for converting, validating, and serving map tiles in multiple formats.](https://github.com/versatiles-org/versatiles-rs)
 - [walkthru-earth/geocoding-playground - Browser-based geocoder powered by DuckDB-WASM and Overture Maps, 469M+ addresses, zero backend](https://github.com/walkthru-earth/geocoding-playground)
 - [sanderdesnaijer/map-gesture-controls - Lightweight JavaScript library for adding touch gestures (pinch-to-zoom, pan) to interactive web maps](https://github.com/sanderdesnaijer/map-gesture-controls)
 - [google/jsir - Next-generation JavaScript analysis tooling](https://github.com/google/jsir)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [capcom6/android-sms-gateway - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.](https://github.com/capcom6/android-sms-gateway)
 - [tornikegomareli/swift-pretextkit - Swift port of chenglou/pretext, arithmetic text measurement for Apple platforms](https://github.com/tornikegomareli/swift-pretextkit)
 - [petersalomonsen/wasm-git - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org](https://github.com/petersalomonsen/wasm-git)
-- [electrikmilk/cherri - Siri Shortcuts Programming Language 🍒](https://github.com/electrikmilk/cherri)
-- [SJang1/siliconbeest - Fediverse in Cloudflare Workers + live serverless code](https://github.com/SJang1/siliconbeest)
-- [IceCreamYou/THREE.Terrain - A procedural terrain generation engine for use with the Three.js 3D graphics library for the web.](https://github.com/IceCreamYou/THREE.Terrain)
-- [meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.](https://github.com/meodai/heerich)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
