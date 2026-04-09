@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [walkthru-earth/geocoding-playground - Browser-based geocoder powered by DuckDB-WASM and Overture Maps, 469M+ addresses, zero backend](https://github.com/walkthru-earth/geocoding-playground)
+- [sanderdesnaijer/map-gesture-controls - Lightweight JavaScript library for adding touch gestures (pinch-to-zoom, pan) to interactive web maps](https://github.com/sanderdesnaijer/map-gesture-controls)
 - [google/jsir - Next-generation JavaScript analysis tooling](https://github.com/google/jsir)
 - [4regab/TaskSync - Copilot chat sessions orchestrator](https://github.com/4regab/TaskSync)
 - [TemujinCalidius/fedihome - Your home on the Fediverse. Self-hosted publishing with ActivityPub federation.](https://github.com/TemujinCalidius/fedihome)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [SJang1/siliconbeest - Fediverse in Cloudflare Workers + live serverless code](https://github.com/SJang1/siliconbeest)
 - [IceCreamYou/THREE.Terrain - A procedural terrain generation engine for use with the Three.js 3D graphics library for the web.](https://github.com/IceCreamYou/THREE.Terrain)
 - [meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.](https://github.com/meodai/heerich)
-- [chenglou/pretext - Fast, accurate & comprehensive text measurement & layout](https://github.com/chenglou/pretext)
-- [huozhi/sugar-high - ✏️ Super lightweight code syntax highlighter](https://github.com/huozhi/sugar-high)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
