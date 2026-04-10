@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [eddiemoore/react-pebble - Write Pebble watchfaces and apps in JSX — compiles to piu for Pebble Alloy at build time](https://github.com/eddiemoore/react-pebble)
 - [tronghieuit/tiny-tts - The Smallest English TTS Model with only 1M parameters](https://github.com/tronghieuit/tiny-tts)
 - [meursyphus/ssgoi - animated page transition for major ssr frameworks and browsers, including Safari](https://github.com/meursyphus/ssgoi)
 - [comarkdown/comark - A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.](https://github.com/comarkdown/comark)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [TemujinCalidius/fedihome - Your home on the Fediverse. Self-hosted publishing with ActivityPub federation.](https://github.com/TemujinCalidius/fedihome)
 - [averygan/reclip - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.](https://github.com/averygan/reclip)
 - [knadh/oat - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.](https://github.com/knadh/oat)
-- [justrach/codedb - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.](https://github.com/justrach/codedb)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
