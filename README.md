@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [maplibre/maplibre-agent-skills - Community-maintained agent skills for MapLibre GL JS — helping AI coding assistants write better mapping code](https://github.com/maplibre/maplibre-agent-skills)
 - [rtk-ai/rtk - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies](https://github.com/rtk-ai/rtk)
 - [eddiemoore/react-pebble - Write Pebble watchfaces and apps in JSX — compiles to piu for Pebble Alloy at build time](https://github.com/eddiemoore/react-pebble)
 - [tronghieuit/tiny-tts - The Smallest English TTS Model with only 1M parameters](https://github.com/tronghieuit/tiny-tts)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [google/jsir - Next-generation JavaScript analysis tooling](https://github.com/google/jsir)
 - [4regab/TaskSync - Copilot chat sessions orchestrator](https://github.com/4regab/TaskSync)
 - [TemujinCalidius/fedihome - Your home on the Fediverse. Self-hosted publishing with ActivityPub federation.](https://github.com/TemujinCalidius/fedihome)
-- [averygan/reclip - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.](https://github.com/averygan/reclip)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
