@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tronghieuit/tiny-tts - The Smallest English TTS Model with only 1M parameters](https://github.com/tronghieuit/tiny-tts)
+- [meursyphus/ssgoi - animated page transition for major ssr frameworks and browsers, including Safari](https://github.com/meursyphus/ssgoi)
 - [comarkdown/comark - A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.](https://github.com/comarkdown/comark)
 - [sindresorhus/fetch-extras - Useful utilities for working with Fetch](https://github.com/sindresorhus/fetch-extras)
 - [versatiles-org/maplibre-versatiles-styler - MapLibre GL JS plugin for editing and managing VersaTiles map styles directly in the browser.](https://github.com/versatiles-org/maplibre-versatiles-styler)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [averygan/reclip - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.](https://github.com/averygan/reclip)
 - [knadh/oat - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.](https://github.com/knadh/oat)
 - [justrach/codedb - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.](https://github.com/justrach/codedb)
-- [capcom6/android-sms-gateway - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.](https://github.com/capcom6/android-sms-gateway)
-- [tornikegomareli/swift-pretextkit - Swift port of chenglou/pretext, arithmetic text measurement for Apple platforms](https://github.com/tornikegomareli/swift-pretextkit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
