@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [happier-dev/happier - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted](https://github.com/happier-dev/happier)
 - [bryankeller/wiiMac - A Mac OS X bootloader for the Nintendo Wii.](https://github.com/bryankeller/wiiMac)
 - [suryanshkushwaha/lahlang - A programming language for Singaporeans, by not a Singaporean yet. Can one lah!](https://github.com/suryanshkushwaha/lahlang)
 - [maplibre/maplibre-agent-skills - Community-maintained agent skills for MapLibre GL JS — helping AI coding assistants write better mapping code](https://github.com/maplibre/maplibre-agent-skills)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [versatiles-org/versatiles-rs - Core Rust implementation of the VersaTiles toolkit for converting, validating, and serving map tiles in multiple formats.](https://github.com/versatiles-org/versatiles-rs)
 - [walkthru-earth/geocoding-playground - Browser-based geocoder powered by DuckDB-WASM and Overture Maps, 469M+ addresses, zero backend](https://github.com/walkthru-earth/geocoding-playground)
 - [sanderdesnaijer/map-gesture-controls - Lightweight JavaScript library for adding touch gestures (pinch-to-zoom, pan) to interactive web maps](https://github.com/sanderdesnaijer/map-gesture-controls)
-- [google/jsir - Next-generation JavaScript analysis tooling](https://github.com/google/jsir)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
