@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bryankeller/wiiMac - A Mac OS X bootloader for the Nintendo Wii.](https://github.com/bryankeller/wiiMac)
 - [suryanshkushwaha/lahlang - A programming language for Singaporeans, by not a Singaporean yet. Can one lah!](https://github.com/suryanshkushwaha/lahlang)
 - [maplibre/maplibre-agent-skills - Community-maintained agent skills for MapLibre GL JS — helping AI coding assistants write better mapping code](https://github.com/maplibre/maplibre-agent-skills)
 - [rtk-ai/rtk - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies](https://github.com/rtk-ai/rtk)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [walkthru-earth/geocoding-playground - Browser-based geocoder powered by DuckDB-WASM and Overture Maps, 469M+ addresses, zero backend](https://github.com/walkthru-earth/geocoding-playground)
 - [sanderdesnaijer/map-gesture-controls - Lightweight JavaScript library for adding touch gestures (pinch-to-zoom, pan) to interactive web maps](https://github.com/sanderdesnaijer/map-gesture-controls)
 - [google/jsir - Next-generation JavaScript analysis tooling](https://github.com/google/jsir)
-- [4regab/TaskSync - Copilot chat sessions orchestrator](https://github.com/4regab/TaskSync)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
