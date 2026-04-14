@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [clawvader-tech/hermes-telegram-miniapp - Terminal-style Telegram Mini App for Hermes Agent — chat, cron jobs, and system monitoring in a dark TUI](https://github.com/clawvader-tech/hermes-telegram-miniapp)
+- [clawvader-tech/hermes-telegram-miniapp - React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.](https://github.com/clawvader-tech/hermes-telegram-miniapp)
 - [margelo/react-native-nitro-fetch - A super-fast network fetching library for React Native with prefetching support](https://github.com/margelo/react-native-nitro-fetch)
 - [sheeki03/tirith - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.](https://github.com/sheeki03/tirith)
 - [daijro/camoufox - 🦊 Anti-detect browser](https://github.com/daijro/camoufox)
