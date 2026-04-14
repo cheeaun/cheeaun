@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [clawvader-tech/hermes-telegram-miniapp - Terminal-style Telegram Mini App for Hermes Agent — chat, cron jobs, and system monitoring in a dark TUI](https://github.com/clawvader-tech/hermes-telegram-miniapp)
 - [margelo/react-native-nitro-fetch - A super-fast network fetching library for React Native with prefetching support](https://github.com/margelo/react-native-nitro-fetch)
 - [sheeki03/tirith - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.](https://github.com/sheeki03/tirith)
 - [daijro/camoufox - 🦊 Anti-detect browser](https://github.com/daijro/camoufox)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tronghieuit/tiny-tts - The Smallest English TTS Model with only 1M parameters](https://github.com/tronghieuit/tiny-tts)
 - [meursyphus/ssgoi - animated page transition for major ssr frameworks and browsers, including Safari](https://github.com/meursyphus/ssgoi)
 - [comarkdown/comark - A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.](https://github.com/comarkdown/comark)
-- [sindresorhus/fetch-extras - Useful utilities for working with Fetch](https://github.com/sindresorhus/fetch-extras)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
