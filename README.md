@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [margelo/react-native-nitro-fetch - A super-fast network fetching library for React Native with prefetching support](https://github.com/margelo/react-native-nitro-fetch)
+- [sheeki03/tirith - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.](https://github.com/sheeki03/tirith)
 - [daijro/camoufox - 🦊 Anti-detect browser](https://github.com/daijro/camoufox)
 - [kamranahmedse/slim - Give your localhost a local or public URL](https://github.com/kamranahmedse/slim)
 - [viticci/frames-cli - Frame screenshots taken on Apple devices with official product bezels.](https://github.com/viticci/frames-cli)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [meursyphus/ssgoi - animated page transition for major ssr frameworks and browsers, including Safari](https://github.com/meursyphus/ssgoi)
 - [comarkdown/comark - A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.](https://github.com/comarkdown/comark)
 - [sindresorhus/fetch-extras - Useful utilities for working with Fetch](https://github.com/sindresorhus/fetch-extras)
-- [versatiles-org/maplibre-versatiles-styler - MapLibre GL JS plugin for editing and managing VersaTiles map styles directly in the browser.](https://github.com/versatiles-org/maplibre-versatiles-styler)
-- [versatiles-org/versatiles-style - Toolkit for generating MapLibre styles.](https://github.com/versatiles-org/versatiles-style)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
