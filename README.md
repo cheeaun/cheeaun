@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [daijro/camoufox - 🦊 Anti-detect browser](https://github.com/daijro/camoufox)
+- [kamranahmedse/slim - Give your localhost a local or public URL](https://github.com/kamranahmedse/slim)
+- [viticci/frames-cli - Frame screenshots taken on Apple devices with official product bezels.](https://github.com/viticci/frames-cli)
 - [happier-dev/happier - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted](https://github.com/happier-dev/happier)
 - [bryankeller/wiiMac - A Mac OS X bootloader for the Nintendo Wii.](https://github.com/bryankeller/wiiMac)
 - [suryanshkushwaha/lahlang - A programming language for Singaporeans, by not a Singaporean yet. Can one lah!](https://github.com/suryanshkushwaha/lahlang)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sindresorhus/fetch-extras - Useful utilities for working with Fetch](https://github.com/sindresorhus/fetch-extras)
 - [versatiles-org/maplibre-versatiles-styler - MapLibre GL JS plugin for editing and managing VersaTiles map styles directly in the browser.](https://github.com/versatiles-org/maplibre-versatiles-styler)
 - [versatiles-org/versatiles-style - Toolkit for generating MapLibre styles.](https://github.com/versatiles-org/versatiles-style)
-- [versatiles-org/versatiles-rs - Core Rust implementation of the VersaTiles toolkit for converting, validating, and serving map tiles in multiple formats.](https://github.com/versatiles-org/versatiles-rs)
-- [walkthru-earth/geocoding-playground - Browser-based geocoder powered by DuckDB-WASM and Overture Maps, 469M+ addresses, zero backend](https://github.com/walkthru-earth/geocoding-playground)
-- [sanderdesnaijer/map-gesture-controls - Lightweight JavaScript library for adding touch gestures (pinch-to-zoom, pan) to interactive web maps](https://github.com/sanderdesnaijer/map-gesture-controls)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
