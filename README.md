@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [rustdesk/rustdesk - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.](https://github.com/rustdesk/rustdesk)
 - [clawvader-tech/hermes-telegram-miniapp - React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.](https://github.com/clawvader-tech/hermes-telegram-miniapp)
 - [margelo/react-native-nitro-fetch - A super-fast network fetching library for React Native with prefetching support](https://github.com/margelo/react-native-nitro-fetch)
 - [sheeki03/tirith - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.](https://github.com/sheeki03/tirith)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [eddiemoore/react-pebble - Write Pebble watchfaces and apps in JSX — compiles to piu for Pebble Alloy at build time](https://github.com/eddiemoore/react-pebble)
 - [tronghieuit/tiny-tts - The Smallest English TTS Model with only 1M parameters](https://github.com/tronghieuit/tiny-tts)
 - [meursyphus/ssgoi - animated page transition for major ssr frameworks and browsers, including Safari](https://github.com/meursyphus/ssgoi)
-- [comarkdown/comark - A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.](https://github.com/comarkdown/comark)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
