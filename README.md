@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [geoblocks/maplibre-gl-shader-layer - A dynamic custom material/shader tiled layer for Maplibre GL JS powered by ThreeJS](https://github.com/geoblocks/maplibre-gl-shader-layer)
+- [falseinput/geogrid-maplibre-gl - GeoGrid is a MapLibre GL JS plugin for adding a highly customizable geographic grid to your map.  ](https://github.com/falseinput/geogrid-maplibre-gl)
 - [rustdesk/rustdesk - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.](https://github.com/rustdesk/rustdesk)
 - [clawvader-tech/hermes-telegram-miniapp - React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.](https://github.com/clawvader-tech/hermes-telegram-miniapp)
 - [margelo/react-native-nitro-fetch - A super-fast network fetching library for React Native with prefetching support](https://github.com/margelo/react-native-nitro-fetch)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [maplibre/maplibre-agent-skills - Community-maintained agent skills for MapLibre GL JS — helping AI coding assistants write better mapping code](https://github.com/maplibre/maplibre-agent-skills)
 - [rtk-ai/rtk - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies](https://github.com/rtk-ai/rtk)
 - [eddiemoore/react-pebble - Write Pebble watchfaces and apps in JSX — compiles to piu for Pebble Alloy at build time](https://github.com/eddiemoore/react-pebble)
-- [tronghieuit/tiny-tts - The Smallest English TTS Model with only 1M parameters](https://github.com/tronghieuit/tiny-tts)
-- [meursyphus/ssgoi - animated page transition for major ssr frameworks and browsers, including Safari](https://github.com/meursyphus/ssgoi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
