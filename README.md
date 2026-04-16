@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cloudflare/artifact-fs - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.](https://github.com/cloudflare/artifact-fs)
 - [zichengfan/Nighttime-SVI](https://github.com/zichengfan/Nighttime-SVI)
 - [geoblocks/maplibre-gl-shader-layer - A dynamic custom material/shader tiled layer for Maplibre GL JS powered by ThreeJS](https://github.com/geoblocks/maplibre-gl-shader-layer)
 - [falseinput/geogrid-maplibre-gl - GeoGrid is a MapLibre GL JS plugin for adding a highly customizable geographic grid to your map.  ](https://github.com/falseinput/geogrid-maplibre-gl)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bryankeller/wiiMac - A Mac OS X bootloader for the Nintendo Wii.](https://github.com/bryankeller/wiiMac)
 - [suryanshkushwaha/lahlang - A programming language for Singaporeans, by not a Singaporean yet. Can one lah!](https://github.com/suryanshkushwaha/lahlang)
 - [maplibre/maplibre-agent-skills - Community-maintained agent skills for MapLibre GL JS — helping AI coding assistants write better mapping code](https://github.com/maplibre/maplibre-agent-skills)
-- [rtk-ai/rtk - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies](https://github.com/rtk-ai/rtk)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
