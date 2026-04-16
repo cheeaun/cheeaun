@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zichengfan/Nighttime-SVI](https://github.com/zichengfan/Nighttime-SVI)
 - [geoblocks/maplibre-gl-shader-layer - A dynamic custom material/shader tiled layer for Maplibre GL JS powered by ThreeJS](https://github.com/geoblocks/maplibre-gl-shader-layer)
 - [falseinput/geogrid-maplibre-gl - GeoGrid is a MapLibre GL JS plugin for adding a highly customizable geographic grid to your map.  ](https://github.com/falseinput/geogrid-maplibre-gl)
 - [rustdesk/rustdesk - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.](https://github.com/rustdesk/rustdesk)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [suryanshkushwaha/lahlang - A programming language for Singaporeans, by not a Singaporean yet. Can one lah!](https://github.com/suryanshkushwaha/lahlang)
 - [maplibre/maplibre-agent-skills - Community-maintained agent skills for MapLibre GL JS — helping AI coding assistants write better mapping code](https://github.com/maplibre/maplibre-agent-skills)
 - [rtk-ai/rtk - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies](https://github.com/rtk-ai/rtk)
-- [eddiemoore/react-pebble - Write Pebble watchfaces and apps in JSX — compiles to piu for Pebble Alloy at build time](https://github.com/eddiemoore/react-pebble)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
