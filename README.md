@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yuku-toolchain/yuku - High-performance JavaScript/TypeScript compiler and toolchain in pure Zig.](https://github.com/yuku-toolchain/yuku)
+- [JubaKitiashvili/expo-pretext - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.](https://github.com/JubaKitiashvili/expo-pretext)
+- [software-mansion/pulsar - ✨ Pulsar: Rich and ready-to-use haptics library](https://github.com/software-mansion/pulsar)
 - [cloudflare/artifact-fs - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.](https://github.com/cloudflare/artifact-fs)
 - [zichengfan/Nighttime-SVI](https://github.com/zichengfan/Nighttime-SVI)
 - [geoblocks/maplibre-gl-shader-layer - A dynamic custom material/shader tiled layer for Maplibre GL JS powered by ThreeJS](https://github.com/geoblocks/maplibre-gl-shader-layer)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kamranahmedse/slim - Give your localhost a local or public URL](https://github.com/kamranahmedse/slim)
 - [viticci/frames-cli - Frame screenshots taken on Apple devices with official product bezels.](https://github.com/viticci/frames-cli)
 - [happier-dev/happier - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted](https://github.com/happier-dev/happier)
-- [bryankeller/wiiMac - A Mac OS X bootloader for the Nintendo Wii.](https://github.com/bryankeller/wiiMac)
-- [suryanshkushwaha/lahlang - A programming language for Singaporeans, by not a Singaporean yet. Can one lah!](https://github.com/suryanshkushwaha/lahlang)
-- [maplibre/maplibre-agent-skills - Community-maintained agent skills for MapLibre GL JS — helping AI coding assistants write better mapping code](https://github.com/maplibre/maplibre-agent-skills)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
