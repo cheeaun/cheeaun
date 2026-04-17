@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Fluid-CAD/FluidCAD - Parametric cad modeling with Javascript](https://github.com/Fluid-CAD/FluidCAD)
+- [donalffons/opencascade.js - Port of the OpenCascade CAD library to JavaScript and WebAssembly via Emscripten.](https://github.com/donalffons/opencascade.js)
+- [AdamPerlinski/micro-ml - Tiny ML & statistics library for JS — 16 algorithms in ~56KB gzipped. Rust/WASM, zero dependencies.](https://github.com/AdamPerlinski/micro-ml)
+- [harshankur/officeParser - A robust, strictly-typed Node.js and Browser library for parsing office files (docx, pptx, xlsx, odt, odp, ods, pdf, rtf). It produces a clean, hierarchical Abstract Syntax Tree (AST) with rich metadata, text formatting, and full attachment support.](https://github.com/harshankur/officeParser)
 - [vercel-labs/wterm - A terminal emulator for the web](https://github.com/vercel-labs/wterm)
 - [yuku-toolchain/yuku - High-performance JavaScript/TypeScript compiler and toolchain in pure Zig.](https://github.com/yuku-toolchain/yuku)
 - [JubaKitiashvili/expo-pretext - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.](https://github.com/JubaKitiashvili/expo-pretext)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [rustdesk/rustdesk - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.](https://github.com/rustdesk/rustdesk)
 - [clawvader-tech/hermes-telegram-miniapp - React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.](https://github.com/clawvader-tech/hermes-telegram-miniapp)
 - [margelo/react-native-nitro-fetch - A super-fast network fetching library for React Native with prefetching support](https://github.com/margelo/react-native-nitro-fetch)
-- [sheeki03/tirith - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.](https://github.com/sheeki03/tirith)
-- [daijro/camoufox - 🦊 Anti-detect browser](https://github.com/daijro/camoufox)
-- [kamranahmedse/slim - Give your localhost a local or public URL](https://github.com/kamranahmedse/slim)
-- [viticci/frames-cli - Frame screenshots taken on Apple devices with official product bezels.](https://github.com/viticci/frames-cli)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
