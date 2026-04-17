@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel-labs/wterm - A terminal emulator for the web](https://github.com/vercel-labs/wterm)
 - [yuku-toolchain/yuku - High-performance JavaScript/TypeScript compiler and toolchain in pure Zig.](https://github.com/yuku-toolchain/yuku)
 - [JubaKitiashvili/expo-pretext - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.](https://github.com/JubaKitiashvili/expo-pretext)
 - [software-mansion/pulsar - ✨ Pulsar: Rich and ready-to-use haptics library](https://github.com/software-mansion/pulsar)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [daijro/camoufox - 🦊 Anti-detect browser](https://github.com/daijro/camoufox)
 - [kamranahmedse/slim - Give your localhost a local or public URL](https://github.com/kamranahmedse/slim)
 - [viticci/frames-cli - Frame screenshots taken on Apple devices with official product bezels.](https://github.com/viticci/frames-cli)
-- [happier-dev/happier - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted](https://github.com/happier-dev/happier)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
