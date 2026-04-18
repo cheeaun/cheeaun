@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NousResearch/hermes-agent - The agent that grows with you](https://github.com/NousResearch/hermes-agent)
 - [hansenwebco/mastodon-hashtag-sync - Seamlessly sync your followed hashtags between Mastodon instances.](https://github.com/hansenwebco/mastodon-hashtag-sync)
 - [Fluid-CAD/FluidCAD - Parametric cad modeling with Javascript](https://github.com/Fluid-CAD/FluidCAD)
 - [donalffons/opencascade.js - Port of the OpenCascade CAD library to JavaScript and WebAssembly via Emscripten.](https://github.com/donalffons/opencascade.js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [geoblocks/maplibre-gl-shader-layer - A dynamic custom material/shader tiled layer for Maplibre GL JS powered by ThreeJS](https://github.com/geoblocks/maplibre-gl-shader-layer)
 - [falseinput/geogrid-maplibre-gl - GeoGrid is a MapLibre GL JS plugin for adding a highly customizable geographic grid to your map.  ](https://github.com/falseinput/geogrid-maplibre-gl)
 - [rustdesk/rustdesk - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.](https://github.com/rustdesk/rustdesk)
-- [clawvader-tech/hermes-telegram-miniapp - React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.](https://github.com/clawvader-tech/hermes-telegram-miniapp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
