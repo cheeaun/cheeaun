@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TimOliver/realm-browser-macos - Realm Browser is a Mac OS X utility to open and modify realm database files.](https://github.com/TimOliver/realm-browser-macos)
+- [simonbs/brrr-cli - Notifications for agent CLIs using brrr.now 📳](https://github.com/simonbs/brrr-cli)
 - [takram-design-engineering/three-geospatial - Geospatial Rendering in Three.js](https://github.com/takram-design-engineering/three-geospatial)
 - [NousResearch/hermes-agent - The agent that grows with you](https://github.com/NousResearch/hermes-agent)
 - [hansenwebco/mastodon-hashtag-sync - Seamlessly sync your followed hashtags between Mastodon instances.](https://github.com/hansenwebco/mastodon-hashtag-sync)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [software-mansion/pulsar - ✨ Pulsar: Rich and ready-to-use haptics library](https://github.com/software-mansion/pulsar)
 - [cloudflare/artifact-fs - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.](https://github.com/cloudflare/artifact-fs)
 - [zichengfan/Nighttime-SVI](https://github.com/zichengfan/Nighttime-SVI)
-- [geoblocks/maplibre-gl-shader-layer - A dynamic custom material/shader tiled layer for Maplibre GL JS powered by ThreeJS](https://github.com/geoblocks/maplibre-gl-shader-layer)
-- [falseinput/geogrid-maplibre-gl - GeoGrid is a MapLibre GL JS plugin for adding a highly customizable geographic grid to your map.  ](https://github.com/falseinput/geogrid-maplibre-gl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
