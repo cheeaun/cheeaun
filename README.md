@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [takram-design-engineering/three-geospatial - Geospatial Rendering in Three.js](https://github.com/takram-design-engineering/three-geospatial)
 - [NousResearch/hermes-agent - The agent that grows with you](https://github.com/NousResearch/hermes-agent)
 - [hansenwebco/mastodon-hashtag-sync - Seamlessly sync your followed hashtags between Mastodon instances.](https://github.com/hansenwebco/mastodon-hashtag-sync)
 - [Fluid-CAD/FluidCAD - Parametric cad modeling with Javascript](https://github.com/Fluid-CAD/FluidCAD)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zichengfan/Nighttime-SVI](https://github.com/zichengfan/Nighttime-SVI)
 - [geoblocks/maplibre-gl-shader-layer - A dynamic custom material/shader tiled layer for Maplibre GL JS powered by ThreeJS](https://github.com/geoblocks/maplibre-gl-shader-layer)
 - [falseinput/geogrid-maplibre-gl - GeoGrid is a MapLibre GL JS plugin for adding a highly customizable geographic grid to your map.  ](https://github.com/falseinput/geogrid-maplibre-gl)
-- [rustdesk/rustdesk - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.](https://github.com/rustdesk/rustdesk)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
