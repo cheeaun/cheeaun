@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mnfst/awesome-free-llm-apis - Permanent Free LLM API List (API Keys) 😎🔑](https://github.com/mnfst/awesome-free-llm-apis)
 - [TimOliver/realm-browser-macos - Realm Browser is a Mac OS X utility to open and modify realm database files.](https://github.com/TimOliver/realm-browser-macos)
 - [simonbs/brrr-cli - Notifications for agent CLIs using brrr.now 📳](https://github.com/simonbs/brrr-cli)
 - [takram-design-engineering/three-geospatial - Geospatial Rendering in Three.js](https://github.com/takram-design-engineering/three-geospatial)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JubaKitiashvili/expo-pretext - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.](https://github.com/JubaKitiashvili/expo-pretext)
 - [software-mansion/pulsar - ✨ Pulsar: Rich and ready-to-use haptics library](https://github.com/software-mansion/pulsar)
 - [cloudflare/artifact-fs - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.](https://github.com/cloudflare/artifact-fs)
-- [zichengfan/Nighttime-SVI](https://github.com/zichengfan/Nighttime-SVI)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
