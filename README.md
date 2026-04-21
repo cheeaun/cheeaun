@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [posit-dev/ggsql - A SQL extension for declarative data visualisation based on the Grammar of Graphics.](https://github.com/posit-dev/ggsql)
 - [steipete/birdclaw - Stores all your tweets nicely claw-able for agents.](https://github.com/steipete/birdclaw)
 - [getelena/elena - Elena is a simple, tiny library for building Progressive Web Components.](https://github.com/getelena/elena)
 - [thoughtfulllc/gridland - Terminal apps that run anywhere - even the browser!](https://github.com/thoughtfulllc/gridland)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [hansenwebco/mastodon-hashtag-sync - Seamlessly sync your followed hashtags between Mastodon instances.](https://github.com/hansenwebco/mastodon-hashtag-sync)
 - [Fluid-CAD/FluidCAD - Parametric cad modeling with Javascript](https://github.com/Fluid-CAD/FluidCAD)
 - [donalffons/opencascade.js - Port of the OpenCascade CAD library to JavaScript and WebAssembly via Emscripten.](https://github.com/donalffons/opencascade.js)
-- [AdamPerlinski/micro-ml - Tiny ML & statistics library for JS — 16 algorithms in ~56KB gzipped. Rust/WASM, zero dependencies.](https://github.com/AdamPerlinski/micro-ml)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
