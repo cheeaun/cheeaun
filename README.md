@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [TencentCloud/CubeSandbox - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.](https://github.com/TencentCloud/CubeSandbox)
 - [posit-dev/ggsql - A SQL extension for declarative data visualisation based on the Grammar of Graphics.](https://github.com/posit-dev/ggsql)
 - [steipete/birdclaw - Stores all your tweets nicely claw-able for agents.](https://github.com/steipete/birdclaw)
 - [getelena/elena - Elena is a simple, tiny library for building Progressive Web Components.](https://github.com/getelena/elena)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [NousResearch/hermes-agent - The agent that grows with you](https://github.com/NousResearch/hermes-agent)
 - [hansenwebco/mastodon-hashtag-sync - Seamlessly sync your followed hashtags between Mastodon instances.](https://github.com/hansenwebco/mastodon-hashtag-sync)
 - [Fluid-CAD/FluidCAD - Parametric cad modeling with Javascript](https://github.com/Fluid-CAD/FluidCAD)
-- [donalffons/opencascade.js - Port of the OpenCascade CAD library to JavaScript and WebAssembly via Emscripten.](https://github.com/donalffons/opencascade.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
