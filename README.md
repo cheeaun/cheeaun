@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [getelena/elena - Elena is a simple, tiny library for building Progressive Web Components.](https://github.com/getelena/elena)
+- [thoughtfulllc/gridland - Terminal apps that run anywhere - even the browser!](https://github.com/thoughtfulllc/gridland)
 - [grinev/opencode-telegram-bot - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.](https://github.com/grinev/opencode-telegram-bot)
 - [cassidoo/emoji-list-generator - An AI-powered CLI that turns plain bullet lists into emoji-prefixed markdown lists and copies the result to your clipboard.](https://github.com/cassidoo/emoji-list-generator)
 - [openchamber/openchamber - Desktop and web interface for OpenCode AI agent](https://github.com/openchamber/openchamber)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [donalffons/opencascade.js - Port of the OpenCascade CAD library to JavaScript and WebAssembly via Emscripten.](https://github.com/donalffons/opencascade.js)
 - [AdamPerlinski/micro-ml - Tiny ML & statistics library for JS — 16 algorithms in ~56KB gzipped. Rust/WASM, zero dependencies.](https://github.com/AdamPerlinski/micro-ml)
 - [harshankur/officeParser - A robust, strictly-typed Node.js and Browser library for parsing office files (docx, pptx, xlsx, odt, odp, ods, pdf, rtf). It produces a clean, hierarchical Abstract Syntax Tree (AST) with rich metadata, text formatting, and full attachment support.](https://github.com/harshankur/officeParser)
-- [vercel-labs/wterm - A terminal emulator for the web](https://github.com/vercel-labs/wterm)
-- [yuku-toolchain/yuku - High-performance JavaScript/TypeScript compiler and toolchain in pure Zig.](https://github.com/yuku-toolchain/yuku)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
