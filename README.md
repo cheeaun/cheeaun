@@ -36,7 +36,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [grinev/opencode-telegram-bot - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.](https://github.com/grinev/opencode-telegram-bot)
 - [cassidoo/emoji-list-generator - An AI-powered CLI that turns plain bullet lists into emoji-prefixed markdown lists and copies the result to your clipboard.](https://github.com/cassidoo/emoji-list-generator)
 - [openchamber/openchamber - Desktop and web interface for OpenCode AI agent](https://github.com/openchamber/openchamber)
-- [mnfst/awesome-free-llm-apis - Permanent Free LLM API List (API Keys) 😎🔑](https://github.com/mnfst/awesome-free-llm-apis)
+- [mnfst/awesome-free-llm-apis - List of Permanent Free LLM API  (API Keys)](https://github.com/mnfst/awesome-free-llm-apis)
 - [TimOliver/realm-browser-macos - Realm Browser is a Mac OS X utility to open and modify realm database files.](https://github.com/TimOliver/realm-browser-macos)
 - [simonbs/brrr-cli - Notifications for agent CLIs using brrr.now 📳](https://github.com/simonbs/brrr-cli)
 - [takram-design-engineering/three-geospatial - Geospatial Rendering in Three.js](https://github.com/takram-design-engineering/three-geospatial)
