@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [YouMind-OpenLab/awesome-gpt-image-2 - 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 - [rexa-developer/tiks - Procedural UI sounds for the web. Zero audio files. Pure synthesis.](https://github.com/rexa-developer/tiks)
 - [NousResearch/hermes-agent-self-evolution - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA](https://github.com/NousResearch/hermes-agent-self-evolution)
 - [TencentCloud/CubeSandbox - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.](https://github.com/TencentCloud/CubeSandbox)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [TimOliver/realm-browser-macos - Realm Browser is a Mac OS X utility to open and modify realm database files.](https://github.com/TimOliver/realm-browser-macos)
 - [simonbs/brrr-cli - Notifications for agent CLIs using brrr.now 📳](https://github.com/simonbs/brrr-cli)
 - [takram-design-engineering/three-geospatial - Geospatial Rendering in Three.js](https://github.com/takram-design-engineering/three-geospatial)
-- [NousResearch/hermes-agent - The agent that grows with you](https://github.com/NousResearch/hermes-agent)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
