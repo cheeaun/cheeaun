@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [run-llama/liteparse - A fast, helpful, and open-source document parser](https://github.com/run-llama/liteparse)
+- [TheR1D/shell_gpt - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.](https://github.com/TheR1D/shell_gpt)
 - [Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.](https://github.com/Comfy-Org/ComfyUI)
 - [YouMind-OpenLab/awesome-gpt-image-2 - 🚀 World's largest GPT Image 2 prompt library, updated daily — 1000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 - [rexa-developer/tiks - Procedural UI sounds for the web. Zero audio files. Pure synthesis.](https://github.com/rexa-developer/tiks)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cassidoo/emoji-list-generator - An AI-powered CLI that turns plain bullet lists into emoji-prefixed markdown lists and copies the result to your clipboard.](https://github.com/cassidoo/emoji-list-generator)
 - [openchamber/openchamber - Desktop and web interface for OpenCode AI agent](https://github.com/openchamber/openchamber)
 - [mnfst/awesome-free-llm-apis - List of Permanent Free LLM API  (API Keys)](https://github.com/mnfst/awesome-free-llm-apis)
-- [TimOliver/realm-browser-macos - Realm Browser is a Mac OS X utility to open and modify realm database files.](https://github.com/TimOliver/realm-browser-macos)
-- [simonbs/brrr-cli - Notifications for agent CLIs using brrr.now 📳](https://github.com/simonbs/brrr-cli)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
