@@ -30,7 +30,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [run-llama/liteparse - A fast, helpful, and open-source document parser](https://github.com/run-llama/liteparse)
 - [TheR1D/shell_gpt - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.](https://github.com/TheR1D/shell_gpt)
 - [Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.](https://github.com/Comfy-Org/ComfyUI)
-- [YouMind-OpenLab/awesome-gpt-image-2 - 🚀 World's largest GPT Image 2 prompt library, updated daily — 1000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+- [YouMind-OpenLab/awesome-gpt-image-2 - 🚀 World's largest GPT Image 2 prompt library, updated daily — 1500+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 - [rexa-developer/tiks - Procedural UI sounds for the web. Zero audio files. Pure synthesis.](https://github.com/rexa-developer/tiks)
 - [NousResearch/hermes-agent-self-evolution - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA](https://github.com/NousResearch/hermes-agent-self-evolution)
 - [TencentCloud/CubeSandbox - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.](https://github.com/TencentCloud/CubeSandbox)
