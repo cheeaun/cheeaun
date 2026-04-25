@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [dmtrKovalenko/fff.nvim - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS](https://github.com/dmtrKovalenko/fff.nvim)
-- [jo-inc/camofox-browser - Headless browser automation server for AI agents to visit sites that are usually blocked](https://github.com/jo-inc/camofox-browser)
+- [jo-inc/camofox-browser - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.](https://github.com/jo-inc/camofox-browser)
 - [run-llama/liteparse - A fast, helpful, and open-source document parser](https://github.com/run-llama/liteparse)
 - [TheR1D/shell_gpt - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.](https://github.com/TheR1D/shell_gpt)
 - [Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.](https://github.com/Comfy-Org/ComfyUI)
