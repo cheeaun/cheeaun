@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jo-inc/camofox-browser - Headless browser automation server for AI agents to visit sites that are usually blocked](https://github.com/jo-inc/camofox-browser)
 - [run-llama/liteparse - A fast, helpful, and open-source document parser](https://github.com/run-llama/liteparse)
 - [TheR1D/shell_gpt - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.](https://github.com/TheR1D/shell_gpt)
 - [Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.](https://github.com/Comfy-Org/ComfyUI)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [grinev/opencode-telegram-bot - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.](https://github.com/grinev/opencode-telegram-bot)
 - [cassidoo/emoji-list-generator - An AI-powered CLI that turns plain bullet lists into emoji-prefixed markdown lists and copies the result to your clipboard.](https://github.com/cassidoo/emoji-list-generator)
 - [openchamber/openchamber - Desktop and web interface for OpenCode AI agent](https://github.com/openchamber/openchamber)
-- [mnfst/awesome-free-llm-apis - List of Permanent Free LLM API  (API Keys)](https://github.com/mnfst/awesome-free-llm-apis)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
