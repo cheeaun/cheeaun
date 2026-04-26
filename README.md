@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bug0inc/passmark - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.](https://github.com/bug0inc/passmark)
+- [Michael-A-Kuykendall/shimmy - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.](https://github.com/Michael-A-Kuykendall/shimmy)
 - [stefanbohacek/fediverse-friends-finder](https://github.com/stefanbohacek/fediverse-friends-finder)
 - [dmtrKovalenko/fff.nvim - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS](https://github.com/dmtrKovalenko/fff.nvim)
 - [jo-inc/camofox-browser - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.](https://github.com/jo-inc/camofox-browser)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [posit-dev/ggsql - A SQL extension for declarative data visualisation based on the Grammar of Graphics.](https://github.com/posit-dev/ggsql)
 - [steipete/birdclaw - Stores all your tweets nicely claw-able for agents.](https://github.com/steipete/birdclaw)
 - [getelena/elena - Elena is a simple, tiny library for building Progressive Web Components.](https://github.com/getelena/elena)
-- [thoughtfulllc/gridland - Terminal apps that run anywhere - even the browser!](https://github.com/thoughtfulllc/gridland)
-- [grinev/opencode-telegram-bot - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.](https://github.com/grinev/opencode-telegram-bot)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
