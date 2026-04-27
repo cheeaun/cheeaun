@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [restic/restic - Fast, secure, efficient backup program](https://github.com/restic/restic)
 - [anomalyco/opencode - The open source coding agent.](https://github.com/anomalyco/opencode)
 - [bug0inc/passmark - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.](https://github.com/bug0inc/passmark)
 - [Michael-A-Kuykendall/shimmy - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.](https://github.com/Michael-A-Kuykendall/shimmy)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [NousResearch/hermes-agent-self-evolution - ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA](https://github.com/NousResearch/hermes-agent-self-evolution)
 - [TencentCloud/CubeSandbox - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.](https://github.com/TencentCloud/CubeSandbox)
 - [posit-dev/ggsql - A SQL extension for declarative data visualisation based on the Grammar of Graphics.](https://github.com/posit-dev/ggsql)
-- [steipete/birdclaw - Stores all your tweets nicely claw-able for agents.](https://github.com/steipete/birdclaw)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
