@@ -36,7 +36,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bug0inc/passmark - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.](https://github.com/bug0inc/passmark)
 - [Michael-A-Kuykendall/shimmy - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.](https://github.com/Michael-A-Kuykendall/shimmy)
 - [stefanbohacek/fediverse-friends-finder](https://github.com/stefanbohacek/fediverse-friends-finder)
-- [dmtrKovalenko/fff.nvim - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS](https://github.com/dmtrKovalenko/fff.nvim)
+- [dmtrKovalenko/fff - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS](https://github.com/dmtrKovalenko/fff)
 - [jo-inc/camofox-browser - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.](https://github.com/jo-inc/camofox-browser)
 - [run-llama/liteparse - A fast, helpful, and open-source document parser](https://github.com/run-llama/liteparse)
 - [TheR1D/shell_gpt - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.](https://github.com/TheR1D/shell_gpt)
