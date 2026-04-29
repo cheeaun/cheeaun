@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [endevco/aube - A fast Node.js package manager](https://github.com/endevco/aube)
+- [Mijutra/caveman-copilot - 🪨 why install when copy do trick - Simple Caveman prompt files for GitHub Copilot without install via npm.](https://github.com/Mijutra/caveman-copilot)
 - [JoviDeCroock/pracht - A framework for Preact that deploys anywhere](https://github.com/JoviDeCroock/pracht)
 - [seezatnap/nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)
 - [JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman](https://github.com/JuliusBrussee/caveman)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jo-inc/camofox-browser - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.](https://github.com/jo-inc/camofox-browser)
 - [run-llama/liteparse - A fast, helpful, and open-source document parser](https://github.com/run-llama/liteparse)
 - [TheR1D/shell_gpt - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.](https://github.com/TheR1D/shell_gpt)
-- [Comfy-Org/ComfyUI - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.](https://github.com/Comfy-Org/ComfyUI)
-- [YouMind-OpenLab/awesome-gpt-image-2 - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
