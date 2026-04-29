@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Emanuele-web04/remodex - Remote Control for Codex.](https://github.com/Emanuele-web04/remodex)
 - [agrimsingh/sg-bus-mcp-server - MCP server for Singapore bus arrival information using LTA DataMall API](https://github.com/agrimsingh/sg-bus-mcp-server)
 - [endevco/aube - A fast Node.js package manager](https://github.com/endevco/aube)
 - [Mijutra/caveman-copilot - 🪨 why install when copy do trick - Simple Caveman prompt files for GitHub Copilot without install via npm.](https://github.com/Mijutra/caveman-copilot)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [stefanbohacek/fediverse-friends-finder](https://github.com/stefanbohacek/fediverse-friends-finder)
 - [dmtrKovalenko/fff - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS](https://github.com/dmtrKovalenko/fff)
 - [jo-inc/camofox-browser - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.](https://github.com/jo-inc/camofox-browser)
-- [run-llama/liteparse - A fast, helpful, and open-source document parser](https://github.com/run-llama/liteparse)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
