@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [joshuayoes/ios-simulator-mcp - MCP server for interacting with the iOS simulator](https://github.com/joshuayoes/ios-simulator-mcp)
+- [codepen/slideVars - UI for Updating CSS Custom Properties](https://github.com/codepen/slideVars)
 - [Emanuele-web04/remodex - Remote Control for Codex.](https://github.com/Emanuele-web04/remodex)
 - [agrimsingh/sg-bus-mcp-server - MCP server for Singapore bus arrival information using LTA DataMall API](https://github.com/agrimsingh/sg-bus-mcp-server)
 - [endevco/aube - A fast Node.js package manager](https://github.com/endevco/aube)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bug0inc/passmark - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.](https://github.com/bug0inc/passmark)
 - [Michael-A-Kuykendall/shimmy - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.](https://github.com/Michael-A-Kuykendall/shimmy)
 - [stefanbohacek/fediverse-friends-finder](https://github.com/stefanbohacek/fediverse-friends-finder)
-- [dmtrKovalenko/fff - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS](https://github.com/dmtrKovalenko/fff)
-- [jo-inc/camofox-browser - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.](https://github.com/jo-inc/camofox-browser)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
