@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pierrecomputer/pierre - pierre’s open source code](https://github.com/pierrecomputer/pierre)
 - [joshuayoes/ios-simulator-mcp - MCP server for interacting with the iOS simulator](https://github.com/joshuayoes/ios-simulator-mcp)
 - [codepen/slideVars - UI for Updating CSS Custom Properties](https://github.com/codepen/slideVars)
 - [Emanuele-web04/remodex - Remote Control for Codex.](https://github.com/Emanuele-web04/remodex)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [anomalyco/opencode - The open source coding agent.](https://github.com/anomalyco/opencode)
 - [bug0inc/passmark - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.](https://github.com/bug0inc/passmark)
 - [Michael-A-Kuykendall/shimmy - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.](https://github.com/Michael-A-Kuykendall/shimmy)
-- [stefanbohacek/fediverse-friends-finder](https://github.com/stefanbohacek/fediverse-friends-finder)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
