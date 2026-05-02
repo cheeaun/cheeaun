@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mxgmn/WaveFunctionCollapse - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
+- [bruits/satteri - High-performance Markdown and MDX processing for the JavaScript ecosystem](https://github.com/bruits/satteri)
 - [metafloor/bwip-js - Barcode Writer in Pure JavaScript](https://github.com/metafloor/bwip-js)
 - [pierrecomputer/pierre - pierre’s open source code](https://github.com/pierrecomputer/pierre)
 - [joshuayoes/ios-simulator-mcp - MCP server for interacting with the iOS simulator](https://github.com/joshuayoes/ios-simulator-mcp)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman](https://github.com/JuliusBrussee/caveman)
 - [nico-martin/gemma4-browser-extension - On-device AI agent Chrome extension powered by Transformers.js and Gemma 4](https://github.com/nico-martin/gemma4-browser-extension)
 - [restic/restic - Fast, secure, efficient backup program](https://github.com/restic/restic)
-- [anomalyco/opencode - The open source coding agent.](https://github.com/anomalyco/opencode)
-- [bug0inc/passmark - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.](https://github.com/bug0inc/passmark)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
