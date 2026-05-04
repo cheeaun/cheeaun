@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DIYgod/cloudflare-camoufox](https://github.com/DIYgod/cloudflare-camoufox)
 - [googleapis/release-please - generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please)
 - [mxgmn/WaveFunctionCollapse - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
 - [bruits/satteri - High-performance Markdown and MDX processing for the JavaScript ecosystem](https://github.com/bruits/satteri)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JoviDeCroock/pracht - A framework for Preact that deploys anywhere](https://github.com/JoviDeCroock/pracht)
 - [seezatnap/nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)
 - [JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman](https://github.com/JuliusBrussee/caveman)
-- [nico-martin/gemma4-browser-extension - On-device AI agent Chrome extension powered by Transformers.js and Gemma 4](https://github.com/nico-martin/gemma4-browser-extension)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
