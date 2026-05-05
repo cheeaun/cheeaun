@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
 - [DIYgod/cloudflare-camoufox](https://github.com/DIYgod/cloudflare-camoufox)
 - [googleapis/release-please - generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please)
 - [mxgmn/WaveFunctionCollapse - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Mijutra/caveman-copilot - 🪨 why install when copy do trick - Simple Caveman prompt files for GitHub Copilot without install via npm.](https://github.com/Mijutra/caveman-copilot)
 - [JoviDeCroock/pracht - A framework for Preact that deploys anywhere](https://github.com/JoviDeCroock/pracht)
 - [seezatnap/nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)
-- [JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman](https://github.com/JuliusBrussee/caveman)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
