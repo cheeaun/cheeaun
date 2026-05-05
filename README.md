@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tddworks/baguette - Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming](https://github.com/tddworks/baguette)
 - [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
 - [DIYgod/cloudflare-camoufox](https://github.com/DIYgod/cloudflare-camoufox)
 - [googleapis/release-please - generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [endevco/aube - A fast Node.js package manager](https://github.com/endevco/aube)
 - [Mijutra/caveman-copilot - 🪨 why install when copy do trick - Simple Caveman prompt files for GitHub Copilot without install via npm.](https://github.com/Mijutra/caveman-copilot)
 - [JoviDeCroock/pracht - A framework for Preact that deploys anywhere](https://github.com/JoviDeCroock/pracht)
-- [seezatnap/nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
