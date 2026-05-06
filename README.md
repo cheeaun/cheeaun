@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Sparticuz/chromium - Chromium for Serverless Platforms](https://github.com/Sparticuz/chromium)
+- [EvanBacon/serve-sim - The `npx serve` of Apple Simulators.](https://github.com/EvanBacon/serve-sim)
+- [ClementTsang/bottom - Yet another cross-platform graphical process/system monitor.](https://github.com/ClementTsang/bottom)
 - [tddworks/baguette - Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming](https://github.com/tddworks/baguette)
 - [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
 - [DIYgod/cloudflare-camoufox](https://github.com/DIYgod/cloudflare-camoufox)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [codepen/slideVars - UI for Updating CSS Custom Properties](https://github.com/codepen/slideVars)
 - [Emanuele-web04/remodex - Remote Control for Codex.](https://github.com/Emanuele-web04/remodex)
 - [agrimsingh/sg-bus-mcp-server - MCP server for Singapore bus arrival information using LTA DataMall API](https://github.com/agrimsingh/sg-bus-mcp-server)
-- [endevco/aube - A fast Node.js package manager](https://github.com/endevco/aube)
-- [Mijutra/caveman-copilot - 🪨 why install when copy do trick - Simple Caveman prompt files for GitHub Copilot without install via npm.](https://github.com/Mijutra/caveman-copilot)
-- [JoviDeCroock/pracht - A framework for Preact that deploys anywhere](https://github.com/JoviDeCroock/pracht)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
