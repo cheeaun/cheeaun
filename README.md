@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [charmbracelet/glow - Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
 - [Sparticuz/chromium - Chromium for Serverless Platforms](https://github.com/Sparticuz/chromium)
 - [EvanBacon/serve-sim - The `npx serve` of Apple Simulators.](https://github.com/EvanBacon/serve-sim)
 - [ClementTsang/bottom - Yet another cross-platform graphical process/system monitor.](https://github.com/ClementTsang/bottom)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [joshuayoes/ios-simulator-mcp - MCP server for interacting with the iOS simulator](https://github.com/joshuayoes/ios-simulator-mcp)
 - [codepen/slideVars - UI for Updating CSS Custom Properties](https://github.com/codepen/slideVars)
 - [Emanuele-web04/remodex - Remote Control for Codex.](https://github.com/Emanuele-web04/remodex)
-- [agrimsingh/sg-bus-mcp-server - MCP server for Singapore bus arrival information using LTA DataMall API](https://github.com/agrimsingh/sg-bus-mcp-server)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
