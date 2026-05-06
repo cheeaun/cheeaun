@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yuanchuan/aivo - Aivo is a command-line tool that connects your coding agent to almost any model. It also includes built-in models out of the box — no API keys, no signup.](https://github.com/yuanchuan/aivo)
+- [mrshu/github-statuses - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses](https://github.com/mrshu/github-statuses)
+- [heygen-com/hyperframes - Write HTML. Render video. Built for agents.](https://github.com/heygen-com/hyperframes)
 - [charmbracelet/glow - Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
 - [Sparticuz/chromium - Chromium for Serverless Platforms](https://github.com/Sparticuz/chromium)
 - [EvanBacon/serve-sim - The `npx serve` of Apple Simulators.](https://github.com/EvanBacon/serve-sim)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bruits/satteri - High-performance Markdown and MDX processing for the JavaScript ecosystem](https://github.com/bruits/satteri)
 - [metafloor/bwip-js - Barcode Writer in Pure JavaScript](https://github.com/metafloor/bwip-js)
 - [pierrecomputer/pierre - pierre’s open source code](https://github.com/pierrecomputer/pierre)
-- [joshuayoes/ios-simulator-mcp - MCP server for interacting with the iOS simulator](https://github.com/joshuayoes/ios-simulator-mcp)
-- [codepen/slideVars - UI for Updating CSS Custom Properties](https://github.com/codepen/slideVars)
-- [Emanuele-web04/remodex - Remote Control for Codex.](https://github.com/Emanuele-web04/remodex)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
