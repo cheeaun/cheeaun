@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sergeyk/x-backup](https://github.com/sergeyk/x-backup)
 - [mohsen1/tsz - A performance-first TypeScript checker](https://github.com/mohsen1/tsz)
 - [lingui/skills - Agent Skills to help developers using AI agents with Lingui](https://github.com/lingui/skills)
 - [addfox/addfox - 🧩 Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free](https://github.com/addfox/addfox)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
 - [DIYgod/cloudflare-camoufox](https://github.com/DIYgod/cloudflare-camoufox)
 - [googleapis/release-please - generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please)
-- [mxgmn/WaveFunctionCollapse - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
