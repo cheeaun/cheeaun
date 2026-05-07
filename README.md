@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mustache-dev/Three-VFX -  High-performance particle system for Three.js WebGPU, with support for React Three Fiber, TresJS, and Threlte](https://github.com/mustache-dev/Three-VFX)
 - [erweixin/RaTeX - >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. ](https://github.com/erweixin/RaTeX)
 - [sergeyk/x-backup](https://github.com/sergeyk/x-backup)
 - [mohsen1/tsz - A performance-first TypeScript checker](https://github.com/mohsen1/tsz)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ClementTsang/bottom - Yet another cross-platform graphical process/system monitor.](https://github.com/ClementTsang/bottom)
 - [tddworks/baguette - Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming](https://github.com/tddworks/baguette)
 - [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
-- [DIYgod/cloudflare-camoufox](https://github.com/DIYgod/cloudflare-camoufox)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
