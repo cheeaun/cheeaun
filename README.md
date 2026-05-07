@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mohsen1/tsz - A performance-first TypeScript checker](https://github.com/mohsen1/tsz)
+- [lingui/skills - Agent Skills to help developers using AI agents with Lingui](https://github.com/lingui/skills)
+- [addfox/addfox - 🧩 Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free](https://github.com/addfox/addfox)
 - [yuanchuan/aivo - Aivo is a command-line tool that connects your coding agent to almost any model. It also includes built-in models out of the box — no API keys, no signup.](https://github.com/yuanchuan/aivo)
 - [mrshu/github-statuses - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses](https://github.com/mrshu/github-statuses)
 - [heygen-com/hyperframes - Write HTML. Render video. Built for agents.](https://github.com/heygen-com/hyperframes)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [DIYgod/cloudflare-camoufox](https://github.com/DIYgod/cloudflare-camoufox)
 - [googleapis/release-please - generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please)
 - [mxgmn/WaveFunctionCollapse - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
-- [bruits/satteri - High-performance Markdown and MDX processing for the JavaScript ecosystem](https://github.com/bruits/satteri)
-- [metafloor/bwip-js - Barcode Writer in Pure JavaScript](https://github.com/metafloor/bwip-js)
-- [pierrecomputer/pierre - pierre’s open source code](https://github.com/pierrecomputer/pierre)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
