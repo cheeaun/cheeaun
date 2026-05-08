@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aliceisjustplaying/bluepy - A minimalistic opinionated Mastodon web client](https://github.com/aliceisjustplaying/bluepy)
 - [hasanharman/isomiddleearth - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.](https://github.com/hasanharman/isomiddleearth)
 - [Hmbown/DeepSeek-TUI - Coding agent for DeepSeek models that runs in your terminal](https://github.com/Hmbown/DeepSeek-TUI)
 - [nodeca/probe-image-size - Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO.](https://github.com/nodeca/probe-image-size)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [heygen-com/hyperframes - Write HTML. Render video. Built for agents.](https://github.com/heygen-com/hyperframes)
 - [charmbracelet/glow - Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
 - [Sparticuz/chromium - Chromium for Serverless Platforms](https://github.com/Sparticuz/chromium)
-- [EvanBacon/serve-sim - The `npx serve` of Apple Simulators.](https://github.com/EvanBacon/serve-sim)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
