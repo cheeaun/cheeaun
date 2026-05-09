@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shobhit99/SuperIsland - Dynamic Island for MacOS — with Extensions](https://github.com/shobhit99/SuperIsland)
 - [aliceisjustplaying/bluepy - A minimalistic opinionated Mastodon web client](https://github.com/aliceisjustplaying/bluepy)
 - [hasanharman/isomiddleearth - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.](https://github.com/hasanharman/isomiddleearth)
 - [Hmbown/DeepSeek-TUI - Coding agent for DeepSeek models that runs in your terminal](https://github.com/Hmbown/DeepSeek-TUI)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mrshu/github-statuses - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses](https://github.com/mrshu/github-statuses)
 - [heygen-com/hyperframes - Write HTML. Render video. Built for agents.](https://github.com/heygen-com/hyperframes)
 - [charmbracelet/glow - Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
-- [Sparticuz/chromium - Chromium for Serverless Platforms](https://github.com/Sparticuz/chromium)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
