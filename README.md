@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vorojar/Physics-Toast - Toast notifications with real spring physics & Dynamic Island morphing — a zero-dependency alternative to Sonner. Pure vanilla JS, ~20KB, no React/framework needed. Damped spring engine, SVG gooey effects, 6 toast types. 弹簧物理 Toast 通知，零依赖，Sonner 的原生 JS 平替。](https://github.com/vorojar/Physics-Toast)
+- [ruvnet/RuView - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.](https://github.com/ruvnet/RuView)
+- [sinameraji/kimiflare - Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.](https://github.com/sinameraji/kimiflare)
+- [sinameraji/kimiflare-commute - Browser-based terminal for KimiFlare, orchestrated by Cloudflare Workers and executing in Cloudflare Sandbox + Artifacts](https://github.com/sinameraji/kimiflare-commute)
 - [shobhit99/SuperIsland - Dynamic Island for MacOS — with Extensions](https://github.com/shobhit99/SuperIsland)
 - [aliceisjustplaying/bluepy - A minimalistic opinionated Mastodon web client](https://github.com/aliceisjustplaying/bluepy)
 - [hasanharman/isomiddleearth - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.](https://github.com/hasanharman/isomiddleearth)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mohsen1/tsz - A performance-first TypeScript checker](https://github.com/mohsen1/tsz)
 - [lingui/skills - Agent Skills to help developers using AI agents with Lingui](https://github.com/lingui/skills)
 - [addfox/addfox - 🧩 Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free](https://github.com/addfox/addfox)
-- [yuanchuan/aivo - Aivo is a command-line tool that connects your coding agent to almost any model. It also includes built-in models out of the box — no API keys, no signup.](https://github.com/yuanchuan/aivo)
-- [mrshu/github-statuses - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses](https://github.com/mrshu/github-statuses)
-- [heygen-com/hyperframes - Write HTML. Render video. Built for agents.](https://github.com/heygen-com/hyperframes)
-- [charmbracelet/glow - Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
