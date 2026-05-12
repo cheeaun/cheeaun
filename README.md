@@ -35,7 +35,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sinameraji/kimiflare - Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.](https://github.com/sinameraji/kimiflare)
 - [sinameraji/kimiflare-commute - Browser-based terminal for KimiFlare, orchestrated by Cloudflare Workers and executing in Cloudflare Sandbox + Artifacts](https://github.com/sinameraji/kimiflare-commute)
 - [shobhit99/SuperIsland - Dynamic Island for MacOS — with Extensions](https://github.com/shobhit99/SuperIsland)
-- [aliceisjustplaying/bluepy - A minimalistic opinionated Mastodon web client](https://github.com/aliceisjustplaying/bluepy)
+- [aliceisjustplaying/bluepy - A minimalistic opinionated Bluesky web client](https://github.com/aliceisjustplaying/bluepy)
 - [hasanharman/isomiddleearth - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.](https://github.com/hasanharman/isomiddleearth)
 - [Hmbown/DeepSeek-TUI - Coding agent for DeepSeek models that runs in your terminal](https://github.com/Hmbown/DeepSeek-TUI)
 - [nodeca/probe-image-size - Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO.](https://github.com/nodeca/probe-image-size)
