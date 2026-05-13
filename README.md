@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [neondatabase/add-mcp - The open MCP config tool - npx add-mcp](https://github.com/neondatabase/add-mcp)
 - [gunnargray-dev/unicode-animations - Unicode spinner animations as raw frame data](https://github.com/gunnargray-dev/unicode-animations)
 - [tetashler/MRTCrowd](https://github.com/tetashler/MRTCrowd)
 - [cartesiancs/map3d - 🗺️ Generate City 3D map with R3F. Include building and road information.](https://github.com/cartesiancs/map3d)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Hmbown/DeepSeek-TUI - Coding agent for DeepSeek models that runs in your terminal](https://github.com/Hmbown/DeepSeek-TUI)
 - [nodeca/probe-image-size - Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO.](https://github.com/nodeca/probe-image-size)
 - [mustache-dev/Three-VFX -  High-performance particle system for Three.js WebGPU, with support for React Three Fiber, TresJS, and Threlte](https://github.com/mustache-dev/Three-VFX)
-- [erweixin/RaTeX - >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. ](https://github.com/erweixin/RaTeX)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
