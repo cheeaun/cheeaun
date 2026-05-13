@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CloakHQ/CloakBrowser - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.](https://github.com/CloakHQ/CloakBrowser)
+- [cactus-compute/needle - 26m function call model that runs on incredibly small devices](https://github.com/cactus-compute/needle)
+- [HermannBjorgvin/Clawdmeter - ESP32 desk dashboard that shows Claude Code usage](https://github.com/HermannBjorgvin/Clawdmeter)
 - [neondatabase/add-mcp - The open MCP config tool - npx add-mcp](https://github.com/neondatabase/add-mcp)
 - [gunnargray-dev/unicode-animations - Unicode spinner animations as raw frame data](https://github.com/gunnargray-dev/unicode-animations)
 - [tetashler/MRTCrowd](https://github.com/tetashler/MRTCrowd)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shobhit99/SuperIsland - Dynamic Island for MacOS — with Extensions](https://github.com/shobhit99/SuperIsland)
 - [aliceisjustplaying/bluepy - A minimalistic opinionated Bluesky web client](https://github.com/aliceisjustplaying/bluepy)
 - [hasanharman/isomiddleearth - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.](https://github.com/hasanharman/isomiddleearth)
-- [Hmbown/DeepSeek-TUI - Coding agent for DeepSeek models that runs in your terminal](https://github.com/Hmbown/DeepSeek-TUI)
-- [nodeca/probe-image-size - Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO.](https://github.com/nodeca/probe-image-size)
-- [mustache-dev/Three-VFX -  High-performance particle system for Three.js WebGPU, with support for React Three Fiber, TresJS, and Threlte](https://github.com/mustache-dev/Three-VFX)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
