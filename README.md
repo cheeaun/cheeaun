@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gyroflow/gyroflow - Video stabilization using gyroscope data](https://github.com/gyroflow/gyroflow)
 - [pionxzh/wakaru - 🔪📦 Javascript decompiler for modern frontend](https://github.com/pionxzh/wakaru)
 - [CloakHQ/CloakBrowser - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.](https://github.com/CloakHQ/CloakBrowser)
 - [cactus-compute/needle - 26m function call model that runs on incredibly small devices](https://github.com/cactus-compute/needle)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sinameraji/kimiflare - Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.](https://github.com/sinameraji/kimiflare)
 - [sinameraji/kimiflare-commute - Browser-based terminal for KimiFlare, orchestrated by Cloudflare Workers and executing in Cloudflare Sandbox + Artifacts](https://github.com/sinameraji/kimiflare-commute)
 - [shobhit99/SuperIsland - Dynamic Island for MacOS — with Extensions](https://github.com/shobhit99/SuperIsland)
-- [aliceisjustplaying/bluepy - A minimalistic opinionated Bluesky web client](https://github.com/aliceisjustplaying/bluepy)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
