@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wevm/curl.md - URL to markdown for agents](https://github.com/wevm/curl.md)
+- [WebReflection/ds4-chat - DeepSeek 4 Flash Chat](https://github.com/WebReflection/ds4-chat)
+- [antirez/ds4 - DeepSeek 4 Flash local inference engine for Metal and CUDA](https://github.com/antirez/ds4)
 - [vercel-labs/zero - The programming language for agents](https://github.com/vercel-labs/zero)
 - [sqlc-dev/sqlc - Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
 - [onecli/onecli - Open-source credential vault, give your AI agents access to services without exposing keys.](https://github.com/onecli/onecli)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [neondatabase/add-mcp - The open MCP config tool - npx add-mcp](https://github.com/neondatabase/add-mcp)
 - [gunnargray-dev/unicode-animations - Unicode spinner animations as raw frame data](https://github.com/gunnargray-dev/unicode-animations)
 - [tetashler/MRTCrowd](https://github.com/tetashler/MRTCrowd)
-- [cartesiancs/map3d - 🗺️ Generate City 3D map with R3F. Include building and road information.](https://github.com/cartesiancs/map3d)
-- [zserge/zine - Tiny CSS template to produce micro-zines (folded 8-page magazines)](https://github.com/zserge/zine)
-- [vorojar/Physics-Toast - Toast notifications with real spring physics & Dynamic Island morphing — a zero-dependency alternative to Sonner. Pure vanilla JS, ~20KB, no React/framework needed. Damped spring engine, SVG gooey effects, 6 toast types. 弹簧物理 Toast 通知，零依赖，Sonner 的原生 JS 平替。](https://github.com/vorojar/Physics-Toast)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
