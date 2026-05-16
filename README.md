@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel-labs/zero - The programming language for agents](https://github.com/vercel-labs/zero)
+- [sqlc-dev/sqlc - Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
+- [onecli/onecli - Open-source credential vault, give your AI agents access to services without exposing keys.](https://github.com/onecli/onecli)
 - [tinyhumansai/openhuman - Your Personal AI super intelligence. Private, Simple and extremely powerful.](https://github.com/tinyhumansai/openhuman)
 - [gyroflow/gyroflow - Video stabilization using gyroscope data](https://github.com/gyroflow/gyroflow)
 - [pionxzh/wakaru - 🔪📦 Javascript decompiler for modern frontend](https://github.com/pionxzh/wakaru)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cartesiancs/map3d - 🗺️ Generate City 3D map with R3F. Include building and road information.](https://github.com/cartesiancs/map3d)
 - [zserge/zine - Tiny CSS template to produce micro-zines (folded 8-page magazines)](https://github.com/zserge/zine)
 - [vorojar/Physics-Toast - Toast notifications with real spring physics & Dynamic Island morphing — a zero-dependency alternative to Sonner. Pure vanilla JS, ~20KB, no React/framework needed. Damped spring engine, SVG gooey effects, 6 toast types. 弹簧物理 Toast 通知，零依赖，Sonner 的原生 JS 平替。](https://github.com/vorojar/Physics-Toast)
-- [ruvnet/RuView - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.](https://github.com/ruvnet/RuView)
-- [sinameraji/kimiflare - Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.](https://github.com/sinameraji/kimiflare)
-- [sinameraji/kimiflare-commute - Browser-based terminal for KimiFlare, orchestrated by Cloudflare Workers and executing in Cloudflare Sandbox + Artifacts](https://github.com/sinameraji/kimiflare-commute)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
