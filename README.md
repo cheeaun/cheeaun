@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [justrach/kuri - Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.](https://github.com/justrach/kuri)
 - [wevm/curl.md - URL to markdown for agents](https://github.com/wevm/curl.md)
 - [WebReflection/ds4-chat - DeepSeek 4 Flash Chat](https://github.com/WebReflection/ds4-chat)
 - [antirez/ds4 - DeepSeek 4 Flash local inference engine for Metal and CUDA](https://github.com/antirez/ds4)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [HermannBjorgvin/Clawdmeter - ESP32 desk dashboard that shows Claude Code usage](https://github.com/HermannBjorgvin/Clawdmeter)
 - [neondatabase/add-mcp - The open MCP config tool - npx add-mcp](https://github.com/neondatabase/add-mcp)
 - [gunnargray-dev/unicode-animations - Unicode spinner animations as raw frame data](https://github.com/gunnargray-dev/unicode-animations)
-- [tetashler/MRTCrowd](https://github.com/tetashler/MRTCrowd)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
