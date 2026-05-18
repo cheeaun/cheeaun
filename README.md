@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [developit/kinu - Preact UI toolkit. 10x smaller than you think. Intuitive for humans+LLMs.](https://github.com/developit/kinu)
 - [MinishLab/semble - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read](https://github.com/MinishLab/semble)
 - [justrach/kuri - Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.](https://github.com/justrach/kuri)
 - [wevm/curl.md - URL to markdown for agents](https://github.com/wevm/curl.md)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [CloakHQ/CloakBrowser - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.](https://github.com/CloakHQ/CloakBrowser)
 - [cactus-compute/needle - 26m function call model that runs on incredibly small devices](https://github.com/cactus-compute/needle)
 - [HermannBjorgvin/Clawdmeter - ESP32 desk dashboard that shows Claude Code usage](https://github.com/HermannBjorgvin/Clawdmeter)
-- [neondatabase/add-mcp - The open MCP config tool - npx add-mcp](https://github.com/neondatabase/add-mcp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
