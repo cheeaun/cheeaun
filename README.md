@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [fhanau/Efficient-Compression-Tool - Fast and effective C++ file optimizer](https://github.com/fhanau/Efficient-Compression-Tool)
 - [developit/kinu - Preact UI toolkit. 10x smaller than you think. Intuitive for humans+LLMs.](https://github.com/developit/kinu)
 - [MinishLab/semble - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read](https://github.com/MinishLab/semble)
 - [justrach/kuri - Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.](https://github.com/justrach/kuri)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pionxzh/wakaru - 🔪📦 Javascript decompiler for modern frontend](https://github.com/pionxzh/wakaru)
 - [CloakHQ/CloakBrowser - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.](https://github.com/CloakHQ/CloakBrowser)
 - [cactus-compute/needle - 26m function call model that runs on incredibly small devices](https://github.com/cactus-compute/needle)
-- [HermannBjorgvin/Clawdmeter - ESP32 desk dashboard that shows Claude Code usage](https://github.com/HermannBjorgvin/Clawdmeter)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
