@@ -35,7 +35,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wevm/curl.md - URL to markdown for agents](https://github.com/wevm/curl.md)
 - [WebReflection/ds4-chat - DeepSeek 4 Flash Chat](https://github.com/WebReflection/ds4-chat)
 - [antirez/ds4 - DeepSeek 4 Flash local inference engine for Metal and CUDA](https://github.com/antirez/ds4)
-- [vercel-labs/zero - The programming language for agents](https://github.com/vercel-labs/zero)
+- [vercel-labs/zerolang - The programming language for agents](https://github.com/vercel-labs/zerolang)
 - [sqlc-dev/sqlc - Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
 - [onecli/onecli - Open-source credential vault, give your AI agents access to services without exposing keys.](https://github.com/onecli/onecli)
 - [tinyhumansai/openhuman - Your Personal AI super intelligence. Private, Simple and extremely powerful.](https://github.com/tinyhumansai/openhuman)
