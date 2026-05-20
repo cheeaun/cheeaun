@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom)
 - [GopeedLab/gopeed -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.](https://github.com/GopeedLab/gopeed)
 - [void-sdk/void](https://github.com/void-sdk/void)
 - [fhanau/Efficient-Compression-Tool - Fast and effective C++ file optimizer](https://github.com/fhanau/Efficient-Compression-Tool)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [onecli/onecli - Open-source credential vault, give your AI agents access to services without exposing keys.](https://github.com/onecli/onecli)
 - [tinyhumansai/openhuman - Your Personal AI super intelligence. Private, Simple and extremely powerful.](https://github.com/tinyhumansai/openhuman)
 - [gyroflow/gyroflow - Video stabilization using gyroscope data](https://github.com/gyroflow/gyroflow)
-- [pionxzh/wakaru - 🔪📦 Javascript decompiler for modern frontend](https://github.com/pionxzh/wakaru)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
