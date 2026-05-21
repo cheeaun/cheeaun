@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
 - [tashfeenahmed/freellmapi - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.](https://github.com/tashfeenahmed/freellmapi)
 - [addyosmani/critical - Extract & Inline Critical-path CSS in HTML pages](https://github.com/addyosmani/critical)
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WebReflection/ds4-chat - DeepSeek 4 Flash Chat](https://github.com/WebReflection/ds4-chat)
 - [antirez/ds4 - DeepSeek 4 Flash local inference engine for Metal and CUDA](https://github.com/antirez/ds4)
 - [vercel-labs/zerolang - The programming language for agents](https://github.com/vercel-labs/zerolang)
-- [sqlc-dev/sqlc - Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
