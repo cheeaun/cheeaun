@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [addyosmani/critical - Extract & Inline Critical-path CSS in HTML pages](https://github.com/addyosmani/critical)
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn)
 - [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom)
 - [GopeedLab/gopeed -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.](https://github.com/GopeedLab/gopeed)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vercel-labs/zerolang - The programming language for agents](https://github.com/vercel-labs/zerolang)
 - [sqlc-dev/sqlc - Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
 - [onecli/onecli - Open-source credential vault, give your AI agents access to services without exposing keys.](https://github.com/onecli/onecli)
-- [tinyhumansai/openhuman - Your Personal AI super intelligence. Private, Simple and extremely powerful.](https://github.com/tinyhumansai/openhuman)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
