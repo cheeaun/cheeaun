@@ -34,7 +34,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tashfeenahmed/freellmapi - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.](https://github.com/tashfeenahmed/freellmapi)
 - [addyosmani/critical - Extract & Inline Critical-path CSS in HTML pages](https://github.com/addyosmani/critical)
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn)
-- [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom)
+- [AndrewPrifer/liquid-dom - Liquid Glass for the Web](https://github.com/AndrewPrifer/liquid-dom)
 - [GopeedLab/gopeed -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.](https://github.com/GopeedLab/gopeed)
 - [void-sdk/void](https://github.com/void-sdk/void)
 - [fhanau/Efficient-Compression-Tool - Fast and effective C++ file optimizer](https://github.com/fhanau/Efficient-Compression-Tool)
