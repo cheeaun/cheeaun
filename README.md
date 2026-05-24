@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unum-cloud/USearch - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍](https://github.com/unum-cloud/USearch)
+- [e18e/replacements.fyi - A web app to render module replacements](https://github.com/e18e/replacements.fyi)
 - [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
 - [tashfeenahmed/freellmapi - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.](https://github.com/tashfeenahmed/freellmapi)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MinishLab/semble - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read](https://github.com/MinishLab/semble)
 - [justrach/kuri - Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.](https://github.com/justrach/kuri)
 - [wevm/curl.md - URL to markdown for agents](https://github.com/wevm/curl.md)
-- [WebReflection/ds4-chat - DeepSeek 4 Flash Chat](https://github.com/WebReflection/ds4-chat)
-- [antirez/ds4 - DeepSeek 4 Flash local inference engine for Metal and CUDA](https://github.com/antirez/ds4)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
