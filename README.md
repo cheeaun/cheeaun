@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [esengine/DeepSeek-Reasonix - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.](https://github.com/esengine/DeepSeek-Reasonix)
 - [unum-cloud/USearch - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍](https://github.com/unum-cloud/USearch)
 - [e18e/replacements.fyi - A web app to render module replacements](https://github.com/e18e/replacements.fyi)
 - [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [developit/kinu - Preact UI toolkit. 10x smaller than you think. Intuitive for humans+LLMs.](https://github.com/developit/kinu)
 - [MinishLab/semble - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read](https://github.com/MinishLab/semble)
 - [justrach/kuri - Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.](https://github.com/justrach/kuri)
-- [wevm/curl.md - URL to markdown for agents](https://github.com/wevm/curl.md)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
