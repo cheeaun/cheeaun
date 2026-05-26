@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [adamghill/jisticle - The native macOS client for GitHub Gists](https://github.com/adamghill/jisticle)
+- [adamghill/sqliteo - The native macOS SQLite browser built for normal people.](https://github.com/adamghill/sqliteo)
 - [microsoft/Webwright - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. ](https://github.com/microsoft/Webwright)
 - [esengine/DeepSeek-Reasonix - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.](https://github.com/esengine/DeepSeek-Reasonix)
 - [unum-cloud/USearch - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍](https://github.com/unum-cloud/USearch)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [GopeedLab/gopeed -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.](https://github.com/GopeedLab/gopeed)
 - [void-sdk/void](https://github.com/void-sdk/void)
 - [fhanau/Efficient-Compression-Tool - Fast and effective C++ file optimizer](https://github.com/fhanau/Efficient-Compression-Tool)
-- [developit/kinu - Preact UI toolkit. 10x smaller than you think. Intuitive for humans+LLMs.](https://github.com/developit/kinu)
-- [MinishLab/semble - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read](https://github.com/MinishLab/semble)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
