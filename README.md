@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nkzw-tech/cloudsail - Self-hosted instant sandboxes for coding agents on Cloudflare.](https://github.com/nkzw-tech/cloudsail)
 - [adamghill/jisticle - The native macOS client for GitHub Gists](https://github.com/adamghill/jisticle)
 - [adamghill/sqliteo - The native macOS SQLite browser built for normal people.](https://github.com/adamghill/sqliteo)
 - [microsoft/Webwright - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. ](https://github.com/microsoft/Webwright)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [AndrewPrifer/liquid-dom - Liquid Glass for the Web](https://github.com/AndrewPrifer/liquid-dom)
 - [GopeedLab/gopeed -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.](https://github.com/GopeedLab/gopeed)
 - [void-sdk/void](https://github.com/void-sdk/void)
-- [fhanau/Efficient-Compression-Tool - Fast and effective C++ file optimizer](https://github.com/fhanau/Efficient-Compression-Tool)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
