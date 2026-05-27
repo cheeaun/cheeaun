@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [WebReflection/signals - A minimalistic Preact-like signals implementation.](https://github.com/WebReflection/signals)
 - [nkzw-tech/cloudsail - Self-hosted instant sandboxes for coding agents on Cloudflare.](https://github.com/nkzw-tech/cloudsail)
 - [adamghill/jisticle - The native macOS client for GitHub Gists](https://github.com/adamghill/jisticle)
 - [adamghill/sqliteo - The native macOS SQLite browser built for normal people.](https://github.com/adamghill/sqliteo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn)
 - [AndrewPrifer/liquid-dom - Liquid Glass for the Web](https://github.com/AndrewPrifer/liquid-dom)
 - [GopeedLab/gopeed -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.](https://github.com/GopeedLab/gopeed)
-- [void-sdk/void](https://github.com/void-sdk/void)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
