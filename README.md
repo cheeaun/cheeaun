@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aurorascharff/ClickLight - A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility.](https://github.com/aurorascharff/ClickLight)
 - [WebReflection/signals - A minimalistic Preact-like signals implementation.](https://github.com/WebReflection/signals)
 - [nkzw-tech/cloudsail - Self-hosted instant sandboxes for coding agents on Cloudflare.](https://github.com/nkzw-tech/cloudsail)
 - [adamghill/jisticle - The native macOS client for GitHub Gists](https://github.com/adamghill/jisticle)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [addyosmani/critical - Extract & Inline Critical-path CSS in HTML pages](https://github.com/addyosmani/critical)
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn)
 - [AndrewPrifer/liquid-dom - Liquid Glass for the Web](https://github.com/AndrewPrifer/liquid-dom)
-- [GopeedLab/gopeed -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.](https://github.com/GopeedLab/gopeed)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
