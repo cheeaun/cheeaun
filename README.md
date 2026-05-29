@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yizhe-ang/art-in-transit](https://github.com/yizhe-ang/art-in-transit)
 - [aurorascharff/ClickLight - A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility.](https://github.com/aurorascharff/ClickLight)
 - [WebReflection/signals - A minimalistic Preact-like signals implementation.](https://github.com/WebReflection/signals)
 - [nkzw-tech/cloudsail - Self-hosted instant sandboxes for coding agents on Cloudflare.](https://github.com/nkzw-tech/cloudsail)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tashfeenahmed/freellmapi - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.](https://github.com/tashfeenahmed/freellmapi)
 - [addyosmani/critical - Extract & Inline Critical-path CSS in HTML pages](https://github.com/addyosmani/critical)
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn)
-- [AndrewPrifer/liquid-dom - Liquid Glass for the Web](https://github.com/AndrewPrifer/liquid-dom)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
