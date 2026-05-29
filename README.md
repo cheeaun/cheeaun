@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [HeidiSQL/HeidiSQL - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal](https://github.com/HeidiSQL/HeidiSQL)
 - [yizhe-ang/art-in-transit](https://github.com/yizhe-ang/art-in-transit)
 - [aurorascharff/ClickLight - A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility.](https://github.com/aurorascharff/ClickLight)
 - [WebReflection/signals - A minimalistic Preact-like signals implementation.](https://github.com/WebReflection/signals)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
 - [tashfeenahmed/freellmapi - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.](https://github.com/tashfeenahmed/freellmapi)
 - [addyosmani/critical - Extract & Inline Critical-path CSS in HTML pages](https://github.com/addyosmani/critical)
-- [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
