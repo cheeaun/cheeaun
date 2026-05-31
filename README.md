@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [arrowtype/shantell-sans - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.](https://github.com/arrowtype/shantell-sans)
 - [opengeos/GeoLibre - Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS.](https://github.com/opengeos/GeoLibre)
 - [HeidiSQL/HeidiSQL - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal](https://github.com/HeidiSQL/HeidiSQL)
 - [yizhe-ang/art-in-transit](https://github.com/yizhe-ang/art-in-transit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [e18e/replacements.fyi - A web app to render module replacements](https://github.com/e18e/replacements.fyi)
 - [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
-- [tashfeenahmed/freellmapi - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.](https://github.com/tashfeenahmed/freellmapi)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
