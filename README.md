@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [edugis-org/webmapx - A web component–based library that provides ready-to-use, extensible, and customizable UI tools for web maps, plus a plugin system for building your own map tools (MapLibre, OpenLayers, Leaflet, Cesium).](https://github.com/edugis-org/webmapx)
 - [arrowtype/shantell-sans - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.](https://github.com/arrowtype/shantell-sans)
 - [opengeos/GeoLibre - Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS.](https://github.com/opengeos/GeoLibre)
 - [HeidiSQL/HeidiSQL - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal](https://github.com/HeidiSQL/HeidiSQL)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unum-cloud/USearch - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍](https://github.com/unum-cloud/USearch)
 - [e18e/replacements.fyi - A web app to render module replacements](https://github.com/e18e/replacements.fyi)
 - [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2)
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
