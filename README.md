@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NativeScript/SimDeck - SimDeck is a developer tool built for streamlining mobile app development using agents. Drive iOS Simulators and Android emulators from your favorite IDE & CLI.](https://github.com/NativeScript/SimDeck)
 - [edugis-org/webmapx - A web component–based library that provides ready-to-use, extensible, and customizable UI tools for web maps, plus a plugin system for building your own map tools (MapLibre, OpenLayers, Leaflet, Cesium).](https://github.com/edugis-org/webmapx)
 - [arrowtype/shantell-sans - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.](https://github.com/arrowtype/shantell-sans)
 - [opengeos/GeoLibre - Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS.](https://github.com/opengeos/GeoLibre)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [esengine/DeepSeek-Reasonix - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.](https://github.com/esengine/DeepSeek-Reasonix)
 - [unum-cloud/USearch - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍](https://github.com/unum-cloud/USearch)
 - [e18e/replacements.fyi - A web app to render module replacements](https://github.com/e18e/replacements.fyi)
-- [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
