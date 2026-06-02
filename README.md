@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- [cyberpapiii/chipotlai-max - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.](https://github.com/cyberpapiii/chipotlai-max)
+- [Gonzih/chipotle-llm-provider - OpenAI-compatible LLM proxy backed by Chipotle's Pepper AI (IPsoft Amelia) — free inference via fast food](https://github.com/Gonzih/chipotle-llm-provider)
 - [johnbean393/KeyType - An open-source Cotypist with macOS system wide AI autocomplete](https://github.com/johnbean393/KeyType)
 - [NativeScript/SimDeck - SimDeck is a developer tool built for streamlining mobile app development using agents. Drive iOS Simulators and Android emulators from your favorite IDE & CLI.](https://github.com/NativeScript/SimDeck)
 - [edugis-org/webmapx - A web component–based library that provides ready-to-use, extensible, and customizable UI tools for web maps, plus a plugin system for building your own map tools (MapLibre, OpenLayers, Leaflet, Cesium).](https://github.com/edugis-org/webmapx)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nkzw-tech/cloudsail - Self-hosted instant sandboxes for coding agents on Cloudflare.](https://github.com/nkzw-tech/cloudsail)
 - [adamghill/jisticle - The native macOS client for GitHub Gists](https://github.com/adamghill/jisticle)
 - [adamghill/sqliteo - The native macOS SQLite browser built for normal people.](https://github.com/adamghill/sqliteo)
-- [microsoft/Webwright - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. ](https://github.com/microsoft/Webwright)
-- [esengine/DeepSeek-Reasonix - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.](https://github.com/esengine/DeepSeek-Reasonix)
-- [unum-cloud/USearch - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍](https://github.com/unum-cloud/USearch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
