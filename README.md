@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ggml-org/llama.vscode - VS Code extension for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vscode)
 - [ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [cyberpapiii/chipotlai-max - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.](https://github.com/cyberpapiii/chipotlai-max)
 - [Gonzih/chipotle-llm-provider - OpenAI-compatible LLM proxy backed by Chipotle's Pepper AI (IPsoft Amelia) — free inference via fast food](https://github.com/Gonzih/chipotle-llm-provider)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WebReflection/signals - A minimalistic Preact-like signals implementation.](https://github.com/WebReflection/signals)
 - [nkzw-tech/cloudsail - Self-hosted instant sandboxes for coding agents on Cloudflare.](https://github.com/nkzw-tech/cloudsail)
 - [adamghill/jisticle - The native macOS client for GitHub Gists](https://github.com/adamghill/jisticle)
-- [adamghill/sqliteo - The native macOS SQLite browser built for normal people.](https://github.com/adamghill/sqliteo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
