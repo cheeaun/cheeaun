@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aubryio/minotor - A lightweight client-side transit routing library implementing RAPTOR.](https://github.com/aubryio/minotor)
 - [mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.](https://github.com/mrdoob/draco.js)
 - [ggml-org/llama.vscode - VS Code extension for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vscode)
 - [ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yizhe-ang/art-in-transit](https://github.com/yizhe-ang/art-in-transit)
 - [aurorascharff/ClickLight - A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility.](https://github.com/aurorascharff/ClickLight)
 - [WebReflection/signals - A minimalistic Preact-like signals implementation.](https://github.com/WebReflection/signals)
-- [nkzw-tech/cloudsail - Self-hosted instant sandboxes for coding agents on Cloudflare.](https://github.com/nkzw-tech/cloudsail)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
