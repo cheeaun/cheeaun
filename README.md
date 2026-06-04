@@ -37,7 +37,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [NativeScript/SimDeck - SimDeck is a developer tool built for streamlining mobile app development using agents. Drive iOS Simulators and Android emulators from your favorite IDE & CLI.](https://github.com/NativeScript/SimDeck)
 - [edugis-org/webmapx - A web component–based library that provides ready-to-use, extensible, and customizable UI tools for web maps, plus a plugin system for building your own map tools (MapLibre, OpenLayers, Leaflet, Cesium).](https://github.com/edugis-org/webmapx)
 - [arrowtype/shantell-sans - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.](https://github.com/arrowtype/shantell-sans)
-- [opengeos/GeoLibre - Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS.](https://github.com/opengeos/GeoLibre)
+- [opengeos/GeoLibre - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop, mobile, and web environments.](https://github.com/opengeos/GeoLibre)
 - [HeidiSQL/HeidiSQL - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal](https://github.com/HeidiSQL/HeidiSQL)
 - [yizhe-ang/art-in-transit](https://github.com/yizhe-ang/art-in-transit)
 - [aurorascharff/ClickLight - A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility.](https://github.com/aurorascharff/ClickLight)
