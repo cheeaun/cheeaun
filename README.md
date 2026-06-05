@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AbelVM/omt-router - Client-side routing library for OpenMapTiles vector tiles. Computes optimal routes for pedestrian, car, and bicycle travel entirely client-side — no routing backend or third-party service required.](https://github.com/AbelVM/omt-router)
 - [aubryio/minotor - A lightweight client-side transit routing library implementing RAPTOR.](https://github.com/aubryio/minotor)
 - [mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.](https://github.com/mrdoob/draco.js)
 - [ggml-org/llama.vscode - VS Code extension for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vscode)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [HeidiSQL/HeidiSQL - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal](https://github.com/HeidiSQL/HeidiSQL)
 - [yizhe-ang/art-in-transit](https://github.com/yizhe-ang/art-in-transit)
 - [aurorascharff/ClickLight - A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility.](https://github.com/aurorascharff/ClickLight)
-- [WebReflection/signals - A minimalistic Preact-like signals implementation.](https://github.com/WebReflection/signals)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
