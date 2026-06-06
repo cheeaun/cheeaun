@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pret/pokeemerald - Decompilation of Pokémon Emerald](https://github.com/pret/pokeemerald)
+- [tripplyons/pokeemerald-wasm - Pokemon Emerald in WebAssembly](https://github.com/tripplyons/pokeemerald-wasm)
 - [google-ai-edge/LiteRT-LM - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.](https://github.com/google-ai-edge/LiteRT-LM)
 - [zachleat/glyphhanger - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.](https://github.com/zachleat/glyphhanger)
 - [oomfware/lightbox - headless React image lightbox](https://github.com/oomfware/lightbox)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [johnbean393/KeyType - An open-source Cotypist with macOS system wide AI autocomplete](https://github.com/johnbean393/KeyType)
 - [NativeScript/SimDeck - SimDeck is a developer tool built for streamlining mobile app development using agents. Drive iOS Simulators and Android emulators from your favorite IDE & CLI.](https://github.com/NativeScript/SimDeck)
 - [edugis-org/webmapx - A web component–based library that provides ready-to-use, extensible, and customizable UI tools for web maps, plus a plugin system for building your own map tools (MapLibre, OpenLayers, Leaflet, Cesium).](https://github.com/edugis-org/webmapx)
-- [arrowtype/shantell-sans - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.](https://github.com/arrowtype/shantell-sans)
-- [opengeos/GeoLibre - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop, mobile, and web environments.](https://github.com/opengeos/GeoLibre)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
