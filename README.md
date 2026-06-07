@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ntsc-rs/ntsc-rs-web - Experimental web-based version of ntsc-rs](https://github.com/ntsc-rs/ntsc-rs-web)
+- [ntsc-rs/ntsc-rs - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).](https://github.com/ntsc-rs/ntsc-rs)
 - [pret/pokeemerald - Decompilation of Pokémon Emerald](https://github.com/pret/pokeemerald)
 - [tripplyons/pokeemerald-wasm - Pokemon Emerald in WebAssembly](https://github.com/tripplyons/pokeemerald-wasm)
 - [google-ai-edge/LiteRT-LM - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.](https://github.com/google-ai-edge/LiteRT-LM)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cyberpapiii/chipotlai-max - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.](https://github.com/cyberpapiii/chipotlai-max)
 - [Gonzih/chipotle-llm-provider - OpenAI-compatible LLM proxy backed by Chipotle's Pepper AI (IPsoft Amelia) — free inference via fast food](https://github.com/Gonzih/chipotle-llm-provider)
 - [johnbean393/KeyType - An open-source Cotypist with macOS system wide AI autocomplete](https://github.com/johnbean393/KeyType)
-- [NativeScript/SimDeck - SimDeck is a developer tool built for streamlining mobile app development using agents. Drive iOS Simulators and Android emulators from your favorite IDE & CLI.](https://github.com/NativeScript/SimDeck)
-- [edugis-org/webmapx - A web component–based library that provides ready-to-use, extensible, and customizable UI tools for web maps, plus a plugin system for building your own map tools (MapLibre, OpenLayers, Leaflet, Cesium).](https://github.com/edugis-org/webmapx)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
