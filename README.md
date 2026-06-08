@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stefanbohacek/fediverse-avatars](https://github.com/stefanbohacek/fediverse-avatars)
 - [ntsc-rs/ntsc-rs-web - Experimental web-based version of ntsc-rs](https://github.com/ntsc-rs/ntsc-rs-web)
 - [ntsc-rs/ntsc-rs - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).](https://github.com/ntsc-rs/ntsc-rs)
 - [pret/pokeemerald - Decompilation of Pokémon Emerald](https://github.com/pret/pokeemerald)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [cyberpapiii/chipotlai-max - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.](https://github.com/cyberpapiii/chipotlai-max)
 - [Gonzih/chipotle-llm-provider - OpenAI-compatible LLM proxy backed by Chipotle's Pepper AI (IPsoft Amelia) — free inference via fast food](https://github.com/Gonzih/chipotle-llm-provider)
-- [johnbean393/KeyType - An open-source Cotypist with macOS system wide AI autocomplete](https://github.com/johnbean393/KeyType)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
