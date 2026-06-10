@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kenn-io/agentsview - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!](https://github.com/kenn-io/agentsview)
 - [bytecodealliance/wasmtime - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant](https://github.com/bytecodealliance/wasmtime)
 - [mohak34/opencode-notifier - OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.](https://github.com/mohak34/opencode-notifier)
 - [stefanbohacek/fediverse-avatars](https://github.com/stefanbohacek/fediverse-avatars)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [aubryio/minotor - A lightweight client-side transit routing library implementing RAPTOR.](https://github.com/aubryio/minotor)
 - [mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.](https://github.com/mrdoob/draco.js)
 - [ggml-org/llama.vscode - VS Code extension for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vscode)
-- [ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
