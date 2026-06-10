@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [apple/container - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ](https://github.com/apple/container)
 - [kenn-io/agentsview - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!](https://github.com/kenn-io/agentsview)
 - [bytecodealliance/wasmtime - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant](https://github.com/bytecodealliance/wasmtime)
 - [mohak34/opencode-notifier - OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.](https://github.com/mohak34/opencode-notifier)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [AbelVM/omt-router - Client-side routing library for OpenMapTiles vector tiles. Computes optimal routes for pedestrian, car, and bicycle travel entirely client-side — no routing backend or third-party service required.](https://github.com/AbelVM/omt-router)
 - [aubryio/minotor - A lightweight client-side transit routing library implementing RAPTOR.](https://github.com/aubryio/minotor)
 - [mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.](https://github.com/mrdoob/draco.js)
-- [ggml-org/llama.vscode - VS Code extension for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vscode)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
