@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bytecodealliance/wasmtime - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant](https://github.com/bytecodealliance/wasmtime)
+- [mohak34/opencode-notifier - OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.](https://github.com/mohak34/opencode-notifier)
 - [stefanbohacek/fediverse-avatars](https://github.com/stefanbohacek/fediverse-avatars)
 - [ntsc-rs/ntsc-rs-web - Experimental web-based version of ntsc-rs](https://github.com/ntsc-rs/ntsc-rs-web)
 - [ntsc-rs/ntsc-rs - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).](https://github.com/ntsc-rs/ntsc-rs)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mrdoob/draco.js - A small, drop-in, pure-JavaScript Draco mesh loader for three.js.](https://github.com/mrdoob/draco.js)
 - [ggml-org/llama.vscode - VS Code extension for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vscode)
 - [ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- [cyberpapiii/chipotlai-max - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.](https://github.com/cyberpapiii/chipotlai-max)
-- [Gonzih/chipotle-llm-provider - OpenAI-compatible LLM proxy backed by Chipotle's Pepper AI (IPsoft Amelia) — free inference via fast food](https://github.com/Gonzih/chipotle-llm-provider)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
