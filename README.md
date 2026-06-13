@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Latias94/merman - Mermaid.js, but headless, in Rust.](https://github.com/Latias94/merman)
 - [Ebullioscopic/Atoll - Dynamic Island for macOS](https://github.com/Ebullioscopic/Atoll)
 - [jackson-storm/DynamicNotch - Turn the MacBook notch into a living system surface.](https://github.com/jackson-storm/DynamicNotch)
 - [roboflow/supervision - We write your reusable computer vision tools. 💜](https://github.com/roboflow/supervision)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [stefanbohacek/fediverse-avatars](https://github.com/stefanbohacek/fediverse-avatars)
 - [ntsc-rs/ntsc-rs-web - Experimental web-based version of ntsc-rs](https://github.com/ntsc-rs/ntsc-rs-web)
 - [ntsc-rs/ntsc-rs - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).](https://github.com/ntsc-rs/ntsc-rs)
-- [pret/pokeemerald - Decompilation of Pokémon Emerald](https://github.com/pret/pokeemerald)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
