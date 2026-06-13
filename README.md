@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Ebullioscopic/Atoll - Dynamic Island for macOS](https://github.com/Ebullioscopic/Atoll)
+- [jackson-storm/DynamicNotch - Turn the MacBook notch into a living system surface.](https://github.com/jackson-storm/DynamicNotch)
 - [roboflow/supervision - We write your reusable computer vision tools. 💜](https://github.com/roboflow/supervision)
 - [agrimsingh/glyphrush](https://github.com/agrimsingh/glyphrush)
 - [eurosky-social/eurosky-social-app - The Bluesky Social application for Web, iOS, and Android](https://github.com/eurosky-social/eurosky-social-app)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ntsc-rs/ntsc-rs-web - Experimental web-based version of ntsc-rs](https://github.com/ntsc-rs/ntsc-rs-web)
 - [ntsc-rs/ntsc-rs - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).](https://github.com/ntsc-rs/ntsc-rs)
 - [pret/pokeemerald - Decompilation of Pokémon Emerald](https://github.com/pret/pokeemerald)
-- [tripplyons/pokeemerald-wasm - Pokemon Emerald in WebAssembly](https://github.com/tripplyons/pokeemerald-wasm)
-- [google-ai-edge/LiteRT-LM - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.](https://github.com/google-ai-edge/LiteRT-LM)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
