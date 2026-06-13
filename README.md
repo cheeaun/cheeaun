@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 - [Latias94/merman - Mermaid.js, but headless, in Rust.](https://github.com/Latias94/merman)
 - [Ebullioscopic/Atoll - Dynamic Island for macOS](https://github.com/Ebullioscopic/Atoll)
 - [jackson-storm/DynamicNotch - Turn the MacBook notch into a living system surface.](https://github.com/jackson-storm/DynamicNotch)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mohak34/opencode-notifier - OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.](https://github.com/mohak34/opencode-notifier)
 - [stefanbohacek/fediverse-avatars](https://github.com/stefanbohacek/fediverse-avatars)
 - [ntsc-rs/ntsc-rs-web - Experimental web-based version of ntsc-rs](https://github.com/ntsc-rs/ntsc-rs-web)
-- [ntsc-rs/ntsc-rs - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).](https://github.com/ntsc-rs/ntsc-rs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
