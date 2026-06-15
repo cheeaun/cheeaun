@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [OpenBMB/MiniCPM-V - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
 - [BerriAI/litellm - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]](https://github.com/BerriAI/litellm)
 - [charmbracelet/vhs - Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs)
 - [tamnd/ascii-gif - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.](https://github.com/tamnd/ascii-gif)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [roboflow/supervision - We write your reusable computer vision tools. 💜](https://github.com/roboflow/supervision)
 - [agrimsingh/glyphrush](https://github.com/agrimsingh/glyphrush)
 - [eurosky-social/eurosky-social-app - The Bluesky Social application for Web, iOS, and Android](https://github.com/eurosky-social/eurosky-social-app)
-- [Automattic/juice - Juice inlines CSS stylesheets into your HTML source.](https://github.com/Automattic/juice)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
