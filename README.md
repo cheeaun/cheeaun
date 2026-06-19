@@ -37,7 +37,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
 - [openzim/libzim - Reference implementation of the ZIM specification](https://github.com/openzim/libzim)
 - [meta-pytorch/torchcodec - PyTorch media decoding and encoding](https://github.com/meta-pytorch/torchcodec)
-- [privatenumber/mac-ocr - macOS CLI for OCR and searchable PDFs using Apple's Vision framework.](https://github.com/privatenumber/mac-ocr)
+- [privatenumber/mac-ocr - macOS CLI for OCR and searchable PDFs using Apple's Vision framework](https://github.com/privatenumber/mac-ocr)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 - [Latias94/merman - Mermaid.js, but headless, in Rust.](https://github.com/Latias94/merman)
 - [Ebullioscopic/Atoll - Dynamic Island for macOS](https://github.com/Ebullioscopic/Atoll)
