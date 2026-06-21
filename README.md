@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [opengeos/geolibre-rust - whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre](https://github.com/opengeos/geolibre-rust)
 - [nexu-io/open-design - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.](https://github.com/nexu-io/open-design)
 - [crafter-station/petdex - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI](https://github.com/crafter-station/petdex)
 - [ascorbic/cirrus - A single-user ATProto PDS that runs on a Cloudflare Worker](https://github.com/ascorbic/cirrus)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [openzim/libzim - Reference implementation of the ZIM specification](https://github.com/openzim/libzim)
 - [meta-pytorch/torchcodec - PyTorch media decoding and encoding](https://github.com/meta-pytorch/torchcodec)
 - [privatenumber/mac-ocr - macOS CLI for OCR and searchable PDFs using Apple's Vision framework](https://github.com/privatenumber/mac-ocr)
-- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
