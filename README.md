@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [raphaelsalaja/audio - Declarative audio synthesis for the web](https://github.com/raphaelsalaja/audio)
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, and browser extensions. Docker & CLI supported. The official SDK is browser-only.](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr)
 - [opengeos/geolibre-rust - whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre](https://github.com/opengeos/geolibre-rust)
 - [nexu-io/open-design - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.](https://github.com/nexu-io/open-design)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tamnd/ascii-gif - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.](https://github.com/tamnd/ascii-gif)
 - [tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
 - [openzim/libzim - Reference implementation of the ZIM specification](https://github.com/openzim/libzim)
-- [meta-pytorch/torchcodec - PyTorch media decoding and encoding](https://github.com/meta-pytorch/torchcodec)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
