@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mattbirchler/Tangerine-Neue-for-Mastodon - A new UI for Mastodon](https://github.com/mattbirchler/Tangerine-Neue-for-Mastodon)
 - [InfiniteUnion/nea-rs - Type-safe, sans-IO Rust client for Singapore NEA real-time weather & environmental APIs](https://github.com/InfiniteUnion/nea-rs)
 - [lta-rs/lta-rs - 🚍 Singapore LTA Datamall Rust Client](https://github.com/lta-rs/lta-rs)
 - [Skyvern-AI/skyvern - Automate browser based workflows with AI](https://github.com/Skyvern-AI/skyvern)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [maximhq/bifrost - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.](https://github.com/maximhq/bifrost)
 - [OpenBMB/MiniCPM-V - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
 - [BerriAI/litellm - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]](https://github.com/BerriAI/litellm)
-- [charmbracelet/vhs - Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
