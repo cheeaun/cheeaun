@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [InfiniteUnion/nea-rs - Type-safe, sans-IO Rust client for Singapore NEA real-time weather & environmental APIs](https://github.com/InfiniteUnion/nea-rs)
+- [lta-rs/lta-rs - 🚍 Singapore LTA Datamall Rust Client](https://github.com/lta-rs/lta-rs)
 - [Skyvern-AI/skyvern - Automate browser based workflows with AI](https://github.com/Skyvern-AI/skyvern)
 - [raphaelsalaja/audio - Declarative audio synthesis for the web](https://github.com/raphaelsalaja/audio)
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, and browser extensions. Docker & CLI supported. The official SDK is browser-only.](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [OpenBMB/MiniCPM-V - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
 - [BerriAI/litellm - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]](https://github.com/BerriAI/litellm)
 - [charmbracelet/vhs - Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs)
-- [tamnd/ascii-gif - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.](https://github.com/tamnd/ascii-gif)
-- [tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
