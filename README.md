@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Skyvern-AI/skyvern - Automate browser based workflows with AI](https://github.com/Skyvern-AI/skyvern)
 - [raphaelsalaja/audio - Declarative audio synthesis for the web](https://github.com/raphaelsalaja/audio)
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, and browser extensions. Docker & CLI supported. The official SDK is browser-only.](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr)
 - [opengeos/geolibre-rust - whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre](https://github.com/opengeos/geolibre-rust)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [charmbracelet/vhs - Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs)
 - [tamnd/ascii-gif - Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default look.](https://github.com/tamnd/ascii-gif)
 - [tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
-- [openzim/libzim - Reference implementation of the ZIM specification](https://github.com/openzim/libzim)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
