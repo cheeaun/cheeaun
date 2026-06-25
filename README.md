@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [xberg-io/html-to-markdown - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 56+ document formats using streaming parsers and built-in OCR.](https://github.com/xberg-io/html-to-markdown)
 - [mattbirchler/Tangerine-Neue-for-Mastodon - A new UI for Mastodon](https://github.com/mattbirchler/Tangerine-Neue-for-Mastodon)
 - [InfiniteUnion/nea-rs - Type-safe, sans-IO Rust client for Singapore NEA real-time weather & environmental APIs](https://github.com/InfiniteUnion/nea-rs)
 - [lta-rs/lta-rs - 🚍 Singapore LTA Datamall Rust Client](https://github.com/lta-rs/lta-rs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yousifamanuel/terraink - Terraink: The Cartographic Poster Engine that creates unique and customizable map posters](https://github.com/yousifamanuel/terraink)
 - [maximhq/bifrost - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.](https://github.com/maximhq/bifrost)
 - [OpenBMB/MiniCPM-V - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
-- [BerriAI/litellm - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]](https://github.com/BerriAI/litellm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
