@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yeokm1/swiftii - A Swift-flavored mini development environment for the Apple II.](https://github.com/yeokm1/swiftii)
 - [viliket/pure-web-bottom-sheet - A performant, lightweight, and accessible bottom sheet web component powered by CSS scroll snap and CSS scroll-driven animations. Works with any framework, supports SSR, multiple snap points, and nested scrolling mode.](https://github.com/viliket/pure-web-bottom-sheet)
 - [datalab-to/surya - OCR, layout analysis, reading order, table recognition in 90+ languages](https://github.com/datalab-to/surya)
 - [xberg-io/html-to-markdown - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 56+ document formats using streaming parsers and built-in OCR.](https://github.com/xberg-io/html-to-markdown)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [crafter-station/petdex - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI](https://github.com/crafter-station/petdex)
 - [ascorbic/cirrus - A single-user ATProto PDS that runs on a Cloudflare Worker](https://github.com/ascorbic/cirrus)
 - [PaddlePaddle/PaddleOCR - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.](https://github.com/PaddlePaddle/PaddleOCR)
-- [yousifamanuel/terraink - Terraink: The Cartographic Poster Engine that creates unique and customizable map posters](https://github.com/yousifamanuel/terraink)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
