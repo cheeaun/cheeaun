@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Vanilagy/turbores - An extremely fast WASM Apple ProRes video decoder](https://github.com/Vanilagy/turbores)
 - [vllm-project/vllm - A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
 - [tdeverx/contained-app - A native macOS app for Apple's Container CLI](https://github.com/tdeverx/contained-app)
 - [yeokm1/swiftii - A Swift-flavored mini development environment for the Apple II.](https://github.com/yeokm1/swiftii)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, and browser extensions. Docker & CLI supported. The official SDK is browser-only.](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr)
 - [opengeos/geolibre-rust - whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre](https://github.com/opengeos/geolibre-rust)
 - [nexu-io/open-design - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.](https://github.com/nexu-io/open-design)
-- [crafter-station/petdex - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI](https://github.com/crafter-station/petdex)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
