@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chdb-io/chdb - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse ](https://github.com/chdb-io/chdb)
 - [educastellano/qr-code - Web Component for generating QR codes](https://github.com/educastellano/qr-code)
 - [Vanilagy/turbores - An extremely fast WASM Apple ProRes video decoder](https://github.com/Vanilagy/turbores)
 - [vllm-project/vllm - A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Skyvern-AI/skyvern - Automate browser based workflows with AI](https://github.com/Skyvern-AI/skyvern)
 - [raphaelsalaja/audio - Declarative audio synthesis for the web](https://github.com/raphaelsalaja/audio)
 - [PT-Perkasa-Pilar-Utama/ppu-paddle-ocr - Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, mobile react-native, web browsers, and browser extensions. Docker & CLI supported. The official SDK is browser-only.](https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr)
-- [opengeos/geolibre-rust - whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre](https://github.com/opengeos/geolibre-rust)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
