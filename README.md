@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [antiwork/chromeless - The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video. One Swift file.](https://github.com/antiwork/chromeless)
+- [ammaarreshi/Generals-Mac-iOS-iPad - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)
 - [obra/superpowers - An agentic skills framework & software development methodology that works.](https://github.com/obra/superpowers)
 - [chdb-io/chdb - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse ](https://github.com/chdb-io/chdb)
 - [educastellano/qr-code - Web Component for generating QR codes](https://github.com/educastellano/qr-code)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mattbirchler/Tangerine-Neue-for-Mastodon - A new UI for Mastodon](https://github.com/mattbirchler/Tangerine-Neue-for-Mastodon)
 - [InfiniteUnion/nea-rs - Type-safe, sans-IO Rust client for Singapore NEA real-time weather & environmental APIs](https://github.com/InfiniteUnion/nea-rs)
 - [lta-rs/lta-rs - 🚍 Singapore LTA Datamall Rust Client](https://github.com/lta-rs/lta-rs)
-- [Skyvern-AI/skyvern - Automate browser based workflows with AI](https://github.com/Skyvern-AI/skyvern)
-- [raphaelsalaja/audio - Declarative audio synthesis for the web](https://github.com/raphaelsalaja/audio)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
