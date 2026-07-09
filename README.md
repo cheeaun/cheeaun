@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nitotm/efficient-language-detector-js - Fast and accurate natural language detection. Detector written in Javascript. Nito-ELD, ELD. ](https://github.com/nitotm/efficient-language-detector-js)
+- [remarshal-project/remarshal - Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2](https://github.com/remarshal-project/remarshal)
 - [fedify-dev/feder - A lightweight ActivityPub server framework in Rust](https://github.com/fedify-dev/feder)
 - [openai/harmony - Renderer for the harmony response format to be used with gpt-oss](https://github.com/openai/harmony)
 - [antiwork/chromeless - The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video. One Swift file.](https://github.com/antiwork/chromeless)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yeokm1/swiftii - A Swift-flavored mini development environment for the Apple II.](https://github.com/yeokm1/swiftii)
 - [viliket/pure-web-bottom-sheet - A performant, lightweight, and accessible bottom sheet web component powered by CSS scroll snap and CSS scroll-driven animations. Works with any framework, supports SSR, multiple snap points, and nested scrolling mode.](https://github.com/viliket/pure-web-bottom-sheet)
 - [datalab-to/surya - OCR, layout analysis, reading order, table recognition in 90+ languages](https://github.com/datalab-to/surya)
-- [xberg-io/html-to-markdown - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 56+ document formats using streaming parsers and built-in OCR.](https://github.com/xberg-io/html-to-markdown)
-- [mattbirchler/Tangerine-Neue-for-Mastodon - A new UI for Mastodon](https://github.com/mattbirchler/Tangerine-Neue-for-Mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
