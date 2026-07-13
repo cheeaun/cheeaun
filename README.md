@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [apple/mapkit-loader - Loads Apple MapKit JS script dynamically from Apple MapKit CDN.](https://github.com/apple/mapkit-loader)
 - [dundee/gdu - Fast disk usage analyzer with console interface written in Go](https://github.com/dundee/gdu)
 - [aatishb/patterncollider - A web interactive for generating and exploring quasiperiodic tiling patterns](https://github.com/aatishb/patterncollider)
 - [nitotm/efficient-language-detector-js - Fast and accurate natural language detection. Detector written in Javascript. Nito-ELD, ELD. ](https://github.com/nitotm/efficient-language-detector-js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Vanilagy/turbores - An extremely fast WASM Apple ProRes video decoder](https://github.com/Vanilagy/turbores)
 - [vllm-project/vllm - A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
 - [tdeverx/contained-app - A native macOS app for Apple's Container CLI](https://github.com/tdeverx/contained-app)
-- [yeokm1/swiftii - A Swift-flavored mini development environment for the Apple II.](https://github.com/yeokm1/swiftii)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
