@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dkryaklin/colordx - A high-performance color library with extended support for modern color spaces including OKLCH, OKLAB, Display-P3, and more](https://github.com/dkryaklin/colordx)
 - [apple/mapkit-loader - Loads Apple MapKit JS script dynamically from Apple MapKit CDN.](https://github.com/apple/mapkit-loader)
 - [dundee/gdu - Fast disk usage analyzer with console interface written in Go](https://github.com/dundee/gdu)
 - [aatishb/patterncollider - A web interactive for generating and exploring quasiperiodic tiling patterns](https://github.com/aatishb/patterncollider)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [educastellano/qr-code - Web Component for generating QR codes](https://github.com/educastellano/qr-code)
 - [Vanilagy/turbores - An extremely fast WASM Apple ProRes video decoder](https://github.com/Vanilagy/turbores)
 - [vllm-project/vllm - A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
-- [tdeverx/contained-app - A native macOS app for Apple's Container CLI](https://github.com/tdeverx/contained-app)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
