@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [software-mansion/TypeGPU - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript](https://github.com/software-mansion/TypeGPU)
 - [dkryaklin/colordx - A high-performance color library with extended support for modern color spaces including OKLCH, OKLAB, Display-P3, and more](https://github.com/dkryaklin/colordx)
 - [apple/mapkit-loader - Loads Apple MapKit JS script dynamically from Apple MapKit CDN.](https://github.com/apple/mapkit-loader)
 - [dundee/gdu - Fast disk usage analyzer with console interface written in Go](https://github.com/dundee/gdu)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chdb-io/chdb - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse ](https://github.com/chdb-io/chdb)
 - [educastellano/qr-code - Web Component for generating QR codes](https://github.com/educastellano/qr-code)
 - [Vanilagy/turbores - An extremely fast WASM Apple ProRes video decoder](https://github.com/Vanilagy/turbores)
-- [vllm-project/vllm - A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
