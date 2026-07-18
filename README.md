@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [emilkowalski/skills - Skills for Design Engineers.](https://github.com/emilkowalski/skills)
 - [Vorld/singapore-gtfs - An unofficial GTFS feed for Singapore's public transport network.](https://github.com/Vorld/singapore-gtfs)
 - [Vorld/singapore-travel-time-map - How far can you get in Singapore by public transport? Interactive travel-time map.](https://github.com/Vorld/singapore-travel-time-map)
 - [software-mansion/TypeGPU - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript](https://github.com/software-mansion/TypeGPU)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antiwork/chromeless - The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video. One Swift file.](https://github.com/antiwork/chromeless)
 - [ammaarreshi/Generals-Mac-iOS-iPad - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)
 - [obra/superpowers - An agentic skills framework & software development methodology that works.](https://github.com/obra/superpowers)
-- [chdb-io/chdb - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse ](https://github.com/chdb-io/chdb)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
