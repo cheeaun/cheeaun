@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [demodemo0818/kurage - Flutter 製の Mastodon クライアント Kurage — Android / Web / Windows 対応 (Mastodon client built with Flutter)](https://github.com/demodemo0818/kurage)
 - [emilkowalski/skills - Skills for Design Engineers.](https://github.com/emilkowalski/skills)
 - [Vorld/singapore-gtfs - An unofficial GTFS feed for Singapore's public transport network.](https://github.com/Vorld/singapore-gtfs)
 - [Vorld/singapore-travel-time-map - How far can you get in Singapore by public transport? Interactive travel-time map.](https://github.com/Vorld/singapore-travel-time-map)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [openai/harmony - Renderer for the harmony response format to be used with gpt-oss](https://github.com/openai/harmony)
 - [antiwork/chromeless - The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video. One Swift file.](https://github.com/antiwork/chromeless)
 - [ammaarreshi/Generals-Mac-iOS-iPad - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)
-- [obra/superpowers - An agentic skills framework & software development methodology that works.](https://github.com/obra/superpowers)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
