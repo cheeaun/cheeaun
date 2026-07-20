@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [stfurkan/bitgpu - Fast WebGPU runtime for 1-bit (binary-weight) LLMs in the browser. Bit-exact, zero runtime dependencies.](https://github.com/stfurkan/bitgpu)
 - [moonshine-ai/moonshine - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces](https://github.com/moonshine-ai/moonshine)
 - [demodemo0818/kurage - Flutter 製の Mastodon クライアント Kurage — Android / Web / Windows 対応 (Mastodon client built with Flutter)](https://github.com/demodemo0818/kurage)
 - [emilkowalski/skills - Skills for Design Engineers.](https://github.com/emilkowalski/skills)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [remarshal-project/remarshal - Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2](https://github.com/remarshal-project/remarshal)
 - [fedify-dev/feder - A lightweight ActivityPub server framework in Rust](https://github.com/fedify-dev/feder)
 - [openai/harmony - Renderer for the harmony response format to be used with gpt-oss](https://github.com/openai/harmony)
-- [antiwork/chromeless - The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video. One Swift file.](https://github.com/antiwork/chromeless)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
