@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DavidHDev/canvas-ui - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.](https://github.com/DavidHDev/canvas-ui)
 - [stfurkan/bitgpu - Fast WebGPU runtime for 1-bit (binary-weight) LLMs in the browser. Bit-exact, zero runtime dependencies.](https://github.com/stfurkan/bitgpu)
 - [moonshine-ai/moonshine - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces](https://github.com/moonshine-ai/moonshine)
 - [demodemo0818/kurage - Flutter 製の Mastodon クライアント Kurage — Android / Web / Windows 対応 (Mastodon client built with Flutter)](https://github.com/demodemo0818/kurage)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nitotm/efficient-language-detector-js - Fast and accurate natural language detection. Detector written in Javascript. Nito-ELD, ELD. ](https://github.com/nitotm/efficient-language-detector-js)
 - [remarshal-project/remarshal - Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2](https://github.com/remarshal-project/remarshal)
 - [fedify-dev/feder - A lightweight ActivityPub server framework in Rust](https://github.com/fedify-dev/feder)
-- [openai/harmony - Renderer for the harmony response format to be used with gpt-oss](https://github.com/openai/harmony)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
