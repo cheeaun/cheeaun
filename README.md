@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bbernag/react-native-date - High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/)](https://github.com/bbernag/react-native-date)
+- [BabylonJS/Babylon-Lite - Home of Babylon Lite project](https://github.com/BabylonJS/Babylon-Lite)
+- [hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.](https://github.com/hoainho/img2threejs)
 - [DavidHDev/canvas-ui - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.](https://github.com/DavidHDev/canvas-ui)
 - [stfurkan/bitgpu - Fast WebGPU runtime for 1-bit (binary-weight) LLMs in the browser. Bit-exact, zero runtime dependencies.](https://github.com/stfurkan/bitgpu)
 - [moonshine-ai/moonshine - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces](https://github.com/moonshine-ai/moonshine)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [apple/mapkit-loader - Loads Apple MapKit JS script dynamically from Apple MapKit CDN.](https://github.com/apple/mapkit-loader)
 - [dundee/gdu - Fast disk usage analyzer with console interface written in Go](https://github.com/dundee/gdu)
 - [aatishb/patterncollider - A web interactive for generating and exploring quasiperiodic tiling patterns](https://github.com/aatishb/patterncollider)
-- [nitotm/efficient-language-detector-js - Fast and accurate natural language detection. Detector written in Javascript. Nito-ELD, ELD. ](https://github.com/nitotm/efficient-language-detector-js)
-- [remarshal-project/remarshal - Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2](https://github.com/remarshal-project/remarshal)
-- [fedify-dev/feder - A lightweight ActivityPub server framework in Rust](https://github.com/fedify-dev/feder)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
