@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [j9t/syntaxp - Super-simple code highlighting via the CSS Custom Highlight API](https://github.com/j9t/syntaxp)
 - [bbernag/react-native-date - High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/)](https://github.com/bbernag/react-native-date)
 - [BabylonJS/Babylon-Lite - Home of Babylon Lite project](https://github.com/BabylonJS/Babylon-Lite)
 - [hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.](https://github.com/hoainho/img2threejs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dkryaklin/colordx - A high-performance color library with extended support for modern color spaces including OKLCH, OKLAB, Display-P3, and more](https://github.com/dkryaklin/colordx)
 - [apple/mapkit-loader - Loads Apple MapKit JS script dynamically from Apple MapKit CDN.](https://github.com/apple/mapkit-loader)
 - [dundee/gdu - Fast disk usage analyzer with console interface written in Go](https://github.com/dundee/gdu)
-- [aatishb/patterncollider - A web interactive for generating and exploring quasiperiodic tiling patterns](https://github.com/aatishb/patterncollider)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
