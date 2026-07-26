@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ayghri/i-have-adhd - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.](https://github.com/ayghri/i-have-adhd)
 - [j9t/syntaxp - Super-simple code highlighting via the CSS Custom Highlight API](https://github.com/j9t/syntaxp)
 - [bbernag/react-native-date - High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/)](https://github.com/bbernag/react-native-date)
 - [BabylonJS/Babylon-Lite - Home of Babylon Lite project](https://github.com/BabylonJS/Babylon-Lite)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [software-mansion/TypeGPU - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript](https://github.com/software-mansion/TypeGPU)
 - [dkryaklin/colordx - A high-performance color library with extended support for modern color spaces including OKLCH, OKLAB, Display-P3, and more](https://github.com/dkryaklin/colordx)
 - [apple/mapkit-loader - Loads Apple MapKit JS script dynamically from Apple MapKit CDN.](https://github.com/apple/mapkit-loader)
-- [dundee/gdu - Fast disk usage analyzer with console interface written in Go](https://github.com/dundee/gdu)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
