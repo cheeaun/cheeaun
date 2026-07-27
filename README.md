@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [PerryTS/perry - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.](https://github.com/PerryTS/perry)
 - [vercel-labs/scriptc - TypeScript-to-Native Compiler](https://github.com/vercel-labs/scriptc)
 - [ayghri/i-have-adhd - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.](https://github.com/ayghri/i-have-adhd)
 - [j9t/syntaxp - Super-simple code highlighting via the CSS Custom Highlight API](https://github.com/j9t/syntaxp)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Vorld/singapore-gtfs - An unofficial GTFS feed for Singapore's public transport network.](https://github.com/Vorld/singapore-gtfs)
 - [Vorld/singapore-travel-time-map - How far can you get in Singapore by public transport? Interactive travel-time map.](https://github.com/Vorld/singapore-travel-time-map)
 - [software-mansion/TypeGPU - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript](https://github.com/software-mansion/TypeGPU)
-- [dkryaklin/colordx - A high-performance color library with extended support for modern color spaces including OKLCH, OKLAB, Display-P3, and more](https://github.com/dkryaklin/colordx)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
