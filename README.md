@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sxyazi/yazi - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
+- [yorukot/superfile - Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
 - [PerryTS/perry - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.](https://github.com/PerryTS/perry)
 - [vercel-labs/scriptc - TypeScript-to-Native Compiler](https://github.com/vercel-labs/scriptc)
 - [ayghri/i-have-adhd - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.](https://github.com/ayghri/i-have-adhd)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [demodemo0818/kurage - Flutter 製の Mastodon クライアント Kurage — Android / Web / Windows 対応 (Mastodon client built with Flutter)](https://github.com/demodemo0818/kurage)
 - [emilkowalski/skills - Skills for Design Engineers.](https://github.com/emilkowalski/skills)
 - [Vorld/singapore-gtfs - An unofficial GTFS feed for Singapore's public transport network.](https://github.com/Vorld/singapore-gtfs)
-- [Vorld/singapore-travel-time-map - How far can you get in Singapore by public transport? Interactive travel-time map.](https://github.com/Vorld/singapore-travel-time-map)
-- [software-mansion/TypeGPU - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript](https://github.com/software-mansion/TypeGPU)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
