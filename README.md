@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [SFTtech/openage - Clone of the Age of Empires II engine 🚀 ](https://github.com/SFTtech/openage)
+- [kyleoliveiro/sg-gov-skills - Agent skills for developers building tech projects for Singapore government agencies.](https://github.com/kyleoliveiro/sg-gov-skills)
 - [sxyazi/yazi - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 - [yorukot/superfile - Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
 - [PerryTS/perry - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.](https://github.com/PerryTS/perry)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [stfurkan/bitgpu - Fast WebGPU runtime for 1-bit (binary-weight) LLMs in the browser. Bit-exact, zero runtime dependencies.](https://github.com/stfurkan/bitgpu)
 - [moonshine-ai/moonshine - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces](https://github.com/moonshine-ai/moonshine)
 - [demodemo0818/kurage - Flutter 製の Mastodon クライアント Kurage — Android / Web / Windows 対応 (Mastodon client built with Flutter)](https://github.com/demodemo0818/kurage)
-- [emilkowalski/skills - Skills for Design Engineers.](https://github.com/emilkowalski/skills)
-- [Vorld/singapore-gtfs - An unofficial GTFS feed for Singapore's public transport network.](https://github.com/Vorld/singapore-gtfs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
