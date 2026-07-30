@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [citrolabs/ego-lite - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.](https://github.com/citrolabs/ego-lite)
+- [drumih/turbo-fieldfare - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook](https://github.com/drumih/turbo-fieldfare)
 - [SFTtech/openage - Clone of the Age of Empires II engine 🚀 ](https://github.com/SFTtech/openage)
 - [kyleoliveiro/sg-gov-skills - Agent skills for developers building tech projects for Singapore government agencies.](https://github.com/kyleoliveiro/sg-gov-skills)
 - [sxyazi/yazi - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [img2threejs/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.](https://github.com/img2threejs/img2threejs)
 - [DavidHDev/canvas-ui - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.](https://github.com/DavidHDev/canvas-ui)
 - [stfurkan/bitgpu - Fast WebGPU runtime for 1-bit (binary-weight) LLMs in the browser. Bit-exact, zero runtime dependencies.](https://github.com/stfurkan/bitgpu)
-- [moonshine-ai/moonshine - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces](https://github.com/moonshine-ai/moonshine)
-- [demodemo0818/kurage - Flutter 製の Mastodon クライアント Kurage — Android / Web / Windows 対応 (Mastodon client built with Flutter)](https://github.com/demodemo0818/kurage)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
