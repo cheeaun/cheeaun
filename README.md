@@ -35,7 +35,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yorukot/superfile - Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
 - [PerryTS/perry - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.](https://github.com/PerryTS/perry)
 - [vercel-labs/scriptc - TypeScript-to-Native Compiler](https://github.com/vercel-labs/scriptc)
-- [ayghri/i-have-adhd - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.](https://github.com/ayghri/i-have-adhd)
+- [ayghri/i-have-adhd - A skill to stop your coding agent from burying the answer. ADHD-friendly output.](https://github.com/ayghri/i-have-adhd)
 - [j9t/syntaxp - Super-simple code highlighting via the CSS Custom Highlight API](https://github.com/j9t/syntaxp)
 - [bbernag/react-native-date - High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/)](https://github.com/bbernag/react-native-date)
 - [BabylonJS/Babylon-Lite - Home of Babylon Lite project](https://github.com/BabylonJS/Babylon-Lite)
