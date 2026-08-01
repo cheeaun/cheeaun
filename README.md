@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ChefJulio/jpeg-to-jxl - Lossless JPEG to JPEG XL transcoding in the browser via WASM. ~20% smaller files with byte-perfect JPEG reconstruction.](https://github.com/ChefJulio/jpeg-to-jxl)
+- [milos-agathon/forge3d - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.](https://github.com/milos-agathon/forge3d)
 - [citrolabs/ego-lite - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.](https://github.com/citrolabs/ego-lite)
 - [drumih/turbo-fieldfare - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook](https://github.com/drumih/turbo-fieldfare)
 - [SFTtech/openage - Clone of the Age of Empires II engine 🚀 ](https://github.com/SFTtech/openage)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bbernag/react-native-date - High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/)](https://github.com/bbernag/react-native-date)
 - [BabylonJS/Babylon-Lite - Home of Babylon Lite project](https://github.com/BabylonJS/Babylon-Lite)
 - [img2threejs/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.](https://github.com/img2threejs/img2threejs)
-- [DavidHDev/canvas-ui - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.](https://github.com/DavidHDev/canvas-ui)
-- [stfurkan/bitgpu - Fast WebGPU runtime for 1-bit (binary-weight) LLMs in the browser. Bit-exact, zero runtime dependencies.](https://github.com/stfurkan/bitgpu)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
