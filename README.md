@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [arielsalminen/elena - Elena is a simple, tiny library for building Progressive Web Components.](https://github.com/arielsalminen/elena)
 - [ChefJulio/jpeg-to-jxl - Lossless JPEG to JPEG XL transcoding in the browser via WASM. ~20% smaller files with byte-perfect JPEG reconstruction.](https://github.com/ChefJulio/jpeg-to-jxl)
 - [milos-agathon/forge3d - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.](https://github.com/milos-agathon/forge3d)
 - [citrolabs/ego-lite - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.](https://github.com/citrolabs/ego-lite)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [j9t/syntaxp - Super-simple code highlighting via the CSS Custom Highlight API](https://github.com/j9t/syntaxp)
 - [bbernag/react-native-date - High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/)](https://github.com/bbernag/react-native-date)
 - [BabylonJS/Babylon-Lite - Home of Babylon Lite project](https://github.com/BabylonJS/Babylon-Lite)
-- [img2threejs/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.](https://github.com/img2threejs/img2threejs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
