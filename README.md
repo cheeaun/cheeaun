@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [richlegrand/bitbang-cli - Proxy server that uses BitBang](https://github.com/richlegrand/bitbang-cli)
+- [richlegrand/bitbang-cli - Turn your machine into a URL. Peer-to-peer over WebRTC -- no account, no client to install, no port forwarding.](https://github.com/richlegrand/bitbang-cli)
 - [arielsalminen/elena - Elena is a simple, tiny library for building Progressive Web Components.](https://github.com/arielsalminen/elena)
 - [ChefJulio/jpeg-to-jxl - Lossless JPEG to JPEG XL transcoding in the browser via WASM. ~20% smaller files with byte-perfect JPEG reconstruction.](https://github.com/ChefJulio/jpeg-to-jxl)
 - [milos-agathon/forge3d - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.](https://github.com/milos-agathon/forge3d)
