@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [saifulanuarsg/sg-transit-atlas](https://github.com/saifulanuarsg/sg-transit-atlas)
 - [colinvkim/Radix - Modern, extremely fast macOS disk space analyzer.](https://github.com/colinvkim/Radix)
 - [eakbulut/foley - Sound effects for the interface, performed live. 28 Web Audio cues, zero dependencies.](https://github.com/eakbulut/foley)
 - [richlegrand/bitbang-cli - Turn your machine into a URL. Peer-to-peer over WebRTC -- no account, no client to install, no port forwarding.](https://github.com/richlegrand/bitbang-cli)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yorukot/superfile - Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
 - [PerryTS/perry - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.](https://github.com/PerryTS/perry)
 - [vercel-labs/scriptc - TypeScript-to-Native Compiler](https://github.com/vercel-labs/scriptc)
-- [ayghri/i-have-adhd - A skill to stop your coding agent from burying the answer. ADHD-friendly output.](https://github.com/ayghri/i-have-adhd)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
