@@ -40,7 +40,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kyleoliveiro/sg-gov-skills - Agent skills for developers building tech projects for Singapore government agencies.](https://github.com/kyleoliveiro/sg-gov-skills)
 - [sxyazi/yazi - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 - [yorukot/superfile - Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
-- [PerryTS/perry - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.](https://github.com/PerryTS/perry)
+- [PerryTS/perry - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.](https://github.com/PerryTS/perry)
 - [vercel-labs/scriptc - TypeScript-to-Native Compiler](https://github.com/vercel-labs/scriptc)
 <!-- starred repos end -->
 
