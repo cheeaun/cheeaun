@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [denoland/celld - self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
 - [saifulanuarsg/sg-transit-atlas](https://github.com/saifulanuarsg/sg-transit-atlas)
 - [colinvkim/Radix - Modern, extremely fast macOS disk space analyzer.](https://github.com/colinvkim/Radix)
 - [eakbulut/foley - Sound effects for the interface, performed live. 28 Web Audio cues, zero dependencies.](https://github.com/eakbulut/foley)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sxyazi/yazi - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 - [yorukot/superfile - Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
 - [PerryTS/perry - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.](https://github.com/PerryTS/perry)
-- [vercel-labs/scriptc - TypeScript-to-Native Compiler](https://github.com/vercel-labs/scriptc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
