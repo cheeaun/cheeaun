@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [DioxusLabs/blitz - A radically modular HTML/CSS rendering engine](https://github.com/DioxusLabs/blitz)
 - [tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.](https://github.com/tejaswigowda/ffmpeg-webCLI)
 - [denoland/celld - self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
 - [saifulanuarsg/sg-transit-atlas](https://github.com/saifulanuarsg/sg-transit-atlas)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [SFTtech/openage - Clone of the Age of Empires II engine 🚀 ](https://github.com/SFTtech/openage)
 - [kyleoliveiro/sg-gov-skills - Agent skills for developers building tech projects for Singapore government agencies.](https://github.com/kyleoliveiro/sg-gov-skills)
 - [sxyazi/yazi - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
-- [yorukot/superfile - Pretty fancy and modern terminal file manager](https://github.com/yorukot/superfile)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
