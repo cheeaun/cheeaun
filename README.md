@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [AntigmaLabs/ante - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ](https://github.com/AntigmaLabs/ante)
+- [antirez/h3.c - MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
 - [waveshareteam/ESP32-S3-Touch-AMOLED-1.8 - ESP32-S3-Touch-AMOLED-1.8 Engineering Sample Program](https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-1.8)
 - [DioxusLabs/blitz - A radically modular HTML/CSS rendering engine](https://github.com/DioxusLabs/blitz)
 - [tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.](https://github.com/tejaswigowda/ffmpeg-webCLI)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [milos-agathon/forge3d - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.](https://github.com/milos-agathon/forge3d)
 - [citrolabs/ego-lite - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.](https://github.com/citrolabs/ego-lite)
 - [drumih/turbo-fieldfare - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook](https://github.com/drumih/turbo-fieldfare)
-- [SFTtech/openage - Clone of the Age of Empires II engine 🚀 ](https://github.com/SFTtech/openage)
-- [kyleoliveiro/sg-gov-skills - Agent skills for developers building tech projects for Singapore government agencies.](https://github.com/kyleoliveiro/sg-gov-skills)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
