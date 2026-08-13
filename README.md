@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oomfware/scion - lightweight, drop-in React 19 replacement for synchronous browser apps](https://github.com/oomfware/scion)
 - [chrissotraidis/sunpad - Super Mario Sunshine on iPhone, iPad, and Apple Silicon Mac through static recompilation and Metal.](https://github.com/chrissotraidis/sunpad)
 - [AntigmaLabs/ante - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ](https://github.com/AntigmaLabs/ante)
 - [antirez/h3.c - MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [arielsalminen/elena - Elena is a simple, tiny library for building Progressive Web Components.](https://github.com/arielsalminen/elena)
 - [ChefJulio/jpeg-to-jxl - Lossless JPEG to JPEG XL transcoding in the browser via WASM. ~20% smaller files with byte-perfect JPEG reconstruction.](https://github.com/ChefJulio/jpeg-to-jxl)
 - [milos-agathon/forge3d - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.](https://github.com/milos-agathon/forge3d)
-- [citrolabs/ego-lite - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.](https://github.com/citrolabs/ego-lite)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
