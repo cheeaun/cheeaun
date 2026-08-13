@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [joulev/bcrs-map - Map of all Beverage Container Return Scheme return points in Singapore ](https://github.com/joulev/bcrs-map)
+- [shadcn-labs/pdfcn - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/pdfcn)
+- [deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.](https://github.com/deepseek-ai/deepseek-harness)
 - [oomfware/scion - lightweight, drop-in React 19 replacement for synchronous browser apps](https://github.com/oomfware/scion)
 - [chrissotraidis/sunpad - Super Mario Sunshine on iPhone, iPad, and Apple Silicon Mac through static recompilation and Metal.](https://github.com/chrissotraidis/sunpad)
 - [AntigmaLabs/ante - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ](https://github.com/AntigmaLabs/ante)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [colinvkim/Radix - Modern, extremely fast macOS disk space analyzer.](https://github.com/colinvkim/Radix)
 - [eakbulut/foley - Sound effects for the interface, performed live. 28 Web Audio cues, zero dependencies.](https://github.com/eakbulut/foley)
 - [richlegrand/bitbang-cli - Turn your machine into a URL. Peer-to-peer over WebRTC -- no account, no client to install, no port forwarding.](https://github.com/richlegrand/bitbang-cli)
-- [arielsalminen/elena - Elena is a simple, tiny library for building Progressive Web Components.](https://github.com/arielsalminen/elena)
-- [ChefJulio/jpeg-to-jxl - Lossless JPEG to JPEG XL transcoding in the browser via WASM. ~20% smaller files with byte-perfect JPEG reconstruction.](https://github.com/ChefJulio/jpeg-to-jxl)
-- [milos-agathon/forge3d - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels.](https://github.com/milos-agathon/forge3d)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
