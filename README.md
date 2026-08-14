@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [flawnn/ArcFolderArchiver - Small web tool to export Arc Folder's & "flatten" them to a single URL](https://github.com/flawnn/ArcFolderArchiver)
 - [joulev/bcrs-map - Map of all Beverage Container Return Scheme return points in Singapore ](https://github.com/joulev/bcrs-map)
 - [shadcn-labs/pdfcn - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/pdfcn)
 - [deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.](https://github.com/deepseek-ai/deepseek-harness)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [saifulanuarsg/sg-transit-atlas](https://github.com/saifulanuarsg/sg-transit-atlas)
 - [colinvkim/Radix - Modern, extremely fast macOS disk space analyzer.](https://github.com/colinvkim/Radix)
 - [eakbulut/foley - Sound effects for the interface, performed live. 28 Web Audio cues, zero dependencies.](https://github.com/eakbulut/foley)
-- [richlegrand/bitbang-cli - Turn your machine into a URL. Peer-to-peer over WebRTC -- no account, no client to install, no port forwarding.](https://github.com/richlegrand/bitbang-cli)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
