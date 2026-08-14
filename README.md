@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶](https://github.com/titanwings/colleague-skill)
+- [whiteguo233/OpenBiliClaw - 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）](https://github.com/whiteguo233/OpenBiliClaw)
+- [zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.](https://github.com/zhu1090093659/dsh-web-ui)
+- [NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.](https://github.com/NousResearch/Hermes-Bot-Mode)
+- [anywhere-labs/deepseek-harness-desktop - 基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。](https://github.com/anywhere-labs/deepseek-harness-desktop)
 - [flawnn/ArcFolderArchiver - Small web tool to export Arc Folder's & "flatten" them to a single URL](https://github.com/flawnn/ArcFolderArchiver)
 - [joulev/bcrs-map - Map of all Beverage Container Return Scheme return points in Singapore ](https://github.com/joulev/bcrs-map)
 - [shadcn-labs/pdfcn - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/pdfcn)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antirez/h3.c - MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
 - [waveshareteam/ESP32-S3-Touch-AMOLED-1.8 - ESP32-S3-Touch-AMOLED-1.8 Engineering Sample Program](https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-1.8)
 - [DioxusLabs/blitz - A radically modular HTML/CSS rendering engine](https://github.com/DioxusLabs/blitz)
-- [tejaswigowda/ffmpeg-webCLI - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.](https://github.com/tejaswigowda/ffmpeg-webCLI)
-- [denoland/celld - self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
-- [saifulanuarsg/sg-transit-atlas](https://github.com/saifulanuarsg/sg-transit-atlas)
-- [colinvkim/Radix - Modern, extremely fast macOS disk space analyzer.](https://github.com/colinvkim/Radix)
-- [eakbulut/foley - Sound effects for the interface, performed live. 28 Web Audio cues, zero dependencies.](https://github.com/eakbulut/foley)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
