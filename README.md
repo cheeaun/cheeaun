@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Raphire/Win11Debloat - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.](https://github.com/Raphire/Win11Debloat)
 - [RouteVN/routevn-creator-client - RouteVN Creator is a desktop application to create Visual Novels without any coding](https://github.com/RouteVN/routevn-creator-client)
 - [titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶](https://github.com/titanwings/colleague-skill)
 - [whiteguo233/OpenBiliClaw - 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）](https://github.com/whiteguo233/OpenBiliClaw)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chrissotraidis/sunpad - Super Mario Sunshine on iPhone, iPad, and Apple Silicon Mac through static recompilation and Metal.](https://github.com/chrissotraidis/sunpad)
 - [AntigmaLabs/ante - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ](https://github.com/AntigmaLabs/ante)
 - [antirez/h3.c - MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
-- [waveshareteam/ESP32-S3-Touch-AMOLED-1.8 - ESP32-S3-Touch-AMOLED-1.8 Engineering Sample Program](https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-1.8)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
