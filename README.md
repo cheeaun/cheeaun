@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [curioputterings/singapore-mall-data - Singapore shopping mall and nursing-room datasets, reports, and interactive visualisations. CC BY 4.0.](https://github.com/curioputterings/singapore-mall-data)
+- [awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 - [wojtekmaj/vite-plugin-simple-html - Vite plugin for HTML processing and minification](https://github.com/wojtekmaj/vite-plugin-simple-html)
 - [Raphire/Win11Debloat - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.](https://github.com/Raphire/Win11Debloat)
 - [RouteVN/routevn-creator-client - RouteVN Creator is a desktop application to create Visual Novels without any coding](https://github.com/RouteVN/routevn-creator-client)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shadcn-labs/pdfcn - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/pdfcn)
 - [deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.](https://github.com/deepseek-ai/deepseek-harness)
 - [oomfware/scion - lightweight, drop-in React 19 replacement for synchronous browser apps](https://github.com/oomfware/scion)
-- [chrissotraidis/sunpad - Super Mario Sunshine on iPhone, iPad, and Apple Silicon Mac through static recompilation and Metal.](https://github.com/chrissotraidis/sunpad)
-- [AntigmaLabs/ante - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ](https://github.com/AntigmaLabs/ante)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
