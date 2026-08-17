@@ -27,13 +27,14 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [wojtekmaj/vite-plugin-simple-html - Vite plugin for HTML processing and minification](https://github.com/wojtekmaj/vite-plugin-simple-html)
 - [Raphire/Win11Debloat - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.](https://github.com/Raphire/Win11Debloat)
 - [RouteVN/routevn-creator-client - RouteVN Creator is a desktop application to create Visual Novels without any coding](https://github.com/RouteVN/routevn-creator-client)
 - [titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶](https://github.com/titanwings/colleague-skill)
 - [whiteguo233/OpenBiliClaw - 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）](https://github.com/whiteguo233/OpenBiliClaw)
 - [zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.](https://github.com/zhu1090093659/dsh-web-ui)
 - [NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.](https://github.com/NousResearch/Hermes-Bot-Mode)
-- [anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案](https://github.com/anywhere-labs/deepseek-harness-desktop)
+- [anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。](https://github.com/anywhere-labs/deepseek-harness-desktop)
 - [flawnn/ArcFolderArchiver - Small web tool to export Arc Folder's & "flatten" them to a single URL](https://github.com/flawnn/ArcFolderArchiver)
 - [joulev/bcrs-map - Map of all Beverage Container Return Scheme return points in Singapore ](https://github.com/joulev/bcrs-map)
 - [shadcn-labs/pdfcn - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/pdfcn)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [oomfware/scion - lightweight, drop-in React 19 replacement for synchronous browser apps](https://github.com/oomfware/scion)
 - [chrissotraidis/sunpad - Super Mario Sunshine on iPhone, iPad, and Apple Silicon Mac through static recompilation and Metal.](https://github.com/chrissotraidis/sunpad)
 - [AntigmaLabs/ante - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ](https://github.com/AntigmaLabs/ante)
-- [antirez/h3.c - MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
