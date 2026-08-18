@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [franktisellano/datatype - Datatype is a variable font that turns text into charts.](https://github.com/franktisellano/datatype)
 - [cosinekitty/astronomy - Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other events. Provides vector and angular coordinate transforms among equatorial, ecliptic, horizontal, and galactic orientations.](https://github.com/cosinekitty/astronomy)
 - [curioputterings/singapore-mall-data - Singapore shopping mall and nursing-room datasets, reports, and interactive visualisations. CC BY 4.0.](https://github.com/curioputterings/singapore-mall-data)
 - [awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [flawnn/ArcFolderArchiver - Small web tool to export Arc Folder's & "flatten" them to a single URL](https://github.com/flawnn/ArcFolderArchiver)
 - [joulev/bcrs-map - Map of all Beverage Container Return Scheme return points in Singapore ](https://github.com/joulev/bcrs-map)
 - [shadcn-labs/pdfcn - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/pdfcn)
-- [deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.](https://github.com/deepseek-ai/deepseek-harness)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
