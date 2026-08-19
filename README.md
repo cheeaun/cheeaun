@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [eramdam/elmer-for-mastodon - Custom CSS theme for Mastodon 4.6 that changes the colors and other small things](https://github.com/eramdam/elmer-for-mastodon)
 - [franktisellano/datatype - Datatype is a variable font that turns text into charts.](https://github.com/franktisellano/datatype)
 - [cosinekitty/astronomy - Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other events. Provides vector and angular coordinate transforms among equatorial, ecliptic, horizontal, and galactic orientations.](https://github.com/cosinekitty/astronomy)
 - [curioputterings/singapore-mall-data - Singapore shopping mall and nursing-room datasets, reports, and interactive visualisations. CC BY 4.0.](https://github.com/curioputterings/singapore-mall-data)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。](https://github.com/anywhere-labs/deepseek-harness-desktop)
 - [flawnn/ArcFolderArchiver - Small web tool to export Arc Folder's & "flatten" them to a single URL](https://github.com/flawnn/ArcFolderArchiver)
 - [joulev/bcrs-map - Map of all Beverage Container Return Scheme return points in Singapore ](https://github.com/joulev/bcrs-map)
-- [shadcn-labs/pdfcn - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/pdfcn)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
