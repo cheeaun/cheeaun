@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [muimsd/map-gl-offline - A TypeScript npm package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.](https://github.com/muimsd/map-gl-offline)
+- [zwang-geog/mapbox-exif-layer - Wind particles, smooth weather raster display from JPEG/PNG, and GeoTIFF (scalar or RGB) visualization on Mapbox GL JS and MapLibre GL JS](https://github.com/zwang-geog/mapbox-exif-layer)
+- [spwoodcock/maplibre-ui-translations - 🌍 Community translations for the default MapLibre UI.](https://github.com/spwoodcock/maplibre-ui-translations)
 - [eramdam/elmer-for-mastodon - Custom CSS theme for Mastodon 4.6 that changes the colors and other small things](https://github.com/eramdam/elmer-for-mastodon)
 - [franktisellano/datatype - Datatype is a variable font that turns text into charts.](https://github.com/franktisellano/datatype)
 - [cosinekitty/astronomy - Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other events. Provides vector and angular coordinate transforms among equatorial, ecliptic, horizontal, and galactic orientations.](https://github.com/cosinekitty/astronomy)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [whiteguo233/OpenBiliClaw - 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）](https://github.com/whiteguo233/OpenBiliClaw)
 - [zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.](https://github.com/zhu1090093659/dsh-web-ui)
 - [NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.](https://github.com/NousResearch/Hermes-Bot-Mode)
-- [anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。](https://github.com/anywhere-labs/deepseek-harness-desktop)
-- [flawnn/ArcFolderArchiver - Small web tool to export Arc Folder's & "flatten" them to a single URL](https://github.com/flawnn/ArcFolderArchiver)
-- [joulev/bcrs-map - Map of all Beverage Container Return Scheme return points in Singapore ](https://github.com/joulev/bcrs-map)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
