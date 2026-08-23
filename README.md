@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [remorses/gpuix - Node.js & React bindings for Zed GPUI.](https://github.com/remorses/gpuix)
 - [psmux/psmux - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀](https://github.com/psmux/psmux)
 - [MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source.](https://github.com/MengTo/threeui)
 - [s0lness/awesome-esp32 - Hand-picked ESP32 projects worth building, copying, or watching run](https://github.com/s0lness/awesome-esp32)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 - [wojtekmaj/vite-plugin-simple-html - Vite plugin for HTML processing and minification](https://github.com/wojtekmaj/vite-plugin-simple-html)
 - [Raphire/Win11Debloat - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.](https://github.com/Raphire/Win11Debloat)
-- [RouteVN/routevn-creator-client - RouteVN Creator is a desktop application to create Visual Novels without any coding](https://github.com/RouteVN/routevn-creator-client)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
