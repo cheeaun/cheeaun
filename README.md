@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [manzt/zarrita.js - A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays](https://github.com/manzt/zarrita.js)
 - [Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.](https://github.com/Panniantong/Agent-Reach)
 - [public-clis/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal](https://github.com/public-clis/twitter-cli)
 - [remorses/gpuix - Node.js & React bindings for Zed GPUI.](https://github.com/remorses/gpuix)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [franktisellano/datatype - Datatype is a variable font that turns text into charts.](https://github.com/franktisellano/datatype)
 - [cosinekitty/astronomy - Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other events. Provides vector and angular coordinate transforms among equatorial, ecliptic, horizontal, and galactic orientations.](https://github.com/cosinekitty/astronomy)
 - [curioputterings/singapore-mall-data - Singapore shopping mall and nursing-room datasets, reports, and interactive visualisations. CC BY 4.0.](https://github.com/curioputterings/singapore-mall-data)
-- [awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
