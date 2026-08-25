@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nasa-gibs/worldview - Interactive interface for browsing global, full-resolution satellite imagery](https://github.com/nasa-gibs/worldview)
+- [raphamorim/oj - An experimental Rust-native build tool for React apps.](https://github.com/raphamorim/oj)
 - [manzt/zarrita.js - A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays](https://github.com/manzt/zarrita.js)
 - [Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.](https://github.com/Panniantong/Agent-Reach)
 - [public-clis/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal](https://github.com/public-clis/twitter-cli)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [spwoodcock/maplibre-ui-translations - 🌍 Community translations for the default MapLibre UI.](https://github.com/spwoodcock/maplibre-ui-translations)
 - [eramdam/elmer-for-mastodon - Custom CSS theme for Mastodon 4.6 that changes the colors and other small things](https://github.com/eramdam/elmer-for-mastodon)
 - [franktisellano/datatype - Datatype is a variable font that turns text into charts.](https://github.com/franktisellano/datatype)
-- [cosinekitty/astronomy - Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other events. Provides vector and angular coordinate transforms among equatorial, ecliptic, horizontal, and galactic orientations.](https://github.com/cosinekitty/astronomy)
-- [curioputterings/singapore-mall-data - Singapore shopping mall and nursing-room datasets, reports, and interactive visualisations. CC BY 4.0.](https://github.com/curioputterings/singapore-mall-data)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
