@@ -32,7 +32,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [manzt/zarrita.js - A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays](https://github.com/manzt/zarrita.js)
 - [Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.](https://github.com/Panniantong/Agent-Reach)
 - [public-clis/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal](https://github.com/public-clis/twitter-cli)
-- [remorses/gpuix - Node.js & React bindings for Zed GPUI.](https://github.com/remorses/gpuix)
+- [remorses/gpuix - Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron](https://github.com/remorses/gpuix)
 - [psmux/psmux - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀](https://github.com/psmux/psmux)
 - [MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source.](https://github.com/MengTo/threeui)
 - [s0lness/awesome-esp32 - Hand-picked ESP32 projects worth building, copying, or watching run](https://github.com/s0lness/awesome-esp32)
