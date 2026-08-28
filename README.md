@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Tzyinc/image-cors](https://github.com/Tzyinc/image-cors)
 - [Augani/dory - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.](https://github.com/Augani/dory)
 - [nasa-gibs/worldview - Interactive interface for browsing global, full-resolution satellite imagery](https://github.com/nasa-gibs/worldview)
 - [raphamorim/oj - An experimental Rust-native build tool for React apps.](https://github.com/raphamorim/oj)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [muimsd/map-gl-offline - A TypeScript npm package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.](https://github.com/muimsd/map-gl-offline)
 - [zwang-geog/mapbox-exif-layer - Wind particles, smooth weather raster display from JPEG/PNG, and GeoTIFF (scalar or RGB) visualization on Mapbox GL JS and MapLibre GL JS](https://github.com/zwang-geog/mapbox-exif-layer)
 - [spwoodcock/maplibre-ui-translations - 🌍 Community translations for the default MapLibre UI.](https://github.com/spwoodcock/maplibre-ui-translations)
-- [eramdam/elmer-for-mastodon - Custom CSS theme for Mastodon 4.6 that changes the colors and other small things](https://github.com/eramdam/elmer-for-mastodon)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
