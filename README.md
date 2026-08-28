@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [alexwohlbruck/portolan - A digital transit map generation pipeline for GTFS](https://github.com/alexwohlbruck/portolan)
 - [Tzyinc/image-cors](https://github.com/Tzyinc/image-cors)
 - [Augani/dory - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.](https://github.com/Augani/dory)
 - [nasa-gibs/worldview - Interactive interface for browsing global, full-resolution satellite imagery](https://github.com/nasa-gibs/worldview)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kaloyaan/reframe - reFrame is an experimental camera with a color ePaper display. Designed to capture and display one photo at a time, making every frame deliberate and memorable.](https://github.com/kaloyaan/reframe)
 - [muimsd/map-gl-offline - A TypeScript npm package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.](https://github.com/muimsd/map-gl-offline)
 - [zwang-geog/mapbox-exif-layer - Wind particles, smooth weather raster display from JPEG/PNG, and GeoTIFF (scalar or RGB) visualization on Mapbox GL JS and MapLibre GL JS](https://github.com/zwang-geog/mapbox-exif-layer)
-- [spwoodcock/maplibre-ui-translations - 🌍 Community translations for the default MapLibre UI.](https://github.com/spwoodcock/maplibre-ui-translations)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
