@@ -29,7 +29,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 <!-- starred repos start -->
 - [alexwohlbruck/portolan - A digital transit map generation pipeline for GTFS](https://github.com/alexwohlbruck/portolan)
 - [Tzyinc/image-cors](https://github.com/Tzyinc/image-cors)
-- [Augani/dory - A free, open-source native macOS development system for Docker, Kubernetes, Linux VMs, and agent sandboxes on Apple silicon.](https://github.com/Augani/dory)
+- [Augani/dory - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.](https://github.com/Augani/dory)
 - [nasa-gibs/worldview - Interactive interface for browsing global, full-resolution satellite imagery](https://github.com/nasa-gibs/worldview)
 - [raphamorim/oj - An experimental Rust-native build tool for React apps.](https://github.com/raphamorim/oj)
 - [manzt/zarrita.js - A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays](https://github.com/manzt/zarrita.js)
