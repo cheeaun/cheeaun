@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [reearth/navara - Navara is a highly extensible 3D map engine. Load a wide range of GIS data, from satellite imagery and terrain to 3D city models and vector data, then freely layer your own visualizations on top.](https://github.com/reearth/navara)
 - [alexwohlbruck/portolan - A digital transit map generation pipeline for GTFS](https://github.com/alexwohlbruck/portolan)
 - [Tzyinc/image-cors](https://github.com/Tzyinc/image-cors)
 - [Augani/dory - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.](https://github.com/Augani/dory)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [s0lness/awesome-esp32 - Hand-picked ESP32 projects worth building, copying, or watching run](https://github.com/s0lness/awesome-esp32)
 - [kaloyaan/reframe - reFrame is an experimental camera with a color ePaper display. Designed to capture and display one photo at a time, making every frame deliberate and memorable.](https://github.com/kaloyaan/reframe)
 - [muimsd/map-gl-offline - A TypeScript npm package for MapLibre GL JS and Mapbox GL JS to enable offline tiles.](https://github.com/muimsd/map-gl-offline)
-- [zwang-geog/mapbox-exif-layer - Wind particles, smooth weather raster display from JPEG/PNG, and GeoTIFF (scalar or RGB) visualization on Mapbox GL JS and MapLibre GL JS](https://github.com/zwang-geog/mapbox-exif-layer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
