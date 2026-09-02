@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns](https://github.com/dmmulroy/anti-slop)
 - [tum-gis/sensordb - Geospatial database for storing, managing, and analyzing 3D sensor data.](https://github.com/tum-gis/sensordb)
 - [reearth/reearth-terrain - Open terrain tiles for 3D globes](https://github.com/reearth/reearth-terrain)
 - [reearth/navara - Navara is a highly extensible 3D map engine. Load a wide range of GIS data, from satellite imagery and terrain to 3D city models and vector data, then freely layer your own visualizations on top.](https://github.com/reearth/navara)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [remorses/gpuix - Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron](https://github.com/remorses/gpuix)
 - [psmux/psmux - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀](https://github.com/psmux/psmux)
 - [MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source.](https://github.com/MengTo/threeui)
-- [s0lness/awesome-esp32 - Hand-picked ESP32 projects worth building, copying, or watching run](https://github.com/s0lness/awesome-esp32)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
