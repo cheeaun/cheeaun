@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tum-gis/sensordb - Geospatial database for storing, managing, and analyzing 3D sensor data.](https://github.com/tum-gis/sensordb)
 - [reearth/reearth-terrain - Open terrain tiles for 3D globes](https://github.com/reearth/reearth-terrain)
 - [reearth/navara - Navara is a highly extensible 3D map engine. Load a wide range of GIS data, from satellite imagery and terrain to 3D city models and vector data, then freely layer your own visualizations on top.](https://github.com/reearth/navara)
 - [alexwohlbruck/portolan - A digital transit map generation pipeline for GTFS](https://github.com/alexwohlbruck/portolan)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [psmux/psmux - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀](https://github.com/psmux/psmux)
 - [MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source.](https://github.com/MengTo/threeui)
 - [s0lness/awesome-esp32 - Hand-picked ESP32 projects worth building, copying, or watching run](https://github.com/s0lness/awesome-esp32)
-- [kaloyaan/reframe - reFrame is an experimental camera with a color ePaper display. Designed to capture and display one photo at a time, making every frame deliberate and memorable.](https://github.com/kaloyaan/reframe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
