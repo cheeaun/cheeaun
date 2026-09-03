@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zvec-ai/zvec-grep - Local-first search across your workspace, built for humans and AI agents.](https://github.com/zvec-ai/zvec-grep)
 - [dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns](https://github.com/dmmulroy/anti-slop)
 - [tum-gis/sensordb - Geospatial database for storing, managing, and analyzing 3D sensor data.](https://github.com/tum-gis/sensordb)
 - [reearth/reearth-terrain - Open terrain tiles for 3D globes](https://github.com/reearth/reearth-terrain)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [public-clis/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal](https://github.com/public-clis/twitter-cli)
 - [remorses/gpuix - Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron](https://github.com/remorses/gpuix)
 - [psmux/psmux - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀](https://github.com/psmux/psmux)
-- [MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source.](https://github.com/MengTo/threeui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
