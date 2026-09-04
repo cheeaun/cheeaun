@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cloudflare/vinext - Vite plugin that reimplements the Next.js API surface — deploy anywhere](https://github.com/cloudflare/vinext)
 - [heruoxin/webrtc_turn - Self-hosted WebRTC TURN relay for AndroMeld — one-click Cloudflare Worker or a coturn Docker stack, both ending in a single relay URL.](https://github.com/heruoxin/webrtc_turn)
 - [opengeos/maplibre-gl-3d-tiles - A MapLibre GL plugin for rendering 3D tiles](https://github.com/opengeos/maplibre-gl-3d-tiles)
 - [zvec-ai/zvec-grep - Local-first search across your workspace, built for humans and AI agents.](https://github.com/zvec-ai/zvec-grep)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [raphamorim/oj - An experimental Rust-native build tool for React apps.](https://github.com/raphamorim/oj)
 - [manzt/zarrita.js - A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays](https://github.com/manzt/zarrita.js)
 - [Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.](https://github.com/Panniantong/Agent-Reach)
-- [public-clis/twitter-cli - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal](https://github.com/public-clis/twitter-cli)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
