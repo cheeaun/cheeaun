@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [aarongustafson/table-sortable - A web component to enable users to sort the data in a table based on table cell values.](https://github.com/aarongustafson/table-sortable)
 - [cloudflare/vinext - Vite plugin that reimplements the Next.js API surface — deploy anywhere](https://github.com/cloudflare/vinext)
 - [heruoxin/webrtc_turn - Self-hosted WebRTC TURN relay for AndroMeld — one-click Cloudflare Worker or a coturn Docker stack, both ending in a single relay URL.](https://github.com/heruoxin/webrtc_turn)
 - [opengeos/maplibre-gl-3d-tiles - A MapLibre GL plugin for rendering 3D tiles](https://github.com/opengeos/maplibre-gl-3d-tiles)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nasa-gibs/worldview - Interactive interface for browsing global, full-resolution satellite imagery](https://github.com/nasa-gibs/worldview)
 - [raphamorim/oj - An experimental Rust-native build tool for React apps.](https://github.com/raphamorim/oj)
 - [manzt/zarrita.js - A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays](https://github.com/manzt/zarrita.js)
-- [Panniantong/Agent-Reach - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.](https://github.com/Panniantong/Agent-Reach)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
