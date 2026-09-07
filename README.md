@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Nat1anWasTaken/text-display - A simple web application for displaying large text with adaptive font sizing](https://github.com/Nat1anWasTaken/text-display)
 - [holepunchto/unicode-to-plain-text - Convert fancy Unicode text to plain ASCII with smart language preservation](https://github.com/holepunchto/unicode-to-plain-text)
 - [Zhliyun/cesium-geospatial - Cesium 大气散射及体积云相关特效](https://github.com/Zhliyun/cesium-geospatial)
 - [yuwoniu03/cesium-clouds-atmosphere - Cesium 体积云 + Bruneton 大气 + 空中透视 + 镜头光晕渲染库（改编自 three-geospatial）](https://github.com/yuwoniu03/cesium-clouds-atmosphere)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [maplibre/navara - Navara is a highly extensible 3D map engine. Load a wide range of GIS data, from satellite imagery and terrain to 3D city models and vector data, then freely layer your own visualizations on top.](https://github.com/maplibre/navara)
 - [alexwohlbruck/portolan - A digital transit map generation pipeline for GTFS](https://github.com/alexwohlbruck/portolan)
 - [Tzyinc/image-cors](https://github.com/Tzyinc/image-cors)
-- [Augani/dory - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.](https://github.com/Augani/dory)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
