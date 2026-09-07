@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Zhliyun/cesium-geospatial - Cesium 大气散射及体积云相关特效](https://github.com/Zhliyun/cesium-geospatial)
+- [yuwoniu03/cesium-clouds-atmosphere - Cesium 体积云 + Bruneton 大气 + 空中透视 + 镜头光晕渲染库（改编自 three-geospatial）](https://github.com/yuwoniu03/cesium-clouds-atmosphere)
 - [aarongustafson/table-sortable - A web component to enable users to sort the data in a table based on table cell values.](https://github.com/aarongustafson/table-sortable)
 - [cloudflare/vinext - Vite plugin that reimplements the Next.js API surface — deploy anywhere](https://github.com/cloudflare/vinext)
 - [heruoxin/webrtc_turn - Self-hosted WebRTC TURN relay for AndroMeld — one-click Cloudflare Worker or a coturn Docker stack, both ending in a single relay URL.](https://github.com/heruoxin/webrtc_turn)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Tzyinc/image-cors](https://github.com/Tzyinc/image-cors)
 - [Augani/dory - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.](https://github.com/Augani/dory)
 - [nasa-gibs/worldview - Interactive interface for browsing global, full-resolution satellite imagery](https://github.com/nasa-gibs/worldview)
-- [raphamorim/oj - An experimental Rust-native build tool for React apps.](https://github.com/raphamorim/oj)
-- [manzt/zarrita.js - A JavaScript toolkit for working with chunked, compressed, n-dimensional arrays](https://github.com/manzt/zarrita.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
