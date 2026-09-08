@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kossnocorp/genotype - Programming language that transpiles to other language types (TS, Python, etc)](https://github.com/kossnocorp/genotype)
+- [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs for debugging and analysis, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. On the AndroidWorld benchmark, ARTEMIS achieves a success rate of over 99%.](https://github.com/google/artemis)
 - [philnash/email-verification-api - A library to verify email tokens from the Email Verification API](https://github.com/philnash/email-verification-api)
 - [Nat1anWasTaken/text-display - A simple web application for displaying large text with adaptive font sizing](https://github.com/Nat1anWasTaken/text-display)
 - [holepunchto/unicode-to-plain-text - Convert fancy Unicode text to plain ASCII with smart language preservation](https://github.com/holepunchto/unicode-to-plain-text)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns](https://github.com/dmmulroy/anti-slop)
 - [tum-gis/sensordb - Geospatial database for storing, managing, and analyzing 3D sensor data.](https://github.com/tum-gis/sensordb)
 - [reearth/reearth-terrain - Open terrain tiles for 3D globes](https://github.com/reearth/reearth-terrain)
-- [maplibre/navara - Navara is a highly extensible 3D map engine. Load a wide range of GIS data, from satellite imagery and terrain to 3D city models and vector data, then freely layer your own visualizations on top.](https://github.com/maplibre/navara)
-- [alexwohlbruck/portolan - A digital transit map generation pipeline for GTFS](https://github.com/alexwohlbruck/portolan)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
