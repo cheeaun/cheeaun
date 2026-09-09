@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JaceThings/Scritto](https://github.com/JaceThings/Scritto)
 - [kossnocorp/genotype - Programming language that transpiles to other language types (TS, Python, etc)](https://github.com/kossnocorp/genotype)
 - [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs for debugging and analysis, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. On the AndroidWorld benchmark, ARTEMIS achieves a success rate of over 99%.](https://github.com/google/artemis)
 - [philnash/email-verification-api - A library to verify email tokens from the Email Verification API](https://github.com/philnash/email-verification-api)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zvec-ai/zvec-grep - Local-first search across your workspace, built for humans and AI agents.](https://github.com/zvec-ai/zvec-grep)
 - [dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns](https://github.com/dmmulroy/anti-slop)
 - [tum-gis/sensordb - Geospatial database for storing, managing, and analyzing 3D sensor data.](https://github.com/tum-gis/sensordb)
-- [reearth/reearth-terrain - Open terrain tiles for 3D globes](https://github.com/reearth/reearth-terrain)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
