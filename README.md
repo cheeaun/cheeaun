@@ -27,12 +27,13 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Desert-Ant-Labs/desert-ant-core - On-device AI SDKs for iOS, macOS, Android, and the web. Small, focused models that run fully offline in Swift, Kotlin, and JavaScript with Core ML, LiteRT, and WebAssembly.](https://github.com/Desert-Ant-Labs/desert-ant-core)
 - [yorickshan/html2canvas-pro - Screenshots with JavaScript. Next generation!](https://github.com/yorickshan/html2canvas-pro)
 - [sonnylazuardi/superterminal - superterminal, native multiplexer terminal for Windows, Linux and Mac](https://github.com/sonnylazuardi/superterminal)
 - [nkzw-tech/fbtee - The JavaScript & React Internationalization Framework.](https://github.com/nkzw-tech/fbtee)
 - [JaceThings/Scritto](https://github.com/JaceThings/Scritto)
 - [kossnocorp/genotype - Programming language that transpiles to other language types (TS, Python, etc)](https://github.com/kossnocorp/genotype)
-- [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. On the AndroidWorld benchmark, ARTEMIS achieves a success rate of over 99%. ARTEMIS is created by the Google PTE Fusion team.](https://github.com/google/artemis)
+- [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Pixel-Test-Engineering (PTE) Fusion team.](https://github.com/google/artemis)
 - [philnash/email-verification-api - A library to verify email tokens from the Email Verification API](https://github.com/philnash/email-verification-api)
 - [Nat1anWasTaken/text-display - A simple web application for displaying large text with adaptive font sizing](https://github.com/Nat1anWasTaken/text-display)
 - [holepunchto/unicode-to-plain-text - Convert fancy Unicode text to plain ASCII with smart language preservation](https://github.com/holepunchto/unicode-to-plain-text)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [aarongustafson/table-sortable - A web component to enable users to sort the data in a table based on table cell values.](https://github.com/aarongustafson/table-sortable)
 - [cloudflare/vinext - Vite plugin that reimplements the Next.js API surface — deploy anywhere](https://github.com/cloudflare/vinext)
 - [heruoxin/webrtc_turn - Self-hosted WebRTC TURN relay for AndroMeld — one-click Cloudflare Worker or a coturn Docker stack, both ending in a single relay URL.](https://github.com/heruoxin/webrtc_turn)
-- [opengeos/maplibre-gl-3d-tiles - A MapLibre GL plugin for rendering 3D tiles](https://github.com/opengeos/maplibre-gl-3d-tiles)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
