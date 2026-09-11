@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Emasoft/emasoft-complete-ios-app-authoring - The complete iOS / Apple-platform app-authoring suite for Claude Code — 27 skills + 15 agents + 23 commands + hooks + curated MCP, the full design → ship → market → monitor arc (Swift 6 / iOS 26 / Xcode 26).](https://github.com/Emasoft/emasoft-complete-ios-app-authoring)
 - [XiaomiMiMo/MiMo-Code - MiMo Code: Where Models and Agents Co-Evolve](https://github.com/XiaomiMiMo/MiMo-Code)
 - [kacperkapusciak/goldie - ✨ agentic app store previews and screenshots](https://github.com/kacperkapusciak/goldie)
 - [Desert-Ant-Labs/desert-ant-core - On-device AI SDKs for iOS, macOS, Android, and the web. Small, focused models that run fully offline in Swift, Kotlin, and JavaScript with Core ML, LiteRT, and WebAssembly.](https://github.com/Desert-Ant-Labs/desert-ant-core)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [holepunchto/unicode-to-plain-text - Convert fancy Unicode text to plain ASCII with smart language preservation](https://github.com/holepunchto/unicode-to-plain-text)
 - [Zhliyun/cesium-geospatial - Cesium 大气散射及体积云相关特效](https://github.com/Zhliyun/cesium-geospatial)
 - [yuwoniu03/cesium-clouds-atmosphere - Cesium 体积云 + Bruneton 大气 + 空中透视 + 镜头光晕渲染库（改编自 three-geospatial）](https://github.com/yuwoniu03/cesium-clouds-atmosphere)
-- [aarongustafson/table-sortable - A web component to enable users to sort the data in a table based on table cell values.](https://github.com/aarongustafson/table-sortable)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
