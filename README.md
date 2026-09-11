@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [XiaomiMiMo/MiMo-Code - MiMo Code: Where Models and Agents Co-Evolve](https://github.com/XiaomiMiMo/MiMo-Code)
 - [kacperkapusciak/goldie - ✨ agentic app store previews and screenshots](https://github.com/kacperkapusciak/goldie)
 - [Desert-Ant-Labs/desert-ant-core - On-device AI SDKs for iOS, macOS, Android, and the web. Small, focused models that run fully offline in Swift, Kotlin, and JavaScript with Core ML, LiteRT, and WebAssembly.](https://github.com/Desert-Ant-Labs/desert-ant-core)
 - [yorickshan/html2canvas-pro - Screenshots with JavaScript. Next generation!](https://github.com/yorickshan/html2canvas-pro)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Zhliyun/cesium-geospatial - Cesium 大气散射及体积云相关特效](https://github.com/Zhliyun/cesium-geospatial)
 - [yuwoniu03/cesium-clouds-atmosphere - Cesium 体积云 + Bruneton 大气 + 空中透视 + 镜头光晕渲染库（改编自 three-geospatial）](https://github.com/yuwoniu03/cesium-clouds-atmosphere)
 - [aarongustafson/table-sortable - A web component to enable users to sort the data in a table based on table cell values.](https://github.com/aarongustafson/table-sortable)
-- [cloudflare/vinext - Vite plugin that reimplements the Next.js API surface — deploy anywhere](https://github.com/cloudflare/vinext)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
