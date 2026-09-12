@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [awesomelionel/bus-aunty-mini](https://github.com/awesomelionel/bus-aunty-mini)
 - [minitap-ai/mobile-use - AI agents can now use real Android and iOS apps, just like a human.](https://github.com/minitap-ai/mobile-use)
 - [arikchakma/gpu-time - A small neural model for parsing date & time](https://github.com/arikchakma/gpu-time)
 - [amyreese/bluepost - bluesky bot: repost everything another account posts/reposts](https://github.com/amyreese/bluepost)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kossnocorp/genotype - Programming language that transpiles to other language types (TS, Python, etc)](https://github.com/kossnocorp/genotype)
 - [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.](https://github.com/google/artemis)
 - [philnash/email-verification-api - A library to verify email tokens from the Email Verification API](https://github.com/philnash/email-verification-api)
-- [Nat1anWasTaken/text-display - A simple web application for displaying large text with adaptive font sizing](https://github.com/Nat1anWasTaken/text-display)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
