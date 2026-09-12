@@ -39,7 +39,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nkzw-tech/fbtee - The JavaScript & React Internationalization Framework.](https://github.com/nkzw-tech/fbtee)
 - [JaceThings/Scritto](https://github.com/JaceThings/Scritto)
 - [kossnocorp/genotype - Programming language that transpiles to other language types (TS, Python, etc)](https://github.com/kossnocorp/genotype)
-- [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Google's Pixel-Test-Engineering (PTE) Fusion team.](https://github.com/google/artemis)
+- [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.](https://github.com/google/artemis)
 - [philnash/email-verification-api - A library to verify email tokens from the Email Verification API](https://github.com/philnash/email-verification-api)
 - [Nat1anWasTaken/text-display - A simple web application for displaying large text with adaptive font sizing](https://github.com/Nat1anWasTaken/text-display)
 <!-- starred repos end -->
