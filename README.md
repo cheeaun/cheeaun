@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [minitap-ai/mobile-use - AI agents can now use real Android and iOS apps, just like a human.](https://github.com/minitap-ai/mobile-use)
 - [arikchakma/gpu-time - A small neural model for parsing date & time](https://github.com/arikchakma/gpu-time)
 - [amyreese/bluepost - bluesky bot: repost everything another account posts/reposts](https://github.com/amyreese/bluepost)
 - [Emasoft/emasoft-complete-ios-app-authoring - The complete iOS / Apple-platform app-authoring suite for Claude Code — 27 skills + 15 agents + 23 commands + hooks + curated MCP, the full design → ship → market → monitor arc (Swift 6 / iOS 26 / Xcode 26).](https://github.com/Emasoft/emasoft-complete-ios-app-authoring)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Google's Pixel-Test-Engineering (PTE) Fusion team.](https://github.com/google/artemis)
 - [philnash/email-verification-api - A library to verify email tokens from the Email Verification API](https://github.com/philnash/email-verification-api)
 - [Nat1anWasTaken/text-display - A simple web application for displaying large text with adaptive font sizing](https://github.com/Nat1anWasTaken/text-display)
-- [holepunchto/unicode-to-plain-text - Convert fancy Unicode text to plain ASCII with smart language preservation](https://github.com/holepunchto/unicode-to-plain-text)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
