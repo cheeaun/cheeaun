@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shadcn-labs/editorcn - Beautiful rich text editor components for React, built on Tiptap. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/editorcn)
+- [gauthierpiarrette/highball - Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.](https://github.com/gauthierpiarrette/highball)
+- [egoist/quickgui - An experimental GPU-rendered GUI framework, no webview.](https://github.com/egoist/quickgui)
 - [awesomelionel/bus-aunty-mini](https://github.com/awesomelionel/bus-aunty-mini)
 - [minitap-ai/mobile-use - AI agents can now use real Android and iOS apps, just like a human.](https://github.com/minitap-ai/mobile-use)
 - [arikchakma/gpu-time - A small neural model for parsing date & time](https://github.com/arikchakma/gpu-time)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sonnylazuardi/superterminal - a native multiplexer terminal for Windows, Linux and Mac](https://github.com/sonnylazuardi/superterminal)
 - [nkzw-tech/fbtee - The JavaScript & React Internationalization Framework.](https://github.com/nkzw-tech/fbtee)
 - [JaceThings/Scritto](https://github.com/JaceThings/Scritto)
-- [kossnocorp/genotype - Programming language that transpiles to other language types (TS, Python, etc)](https://github.com/kossnocorp/genotype)
-- [google/artemis - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.](https://github.com/google/artemis)
-- [philnash/email-verification-api - A library to verify email tokens from the Email Verification API](https://github.com/philnash/email-verification-api)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
