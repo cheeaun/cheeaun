@@ -36,7 +36,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kacperkapusciak/goldie - ✨ agentic app store previews and screenshots](https://github.com/kacperkapusciak/goldie)
 - [Desert-Ant-Labs/desert-ant-core - On-device AI SDKs for iOS, macOS, Android, and the web. Small, focused models that run fully offline in Swift, Kotlin, and JavaScript with Core ML, LiteRT, and WebAssembly.](https://github.com/Desert-Ant-Labs/desert-ant-core)
 - [yorickshan/html2canvas-pro - Screenshots with JavaScript. Next generation!](https://github.com/yorickshan/html2canvas-pro)
-- [sonnylazuardi/superterminal - superterminal, native multiplexer terminal for Windows, Linux and Mac](https://github.com/sonnylazuardi/superterminal)
+- [sonnylazuardi/superterminal - a native multiplexer terminal for Windows, Linux and Mac](https://github.com/sonnylazuardi/superterminal)
 - [nkzw-tech/fbtee - The JavaScript & React Internationalization Framework.](https://github.com/nkzw-tech/fbtee)
 - [JaceThings/Scritto](https://github.com/JaceThings/Scritto)
 - [kossnocorp/genotype - Programming language that transpiles to other language types (TS, Python, etc)](https://github.com/kossnocorp/genotype)
