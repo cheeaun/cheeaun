@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dansup/media-transcode - in browser transcoding](https://github.com/dansup/media-transcode)
 - [shadcn-labs/editorcn - Beautiful rich text editor components for React, built on Tiptap. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/editorcn)
 - [gauthierpiarrette/highball - Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.](https://github.com/gauthierpiarrette/highball)
 - [egoist/quickgui - An experimental GPU-rendered GUI framework, no webview.](https://github.com/egoist/quickgui)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yorickshan/html2canvas-pro - Screenshots with JavaScript. Next generation!](https://github.com/yorickshan/html2canvas-pro)
 - [sonnylazuardi/superterminal - a native multiplexer terminal for Windows, Linux and Mac](https://github.com/sonnylazuardi/superterminal)
 - [nkzw-tech/fbtee - The JavaScript & React Internationalization Framework.](https://github.com/nkzw-tech/fbtee)
-- [JaceThings/Scritto](https://github.com/JaceThings/Scritto)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
