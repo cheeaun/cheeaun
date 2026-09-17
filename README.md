@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mfreed7/xslt_polyfill - A polyfill for XSLTProcessor](https://github.com/mfreed7/xslt_polyfill)
 - [latent-spaces/brag - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.](https://github.com/latent-spaces/brag)
 - [dansup/media-transcode - in browser transcoding](https://github.com/dansup/media-transcode)
 - [shadcn-labs/editorcn - Beautiful rich text editor components for React, built on Tiptap. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/editorcn)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kacperkapusciak/goldie - ✨ agentic app store previews and screenshots](https://github.com/kacperkapusciak/goldie)
 - [Desert-Ant-Labs/desert-ant-core - On-device AI SDKs for iOS, macOS, Android, and the web. Small, focused models that run fully offline in Swift, Kotlin, and JavaScript with Core ML, LiteRT, and WebAssembly.](https://github.com/Desert-Ant-Labs/desert-ant-core)
 - [yorickshan/html2canvas-pro - Screenshots with JavaScript. Next generation!](https://github.com/yorickshan/html2canvas-pro)
-- [sonnylazuardi/superterminal - a native multiplexer terminal for Windows, Linux and Mac](https://github.com/sonnylazuardi/superterminal)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
