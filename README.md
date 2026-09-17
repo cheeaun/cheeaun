@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
 - [mfreed7/xslt_polyfill - A polyfill for XSLTProcessor](https://github.com/mfreed7/xslt_polyfill)
 - [latent-spaces/brag - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.](https://github.com/latent-spaces/brag)
 - [dansup/media-transcode - in browser transcoding](https://github.com/dansup/media-transcode)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [XiaomiMiMo/MiMo-Code - MiMo Code: Where Models and Agents Co-Evolve](https://github.com/XiaomiMiMo/MiMo-Code)
 - [kacperkapusciak/goldie - ✨ agentic app store previews and screenshots](https://github.com/kacperkapusciak/goldie)
 - [Desert-Ant-Labs/desert-ant-core - On-device AI SDKs for iOS, macOS, Android, and the web. Small, focused models that run fully offline in Swift, Kotlin, and JavaScript with Core ML, LiteRT, and WebAssembly.](https://github.com/Desert-Ant-Labs/desert-ant-core)
-- [yorickshan/html2canvas-pro - Screenshots with JavaScript. Next generation!](https://github.com/yorickshan/html2canvas-pro)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
