@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel-labs/gpu-lexer - Tiny language-agnostic WebGPU syntax highlighter](https://github.com/vercel-labs/gpu-lexer)
+- [3b1b/manim - Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
 - [mfreed7/xslt_polyfill - A polyfill for XSLTProcessor](https://github.com/mfreed7/xslt_polyfill)
 - [latent-spaces/brag - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.](https://github.com/latent-spaces/brag)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [amyreese/bluepost - bluesky bot: repost everything another account posts/reposts](https://github.com/amyreese/bluepost)
 - [Emasoft/emasoft-complete-ios-app-authoring - The complete iOS / Apple-platform app-authoring suite for Claude Code — 27 skills + 15 agents + 23 commands + hooks + curated MCP, the full design → ship → market → monitor arc (Swift 6 / iOS 26 / Xcode 26).](https://github.com/Emasoft/emasoft-complete-ios-app-authoring)
 - [XiaomiMiMo/MiMo-Code - MiMo Code: Where Models and Agents Co-Evolve](https://github.com/XiaomiMiMo/MiMo-Code)
-- [kacperkapusciak/goldie - ✨ agentic app store previews and screenshots](https://github.com/kacperkapusciak/goldie)
-- [Desert-Ant-Labs/desert-ant-core - On-device AI SDKs for iOS, macOS, Android, and the web. Small, focused models that run fully offline in Swift, Kotlin, and JavaScript with Core ML, LiteRT, and WebAssembly.](https://github.com/Desert-Ant-Labs/desert-ant-core)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
