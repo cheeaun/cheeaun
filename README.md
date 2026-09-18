@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [patrickgwsmith/qip - Quickly render anything, everywhere](https://github.com/patrickgwsmith/qip)
 - [vercel-labs/gpu-lexer - Tiny language-agnostic WebGPU syntax highlighter](https://github.com/vercel-labs/gpu-lexer)
 - [3b1b/manim - Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [arikchakma/gpu-time - A small neural model for parsing date & time](https://github.com/arikchakma/gpu-time)
 - [amyreese/bluepost - bluesky bot: repost everything another account posts/reposts](https://github.com/amyreese/bluepost)
 - [Emasoft/emasoft-complete-ios-app-authoring - The complete iOS / Apple-platform app-authoring suite for Claude Code — 27 skills + 15 agents + 23 commands + hooks + curated MCP, the full design → ship → market → monitor arc (Swift 6 / iOS 26 / Xcode 26).](https://github.com/Emasoft/emasoft-complete-ios-app-authoring)
-- [XiaomiMiMo/MiMo-Code - MiMo Code: Where Models and Agents Co-Evolve](https://github.com/XiaomiMiMo/MiMo-Code)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
