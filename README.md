@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [MiniMax-AI/minimax-code - An open-source coding agent for your terminal, powered by MiniMax.](https://github.com/MiniMax-AI/minimax-code)
+- [11ty/tugboat - A modern starter project using Eleventy and WebC.](https://github.com/11ty/tugboat)
 - [platformatic/memcached - Minimal, high-performance memcached client for Node.js based on the meta protocol](https://github.com/platformatic/memcached)
 - [bramus/rich-input - A rich input field with keyword-based autocomplete and in-input highlighting powered by <datalist>, OpaqueRange, and the Custom Highlight API](https://github.com/bramus/rich-input)
 - [syabro/neat-annotations - Hand-drawn CSS annotations for inline content](https://github.com/syabro/neat-annotations)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shadcn-labs/editorcn - Beautiful rich text editor components for React, built on Tiptap. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/editorcn)
 - [gauthierpiarrette/highball - Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.](https://github.com/gauthierpiarrette/highball)
 - [egoist/quickgui - An experimental GPU-rendered GUI framework, no webview.](https://github.com/egoist/quickgui)
-- [awesomelionel/bus-aunty-mini](https://github.com/awesomelionel/bus-aunty-mini)
-- [minitap-ai/mobile-use - AI agents can now use real Android and iOS apps, just like a human.](https://github.com/minitap-ai/mobile-use)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
