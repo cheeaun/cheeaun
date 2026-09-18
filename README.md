@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [platformatic/memcached - Minimal, high-performance memcached client for Node.js based on the meta protocol](https://github.com/platformatic/memcached)
+- [bramus/rich-input - A rich input field with keyword-based autocomplete and in-input highlighting powered by <datalist>, OpaqueRange, and the Custom Highlight API](https://github.com/bramus/rich-input)
+- [syabro/neat-annotations - Hand-drawn CSS annotations for inline content](https://github.com/syabro/neat-annotations)
 - [patrickgwsmith/qip - Quickly render anything, everywhere](https://github.com/patrickgwsmith/qip)
 - [vercel-labs/gpu-lexer - Tiny language-agnostic WebGPU syntax highlighter](https://github.com/vercel-labs/gpu-lexer)
 - [3b1b/manim - Animation engine for explanatory math videos](https://github.com/3b1b/manim)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [egoist/quickgui - An experimental GPU-rendered GUI framework, no webview.](https://github.com/egoist/quickgui)
 - [awesomelionel/bus-aunty-mini](https://github.com/awesomelionel/bus-aunty-mini)
 - [minitap-ai/mobile-use - AI agents can now use real Android and iOS apps, just like a human.](https://github.com/minitap-ai/mobile-use)
-- [arikchakma/gpu-time - A small neural model for parsing date & time](https://github.com/arikchakma/gpu-time)
-- [amyreese/bluepost - bluesky bot: repost everything another account posts/reposts](https://github.com/amyreese/bluepost)
-- [Emasoft/emasoft-complete-ios-app-authoring - The complete iOS / Apple-platform app-authoring suite for Claude Code — 27 skills + 15 agents + 23 commands + hooks + curated MCP, the full design → ship → market → monitor arc (Swift 6 / iOS 26 / Xcode 26).](https://github.com/Emasoft/emasoft-complete-ios-app-authoring)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
