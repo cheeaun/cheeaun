@@ -30,7 +30,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [patrickgwsmith/qip - Quickly render anything, everywhere](https://github.com/patrickgwsmith/qip)
 - [vercel-labs/gpu-lexer - Tiny language-agnostic WebGPU syntax highlighter](https://github.com/vercel-labs/gpu-lexer)
 - [3b1b/manim - Animation engine for explanatory math videos](https://github.com/3b1b/manim)
-- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+- [browser-use/jev-ultrafast - i. am. speed.](https://github.com/browser-use/jev-ultrafast)
 - [mfreed7/xslt_polyfill - A polyfill for XSLTProcessor](https://github.com/mfreed7/xslt_polyfill)
 - [latent-spaces/brag - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.](https://github.com/latent-spaces/brag)
 - [dansup/media-transcode - in browser transcoding](https://github.com/dansup/media-transcode)
