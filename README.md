@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [awlevin/typesafe-computer-use - Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.](https://github.com/awlevin/typesafe-computer-use)
+- [pmndrs/glyph - ♠️ A typography engine for web graphics.](https://github.com/pmndrs/glyph)
 - [MiniMax-AI/minimax-code - An open-source coding agent for your terminal, powered by MiniMax.](https://github.com/MiniMax-AI/minimax-code)
 - [11ty/tugboat - A modern starter project using Eleventy and WebC.](https://github.com/11ty/tugboat)
 - [platformatic/memcached - Minimal, high-performance memcached client for Node.js based on the meta protocol](https://github.com/platformatic/memcached)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [latent-spaces/brag - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.](https://github.com/latent-spaces/brag)
 - [dansup/media-transcode - in browser transcoding](https://github.com/dansup/media-transcode)
 - [shadcn-labs/editorcn - Beautiful rich text editor components for React, built on Tiptap. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/editorcn)
-- [gauthierpiarrette/highball - Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.](https://github.com/gauthierpiarrette/highball)
-- [egoist/quickgui - An experimental GPU-rendered GUI framework, no webview.](https://github.com/egoist/quickgui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
