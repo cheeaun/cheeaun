@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [danielwh2/cube-motion - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.](https://github.com/danielwh2/cube-motion)
 - [mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.](https://github.com/mizorewww/laya-mlx)
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
 - [awlevin/typesafe-computer-use - Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.](https://github.com/awlevin/typesafe-computer-use)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [3b1b/manim - Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 - [browser-use/jev-ultrafast - i. am. speed.](https://github.com/browser-use/jev-ultrafast)
 - [mfreed7/xslt_polyfill - A polyfill for XSLTProcessor](https://github.com/mfreed7/xslt_polyfill)
-- [latent-spaces/brag - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.](https://github.com/latent-spaces/brag)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
