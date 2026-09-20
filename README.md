@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
 - [awlevin/typesafe-computer-use - Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.](https://github.com/awlevin/typesafe-computer-use)
 - [pmndrs/glyph - ♠️ A typography engine for web graphics.](https://github.com/pmndrs/glyph)
 - [MiniMax-AI/minimax-code - An open-source coding agent for your terminal, powered by MiniMax.](https://github.com/MiniMax-AI/minimax-code)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mfreed7/xslt_polyfill - A polyfill for XSLTProcessor](https://github.com/mfreed7/xslt_polyfill)
 - [latent-spaces/brag - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.](https://github.com/latent-spaces/brag)
 - [dansup/media-transcode - in browser transcoding](https://github.com/dansup/media-transcode)
-- [shadcn-labs/editorcn - Beautiful rich text editor components for React, built on Tiptap. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/editorcn)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
