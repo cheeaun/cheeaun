@@ -41,7 +41,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [patrickgwsmith/qip - Quickly render anything, everywhere](https://github.com/patrickgwsmith/qip)
 - [vercel-labs/gpu-lexer - Tiny language-agnostic WebGPU syntax highlighter](https://github.com/vercel-labs/gpu-lexer)
 - [3b1b/manim - Animation engine for explanatory math videos](https://github.com/3b1b/manim)
-- [browser-use/jev-ultrafast - i. am. speed.](https://github.com/browser-use/jev-ultrafast)
+- [browser-use/jev-ultrafast - Fastest and cheapest web agent](https://github.com/browser-use/jev-ultrafast)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
