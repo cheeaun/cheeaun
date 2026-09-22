@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [yangshun/ultrastorage - Ultra-charged localStorage. Store any data type, key expiration, namespacing, schema validation, subscription, and more.](https://github.com/yangshun/ultrastorage)
 - [EpicGames/lore - Lore is a next-generation, open source version control system](https://github.com/EpicGames/lore)
 - [featherless-ai/simple-jev - Turn any open model into a classifier/jev endpoint](https://github.com/featherless-ai/simple-jev)
 - [danielwh2/cube-motion - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.](https://github.com/danielwh2/cube-motion)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [syabro/neat-annotations - Hand-drawn CSS annotations for inline content](https://github.com/syabro/neat-annotations)
 - [patrickgwsmith/qip - Quickly render anything, everywhere](https://github.com/patrickgwsmith/qip)
 - [vercel-labs/gpu-lexer - Tiny language-agnostic WebGPU syntax highlighter](https://github.com/vercel-labs/gpu-lexer)
-- [3b1b/manim - Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
