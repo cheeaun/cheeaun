@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [EpicGames/lore - Lore is a next-generation, open source version control system](https://github.com/EpicGames/lore)
 - [featherless-ai/simple-jev - Turn any open model into a classifier/jev endpoint](https://github.com/featherless-ai/simple-jev)
 - [danielwh2/cube-motion - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.](https://github.com/danielwh2/cube-motion)
 - [mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.](https://github.com/mizorewww/laya-mlx)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [patrickgwsmith/qip - Quickly render anything, everywhere](https://github.com/patrickgwsmith/qip)
 - [vercel-labs/gpu-lexer - Tiny language-agnostic WebGPU syntax highlighter](https://github.com/vercel-labs/gpu-lexer)
 - [3b1b/manim - Animation engine for explanatory math videos](https://github.com/3b1b/manim)
-- [browser-use/jev-ultrafast - Fastest and cheapest web agent](https://github.com/browser-use/jev-ultrafast)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
