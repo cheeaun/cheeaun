@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [keithamus/avash](https://github.com/keithamus/avash)
 - [yangshun/ultrastorage - Ultra-charged localStorage. Store any data type, key expiration, namespacing, schema validation, subscription, and more.](https://github.com/yangshun/ultrastorage)
 - [EpicGames/lore - Lore is a next-generation, open source version control system](https://github.com/EpicGames/lore)
 - [featherless-ai/simple-jev - Turn any open model into a classifier/jev endpoint](https://github.com/featherless-ai/simple-jev)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bramus/rich-input - A rich input field with keyword-based autocomplete and in-input highlighting powered by <datalist>, OpaqueRange, and the Custom Highlight API](https://github.com/bramus/rich-input)
 - [syabro/neat-annotations - Hand-drawn CSS annotations for inline content](https://github.com/syabro/neat-annotations)
 - [patrickgwsmith/qip - Quickly render anything, everywhere](https://github.com/patrickgwsmith/qip)
-- [vercel-labs/gpu-lexer - Tiny language-agnostic WebGPU syntax highlighter](https://github.com/vercel-labs/gpu-lexer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
