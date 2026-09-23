@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nobodywho-ooo/nobodywho - NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  ](https://github.com/nobodywho-ooo/nobodywho)
 - [keithamus/avash](https://github.com/keithamus/avash)
 - [yangshun/ultrastorage - Ultra-charged localStorage. Store any data type, key expiration, namespacing, schema validation, subscription, and more.](https://github.com/yangshun/ultrastorage)
 - [EpicGames/lore - Lore is a next-generation, open source version control system](https://github.com/EpicGames/lore)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [platformatic/memcached - Minimal, high-performance memcached client for Node.js based on the meta protocol](https://github.com/platformatic/memcached)
 - [bramus/rich-input - A rich input field with keyword-based autocomplete and in-input highlighting powered by <datalist>, OpaqueRange, and the Custom Highlight API](https://github.com/bramus/rich-input)
 - [syabro/neat-annotations - Hand-drawn CSS annotations for inline content](https://github.com/syabro/neat-annotations)
-- [patrickgwsmith/qip - Quickly render anything, everywhere](https://github.com/patrickgwsmith/qip)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
