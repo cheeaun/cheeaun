@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cannoneyed/isometric-nyc - AI-generated isometric pixel art map of NYC](https://github.com/cannoneyed/isometric-nyc)
 - [pngwn/twinkleplop - Syntax highlighter and code authoring toolkit](https://github.com/pngwn/twinkleplop)
 - [nobodywho-ooo/nobodywho - NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  ](https://github.com/nobodywho-ooo/nobodywho)
 - [keithamus/avash](https://github.com/keithamus/avash)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MiniMax-AI/minimax-code - An open-source coding agent for your terminal, powered by MiniMax.](https://github.com/MiniMax-AI/minimax-code)
 - [11ty/tugboat - A modern starter project using Eleventy and WebC.](https://github.com/11ty/tugboat)
 - [platformatic/memcached - Minimal, high-performance memcached client for Node.js based on the meta protocol](https://github.com/platformatic/memcached)
-- [bramus/rich-input - A rich input field with keyword-based autocomplete and in-input highlighting powered by <datalist>, OpaqueRange, and the Custom Highlight API](https://github.com/bramus/rich-input)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
