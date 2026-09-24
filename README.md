@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Mak5er/AirCard - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)](https://github.com/Mak5er/AirCard)
+- [YGYOOO/WorldX - One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.](https://github.com/YGYOOO/WorldX)
+- [JustinChavez/sf-isometric-demo - An interactive isometric pixel-art map of downtown San Francisco, generated tile by tile with a fine-tuned image-editing model.](https://github.com/JustinChavez/sf-isometric-demo)
+- [tensor2023/OpenPixel-RPG - AI-powered UGC pixel-art JRPG: input any address or photo, describe a style, and get a complete interactive world with AI-generated local NPCs.](https://github.com/tensor2023/OpenPixel-RPG)
+- [sam10155/isometric-cities - Pixel art isometric views of Toronto, Montreal, Vancouver, Ottawa, and Victoria](https://github.com/sam10155/isometric-cities)
 - [cannoneyed/isometric-nyc - AI-generated isometric pixel art map of NYC](https://github.com/cannoneyed/isometric-nyc)
 - [pngwn/twinkleplop - Syntax highlighter and code authoring toolkit](https://github.com/pngwn/twinkleplop)
 - [nobodywho-ooo/nobodywho - NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  ](https://github.com/nobodywho-ooo/nobodywho)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [danielwh2/cube-motion - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.](https://github.com/danielwh2/cube-motion)
 - [mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.](https://github.com/mizorewww/laya-mlx)
 - [NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.](https://github.com/NandhaKishorM/laya)
-- [awlevin/typesafe-computer-use - Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.](https://github.com/awlevin/typesafe-computer-use)
-- [pmndrs/glyph - ♠️ A typography engine for web graphics.](https://github.com/pmndrs/glyph)
-- [MiniMax-AI/minimax-code - An open-source coding agent for your terminal, powered by MiniMax.](https://github.com/MiniMax-AI/minimax-code)
-- [11ty/tugboat - A modern starter project using Eleventy and WebC.](https://github.com/11ty/tugboat)
-- [platformatic/memcached - Minimal, high-performance memcached client for Node.js based on the meta protocol](https://github.com/platformatic/memcached)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
