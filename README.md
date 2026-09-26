@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Kanahiro/cloud-optimized-geoparquet - A GeoParquet extension for progressive map rendering and partial access over HTTP range requests or object storage.](https://github.com/Kanahiro/cloud-optimized-geoparquet)
 - [kaishi00/hermes-conduit - Conduit — native SwiftUI iOS client for Hermes Agent](https://github.com/kaishi00/hermes-conduit)
 - [fadhlirahim/simple-agent-collabs - A file-based research loop for one human and N LLM subagents. Inspired by HF agent-collabs](https://github.com/fadhlirahim/simple-agent-collabs)
 - [Mak5er/AirCard - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)](https://github.com/Mak5er/AirCard)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [yangshun/ultrastorage - Ultra-charged localStorage. Store any data type, key expiration, namespacing, schema validation, subscription, and more.](https://github.com/yangshun/ultrastorage)
 - [EpicGames/lore - Lore is a next-generation, open source version control system](https://github.com/EpicGames/lore)
 - [featherless-ai/simple-jev - Turn any open model into a classifier/jev endpoint](https://github.com/featherless-ai/simple-jev)
-- [danielwh2/cube-motion - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.](https://github.com/danielwh2/cube-motion)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
