@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [openai/tart - macOS and Linux VMs on Apple Silicon to use in CI and other automations](https://github.com/openai/tart)
 - [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac)
 - [Kanahiro/cloud-optimized-geoparquet - A GeoParquet extension for progressive map rendering and partial access over HTTP range requests or object storage.](https://github.com/Kanahiro/cloud-optimized-geoparquet)
 - [kaishi00/hermes-conduit - Conduit — native SwiftUI iOS client for Hermes Agent](https://github.com/kaishi00/hermes-conduit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [nobodywho-ooo/nobodywho - NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  ](https://github.com/nobodywho-ooo/nobodywho)
 - [keithamus/avash](https://github.com/keithamus/avash)
 - [yangshun/ultrastorage - Ultra-charged localStorage. Store any data type, key expiration, namespacing, schema validation, subscription, and more.](https://github.com/yangshun/ultrastorage)
-- [EpicGames/lore - Lore is a next-generation, open source version control system](https://github.com/EpicGames/lore)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
