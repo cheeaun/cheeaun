@@ -27,13 +27,14 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [opusvideo/awesome-claude-video - A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / 中文.](https://github.com/opusvideo/awesome-claude-video)
 - [unjs/oxbox - 🐂 Tiny, portable JS library for parsing and transforming JS/TS/JSX, powered by oxc](https://github.com/unjs/oxbox)
 - [cloudflare/cf - The agentic CLI for the entire Cloudflare API](https://github.com/cloudflare/cf)
 - [tijnjh/ios-haptics - 📳 javascript library for haptic feedback inside of safari on ios](https://github.com/tijnjh/ios-haptics)
 - [WICG/web-haptics - Web Haptics API](https://github.com/WICG/web-haptics)
 - [openai/tart - macOS and Linux VMs on Apple Silicon to use in CI and other automations](https://github.com/openai/tart)
 - [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac)
-- [Kanahiro/cloud-optimized-geoparquet - A GeoParquet extension for progressive map rendering and partial access over HTTP range requests or object storage.](https://github.com/Kanahiro/cloud-optimized-geoparquet)
+- [Kanahiro/cloud-optimized-geoparquet - A GeoParquet extension for progressive map rendering and partial access over HTTP range requests.](https://github.com/Kanahiro/cloud-optimized-geoparquet)
 - [kaishi00/hermes-conduit - Conduit — native SwiftUI iOS client for Hermes Agent](https://github.com/kaishi00/hermes-conduit)
 - [fadhlirahim/simple-agent-collabs - A file-based research loop for one human and N LLM subagents. Inspired by HF agent-collabs](https://github.com/fadhlirahim/simple-agent-collabs)
 - [Mak5er/AirCard - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)](https://github.com/Mak5er/AirCard)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [JustinChavez/sf-isometric-demo - An interactive isometric pixel-art map of downtown San Francisco, generated tile by tile with a fine-tuned image-editing model.](https://github.com/JustinChavez/sf-isometric-demo)
 - [tensor2023/OpenPixel-RPG - AI-powered UGC pixel-art JRPG: input any address or photo, describe a style, and get a complete interactive world with AI-generated local NPCs.](https://github.com/tensor2023/OpenPixel-RPG)
 - [sam10155/isometric-cities - Pixel art isometric views of Toronto, Montreal, Vancouver, Ottawa, and Victoria](https://github.com/sam10155/isometric-cities)
-- [cannoneyed/isometric-nyc - AI-generated isometric pixel art map of NYC](https://github.com/cannoneyed/isometric-nyc)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
