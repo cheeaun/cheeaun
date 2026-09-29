@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [unjs/oxbox - 🐂 Tiny, portable JS library for parsing and transforming JS/TS/JSX, powered by oxc](https://github.com/unjs/oxbox)
 - [cloudflare/cf - The agentic CLI for the entire Cloudflare API](https://github.com/cloudflare/cf)
 - [tijnjh/ios-haptics - 📳 javascript library for haptic feedback inside of safari on ios](https://github.com/tijnjh/ios-haptics)
 - [WICG/web-haptics - Web Haptics API](https://github.com/WICG/web-haptics)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [tensor2023/OpenPixel-RPG - AI-powered UGC pixel-art JRPG: input any address or photo, describe a style, and get a complete interactive world with AI-generated local NPCs.](https://github.com/tensor2023/OpenPixel-RPG)
 - [sam10155/isometric-cities - Pixel art isometric views of Toronto, Montreal, Vancouver, Ottawa, and Victoria](https://github.com/sam10155/isometric-cities)
 - [cannoneyed/isometric-nyc - AI-generated isometric pixel art map of NYC](https://github.com/cannoneyed/isometric-nyc)
-- [pngwn/twinkleplop - Syntax highlighter and code authoring toolkit](https://github.com/pngwn/twinkleplop)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
