@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cloudflare/cf - The agentic CLI for the entire Cloudflare API](https://github.com/cloudflare/cf)
 - [tijnjh/ios-haptics - 📳 javascript library for haptic feedback inside of safari on ios](https://github.com/tijnjh/ios-haptics)
 - [WICG/web-haptics - Web Haptics API](https://github.com/WICG/web-haptics)
 - [openai/tart - macOS and Linux VMs on Apple Silicon to use in CI and other automations](https://github.com/openai/tart)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sam10155/isometric-cities - Pixel art isometric views of Toronto, Montreal, Vancouver, Ottawa, and Victoria](https://github.com/sam10155/isometric-cities)
 - [cannoneyed/isometric-nyc - AI-generated isometric pixel art map of NYC](https://github.com/cannoneyed/isometric-nyc)
 - [pngwn/twinkleplop - Syntax highlighter and code authoring toolkit](https://github.com/pngwn/twinkleplop)
-- [nobodywho-ooo/nobodywho - NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  ](https://github.com/nobodywho-ooo/nobodywho)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
