@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [decision-labs/geoai.js - 🛰️ GeoAI.js is a javascript library for use with transformers.js to perform GeoAI on the frontend](https://github.com/decision-labs/geoai.js)
 - [opusvideo/awesome-claude-video - A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / 中文.](https://github.com/opusvideo/awesome-claude-video)
 - [unjs/oxbox - 🐂 Tiny, portable JS library for parsing and transforming JS/TS/JSX, powered by oxc](https://github.com/unjs/oxbox)
 - [cloudflare/cf - The agentic CLI for the entire Cloudflare API](https://github.com/cloudflare/cf)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [YGYOOO/WorldX - One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.](https://github.com/YGYOOO/WorldX)
 - [JustinChavez/sf-isometric-demo - An interactive isometric pixel-art map of downtown San Francisco, generated tile by tile with a fine-tuned image-editing model.](https://github.com/JustinChavez/sf-isometric-demo)
 - [tensor2023/OpenPixel-RPG - AI-powered UGC pixel-art JRPG: input any address or photo, describe a style, and get a complete interactive world with AI-generated local NPCs.](https://github.com/tensor2023/OpenPixel-RPG)
-- [sam10155/isometric-cities - Pixel art isometric views of Toronto, Montreal, Vancouver, Ottawa, and Victoria](https://github.com/sam10155/isometric-cities)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
