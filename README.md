@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sindresorhus/LaunchAtLogin-Modern - Add “Launch at Login” functionality to your macOS app in seconds](https://github.com/sindresorhus/LaunchAtLogin-Modern)
 - [margelo/simdutf-swift - Swift bindings for simdutf: SIMD-accelerated Unicode validation, conversion, and Base64 with configurable SwiftPM traits.](https://github.com/margelo/simdutf-swift)
 - [decision-labs/geoai.js - 🛰️ GeoAI.js is a javascript library for use with transformers.js to perform GeoAI on the frontend](https://github.com/decision-labs/geoai.js)
 - [opusvideo/awesome-claude-video - A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / 中文.](https://github.com/opusvideo/awesome-claude-video)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [fadhlirahim/simple-agent-collabs - A file-based research loop for one human and N LLM subagents. Inspired by HF agent-collabs](https://github.com/fadhlirahim/simple-agent-collabs)
 - [Mak5er/AirCard - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)](https://github.com/Mak5er/AirCard)
 - [YGYOOO/WorldX - One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.](https://github.com/YGYOOO/WorldX)
-- [JustinChavez/sf-isometric-demo - An interactive isometric pixel-art map of downtown San Francisco, generated tile by tile with a fine-tuned image-editing model.](https://github.com/JustinChavez/sf-isometric-demo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
