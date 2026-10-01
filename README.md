@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [dmtrKovalenko/fframes - programmatic video rendering framework that is actually fast](https://github.com/dmtrKovalenko/fframes)
 - [sindresorhus/LaunchAtLogin-Modern - Add “Launch at Login” functionality to your macOS app in seconds](https://github.com/sindresorhus/LaunchAtLogin-Modern)
 - [margelo/simdutf-swift - Swift bindings for simdutf: SIMD-accelerated Unicode validation, conversion, and Base64 with configurable SwiftPM traits.](https://github.com/margelo/simdutf-swift)
 - [decision-labs/geoai.js - 🛰️ GeoAI.js is a javascript library for use with transformers.js to perform GeoAI on the frontend](https://github.com/decision-labs/geoai.js)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kaishi00/hermes-conduit - Conduit — native SwiftUI iOS client for Hermes Agent](https://github.com/kaishi00/hermes-conduit)
 - [fadhlirahim/simple-agent-collabs - A file-based research loop for one human and N LLM subagents. Inspired by HF agent-collabs](https://github.com/fadhlirahim/simple-agent-collabs)
 - [Mak5er/AirCard - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)](https://github.com/Mak5er/AirCard)
-- [YGYOOO/WorldX - One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.](https://github.com/YGYOOO/WorldX)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
