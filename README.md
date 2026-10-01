@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [afonsojramos/super-calendar - Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web.](https://github.com/afonsojramos/super-calendar)
 - [dmtrKovalenko/fframes - programmatic video rendering framework that is actually fast](https://github.com/dmtrKovalenko/fframes)
 - [sindresorhus/LaunchAtLogin-Modern - Add “Launch at Login” functionality to your macOS app in seconds](https://github.com/sindresorhus/LaunchAtLogin-Modern)
 - [margelo/simdutf-swift - Swift bindings for simdutf: SIMD-accelerated Unicode validation, conversion, and Base64 with configurable SwiftPM traits.](https://github.com/margelo/simdutf-swift)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Kanahiro/cloud-optimized-geoparquet - A GeoParquet extension for progressive map rendering and partial access over HTTP range requests.](https://github.com/Kanahiro/cloud-optimized-geoparquet)
 - [kaishi00/hermes-conduit - Conduit — native SwiftUI iOS client for Hermes Agent](https://github.com/kaishi00/hermes-conduit)
 - [fadhlirahim/simple-agent-collabs - A file-based research loop for one human and N LLM subagents. Inspired by HF agent-collabs](https://github.com/fadhlirahim/simple-agent-collabs)
-- [Mak5er/AirCard - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)](https://github.com/Mak5er/AirCard)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
