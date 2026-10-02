@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cloudflare/cloudflare-os - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.](https://github.com/cloudflare/cloudflare-os)
 - [youcci/playport - Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.](https://github.com/youcci/playport)
 - [afonsojramos/super-calendar - Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web.](https://github.com/afonsojramos/super-calendar)
 - [dmtrKovalenko/fframes - programmatic video rendering framework that is actually fast](https://github.com/dmtrKovalenko/fframes)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [openai/tart - macOS and Linux VMs on Apple Silicon to use in CI and other automations](https://github.com/openai/tart)
 - [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac)
 - [Kanahiro/cloud-optimized-geoparquet - A GeoParquet extension for progressive map rendering and partial access over HTTP range requests.](https://github.com/Kanahiro/cloud-optimized-geoparquet)
-- [kaishi00/hermes-conduit - Conduit — native SwiftUI iOS client for Hermes Agent](https://github.com/kaishi00/hermes-conduit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
