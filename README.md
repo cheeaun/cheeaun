@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cloudflare/ci - Cloudflare-native continuous integration powered by Workflows and Sandbox](https://github.com/cloudflare/ci)
+- [sindresorhus/eslint-cssicorn - Powerful ESLint rules for CSS](https://github.com/sindresorhus/eslint-cssicorn)
+- [egoist/mygo - Develop desktop apps with a web frontend or native UI in Go](https://github.com/egoist/mygo)
 - [rorkai/App-Store-Connect-CLI - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more](https://github.com/rorkai/App-Store-Connect-CLI)
 - [cloudflare/cloudflare-os - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.](https://github.com/cloudflare/cloudflare-os)
 - [youcci/playport - Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.](https://github.com/youcci/playport)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unjs/oxbox - 🐂 Tiny, portable JS library for parsing and transforming JS/TS/JSX, powered by oxc](https://github.com/unjs/oxbox)
 - [cloudflare/cf - The agentic CLI for the entire Cloudflare API](https://github.com/cloudflare/cf)
 - [tijnjh/ios-haptics - 📳 javascript library for haptic feedback inside of safari on ios](https://github.com/tijnjh/ios-haptics)
-- [WICG/web-haptics - Web Haptics API](https://github.com/WICG/web-haptics)
-- [openai/tart - macOS and Linux VMs on Apple Silicon to use in CI and other automations](https://github.com/openai/tart)
-- [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
