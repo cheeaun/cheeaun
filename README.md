@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [0xpili/simplified-technical-english - An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool.](https://github.com/0xpili/simplified-technical-english)
 - [cloudflare/ci - Cloudflare-native continuous integration powered by Workflows and Sandbox](https://github.com/cloudflare/ci)
 - [sindresorhus/eslint-cssicorn - Powerful ESLint rules for CSS](https://github.com/sindresorhus/eslint-cssicorn)
 - [egoist/mygo - Develop desktop apps with a web frontend or native UI in Go](https://github.com/egoist/mygo)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [opusvideo/awesome-claude-video - A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / 中文.](https://github.com/opusvideo/awesome-claude-video)
 - [unjs/oxbox - 🐂 Tiny, portable JS library for parsing and transforming JS/TS/JSX, powered by oxc](https://github.com/unjs/oxbox)
 - [cloudflare/cf - The agentic CLI for the entire Cloudflare API](https://github.com/cloudflare/cf)
-- [tijnjh/ios-haptics - 📳 javascript library for haptic feedback inside of safari on ios](https://github.com/tijnjh/ios-haptics)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
