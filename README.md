@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [liuzhipenggg/CAPEval - CAPEVAL: A DECOUPLED CAPTION EVALUATION ACROSS UNDERSTANDING AND GENERATION](https://github.com/liuzhipenggg/CAPEval)
 - [0xpili/simplified-technical-english - An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool.](https://github.com/0xpili/simplified-technical-english)
 - [cloudflare/ci - Cloudflare-native continuous integration powered by Workflows and Sandbox](https://github.com/cloudflare/ci)
 - [sindresorhus/eslint-cssicorn - Powerful ESLint rules for CSS](https://github.com/sindresorhus/eslint-cssicorn)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [decision-labs/geoai.js - 🛰️ GeoAI.js is a javascript library for use with transformers.js to perform GeoAI on the frontend](https://github.com/decision-labs/geoai.js)
 - [opusvideo/awesome-claude-video - A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / 中文.](https://github.com/opusvideo/awesome-claude-video)
 - [unjs/oxbox - 🐂 Tiny, portable JS library for parsing and transforming JS/TS/JSX, powered by oxc](https://github.com/unjs/oxbox)
-- [cloudflare/cf - The agentic CLI for the entire Cloudflare API](https://github.com/cloudflare/cf)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
