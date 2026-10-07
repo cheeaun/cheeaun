@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Droid-Deck/DroidDeck - DroidDeck brings the SteamOS experience to Android](https://github.com/Droid-Deck/DroidDeck)
 - [rorkai/app-store-connect-cli-skills - Skills to automate app store deployed and everything related to it using the asc cli](https://github.com/rorkai/app-store-connect-cli-skills)
 - [vorssaint/vorssaint-utils - Free and open-source macOS menu bar toolkit.](https://github.com/vorssaint/vorssaint-utils)
 - [liuzhipenggg/CAPEval - CAPEVAL: A DECOUPLED CAPTION EVALUATION ACROSS UNDERSTANDING AND GENERATION](https://github.com/liuzhipenggg/CAPEval)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dmtrKovalenko/fframes - programmatic video rendering framework that is actually fast](https://github.com/dmtrKovalenko/fframes)
 - [sindresorhus/LaunchAtLogin-Modern - Add “Launch at Login” functionality to your macOS app in seconds](https://github.com/sindresorhus/LaunchAtLogin-Modern)
 - [margelo/simdutf-swift - Swift bindings for simdutf: SIMD-accelerated Unicode validation, conversion, and Base64 with configurable SwiftPM traits.](https://github.com/margelo/simdutf-swift)
-- [decision-labs/geoai.js - 🛰️ GeoAI.js is a javascript library for use with transformers.js to perform GeoAI on the frontend](https://github.com/decision-labs/geoai.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
