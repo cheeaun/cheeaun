@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [videojs/v10 - Video.js v10 - open source media player framework for HTML and React.](https://github.com/videojs/v10)
 - [shader-effects-inc/shaders - WebGPU components for React, Vue, Svelte, Solid, JS & Framer](https://github.com/shader-effects-inc/shaders)
 - [Droid-Deck/DroidDeck - DroidDeck brings the SteamOS experience to Android](https://github.com/Droid-Deck/DroidDeck)
 - [rorkai/app-store-connect-cli-skills - Skills to automate app store deployed and everything related to it using the asc cli](https://github.com/rorkai/app-store-connect-cli-skills)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [youcci/playport - Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.](https://github.com/youcci/playport)
 - [afonsojramos/super-calendar - Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web.](https://github.com/afonsojramos/super-calendar)
 - [dmtrKovalenko/fframes - programmatic video rendering framework that is actually fast](https://github.com/dmtrKovalenko/fframes)
-- [sindresorhus/LaunchAtLogin-Modern - Add “Launch at Login” functionality to your macOS app in seconds](https://github.com/sindresorhus/LaunchAtLogin-Modern)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
