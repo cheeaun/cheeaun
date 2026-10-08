@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [videojs/v10 - Video.js v10 - open source media player framework for HTML and React.](https://github.com/videojs/v10)
+- [videojs/v10 - 🚚 Video.js v10 has moved to videos/video.js](https://github.com/videojs/v10)
 - [shader-effects-inc/shaders - WebGPU components for React, Vue, Svelte, Solid, JS & Framer](https://github.com/shader-effects-inc/shaders)
 - [Droid-Deck/DroidDeck - DroidDeck brings the SteamOS experience to Android](https://github.com/Droid-Deck/DroidDeck)
 - [rorkai/app-store-connect-cli-skills - Skills to automate app store deployed and everything related to it using the asc cli](https://github.com/rorkai/app-store-connect-cli-skills)
