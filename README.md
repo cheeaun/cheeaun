@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [noahdunnagan/fsearch - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.](https://github.com/noahdunnagan/fsearch)
 - [videojs/v10 - 🚚 Video.js v10 has moved to videos/video.js](https://github.com/videojs/v10)
 - [shader-effects-inc/shaders - WebGPU components for React, Vue, Svelte, Solid, JS & Framer](https://github.com/shader-effects-inc/shaders)
 - [Droid-Deck/DroidDeck - DroidDeck brings the SteamOS experience to Android](https://github.com/Droid-Deck/DroidDeck)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cloudflare/cloudflare-os - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.](https://github.com/cloudflare/cloudflare-os)
 - [youcci/playport - Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.](https://github.com/youcci/playport)
 - [afonsojramos/super-calendar - Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web.](https://github.com/afonsojramos/super-calendar)
-- [dmtrKovalenko/fframes - programmatic video rendering framework that is actually fast](https://github.com/dmtrKovalenko/fframes)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
