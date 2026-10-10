@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [zeusinsight/FinderSearch - A native macOS file browser with fast fuzzy filename search, powered by fsearch.](https://github.com/zeusinsight/FinderSearch)
+- [morluto/rea - Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)
+- [VitalysRDT/rclone-gui-ios - Client iOS rclone — toutes connexions, file ops, crypt support](https://github.com/VitalysRDT/rclone-gui-ios)
 - [antfu/skills-npm - Install agent skills from npm](https://github.com/antfu/skills-npm)
 - [noahdunnagan/fsearch - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.](https://github.com/noahdunnagan/fsearch)
 - [videojs/v10 - 🚚 Video.js v10 has moved to videos/video.js](https://github.com/videojs/v10)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cloudflare/ci - Cloudflare-native continuous integration powered by Workflows and Sandbox](https://github.com/cloudflare/ci)
 - [sindresorhus/eslint-cssicorn - Powerful ESLint rules for CSS](https://github.com/sindresorhus/eslint-cssicorn)
 - [egoist/mygo - Develop desktop apps with a web frontend or native UI in Go](https://github.com/egoist/mygo)
-- [rorkai/App-Store-Connect-CLI - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more](https://github.com/rorkai/App-Store-Connect-CLI)
-- [cloudflare/cloudflare-os - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.](https://github.com/cloudflare/cloudflare-os)
-- [youcci/playport - Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.](https://github.com/youcci/playport)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
