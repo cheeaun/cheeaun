@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [haxzie/better-emoji - Search emoji's semantically on Mac](https://github.com/haxzie/better-emoji)
 - [zeusinsight/FinderSearch - A native macOS file browser with fast fuzzy filename search, powered by fsearch.](https://github.com/zeusinsight/FinderSearch)
 - [morluto/rea - Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)
 - [VitalysRDT/rclone-gui-ios - Client iOS rclone — toutes connexions, file ops, crypt support](https://github.com/VitalysRDT/rclone-gui-ios)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [0xpili/simplified-technical-english - An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool.](https://github.com/0xpili/simplified-technical-english)
 - [cloudflare/ci - Cloudflare-native continuous integration powered by Workflows and Sandbox](https://github.com/cloudflare/ci)
 - [sindresorhus/eslint-cssicorn - Powerful ESLint rules for CSS](https://github.com/sindresorhus/eslint-cssicorn)
-- [egoist/mygo - Develop desktop apps with a web frontend or native UI in Go](https://github.com/egoist/mygo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
