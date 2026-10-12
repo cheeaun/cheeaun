@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [justrach/harness - Harness desktop app source prepared for public release](https://github.com/justrach/harness)
+- [justrach/codegraff - graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs](https://github.com/justrach/codegraff)
 - [haxzie/better-emoji - Search emoji's semantically on Mac](https://github.com/haxzie/better-emoji)
 - [zeusinsight/FinderSearch - A native macOS file browser with fast fuzzy filename search, powered by fsearch.](https://github.com/zeusinsight/FinderSearch)
 - [morluto/rea - Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vorssaint/vorssaint-utils - Free and open-source macOS menu bar toolkit.](https://github.com/vorssaint/vorssaint-utils)
 - [liuzhipenggg/CAPEval - CAPEVAL: A DECOUPLED CAPTION EVALUATION ACROSS UNDERSTANDING AND GENERATION](https://github.com/liuzhipenggg/CAPEval)
 - [0xpili/simplified-technical-english - An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool.](https://github.com/0xpili/simplified-technical-english)
-- [cloudflare/ci - Cloudflare-native continuous integration powered by Workflows and Sandbox](https://github.com/cloudflare/ci)
-- [sindresorhus/eslint-cssicorn - Powerful ESLint rules for CSS](https://github.com/sindresorhus/eslint-cssicorn)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
