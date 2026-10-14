@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gmi-software/react-native-better-pdf - Native, virtualized PDF viewer for React Native, built on Nitro Views](https://github.com/gmi-software/react-native-better-pdf)
+- [mahdidavoodi7/react-native-wifi-aware - Peer-to-peer discovery and high-bandwidth local data paths over Wi-Fi Aware (NAN) for React Native and Expo. Wraps Apple's WiFiAware framework (iOS 26) and Android's WifiAwareManager behind one typed API. Swift + Kotlin via Nitro Modules.](https://github.com/mahdidavoodi7/react-native-wifi-aware)
 - [justrach/harness - Harness desktop app source prepared for public release](https://github.com/justrach/harness)
 - [justrach/codegraff - graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs](https://github.com/justrach/codegraff)
 - [haxzie/better-emoji - Search emoji's semantically on Mac](https://github.com/haxzie/better-emoji)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Droid-Deck/DroidDeck - DroidDeck brings the SteamOS experience to Android](https://github.com/Droid-Deck/DroidDeck)
 - [rorkai/app-store-connect-cli-skills - Skills to automate app store deployed and everything related to it using the asc cli](https://github.com/rorkai/app-store-connect-cli-skills)
 - [vorssaint/vorssaint-utils - Free and open-source macOS menu bar toolkit.](https://github.com/vorssaint/vorssaint-utils)
-- [liuzhipenggg/CAPEval - CAPEVAL: A DECOUPLED CAPTION EVALUATION ACROSS UNDERSTANDING AND GENERATION](https://github.com/liuzhipenggg/CAPEval)
-- [0xpili/simplified-technical-english - An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool.](https://github.com/0xpili/simplified-technical-english)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
