@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [takahirox/three-rs-wasm](https://github.com/takahirox/three-rs-wasm)
+- [oneilltomhq/three-rs - Three.js core and WebGPURenderer ported to Rust on wgpu, graded by Three's own e2e pixel diff](https://github.com/oneilltomhq/three-rs)
+- [antfu/furifont - A Japanese font that shows furigana by itself.](https://github.com/antfu/furifont)
 - [natew/react-native-gpui](https://github.com/natew/react-native-gpui)
 - [geoparquet-io/tylertoo - GeoParquet to PMTiles in Rust.](https://github.com/geoparquet-io/tylertoo)
 - [gmi-software/react-native-better-pdf - Native, virtualized PDF viewer for React Native, built on Nitro Views](https://github.com/gmi-software/react-native-better-pdf)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [VitalysRDT/rclone-gui-ios - Client iOS rclone — toutes connexions, file ops, crypt support](https://github.com/VitalysRDT/rclone-gui-ios)
 - [antfu/skills-npm - Install agent skills from npm](https://github.com/antfu/skills-npm)
 - [noahdunnagan/fsearch - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.](https://github.com/noahdunnagan/fsearch)
-- [videojs/v10 - 🚚 Video.js v10 has moved to videojs/video.js](https://github.com/videojs/v10)
-- [shader-effects-inc/shaders - WebGPU components for React, Vue, Svelte, Solid, JS & Framer](https://github.com/shader-effects-inc/shaders)
-- [Droid-Deck/DroidDeck - DroidDeck brings the SteamOS experience to Android](https://github.com/Droid-Deck/DroidDeck)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
