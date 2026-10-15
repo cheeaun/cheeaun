@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chenglou/handwired - Turn your regular JavaScript code into a neural net.](https://github.com/chenglou/handwired)
+- [cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings](https://github.com/cloudflare/security-audit-skill)
 - [takahirox/three-rs-wasm](https://github.com/takahirox/three-rs-wasm)
 - [oneilltomhq/three-rs - Three.js core and WebGPURenderer ported to Rust on wgpu, graded by Three's own e2e pixel diff](https://github.com/oneilltomhq/three-rs)
 - [antfu/furifont - A Japanese font that shows furigana by itself.](https://github.com/antfu/furifont)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zeusinsight/FinderSearch - A native macOS file browser with fast fuzzy filename search, powered by fsearch.](https://github.com/zeusinsight/FinderSearch)
 - [morluto/rea - Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)
 - [VitalysRDT/rclone-gui-ios - Client iOS rclone — toutes connexions, file ops, crypt support](https://github.com/VitalysRDT/rclone-gui-ios)
-- [antfu/skills-npm - Install agent skills from npm](https://github.com/antfu/skills-npm)
-- [noahdunnagan/fsearch - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.](https://github.com/noahdunnagan/fsearch)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
