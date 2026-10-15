@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [natew/react-native-gpui](https://github.com/natew/react-native-gpui)
 - [geoparquet-io/tylertoo - GeoParquet to PMTiles in Rust.](https://github.com/geoparquet-io/tylertoo)
 - [gmi-software/react-native-better-pdf - Native, virtualized PDF viewer for React Native, built on Nitro Views](https://github.com/gmi-software/react-native-better-pdf)
 - [mahdidavoodi7/react-native-wifi-aware - Peer-to-peer discovery and high-bandwidth local data paths over Wi-Fi Aware (NAN) for React Native and Expo. Wraps Apple's WiFiAware framework (iOS 26) and Android's WifiAwareManager behind one typed API. Swift + Kotlin via Nitro Modules.](https://github.com/mahdidavoodi7/react-native-wifi-aware)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [videojs/v10 - 🚚 Video.js v10 has moved to videojs/video.js](https://github.com/videojs/v10)
 - [shader-effects-inc/shaders - WebGPU components for React, Vue, Svelte, Solid, JS & Framer](https://github.com/shader-effects-inc/shaders)
 - [Droid-Deck/DroidDeck - DroidDeck brings the SteamOS experience to Android](https://github.com/Droid-Deck/DroidDeck)
-- [rorkai/app-store-connect-cli-skills - Skills to automate app store deployed and everything related to it using the asc cli](https://github.com/rorkai/app-store-connect-cli-skills)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
