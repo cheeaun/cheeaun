@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [voidzero-dev/void - Build with Vite. Deploy with Void.](https://github.com/voidzero-dev/void)
 - [chenglou/handwired - Turn your regular JavaScript code into a neural net.](https://github.com/chenglou/handwired)
 - [cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings](https://github.com/cloudflare/security-audit-skill)
 - [takahirox/three-rs-wasm](https://github.com/takahirox/three-rs-wasm)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [haxzie/better-emoji - Search emoji's semantically on Mac](https://github.com/haxzie/better-emoji)
 - [zeusinsight/FinderSearch - A native macOS file browser with fast fuzzy filename search, powered by fsearch.](https://github.com/zeusinsight/FinderSearch)
 - [morluto/rea - Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)
-- [VitalysRDT/rclone-gui-ios - Client iOS rclone — toutes connexions, file ops, crypt support](https://github.com/VitalysRDT/rclone-gui-ios)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
