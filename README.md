@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [JLarky/lift-html](https://github.com/JLarky/lift-html)
+- [pauljoda/Crest - An open source browser for Mac, iPhone, and iPad.](https://github.com/pauljoda/Crest)
 - [TetraLogical/accessible-components-library - Accessible components with working examples, code, guidance, and the test scenarios we use to check them.](https://github.com/TetraLogical/accessible-components-library)
 - [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial)
 - [voidzero-dev/void - Build with Vite. Deploy with Void.](https://github.com/voidzero-dev/void)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gmi-software/react-native-better-pdf - Native, virtualized PDF viewer for React Native, built on Nitro Views](https://github.com/gmi-software/react-native-better-pdf)
 - [mahdidavoodi7/react-native-wifi-aware - Peer-to-peer discovery and high-bandwidth local data paths over Wi-Fi Aware (NAN) for React Native and Expo. Wraps Apple's WiFiAware framework (iOS 26) and Android's WifiAwareManager behind one typed API. Swift + Kotlin via Nitro Modules.](https://github.com/mahdidavoodi7/react-native-wifi-aware)
 - [justrach/harness - Harness desktop app source prepared for public release](https://github.com/justrach/harness)
-- [justrach/codegraff - graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs](https://github.com/justrach/codegraff)
-- [haxzie/better-emoji - Search emoji's semantically on Mac](https://github.com/haxzie/better-emoji)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
