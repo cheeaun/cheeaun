@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial)
 - [voidzero-dev/void - Build with Vite. Deploy with Void.](https://github.com/voidzero-dev/void)
 - [chenglou/handwired - Turn your regular JavaScript code into a neural net.](https://github.com/chenglou/handwired)
 - [cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings](https://github.com/cloudflare/security-audit-skill)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [justrach/codegraff - graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs](https://github.com/justrach/codegraff)
 - [haxzie/better-emoji - Search emoji's semantically on Mac](https://github.com/haxzie/better-emoji)
 - [zeusinsight/FinderSearch - A native macOS file browser with fast fuzzy filename search, powered by fsearch.](https://github.com/zeusinsight/FinderSearch)
-- [morluto/rea - Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
