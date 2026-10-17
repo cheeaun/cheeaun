@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [swicg/geosocial - Geosocial Taskforce](https://github.com/swicg/geosocial)
 - [o24s/uroman-rs - A self-contained Rust reimplementation of uroman, a universal romanizer.](https://github.com/o24s/uroman-rs)
 - [crsolver/claude-pxl](https://github.com/crsolver/claude-pxl)
 - [JLarky/lift-html](https://github.com/JLarky/lift-html)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [antfu/furifont - A Japanese font that shows furigana by itself.](https://github.com/antfu/furifont)
 - [natew/react-native-gpui](https://github.com/natew/react-native-gpui)
 - [geoparquet-io/tylertoo - GeoParquet to PMTiles in Rust.](https://github.com/geoparquet-io/tylertoo)
-- [gmi-software/react-native-better-pdf - Native, virtualized PDF viewer for React Native, built on Nitro Views](https://github.com/gmi-software/react-native-better-pdf)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
