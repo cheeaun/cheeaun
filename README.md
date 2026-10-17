@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [o24s/uroman-rs - A self-contained Rust reimplementation of uroman, a universal romanizer.](https://github.com/o24s/uroman-rs)
 - [crsolver/claude-pxl](https://github.com/crsolver/claude-pxl)
 - [JLarky/lift-html](https://github.com/JLarky/lift-html)
 - [pauljoda/Crest - An open source browser for Mac, iPhone, and iPad.](https://github.com/pauljoda/Crest)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [natew/react-native-gpui](https://github.com/natew/react-native-gpui)
 - [geoparquet-io/tylertoo - GeoParquet to PMTiles in Rust.](https://github.com/geoparquet-io/tylertoo)
 - [gmi-software/react-native-better-pdf - Native, virtualized PDF viewer for React Native, built on Nitro Views](https://github.com/gmi-software/react-native-better-pdf)
-- [mahdidavoodi7/react-native-wifi-aware - Peer-to-peer discovery and high-bandwidth local data paths over Wi-Fi Aware (NAN) for React Native and Expo. Wraps Apple's WiFiAware framework (iOS 26) and Android's WifiAwareManager behind one typed API. Swift + Kotlin via Nitro Modules.](https://github.com/mahdidavoodi7/react-native-wifi-aware)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
