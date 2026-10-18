@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Jiaxu-Li/GlassIntroKit - A first-launch intro for SwiftUI apps, made with Liquid Glass and Metal.](https://github.com/Jiaxu-Li/GlassIntroKit)
 - [rayhatfield/mac-media-keys - macOS menu bar app to forward media keys to a specific application](https://github.com/rayhatfield/mac-media-keys)
 - [swicg/geosocial - Geosocial Taskforce](https://github.com/swicg/geosocial)
 - [o24s/uroman-rs - A self-contained Rust reimplementation of uroman, a universal romanizer.](https://github.com/o24s/uroman-rs)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [takahirox/three-rs-wasm](https://github.com/takahirox/three-rs-wasm)
 - [oneilltomhq/three-rs - Three.js core and WebGPURenderer ported to Rust on wgpu, graded by Three's own e2e pixel diff](https://github.com/oneilltomhq/three-rs)
 - [antfu/furifont - A Japanese font that shows furigana by itself.](https://github.com/antfu/furifont)
-- [natew/react-native-gpui](https://github.com/natew/react-native-gpui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
