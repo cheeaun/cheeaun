@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [felixpalmer/a5 - Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5)
 - [justrach/nanoui - Desktop apps in Zig, with native UI drawn on the GPU or a web frontend](https://github.com/justrach/nanoui)
 - [Jiaxu-Li/GlassIntroKit - A first-launch intro for SwiftUI apps, made with Liquid Glass and Metal.](https://github.com/Jiaxu-Li/GlassIntroKit)
 - [rayhatfield/mac-media-keys - macOS menu bar app to forward media keys to a specific application](https://github.com/rayhatfield/mac-media-keys)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [chenglou/handwired - Turn your regular JavaScript code into a neural net.](https://github.com/chenglou/handwired)
 - [cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings](https://github.com/cloudflare/security-audit-skill)
 - [takahirox/three-rs-wasm](https://github.com/takahirox/three-rs-wasm)
-- [oneilltomhq/three-rs - Three.js core and WebGPURenderer ported to Rust on wgpu, graded by Three's own e2e pixel diff](https://github.com/oneilltomhq/three-rs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
