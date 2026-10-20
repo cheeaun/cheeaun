@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [gc/confusables - A nodejs library for removing confusable unicode characters from strings.](https://github.com/gc/confusables)
+- [unicode-org/unicodetools - home of unicodetools and https://util.unicode.org JSPs](https://github.com/unicode-org/unicodetools)
 - [moderation-api/unicode-spoofing - Unicode spoofing detection: mixed-script words, UTS #39 confusables, invisible characters, and combining-mark abuse. Zero runtime dependencies.](https://github.com/moderation-api/unicode-spoofing)
 - [deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
 - [null8626/decancer - A library that detects and filters common unicode confusables/homoglyphs.](https://github.com/null8626/decancer)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [swicg/geosocial - Geosocial Taskforce](https://github.com/swicg/geosocial)
 - [o24s/uroman-rs - A self-contained Rust reimplementation of uroman, a universal romanizer.](https://github.com/o24s/uroman-rs)
 - [crsolver/claude-pxl](https://github.com/crsolver/claude-pxl)
-- [JLarky/lift-html](https://github.com/JLarky/lift-html)
-- [pauljoda/Crest - An open source browser for Mac, iPhone, and iPad.](https://github.com/pauljoda/Crest)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
