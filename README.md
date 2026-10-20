@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [immersive-web/model-element-polyfill - A polyfill for the HTML Model Element ](https://github.com/immersive-web/model-element-polyfill)
 - [kksimp/Mac.apk - Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
 - [mistralai/timestral](https://github.com/mistralai/timestral)
 - [felixpalmer/a5 - Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [TetraLogical/accessible-components-library - Accessible components with working examples, code, guidance, and the test scenarios we use to check them.](https://github.com/TetraLogical/accessible-components-library)
 - [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial)
 - [voidzero-dev/void - Build with Vite. Deploy with Void.](https://github.com/voidzero-dev/void)
-- [chenglou/handwired - Turn your regular JavaScript code into a neural net.](https://github.com/chenglou/handwired)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
