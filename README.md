@@ -27,9 +27,12 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [moderation-api/unicode-spoofing - Unicode spoofing detection: mixed-script words, UTS #39 confusables, invisible characters, and combining-mark abuse. Zero runtime dependencies.](https://github.com/moderation-api/unicode-spoofing)
+- [deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
+- [null8626/decancer - A library that detects and filters common unicode confusables/homoglyphs.](https://github.com/null8626/decancer)
 - [immersive-web/model-element-polyfill - A polyfill for the HTML Model Element ](https://github.com/immersive-web/model-element-polyfill)
 - [kksimp/Mac.apk - Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
-- [mistralai/timestral](https://github.com/mistralai/timestral)
+- [mistralai/timestral - Repository for Timestral, the time-series foundation model by Mistral AI](https://github.com/mistralai/timestral)
 - [felixpalmer/a5 - Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5)
 - [justrach/nanoui - Desktop apps in Zig, with native UI drawn on the GPU or a web frontend](https://github.com/justrach/nanoui)
 - [Jiaxu-Li/GlassIntroKit - A first-launch intro for SwiftUI apps, made with Liquid Glass and Metal.](https://github.com/Jiaxu-Li/GlassIntroKit)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [crsolver/claude-pxl](https://github.com/crsolver/claude-pxl)
 - [JLarky/lift-html](https://github.com/JLarky/lift-html)
 - [pauljoda/Crest - An open source browser for Mac, iPhone, and iPad.](https://github.com/pauljoda/Crest)
-- [TetraLogical/accessible-components-library - Accessible components with working examples, code, guidance, and the test scenarios we use to check them.](https://github.com/TetraLogical/accessible-components-library)
-- [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial)
-- [voidzero-dev/void - Build with Vite. Deploy with Void.](https://github.com/voidzero-dev/void)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
