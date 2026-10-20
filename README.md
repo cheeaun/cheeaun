@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kksimp/Mac.apk - Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
 - [mistralai/timestral](https://github.com/mistralai/timestral)
 - [felixpalmer/a5 - Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5)
 - [justrach/nanoui - Desktop apps in Zig, with native UI drawn on the GPU or a web frontend](https://github.com/justrach/nanoui)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial)
 - [voidzero-dev/void - Build with Vite. Deploy with Void.](https://github.com/voidzero-dev/void)
 - [chenglou/handwired - Turn your regular JavaScript code into a neural net.](https://github.com/chenglou/handwired)
-- [cloudflare/security-audit-skill - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings](https://github.com/cloudflare/security-audit-skill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
