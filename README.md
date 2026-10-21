@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [jing-xuan/teh-o](https://github.com/jing-xuan/teh-o)
+- [oxc-project/tsrs - Rust port of the TypeScript 7 type checker](https://github.com/oxc-project/tsrs)
+- [WebAssembly/wabt - The WebAssembly Binary Toolkit](https://github.com/WebAssembly/wabt)
 - [gc/confusables - A nodejs library for removing confusable unicode characters from strings.](https://github.com/gc/confusables)
 - [unicode-org/unicodetools - home of unicodetools and https://util.unicode.org JSPs](https://github.com/unicode-org/unicodetools)
 - [moderation-api/unicode-spoofing - Unicode spoofing detection: mixed-script words, UTS #39 confusables, invisible characters, and combining-mark abuse. Zero runtime dependencies.](https://github.com/moderation-api/unicode-spoofing)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [justrach/nanoui - Desktop apps in Zig, with native UI drawn on the GPU or a web frontend](https://github.com/justrach/nanoui)
 - [Jiaxu-Li/GlassIntroKit - A first-launch intro for SwiftUI apps, made with Liquid Glass and Metal.](https://github.com/Jiaxu-Li/GlassIntroKit)
 - [rayhatfield/mac-media-keys - macOS menu bar app to forward media keys to a specific application](https://github.com/rayhatfield/mac-media-keys)
-- [swicg/geosocial - Geosocial Taskforce](https://github.com/swicg/geosocial)
-- [o24s/uroman-rs - A self-contained Rust reimplementation of uroman, a universal romanizer.](https://github.com/o24s/uroman-rs)
-- [crsolver/claude-pxl](https://github.com/crsolver/claude-pxl)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
