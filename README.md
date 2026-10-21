@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [googleapis/release-please-action - automated releases based on conventional commits](https://github.com/googleapis/release-please-action)
 - [jing-xuan/teh-o](https://github.com/jing-xuan/teh-o)
 - [oxc-project/tsrs - Rust port of the TypeScript 7 type checker](https://github.com/oxc-project/tsrs)
 - [WebAssembly/wabt - The WebAssembly Binary Toolkit](https://github.com/WebAssembly/wabt)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [felixpalmer/a5 - Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5)
 - [justrach/nanoui - Desktop apps in Zig, with native UI drawn on the GPU or a web frontend](https://github.com/justrach/nanoui)
 - [Jiaxu-Li/GlassIntroKit - A first-launch intro for SwiftUI apps, made with Liquid Glass and Metal.](https://github.com/Jiaxu-Li/GlassIntroKit)
-- [rayhatfield/mac-media-keys - macOS menu bar app to forward media keys to a specific application](https://github.com/rayhatfield/mac-media-keys)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
