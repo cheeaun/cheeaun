@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [danielroe/forges - One client, every forge.](https://github.com/danielroe/forges)
+- [shawnhooper/twitter-archive-to-wp - Import Twitter Data Archive using WP-CLI](https://github.com/shawnhooper/twitter-archive-to-wp)
+- [bleachbit/bleachbit - BleachBit system cleaner for Windows and Linux](https://github.com/bleachbit/bleachbit)
 - [googleapis/release-please-action - automated releases based on conventional commits](https://github.com/googleapis/release-please-action)
 - [jing-xuan/teh-o](https://github.com/jing-xuan/teh-o)
 - [oxc-project/tsrs - Rust port of the TypeScript 7 type checker](https://github.com/oxc-project/tsrs)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [immersive-web/model-element-polyfill - A polyfill for the HTML Model Element ](https://github.com/immersive-web/model-element-polyfill)
 - [kksimp/Mac.apk - Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
 - [mistralai/timestral - Repository for Timestral, the time-series foundation model by Mistral AI](https://github.com/mistralai/timestral)
-- [felixpalmer/a5 - Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5)
-- [justrach/nanoui - Desktop apps in Zig, with native UI drawn on the GPU or a web frontend](https://github.com/justrach/nanoui)
-- [Jiaxu-Li/GlassIntroKit - A first-launch intro for SwiftUI apps, made with Liquid Glass and Metal.](https://github.com/Jiaxu-Li/GlassIntroKit)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
