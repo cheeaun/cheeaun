@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [GLMap/earstrip - Fast polygon triangulation into triangle strips: ear clipping with a constrained Delaunay fallback for broken rings. Header-only C++17 and WebAssembly, with an earcut-compatible JavaScript call.](https://github.com/GLMap/earstrip)
 - [danielroe/forges - One client, every forge.](https://github.com/danielroe/forges)
 - [shawnhooper/twitter-archive-to-wp - Import Twitter Data Archive using WP-CLI](https://github.com/shawnhooper/twitter-archive-to-wp)
 - [bleachbit/bleachbit - BleachBit system cleaner for Windows and Linux](https://github.com/bleachbit/bleachbit)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [null8626/decancer - A library that detects and filters common unicode confusables/homoglyphs.](https://github.com/null8626/decancer)
 - [immersive-web/model-element-polyfill - A polyfill for the HTML Model Element ](https://github.com/immersive-web/model-element-polyfill)
 - [kksimp/Mac.apk - Mac.apk: Run Android apps natively on Apple Silicon Macs](https://github.com/kksimp/Mac.apk)
-- [mistralai/timestral - Repository for Timestral, the time-series foundation model by Mistral AI](https://github.com/mistralai/timestral)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
