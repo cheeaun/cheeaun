@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [seedds/nxnative - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)](https://github.com/seedds/nxnative)
 - [transitive-bullshit/apple-music-effect - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.](https://github.com/transitive-bullshit/apple-music-effect)
 - [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
 - [nkzw-tech/codiff - a fast local diff viewer](https://github.com/nkzw-tech/codiff)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [WebAssembly/wabt - The WebAssembly Binary Toolkit](https://github.com/WebAssembly/wabt)
 - [gc/confusables - A nodejs library for removing confusable unicode characters from strings.](https://github.com/gc/confusables)
 - [unicode-org/unicodetools - home of unicodetools and https://util.unicode.org JSPs](https://github.com/unicode-org/unicodetools)
-- [moderation-api/unicode-spoofing - Unicode spoofing detection: mixed-script words, UTS #39 confusables, invisible characters, and combining-mark abuse. Zero runtime dependencies.](https://github.com/moderation-api/unicode-spoofing)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
