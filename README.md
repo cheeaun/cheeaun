@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [transitive-bullshit/apple-music-effect - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.](https://github.com/transitive-bullshit/apple-music-effect)
 - [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
 - [nkzw-tech/codiff - a fast local diff viewer](https://github.com/nkzw-tech/codiff)
 - [Generated-Computers/Locals - Run many AI agents at once on your Mac, up to 3x faster.](https://github.com/Generated-Computers/Locals)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [gc/confusables - A nodejs library for removing confusable unicode characters from strings.](https://github.com/gc/confusables)
 - [unicode-org/unicodetools - home of unicodetools and https://util.unicode.org JSPs](https://github.com/unicode-org/unicodetools)
 - [moderation-api/unicode-spoofing - Unicode spoofing detection: mixed-script words, UTS #39 confusables, invisible characters, and combining-mark abuse. Zero runtime dependencies.](https://github.com/moderation-api/unicode-spoofing)
-- [deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
