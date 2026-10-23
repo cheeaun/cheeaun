@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
 - [nkzw-tech/codiff - a fast local diff viewer](https://github.com/nkzw-tech/codiff)
 - [Generated-Computers/Locals - Run many AI agents at once on your Mac, up to 3x faster.](https://github.com/Generated-Computers/Locals)
 - [GLMap/earstrip - Fast polygon triangulation into triangle strips: ear clipping with a constrained Delaunay fallback for broken rings. Header-only C++17 and WebAssembly, with an earcut-compatible JavaScript call.](https://github.com/GLMap/earstrip)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [unicode-org/unicodetools - home of unicodetools and https://util.unicode.org JSPs](https://github.com/unicode-org/unicodetools)
 - [moderation-api/unicode-spoofing - Unicode spoofing detection: mixed-script words, UTS #39 confusables, invisible characters, and combining-mark abuse. Zero runtime dependencies.](https://github.com/moderation-api/unicode-spoofing)
 - [deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
-- [null8626/decancer - A library that detects and filters common unicode confusables/homoglyphs.](https://github.com/null8626/decancer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
