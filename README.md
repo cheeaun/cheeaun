@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [arnt/uts58](https://github.com/arnt/uts58)
+- [sayrer/twitter-text - Twitter Text Libraries: Rust implementation](https://github.com/sayrer/twitter-text)
 - [seedds/nxnative - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)](https://github.com/seedds/nxnative)
 - [transitive-bullshit/apple-music-effect - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.](https://github.com/transitive-bullshit/apple-music-effect)
 - [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jing-xuan/teh-o](https://github.com/jing-xuan/teh-o)
 - [oxc-project/tsrs - Rust port of the TypeScript 7 type checker](https://github.com/oxc-project/tsrs)
 - [WebAssembly/wabt - The WebAssembly Binary Toolkit](https://github.com/WebAssembly/wabt)
-- [gc/confusables - A nodejs library for removing confusable unicode characters from strings.](https://github.com/gc/confusables)
-- [unicode-org/unicodetools - home of unicodetools and https://util.unicode.org JSPs](https://github.com/unicode-org/unicodetools)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
