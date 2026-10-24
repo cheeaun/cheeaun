@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [opengeos/terrio - Pure-Rust geospatial raster and vector data I/O](https://github.com/opengeos/terrio)
 - [arnt/uts58](https://github.com/arnt/uts58)
 - [sayrer/twitter-text - Twitter Text Libraries: Rust implementation](https://github.com/sayrer/twitter-text)
 - [seedds/nxnative - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)](https://github.com/seedds/nxnative)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [googleapis/release-please-action - automated releases based on conventional commits](https://github.com/googleapis/release-please-action)
 - [jing-xuan/teh-o](https://github.com/jing-xuan/teh-o)
 - [oxc-project/tsrs - Rust port of the TypeScript 7 type checker](https://github.com/oxc-project/tsrs)
-- [WebAssembly/wabt - The WebAssembly Binary Toolkit](https://github.com/WebAssembly/wabt)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
