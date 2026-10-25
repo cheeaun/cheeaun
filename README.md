@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [playportdev/playport - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone's own CPU and GPU: no PC, no cloud, no stream.](https://github.com/playportdev/playport)
 - [opengeos/terrio - Pure-Rust geospatial raster and vector data I/O](https://github.com/opengeos/terrio)
 - [arnt/uts58](https://github.com/arnt/uts58)
 - [sayrer/twitter-text - Twitter Text Libraries: Rust implementation](https://github.com/sayrer/twitter-text)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bleachbit/bleachbit - BleachBit system cleaner for Windows and Linux](https://github.com/bleachbit/bleachbit)
 - [googleapis/release-please-action - automated releases based on conventional commits](https://github.com/googleapis/release-please-action)
 - [jing-xuan/teh-o](https://github.com/jing-xuan/teh-o)
-- [oxc-project/tsrs - Rust port of the TypeScript 7 type checker](https://github.com/oxc-project/tsrs)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
