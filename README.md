@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [betterclever/wraithterm - Browser terminal: Ghostty's libghostty-vt and a Rust WebGPU renderer in one Wasm module, with an xterm.js-compatible API.](https://github.com/betterclever/wraithterm)
+- [zz85/slop-cities - spreading slop to different cities](https://github.com/zz85/slop-cities)
 - [ihhub/fheroes2 - fheroes2 is a recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
 - [playportdev/playport - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone's own CPU and GPU: no PC, no cloud, no stream.](https://github.com/playportdev/playport)
 - [opengeos/terrio - Pure-Rust geospatial raster and vector data I/O](https://github.com/opengeos/terrio)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [GLMap/earstrip - Fast polygon triangulation into triangle strips: ear clipping with a constrained Delaunay fallback for broken rings. Header-only C++17 and WebAssembly, with an earcut-compatible JavaScript call.](https://github.com/GLMap/earstrip)
 - [danielroe/forges - One client, every forge.](https://github.com/danielroe/forges)
 - [shawnhooper/twitter-archive-to-wp - Import Twitter Data Archive using WP-CLI](https://github.com/shawnhooper/twitter-archive-to-wp)
-- [bleachbit/bleachbit - BleachBit system cleaner for Windows and Linux](https://github.com/bleachbit/bleachbit)
-- [googleapis/release-please-action - automated releases based on conventional commits](https://github.com/googleapis/release-please-action)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
