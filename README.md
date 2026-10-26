@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [heydeer/pngdeer - Lossy PNG compression that picks the quality for each image. Command line and browser, same bytes.](https://github.com/heydeer/pngdeer)
 - [betterclever/wraithterm - Browser terminal: Ghostty's libghostty-vt and a Rust WebGPU renderer in one Wasm module, with an xterm.js-compatible API.](https://github.com/betterclever/wraithterm)
 - [zz85/slop-cities - spreading slop to different cities](https://github.com/zz85/slop-cities)
 - [ihhub/fheroes2 - fheroes2 is a recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Generated-Computers/Locals - Run many AI agents at once on your Mac, up to 3x faster.](https://github.com/Generated-Computers/Locals)
 - [GLMap/earstrip - Fast polygon triangulation into triangle strips: ear clipping with a constrained Delaunay fallback for broken rings. Header-only C++17 and WebAssembly, with an earcut-compatible JavaScript call.](https://github.com/GLMap/earstrip)
 - [danielroe/forges - One client, every forge.](https://github.com/danielroe/forges)
-- [shawnhooper/twitter-archive-to-wp - Import Twitter Data Archive using WP-CLI](https://github.com/shawnhooper/twitter-archive-to-wp)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
