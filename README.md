@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [heydeer/pngdeer - Lossy PNG compression that picks the quality for each image. Command line and browser, same bytes.](https://github.com/heydeer/pngdeer)
+- [heydeer/pngdeer - Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.](https://github.com/heydeer/pngdeer)
 - [betterclever/wraithterm - Browser terminal: Ghostty's libghostty-vt and a Rust WebGPU renderer in one Wasm module, with an xterm.js-compatible API.](https://github.com/betterclever/wraithterm)
 - [zz85/slop-cities - spreading slop to different cities](https://github.com/zz85/slop-cities)
 - [ihhub/fheroes2 - fheroes2 is a recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
