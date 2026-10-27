@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [trymirai/uzu - A high-performance inference engine for AI models](https://github.com/trymirai/uzu)
 - [benwinding/encarta_95_web - Running encarta 95 on the web!](https://github.com/benwinding/encarta_95_web)
 - [SyMind/simd-utf16-len - SIMD-accelerated UTF-16 length calculation from UTF-8 strings](https://github.com/SyMind/simd-utf16-len)
 - [otya128/winevdm - 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [seedds/nxnative - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)](https://github.com/seedds/nxnative)
 - [transitive-bullshit/apple-music-effect - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.](https://github.com/transitive-bullshit/apple-music-effect)
 - [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
-- [nkzw-tech/codiff - a fast local diff viewer](https://github.com/nkzw-tech/codiff)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
