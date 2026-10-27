@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [benwinding/encarta_95_web - Running encarta 95 on the web!](https://github.com/benwinding/encarta_95_web)
+- [SyMind/simd-utf16-len - SIMD-accelerated UTF-16 length calculation from UTF-8 strings](https://github.com/SyMind/simd-utf16-len)
 - [otya128/winevdm - 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 - [heydeer/pngdeer - Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.](https://github.com/heydeer/pngdeer)
 - [betterclever/wraithterm - Browser terminal: Ghostty's libghostty-vt and a Rust WebGPU renderer in one Wasm module, with an xterm.js-compatible API.](https://github.com/betterclever/wraithterm)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [transitive-bullshit/apple-music-effect - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.](https://github.com/transitive-bullshit/apple-music-effect)
 - [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
 - [nkzw-tech/codiff - a fast local diff viewer](https://github.com/nkzw-tech/codiff)
-- [Generated-Computers/Locals - Run many AI agents at once on your Mac, up to 3x faster.](https://github.com/Generated-Computers/Locals)
-- [GLMap/earstrip - Fast polygon triangulation into triangle strips: ear clipping with a constrained Delaunay fallback for broken rings. Header-only C++17 and WebAssembly, with an earcut-compatible JavaScript call.](https://github.com/GLMap/earstrip)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
