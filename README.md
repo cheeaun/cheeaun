@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [soml-lang/soml - A config format for humans](https://github.com/soml-lang/soml)
 - [lukeed/html - A fast HTML parser with source offsets and CSS selectors](https://github.com/lukeed/html)
 - [trymirai/uzu - A high-performance inference engine for AI models](https://github.com/trymirai/uzu)
 - [benwinding/encarta_95_web - Running encarta 95 on the web!](https://github.com/benwinding/encarta_95_web)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [arnt/uts58](https://github.com/arnt/uts58)
 - [sayrer/twitter-text - Twitter Text Libraries: Rust implementation](https://github.com/sayrer/twitter-text)
 - [seedds/nxnative - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)](https://github.com/seedds/nxnative)
-- [transitive-bullshit/apple-music-effect - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.](https://github.com/transitive-bullshit/apple-music-effect)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
