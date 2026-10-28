@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cristipufu/strata-files - Strata Files: a fast, native, keyboard-first file manager and Finder alternative for macOS. Instant search, live folder sizes, disk usage map, dual pane.](https://github.com/cristipufu/strata-files)
+- [x18n-dev/x18n - Universal toolkits for linting, viewing and managing i18n for any frameworks.](https://github.com/x18n-dev/x18n)
 - [soml-lang/soml - A config format for humans](https://github.com/soml-lang/soml)
 - [lukeed/html - A fast HTML parser with source offsets and CSS selectors](https://github.com/lukeed/html)
 - [trymirai/uzu - A high-performance inference engine for AI models](https://github.com/trymirai/uzu)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [playportdev/playport - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone's own CPU and GPU: no PC, no cloud, no stream.](https://github.com/playportdev/playport)
 - [opengeos/terrio - Pure-Rust geospatial raster and vector data I/O](https://github.com/opengeos/terrio)
 - [arnt/uts58](https://github.com/arnt/uts58)
-- [sayrer/twitter-text - Twitter Text Libraries: Rust implementation](https://github.com/sayrer/twitter-text)
-- [seedds/nxnative - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)](https://github.com/seedds/nxnative)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
