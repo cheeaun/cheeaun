@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [tanpreetjolly/browser-whisper - In-browser Whisper speech-to-text with WebGPU (WASM fallback). Transcribe audio & video locally, no server.](https://github.com/tanpreetjolly/browser-whisper)
 - [portablejs/portable - Web-standard building blocks for any JavaScript runtime.](https://github.com/portablejs/portable)
 - [devframes/devframe - Framework-neutral foundation for building generic DevTools.](https://github.com/devframes/devframe)
 - [cristipufu/strata-files - Strata Files: a fast, native, keyboard-first file manager and Finder alternative for macOS. Instant search, live folder sizes, disk usage map, dual pane.](https://github.com/cristipufu/strata-files)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [betterclever/wraithterm - Browser terminal: Ghostty's libghostty-vt and a Rust WebGPU renderer in one Wasm module, with an xterm.js-compatible API.](https://github.com/betterclever/wraithterm)
 - [zz85/slop-cities - spreading slop to different cities](https://github.com/zz85/slop-cities)
 - [ihhub/fheroes2 - fheroes2 is a recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
-- [playportdev/playport - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone's own CPU and GPU: no PC, no cloud, no stream.](https://github.com/playportdev/playport)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
