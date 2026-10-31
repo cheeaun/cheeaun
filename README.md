@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel-labs/agent-desktop - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.](https://github.com/vercel-labs/agent-desktop)
+- [tomayac/awesome-cross-origin-storage - A curated list of resources for the Cross-Origin Storage (COS) API](https://github.com/tomayac/awesome-cross-origin-storage)
 - [tanpreetjolly/browser-whisper - In-browser Whisper speech-to-text with WebGPU (WASM fallback). Transcribe audio & video locally, no server.](https://github.com/tanpreetjolly/browser-whisper)
 - [portablejs/portable - Web-standard building blocks for any JavaScript runtime.](https://github.com/portablejs/portable)
 - [devframes/devframe - Framework-neutral foundation for building generic DevTools.](https://github.com/devframes/devframe)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [otya128/winevdm - 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 - [heydeer/pngdeer - Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.](https://github.com/heydeer/pngdeer)
 - [betterclever/wraithterm - Browser terminal: Ghostty's libghostty-vt and a Rust WebGPU renderer in one Wasm module, with an xterm.js-compatible API.](https://github.com/betterclever/wraithterm)
-- [zz85/slop-cities - spreading slop to different cities](https://github.com/zz85/slop-cities)
-- [ihhub/fheroes2 - fheroes2 is a recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
