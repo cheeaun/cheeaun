@@ -27,6 +27,11 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [indexable-inc/blaze - Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
+- [swc-project/swc-next - A new Rust-based platform for the Web](https://github.com/swc-project/swc-next)
+- [scottjenson/Splitter](https://github.com/scottjenson/Splitter)
+- [debuffjp/spryte - Blazing fast 2D renderer for the web: 2-4x faster than the most popular one, at a ninth of its size. Verified in an open benchmark.](https://github.com/debuffjp/spryte)
+- [masonasons/FastSMRW - A fast, accessible Mastodon/Bluesky client for blind users — C++ rewrite of FastSM with a portable core and a pure Win32 front end.](https://github.com/masonasons/FastSMRW)
 - [heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface](https://github.com/heydamir/unslop)
 - [vercel-labs/agent-desktop - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.](https://github.com/vercel-labs/agent-desktop)
 - [tomayac/awesome-cross-origin-storage - A curated list of resources for the Cross-Origin Storage (COS) API](https://github.com/tomayac/awesome-cross-origin-storage)
@@ -37,11 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [x18n-dev/x18n - Universal toolkits for linting, viewing and managing i18n for any frameworks.](https://github.com/x18n-dev/x18n)
 - [soml-lang/soml - A config format for humans](https://github.com/soml-lang/soml)
 - [lukeed/html - A fast HTML parser with source offsets and CSS selectors](https://github.com/lukeed/html)
-- [trymirai/uzu - A high-performance inference engine for AI models](https://github.com/trymirai/uzu)
-- [benwinding/encarta_95_web - Running encarta 95 on the web!](https://github.com/benwinding/encarta_95_web)
-- [SyMind/simd-utf16-len - SIMD-accelerated UTF-16 length calculation from UTF-8 strings](https://github.com/SyMind/simd-utf16-len)
-- [otya128/winevdm - 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
-- [heydeer/pngdeer - Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.](https://github.com/heydeer/pngdeer)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
