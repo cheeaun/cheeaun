@@ -38,7 +38,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [debuffjp/spryte - Blazing fast 2D renderer for the web: 2-4x faster than the most popular one, at a ninth of its size. Verified in an open benchmark.](https://github.com/debuffjp/spryte)
 - [masonasons/FastSMRW - A fast, accessible Mastodon/Bluesky client for blind users — C++ rewrite of FastSM with a portable core and a pure Win32 front end.](https://github.com/masonasons/FastSMRW)
 - [heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface](https://github.com/heydamir/unslop)
-- [vercel-labs/agent-desktop - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.](https://github.com/vercel-labs/agent-desktop)
+- [vercel-labs/agent-desktop - Computer use CLI for AI agents](https://github.com/vercel-labs/agent-desktop)
 - [tomayac/awesome-cross-origin-storage - A curated list of resources for the Cross-Origin Storage (COS) API](https://github.com/tomayac/awesome-cross-origin-storage)
 - [tanpreetjolly/browser-whisper - In-browser Whisper speech-to-text with WebGPU (WASM fallback). Transcribe audio & video locally, no server.](https://github.com/tanpreetjolly/browser-whisper)
 - [portablejs/portable - Web-standard building blocks for any JavaScript runtime.](https://github.com/portablejs/portable)
