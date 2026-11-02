@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [willibrandon/pixel-plugin - Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export.](https://github.com/willibrandon/pixel-plugin)
+- [justrach/nanolight - A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X](https://github.com/justrach/nanolight)
 - [indexable-inc/blaze - Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
 - [swc-project/swc-next - A new Rust-based platform for the Web](https://github.com/swc-project/swc-next)
 - [scottjenson/Splitter](https://github.com/scottjenson/Splitter)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [devframes/devframe - Framework-neutral foundation for building generic DevTools.](https://github.com/devframes/devframe)
 - [cristipufu/strata-files - Strata Files: a fast, native, keyboard-first file manager and Finder alternative for macOS. Instant search, live folder sizes, disk usage map, dual pane.](https://github.com/cristipufu/strata-files)
 - [x18n-dev/x18n - Universal toolkits for linting, viewing and managing i18n for any frameworks.](https://github.com/x18n-dev/x18n)
-- [soml-lang/soml - A config format for humans](https://github.com/soml-lang/soml)
-- [lukeed/html - A fast HTML parser with source offsets and CSS selectors](https://github.com/lukeed/html)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
