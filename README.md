@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vicinaehq/vicinae - A focused launcher for your desktop - native, fast, extensible](https://github.com/vicinaehq/vicinae)
 - [FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.](https://github.com/FareedKhan-dev/kimi-k3-in-c)
 - [storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.](https://github.com/storytold/craft-anything)
 - [54GradSoftware/fediverse-wrapped - A fediverse bot that replies to a mention with your year in review: shareable images built from your public posts of the last 365 days.](https://github.com/54GradSoftware/fediverse-wrapped)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vercel-labs/agent-desktop - Computer use CLI for AI agents](https://github.com/vercel-labs/agent-desktop)
 - [tomayac/awesome-cross-origin-storage - A curated list of resources for the Cross-Origin Storage (COS) API](https://github.com/tomayac/awesome-cross-origin-storage)
 - [tanpreetjolly/browser-whisper - In-browser Whisper speech-to-text with WebGPU (WASM fallback). Transcribe audio & video locally, no server.](https://github.com/tanpreetjolly/browser-whisper)
-- [portablejs/portable - Web-standard building blocks for any JavaScript runtime.](https://github.com/portablejs/portable)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
