@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [Tencent/WeVisOne-VL - WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.](https://github.com/Tencent/WeVisOne-VL)
 - [dy/jz - JS to WASM compiler](https://github.com/dy/jz)
 - [vicinaehq/vicinae - A focused launcher for your desktop - native, fast, extensible](https://github.com/vicinaehq/vicinae)
 - [FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.](https://github.com/FareedKhan-dev/kimi-k3-in-c)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [masonasons/FastSMRW - A fast, accessible Mastodon/Bluesky client for blind users — C++ rewrite of FastSM with a portable core and a pure Win32 front end.](https://github.com/masonasons/FastSMRW)
 - [heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface](https://github.com/heydamir/unslop)
 - [vercel-labs/agent-desktop - Computer use CLI for AI agents](https://github.com/vercel-labs/agent-desktop)
-- [tomayac/awesome-cross-origin-storage - A curated list of resources for the Cross-Origin Storage (COS) API](https://github.com/tomayac/awesome-cross-origin-storage)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
