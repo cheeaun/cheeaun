@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [longbridge/gpui-fast - GPUI extracted from the Zed monorepo as a standalone workspace, with the layout engine reworked to keep what did not change between frames](https://github.com/longbridge/gpui-fast)
 - [yugalone/collab-sans](https://github.com/yugalone/collab-sans)
 - [facebookresearch/HighResCanopyHeight - This repository provides inference code to compute canopy height maps from aerial images, as described in the paper "Very high resolution canopy height maps from RGB imagery using self-supervised  vision transformer and convolutional decoder trained on Aerial Lidar". ](https://github.com/facebookresearch/HighResCanopyHeight)
 - [Tencent/WeVisOne-VL - WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.](https://github.com/Tencent/WeVisOne-VL)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [swc-project/swc-next - A new Rust-based platform for the Web](https://github.com/swc-project/swc-next)
 - [scottjenson/Splitter](https://github.com/scottjenson/Splitter)
 - [debuffjp/spryte - Blazing fast 2D renderer for the web: 2-4x faster than the most popular one, at a ninth of its size. Verified in an open benchmark.](https://github.com/debuffjp/spryte)
-- [masonasons/FastSMRW - A fast, accessible Mastodon/Bluesky client for blind users — C++ rewrite of FastSM with a portable core and a pure Win32 front end.](https://github.com/masonasons/FastSMRW)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
