@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [facebookresearch/HighResCanopyHeight - This repository provides inference code to compute canopy height maps from aerial images, as described in the paper "Very high resolution canopy height maps from RGB imagery using self-supervised  vision transformer and convolutional decoder trained on Aerial Lidar". ](https://github.com/facebookresearch/HighResCanopyHeight)
 - [Tencent/WeVisOne-VL - WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.](https://github.com/Tencent/WeVisOne-VL)
 - [dy/jz - JS to WASM compiler](https://github.com/dy/jz)
 - [vicinaehq/vicinae - A focused launcher for your desktop - native, fast, extensible](https://github.com/vicinaehq/vicinae)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [debuffjp/spryte - Blazing fast 2D renderer for the web: 2-4x faster than the most popular one, at a ninth of its size. Verified in an open benchmark.](https://github.com/debuffjp/spryte)
 - [masonasons/FastSMRW - A fast, accessible Mastodon/Bluesky client for blind users — C++ rewrite of FastSM with a portable core and a pure Win32 front end.](https://github.com/masonasons/FastSMRW)
 - [heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface](https://github.com/heydamir/unslop)
-- [vercel-labs/agent-desktop - Computer use CLI for AI agents](https://github.com/vercel-labs/agent-desktop)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
