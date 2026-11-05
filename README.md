@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [chunkithwang/design-playful-app-icons](https://github.com/chunkithwang/design-playful-app-icons)
 - [longbridge/gpui-fast - GPUI extracted from the Zed monorepo as a standalone workspace, with the layout engine reworked to keep what did not change between frames](https://github.com/longbridge/gpui-fast)
 - [yugalone/collab-sans](https://github.com/yugalone/collab-sans)
 - [facebookresearch/HighResCanopyHeight - This repository provides inference code to compute canopy height maps from aerial images, as described in the paper "Very high resolution canopy height maps from RGB imagery using self-supervised  vision transformer and convolutional decoder trained on Aerial Lidar". ](https://github.com/facebookresearch/HighResCanopyHeight)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [indexable-inc/blaze - Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
 - [swc-project/swc-next - A new Rust-based platform for the Web](https://github.com/swc-project/swc-next)
 - [scottjenson/Splitter](https://github.com/scottjenson/Splitter)
-- [debuffjp/spryte - Blazing fast 2D renderer for the web: 2-4x faster than the most popular one, at a ninth of its size. Verified in an open benchmark.](https://github.com/debuffjp/spryte)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
