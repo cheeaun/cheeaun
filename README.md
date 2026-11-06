@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nouverse/nouride-releases - Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC).](https://github.com/nouverse/nouride-releases)
+- [ppmpreetham/BUI - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++.](https://github.com/ppmpreetham/BUI)
 - [birkskyum/manby - Builds vector tilesets from geographic features, like tippecanoe, several times faster](https://github.com/birkskyum/manby)
 - [c0nsumer/maplibre-gl-lanes - Draws routes that share paths as ordered parallel lanes in MapLibre GL JS: a transit-map look for any route network, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom.](https://github.com/c0nsumer/maplibre-gl-lanes)
 - [chunkithwang/design-playful-app-icons](https://github.com/chunkithwang/design-playful-app-icons)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.](https://github.com/storytold/craft-anything)
 - [54GradSoftware/fediverse-wrapped - A fediverse bot that replies to a mention with your year in review: shareable images built from your public posts of the last 365 days.](https://github.com/54GradSoftware/fediverse-wrapped)
 - [willibrandon/pixel-plugin - Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export.](https://github.com/willibrandon/pixel-plugin)
-- [justrach/nanolight - A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X](https://github.com/justrach/nanolight)
-- [indexable-inc/blaze - Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
