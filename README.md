@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [pwa-today/pwa-check - Automated PWA health check tool to make sure your PWA looks, feels, and behaves like a real app.](https://github.com/pwa-today/pwa-check)
+- [lucas-martinic/polyfork-catalog - Free low-poly 3D models for three.js and the web: 2,700+ GLB models and 26 themed kits. The public index of polyfork.dev.](https://github.com/lucas-martinic/polyfork-catalog)
 - [jeantimex/tokyo - A real-time 3D model of Tokyo in the browser, compiled from public data with procedural detail on top. Fly over the city, change the time of day, and watch the traffic, the trains and the birds.](https://github.com/jeantimex/tokyo)
 - [nouverse/nouride - Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC).](https://github.com/nouverse/nouride)
 - [ppmpreetham/BUI - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI](https://github.com/ppmpreetham/BUI)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [dy/jz - JS to WASM compiler](https://github.com/dy/jz)
 - [vicinaehq/vicinae - A focused launcher for your desktop - native, fast, extensible](https://github.com/vicinaehq/vicinae)
 - [FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-- [storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.](https://github.com/storytold/craft-anything)
-- [54GradSoftware/fediverse-wrapped - A fediverse bot that replies to a mention with your year in review: shareable images built from your public posts of the last 365 days.](https://github.com/54GradSoftware/fediverse-wrapped)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
