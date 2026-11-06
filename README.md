@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [birkskyum/manby - Builds vector tilesets from geographic features, like tippecanoe, several times faster](https://github.com/birkskyum/manby)
 - [c0nsumer/maplibre-gl-lanes - Draws routes that share paths as ordered parallel lanes in MapLibre GL JS: a transit-map look for any route network, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom.](https://github.com/c0nsumer/maplibre-gl-lanes)
 - [chunkithwang/design-playful-app-icons](https://github.com/chunkithwang/design-playful-app-icons)
 - [longbridge/gpui-fast - GPUI extracted from the Zed monorepo as a standalone workspace, with the layout engine reworked to keep what did not change between frames](https://github.com/longbridge/gpui-fast)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [willibrandon/pixel-plugin - Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export.](https://github.com/willibrandon/pixel-plugin)
 - [justrach/nanolight - A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X](https://github.com/justrach/nanolight)
 - [indexable-inc/blaze - Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
-- [swc-project/swc-next - A new Rust-based platform for the Web](https://github.com/swc-project/swc-next)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
