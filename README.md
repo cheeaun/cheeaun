@@ -28,7 +28,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 
 <!-- starred repos start -->
 - [jeantimex/tokyo - A real-time 3D model of Tokyo in the browser, compiled from public data with procedural detail on top. Fly over the city, change the time of day, and watch the traffic, the trains and the birds.](https://github.com/jeantimex/tokyo)
-- [nouverse/nouride-releases - Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC).](https://github.com/nouverse/nouride-releases)
+- [nouverse/nouride - Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC).](https://github.com/nouverse/nouride)
 - [ppmpreetham/BUI - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI](https://github.com/ppmpreetham/BUI)
 - [birkskyum/manby - Builds vector tilesets from geographic features, like tippecanoe, several times faster](https://github.com/birkskyum/manby)
 - [c0nsumer/maplibre-gl-lanes - Draws routes that share paths as ordered parallel lanes in MapLibre GL JS: a transit-map look for any route network, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom.](https://github.com/c0nsumer/maplibre-gl-lanes)
