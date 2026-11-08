@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CesiumGS/3d-tiles-tools](https://github.com/CesiumGS/3d-tiles-tools)
 - [stuartbreckenridge/LandTransportKit - A Swift package for accessing real-time and static data from Singapore's Land Transport Authority (LTA) DataMall API. It provides strongly typed interfaces to common transport datasets such as Bus Arrival times, Traffic Images, Carpark Availability, Taxi Locations, and more.](https://github.com/stuartbreckenridge/LandTransportKit)
 - [looechao/ceramic - Another native Fediverse client, built with MyGo](https://github.com/looechao/ceramic)
 - [sinhong2011/triwarden - A native Mac password manager for Vaultwarden and Bitwarden — Swift/SwiftUI, AutoFill with passkeys and one-time codes, Touch ID, command palette, SSH agent.](https://github.com/sinhong2011/triwarden)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [longbridge/gpui-fast - GPUI extracted from the Zed monorepo as a standalone workspace, with the layout engine reworked to keep what did not change between frames](https://github.com/longbridge/gpui-fast)
 - [yugalone/collab-sans](https://github.com/yugalone/collab-sans)
 - [facebookresearch/HighResCanopyHeight - This repository provides inference code to compute canopy height maps from aerial images, as described in the paper "Very high resolution canopy height maps from RGB imagery using self-supervised  vision transformer and convolutional decoder trained on Aerial Lidar". ](https://github.com/facebookresearch/HighResCanopyHeight)
-- [Tencent/WeVisOne-VL - WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.](https://github.com/Tencent/WeVisOne-VL)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
