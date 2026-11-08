@@ -27,21 +27,21 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [crmne/zapfast - ZapFast: a fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
+- [oxidezap/whatsapp-rust - Whatsapp client written purely in Rust](https://github.com/oxidezap/whatsapp-rust)
+- [crmne/fastframe - egui on rails: the shared foundation for native Rust apps built with egui](https://github.com/crmne/fastframe)
+- [emilk/egui - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native](https://github.com/emilk/egui)
 - [CesiumGS/3d-tiles-tools](https://github.com/CesiumGS/3d-tiles-tools)
 - [stuartbreckenridge/LandTransportKit - A Swift package for accessing real-time and static data from Singapore's Land Transport Authority (LTA) DataMall API. It provides strongly typed interfaces to common transport datasets such as Bus Arrival times, Traffic Images, Carpark Availability, Taxi Locations, and more.](https://github.com/stuartbreckenridge/LandTransportKit)
 - [looechao/ceramic - Another native Fediverse client, built with MyGo](https://github.com/looechao/ceramic)
 - [sinhong2011/triwarden - A native Mac password manager for Vaultwarden and Bitwarden — Swift/SwiftUI, AutoFill with passkeys and one-time codes, Touch ID, command palette, SSH agent.](https://github.com/sinhong2011/triwarden)
 - [pwa-today/pwa-check - Automated PWA health check tool to make sure your PWA looks, feels, and behaves like a real app.](https://github.com/pwa-today/pwa-check)
-- [lucas-martinic/polyfork-catalog - Free low-poly 3D models for three.js and the web: 3,077 GLB models and 28 themed kits, CC BY 4.0. The public index of polyfork.dev.](https://github.com/lucas-martinic/polyfork-catalog)
+- [lucas-martinic/polyfork-catalog - Free low-poly 3D models for three.js and the web: 3,086 GLB models and 28 themed kits, CC BY 4.0. The public index of polyfork.dev.](https://github.com/lucas-martinic/polyfork-catalog)
 - [jeantimex/tokyo - A real-time 3D model of Tokyo in the browser, compiled from public data with procedural detail on top. Fly over the city, change the time of day, and watch the traffic, the trains and the birds.](https://github.com/jeantimex/tokyo)
 - [nouverse/nouride - Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC).](https://github.com/nouverse/nouride)
 - [ppmpreetham/BUI - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI](https://github.com/ppmpreetham/BUI)
 - [birkskyum/manby - Builds vector tilesets from geographic features, like tippecanoe, several times faster](https://github.com/birkskyum/manby)
 - [c0nsumer/maplibre-gl-lanes - Draws routes that share paths as ordered parallel lanes in MapLibre GL JS: a transit-map look for any route network, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom.](https://github.com/c0nsumer/maplibre-gl-lanes)
-- [chunkithwang/design-playful-app-icons](https://github.com/chunkithwang/design-playful-app-icons)
-- [longbridge/gpui-fast - GPUI extracted from the Zed monorepo as a standalone workspace, with the layout engine reworked to keep what did not change between frames](https://github.com/longbridge/gpui-fast)
-- [yugalone/collab-sans](https://github.com/yugalone/collab-sans)
-- [facebookresearch/HighResCanopyHeight - This repository provides inference code to compute canopy height maps from aerial images, as described in the paper "Very high resolution canopy height maps from RGB imagery using self-supervised  vision transformer and convolutional decoder trained on Aerial Lidar". ](https://github.com/facebookresearch/HighResCanopyHeight)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
