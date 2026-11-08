@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vox-browser/vox - A new browser engine written 100% in V + UI2](https://github.com/vox-browser/vox)
+- [DIYgod/pinky - Let AI agents use your phone, with you in the loop.](https://github.com/DIYgod/pinky)
+- [Maxar-Public/3tz-specification - The 3D Tiles Archive Format is a container format for 3D Tiles datasets based on the zip file format.](https://github.com/Maxar-Public/3tz-specification)
+- [zalmoxes-laran/3d-tiles-renderer-3tz - Read 3D Tiles from a .3tz archive in 3DTilesRendererJS, fetching only the tiles in view (HTTP Range). MIT.](https://github.com/zalmoxes-laran/3d-tiles-renderer-3tz)
 - [crmne/zapfast - ZapFast: a fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
 - [oxidezap/whatsapp-rust - Whatsapp client written purely in Rust](https://github.com/oxidezap/whatsapp-rust)
 - [crmne/fastframe - egui on rails: the shared foundation for native Rust apps built with egui](https://github.com/crmne/fastframe)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [pwa-today/pwa-check - Automated PWA health check tool to make sure your PWA looks, feels, and behaves like a real app.](https://github.com/pwa-today/pwa-check)
 - [lucas-martinic/polyfork-catalog - Free low-poly 3D models for three.js and the web: 3,086 GLB models and 28 themed kits, CC BY 4.0. The public index of polyfork.dev.](https://github.com/lucas-martinic/polyfork-catalog)
 - [jeantimex/tokyo - A real-time 3D model of Tokyo in the browser, compiled from public data with procedural detail on top. Fly over the city, change the time of day, and watch the traffic, the trains and the birds.](https://github.com/jeantimex/tokyo)
-- [nouverse/nouride - Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC).](https://github.com/nouverse/nouride)
-- [ppmpreetham/BUI - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI](https://github.com/ppmpreetham/BUI)
-- [birkskyum/manby - Builds vector tilesets from geographic features, like tippecanoe, several times faster](https://github.com/birkskyum/manby)
-- [c0nsumer/maplibre-gl-lanes - Draws routes that share paths as ordered parallel lanes in MapLibre GL JS: a transit-map look for any route network, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom.](https://github.com/c0nsumer/maplibre-gl-lanes)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
