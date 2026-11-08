@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nkzw-tech/audio - Javascript audio library for the modern web.](https://github.com/nkzw-tech/audio)
 - [vox-browser/vox - A new browser engine written 100% in V + UI2](https://github.com/vox-browser/vox)
 - [DIYgod/pinky - Let AI agents use your phone, with you in the loop.](https://github.com/DIYgod/pinky)
 - [Maxar-Public/3tz-specification - The 3D Tiles Archive Format is a container format for 3D Tiles datasets based on the zip file format.](https://github.com/Maxar-Public/3tz-specification)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sinhong2011/triwarden - A native Mac password manager for Vaultwarden and Bitwarden — Swift/SwiftUI, AutoFill with passkeys and one-time codes, Touch ID, command palette, SSH agent.](https://github.com/sinhong2011/triwarden)
 - [pwa-today/pwa-check - Automated PWA health check tool to make sure your PWA looks, feels, and behaves like a real app.](https://github.com/pwa-today/pwa-check)
 - [lucas-martinic/polyfork-catalog - Free low-poly 3D models for three.js and the web: 3,086 GLB models and 28 themed kits, CC BY 4.0. The public index of polyfork.dev.](https://github.com/lucas-martinic/polyfork-catalog)
-- [jeantimex/tokyo - A real-time 3D model of Tokyo in the browser, compiled from public data with procedural detail on top. Fly over the city, change the time of day, and watch the traffic, the trains and the birds.](https://github.com/jeantimex/tokyo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
