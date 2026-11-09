@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bilibili/Index-Translate - A Multilingual, Multimodal Translation Model Family](https://github.com/bilibili/Index-Translate)
+- [paulirish/chrome-capture - 60-120fps / 2160p tab video/audio capture from Chrome](https://github.com/paulirish/chrome-capture)
+- [expo/exact](https://github.com/expo/exact)
 - [codepawl/67.js - 3D engine that AI agents drive](https://github.com/codepawl/67.js)
 - [zz85/random-sketches - random sketches i make with js](https://github.com/zz85/random-sketches)
 - [mrdoob/izakaya-yomi - Take a photo of a Japanese menu and see how to read every kanji. Runs on-device.](https://github.com/mrdoob/izakaya-yomi)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [zalmoxes-laran/3d-tiles-renderer-3tz - Read 3D Tiles from a .3tz archive in 3DTilesRendererJS, fetching only the tiles in view (HTTP Range). MIT.](https://github.com/zalmoxes-laran/3d-tiles-renderer-3tz)
 - [crmne/zapfast - ZapFast: a fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
 - [oxidezap/whatsapp-rust - Whatsapp client written purely in Rust](https://github.com/oxidezap/whatsapp-rust)
-- [crmne/fastframe - egui on rails: the shared foundation for native Rust apps built with egui](https://github.com/crmne/fastframe)
-- [emilk/egui - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native](https://github.com/emilk/egui)
-- [CesiumGS/3d-tiles-tools](https://github.com/CesiumGS/3d-tiles-tools)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
