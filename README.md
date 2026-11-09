@@ -38,7 +38,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [emilk/egui - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native](https://github.com/emilk/egui)
 - [CesiumGS/3d-tiles-tools](https://github.com/CesiumGS/3d-tiles-tools)
 - [stuartbreckenridge/LandTransportKit - A Swift package for accessing real-time and static data from Singapore's Land Transport Authority (LTA) DataMall API. It provides strongly typed interfaces to common transport datasets such as Bus Arrival times, Traffic Images, Carpark Availability, Taxi Locations, and more.](https://github.com/stuartbreckenridge/LandTransportKit)
-- [looechao/ceramic - Another native Fediverse client, built with MyGo](https://github.com/looechao/ceramic)
+- [looechao/ceramic - A native Mastodon client for macOS, Windows, and Linux, built in Go with MyGo.](https://github.com/looechao/ceramic)
 - [sinhong2011/triwarden - A native Mac password manager for Vaultwarden and Bitwarden — Swift/SwiftUI, AutoFill with passkeys and one-time codes, Touch ID, command palette, SSH agent.](https://github.com/sinhong2011/triwarden)
 - [pwa-today/pwa-check - Automated PWA health check tool to make sure your PWA looks, feels, and behaves like a real app.](https://github.com/pwa-today/pwa-check)
 - [lucas-martinic/polyfork-catalog - Free low-poly 3D models for three.js and the web: 3,086 GLB models and 28 themed kits, CC BY 4.0. The public index of polyfork.dev.](https://github.com/lucas-martinic/polyfork-catalog)
