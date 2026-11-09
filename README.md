@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kubai087/kubai-icons - An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.](https://github.com/kubai087/kubai-icons)
 - [nkzw-tech/audio - Javascript audio library for the modern web.](https://github.com/nkzw-tech/audio)
 - [vox-browser/vox - A new browser engine written 100% in V + UI2](https://github.com/vox-browser/vox)
 - [DIYgod/pinky - Let AI agents use your phone, with you in the loop.](https://github.com/DIYgod/pinky)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [looechao/ceramic - A native Mastodon client for macOS, Windows, and Linux, built in Go with MyGo.](https://github.com/looechao/ceramic)
 - [sinhong2011/triwarden - A native Mac password manager for Vaultwarden and Bitwarden — Swift/SwiftUI, AutoFill with passkeys and one-time codes, Touch ID, command palette, SSH agent.](https://github.com/sinhong2011/triwarden)
 - [pwa-today/pwa-check - Automated PWA health check tool to make sure your PWA looks, feels, and behaves like a real app.](https://github.com/pwa-today/pwa-check)
-- [lucas-martinic/polyfork-catalog - Free low-poly 3D models for three.js and the web: 3,156 GLB models and 29 themed kits, CC BY 4.0. The public index of polyfork.dev.](https://github.com/lucas-martinic/polyfork-catalog)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
