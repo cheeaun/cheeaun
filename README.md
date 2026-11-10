@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [browser-use/browser-harness - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.](https://github.com/browser-use/browser-harness)
 - [bilibili/Index-Translate - A Multilingual, Multimodal Translation Model Family](https://github.com/bilibili/Index-Translate)
 - [paulirish/chrome-capture - 60-120fps / 2160p tab video/audio capture from Chrome](https://github.com/paulirish/chrome-capture)
 - [expo/exact](https://github.com/expo/exact)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Maxar-Public/3tz-specification - The 3D Tiles Archive Format is a container format for 3D Tiles datasets based on the zip file format.](https://github.com/Maxar-Public/3tz-specification)
 - [zalmoxes-laran/3d-tiles-renderer-3tz - Read 3D Tiles from a .3tz archive in 3DTilesRendererJS, fetching only the tiles in view (HTTP Range). MIT.](https://github.com/zalmoxes-laran/3d-tiles-renderer-3tz)
 - [crmne/zapfast - ZapFast: a fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
-- [oxidezap/whatsapp-rust - Whatsapp client written purely in Rust](https://github.com/oxidezap/whatsapp-rust)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
