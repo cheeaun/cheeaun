@@ -31,7 +31,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [browser-use/browser-harness - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.](https://github.com/browser-use/browser-harness)
 - [bilibili/Index-Translate - A Multilingual, Multimodal Translation Model Family](https://github.com/bilibili/Index-Translate)
 - [paulirish/chrome-capture - 60-120fps / 2160p tab video/audio capture from Chrome](https://github.com/paulirish/chrome-capture)
-- [expo/exact](https://github.com/expo/exact)
+- [expo/exact - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.](https://github.com/expo/exact)
 - [codepawl/67.js - 3D engine that AI agents drive](https://github.com/codepawl/67.js)
 - [zz85/random-sketches - random sketches i make with js](https://github.com/zz85/random-sketches)
 - [mrdoob/izakaya-yomi - Take a photo of a Japanese menu and see how to read every kanji. Runs on-device.](https://github.com/mrdoob/izakaya-yomi)
