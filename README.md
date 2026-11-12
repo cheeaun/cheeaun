@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [namipsg/liquid-glass-forge - Open-source WebGL2 and CPU glass refraction for native HTML controls. Vanilla JS, React, Vue, and Angular.](https://github.com/namipsg/liquid-glass-forge)
 - [artembobkin/ImmersiveMap - Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.](https://github.com/artembobkin/ImmersiveMap)
 - [browser-use/browser-harness - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.](https://github.com/browser-use/browser-harness)
 - [bilibili/Index-Translate - A Multilingual, Multimodal Translation Model Family](https://github.com/bilibili/Index-Translate)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [vox-browser/vox - A new browser engine written 100% in V + UI2](https://github.com/vox-browser/vox)
 - [DIYgod/pinky - Let AI agents use your phone, with you in the loop.](https://github.com/DIYgod/pinky)
 - [Maxar-Public/3tz-specification - The 3D Tiles Archive Format is a container format for 3D Tiles datasets based on the zip file format.](https://github.com/Maxar-Public/3tz-specification)
-- [zalmoxes-laran/3d-tiles-renderer-3tz - Read 3D Tiles from a .3tz archive in 3DTilesRendererJS, fetching only the tiles in view (HTTP Range). MIT.](https://github.com/zalmoxes-laran/3d-tiles-renderer-3tz)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
