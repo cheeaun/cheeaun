@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [vercel-labs/ui - A library of behaviors for agents to build the next generation of user interfaces.](https://github.com/vercel-labs/ui)
+- [Statecraft-Labs/isometric-cities - Make isometric city maps on Apple Silicon with your coding agent. DC and Edinburgh examples, local models, interactive explorers and films.](https://github.com/Statecraft-Labs/isometric-cities)
 - [namipsg/liquid-glass-forge - Open-source WebGL2 and CPU glass refraction for native HTML controls. Vanilla JS, React, Vue, and Angular.](https://github.com/namipsg/liquid-glass-forge)
 - [artembobkin/ImmersiveMap - Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.](https://github.com/artembobkin/ImmersiveMap)
 - [browser-use/browser-harness - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.](https://github.com/browser-use/browser-harness)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kubai087/kubai-icons - An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.](https://github.com/kubai087/kubai-icons)
 - [nkzw-tech/audio - Javascript audio library for the modern web.](https://github.com/nkzw-tech/audio)
 - [vox-browser/vox - A new browser engine written 100% in V + UI2](https://github.com/vox-browser/vox)
-- [DIYgod/pinky - Let AI agents use your phone, with you in the loop.](https://github.com/DIYgod/pinky)
-- [Maxar-Public/3tz-specification - The 3D Tiles Archive Format is a container format for 3D Tiles datasets based on the zip file format.](https://github.com/Maxar-Public/3tz-specification)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
