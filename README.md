@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [meshy-dev/ThreeRT - Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.](https://github.com/meshy-dev/ThreeRT)
 - [berkantay/gpucanvas - Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.](https://github.com/berkantay/gpucanvas)
 - [jakecoppinger/osm2streets-vector-tileserver - Serves up vector tiles of osm2streets output. Very work in progress!](https://github.com/jakecoppinger/osm2streets-vector-tileserver)
 - [swatmobility/gpui-maps](https://github.com/swatmobility/gpui-maps)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bilibili/Index-Translate - A Multilingual, Multimodal Translation Model Family](https://github.com/bilibili/Index-Translate)
 - [paulirish/chrome-capture - 60-120fps / 2160p tab video/audio capture from Chrome](https://github.com/paulirish/chrome-capture)
 - [expo/exact - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.](https://github.com/expo/exact)
-- [codepawl/67.js - 3D engine that AI agents drive](https://github.com/codepawl/67.js)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
