@@ -27,12 +27,14 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kunifujiwara/VoxCity - Python framework for integrating geospatial data, 3D city modeling, and urban simulation.](https://github.com/kunifujiwara/VoxCity)
+- [cloudflare/kitesurf - Kitesurf is an experimental browser engine that runs on Cloudflare Workers.](https://github.com/cloudflare/kitesurf)
 - [meshy-dev/ThreeRT - Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.](https://github.com/meshy-dev/ThreeRT)
 - [berkantay/gpucanvas - Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.](https://github.com/berkantay/gpucanvas)
 - [jakecoppinger/osm2streets-vector-tileserver - Serves up vector tiles of osm2streets output. Very work in progress!](https://github.com/jakecoppinger/osm2streets-vector-tileserver)
 - [swatmobility/gpui-maps](https://github.com/swatmobility/gpui-maps)
 - [66HEX/frame - FFmpeg GUI](https://github.com/66HEX/frame)
-- [codeforreal1/compressO - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.](https://github.com/codeforreal1/compressO)
+- [codeforreal1/compressO - Convert any video/image/audio into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.](https://github.com/codeforreal1/compressO)
 - [lorenzoMezza/Three-geo-play - ThreeGeoPlay is a 3D map visualization library built in Three.js meshes, designed for games (pokemon go like). It lets you render vector tile-based geographic maps live in Three.js with customizable materials and much more.](https://github.com/lorenzoMezza/Three-geo-play)
 - [vercel-labs/ui - A library of behaviors for agents to build the next generation of user interfaces.](https://github.com/vercel-labs/ui)
 - [Statecraft-Labs/isometric-cities - Make isometric city maps on Apple Silicon with your coding agent. DC and Edinburgh examples, local models, interactive explorers and films.](https://github.com/Statecraft-Labs/isometric-cities)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [artembobkin/ImmersiveMap - Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.](https://github.com/artembobkin/ImmersiveMap)
 - [browser-use/browser-harness - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.](https://github.com/browser-use/browser-harness)
 - [bilibili/Index-Translate - A Multilingual, Multimodal Translation Model Family](https://github.com/bilibili/Index-Translate)
-- [paulirish/chrome-capture - 60-120fps / 2160p tab video/audio capture from Chrome](https://github.com/paulirish/chrome-capture)
-- [expo/exact - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.](https://github.com/expo/exact)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
