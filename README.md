@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [swatmobility/gpui-maps](https://github.com/swatmobility/gpui-maps)
+- [66HEX/frame - FFmpeg GUI](https://github.com/66HEX/frame)
+- [codeforreal1/compressO - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.](https://github.com/codeforreal1/compressO)
 - [lorenzoMezza/Three-geo-play - ThreeGeoPlay is a 3D map visualization library built in Three.js meshes, designed for games (pokemon go like). It lets you render vector tile-based geographic maps live in Three.js with customizable materials and much more.](https://github.com/lorenzoMezza/Three-geo-play)
 - [vercel-labs/ui - A library of behaviors for agents to build the next generation of user interfaces.](https://github.com/vercel-labs/ui)
 - [Statecraft-Labs/isometric-cities - Make isometric city maps on Apple Silicon with your coding agent. DC and Edinburgh examples, local models, interactive explorers and films.](https://github.com/Statecraft-Labs/isometric-cities)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [codepawl/67.js - 3D engine that AI agents drive](https://github.com/codepawl/67.js)
 - [zz85/random-sketches - random sketches i make with js](https://github.com/zz85/random-sketches)
 - [mrdoob/izakaya-yomi - Take a photo of a Japanese menu and see how to read every kanji. Runs on-device.](https://github.com/mrdoob/izakaya-yomi)
-- [sxguojf/three-tile - A lightweight 3D tile map using threejs.  基于threejs的三维瓦片地图框架](https://github.com/sxguojf/three-tile)
-- [kubai087/kubai-icons - An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.](https://github.com/kubai087/kubai-icons)
-- [nkzw-tech/audio - Javascript audio library for the modern web.](https://github.com/nkzw-tech/audio)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
