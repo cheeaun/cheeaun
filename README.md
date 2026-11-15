@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.](https://github.com/patch-gg/pixelfx)
 - [kajisho5/ffmpeg-skill - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.](https://github.com/kajisho5/ffmpeg-skill)
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)
 - [simpsoka/zigzag - Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.](https://github.com/simpsoka/zigzag)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [lorenzoMezza/Three-geo-play - ThreeGeoPlay is a 3D map visualization library built in Three.js meshes, designed for games (pokemon go like). It lets you render vector tile-based geographic maps live in Three.js with customizable materials and much more.](https://github.com/lorenzoMezza/Three-geo-play)
 - [vercel-labs/ui - A library of behaviors for agents to build the next generation of user interfaces.](https://github.com/vercel-labs/ui)
 - [Statecraft-Labs/isometric-cities - Make isometric city maps on Apple Silicon with your coding agent. DC and Edinburgh examples, local models, interactive explorers and films.](https://github.com/Statecraft-Labs/isometric-cities)
-- [namipsg/liquid-glass-forge - Open-source WebGL2 and CPU glass refraction for native HTML controls. Vanilla JS, React, Vue, and Angular.](https://github.com/namipsg/liquid-glass-forge)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
