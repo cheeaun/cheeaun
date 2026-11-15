@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)
 - [simpsoka/zigzag - Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.](https://github.com/simpsoka/zigzag)
 - [kunifujiwara/VoxCity - Python framework for integrating geospatial data, 3D city modeling, and urban simulation.](https://github.com/kunifujiwara/VoxCity)
 - [cloudflare/kitesurf - Kitesurf is an experimental browser engine that runs on Cloudflare Workers.](https://github.com/cloudflare/kitesurf)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [Statecraft-Labs/isometric-cities - Make isometric city maps on Apple Silicon with your coding agent. DC and Edinburgh examples, local models, interactive explorers and films.](https://github.com/Statecraft-Labs/isometric-cities)
 - [namipsg/liquid-glass-forge - Open-source WebGL2 and CPU glass refraction for native HTML controls. Vanilla JS, React, Vue, and Angular.](https://github.com/namipsg/liquid-glass-forge)
 - [artembobkin/ImmersiveMap - Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.](https://github.com/artembobkin/ImmersiveMap)
-- [browser-use/browser-harness - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.](https://github.com/browser-use/browser-harness)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
