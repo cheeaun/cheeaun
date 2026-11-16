@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [mrdoob/slop-newyork](https://github.com/mrdoob/slop-newyork)
+- [jcrabapple/mammut - My take on the official Mastodon for Android app](https://github.com/jcrabapple/mammut)
 - [rauchg/xeet - X posts rendered to PNG without a browser, in safe Rust and WebAssembly.](https://github.com/rauchg/xeet)
 - [jlongster/prepack-revived - Experimental revival of Facebook's archived Prepack JS partial evaluator, driven by AI coding agents](https://github.com/jlongster/prepack-revived)
 - [bertt/gem15 - MapLibre viewer for Google GEM-15 terrain COGs - https://bertt.github.io/gem15/](https://github.com/bertt/gem15)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [meshy-dev/ThreeRT - Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.](https://github.com/meshy-dev/ThreeRT)
 - [berkantay/gpucanvas - Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.](https://github.com/berkantay/gpucanvas)
 - [jakecoppinger/osm2streets-vector-tileserver - Serves up vector tiles of osm2streets output. Very work in progress!](https://github.com/jakecoppinger/osm2streets-vector-tileserver)
-- [swatmobility/gpui-maps](https://github.com/swatmobility/gpui-maps)
-- [66HEX/frame - FFmpeg GUI](https://github.com/66HEX/frame)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
