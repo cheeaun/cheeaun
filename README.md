@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [shadcn-labs/shadercn - Beautiful shader components, built on vgpu and TypeGPU. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/shadercn)
 - [mrdoob/slop-newyork](https://github.com/mrdoob/slop-newyork)
 - [jcrabapple/mammut - My take on the official Mastodon for Android app](https://github.com/jcrabapple/mammut)
 - [rauchg/xeet - X posts rendered to PNG without a browser, in safe Rust and WebAssembly.](https://github.com/rauchg/xeet)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [cloudflare/kitesurf - Kitesurf is an experimental browser engine that runs on Cloudflare Workers.](https://github.com/cloudflare/kitesurf)
 - [meshy-dev/ThreeRT - Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.](https://github.com/meshy-dev/ThreeRT)
 - [berkantay/gpucanvas - Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.](https://github.com/berkantay/gpucanvas)
-- [jakecoppinger/osm2streets-vector-tileserver - Serves up vector tiles of osm2streets output. Very work in progress!](https://github.com/jakecoppinger/osm2streets-vector-tileserver)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
