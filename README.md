@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bertt/gem15 - MapLibre viewer for Google GEM-15 terrain COGs - https://bertt.github.io/gem15/](https://github.com/bertt/gem15)
 - [shadcn-labs/goeist-font - A rounded variant of Geist font ▲ ](https://github.com/shadcn-labs/goeist-font)
 - [patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.](https://github.com/patch-gg/pixelfx)
 - [kajisho5/ffmpeg-skill - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.](https://github.com/kajisho5/ffmpeg-skill)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [66HEX/frame - FFmpeg GUI](https://github.com/66HEX/frame)
 - [codeforreal1/compressO - Convert any video/image/audio into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.](https://github.com/codeforreal1/compressO)
 - [lorenzoMezza/Three-geo-play - ThreeGeoPlay is a 3D map visualization library built in Three.js meshes, designed for games (pokemon go like). It lets you render vector tile-based geographic maps live in Three.js with customizable materials and much more.](https://github.com/lorenzoMezza/Three-geo-play)
-- [vercel-labs/ui - A library of behaviors for agents to build the next generation of user interfaces.](https://github.com/vercel-labs/ui)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
