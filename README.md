@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kenjiyoshidahome2026-bit/ortho-earth - Open-source 3D globe map engine for the browser — WebGPU, MapLibre GL JS compatible API, 3D Tiles, terrain at true scale, Equal Earth world map. No server, no account.](https://github.com/kenjiyoshidahome2026-bit/ortho-earth)
+- [EL4CTEO/blender-skills - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.](https://github.com/EL4CTEO/blender-skills)
 - [joshpuckett/allo - Allo is your friendly neighborhood typeface, free and open source](https://github.com/joshpuckett/allo)
 - [wilsoncwc/singapore-dem - Page for hosting a QGIS2Web map](https://github.com/wilsoncwc/singapore-dem)
 - [lachlanjc/chlobe - A 15KB React choropleth globe for visualizing country data, inspired by cobe.](https://github.com/lachlanjc/chlobe)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [jlongster/prepack-revived - Experimental revival of Facebook's archived Prepack JS partial evaluator, driven by AI coding agents](https://github.com/jlongster/prepack-revived)
 - [bertt/gem15 - MapLibre viewer for Google GEM-15 terrain COGs - https://bertt.github.io/gem15/](https://github.com/bertt/gem15)
 - [shadcn-labs/goeist-font - A rounded variant of Geist font ▲ ](https://github.com/shadcn-labs/goeist-font)
-- [patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.](https://github.com/patch-gg/pixelfx)
-- [kajisho5/ffmpeg-skill - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.](https://github.com/kajisho5/ffmpeg-skill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
