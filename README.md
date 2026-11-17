@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [joshpuckett/allo - Allo is your friendly neighborhood typeface, free and open source](https://github.com/joshpuckett/allo)
+- [wilsoncwc/singapore-dem - Page for hosting a QGIS2Web map](https://github.com/wilsoncwc/singapore-dem)
 - [lachlanjc/chlobe - A 15KB React choropleth globe for visualizing country data, inspired by cobe.](https://github.com/lachlanjc/chlobe)
 - [alexheretic/ab-av1 - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.](https://github.com/alexheretic/ab-av1)
 - [MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need](https://github.com/MobAI-App/simslim)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shadcn-labs/goeist-font - A rounded variant of Geist font ▲ ](https://github.com/shadcn-labs/goeist-font)
 - [patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.](https://github.com/patch-gg/pixelfx)
 - [kajisho5/ffmpeg-skill - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.](https://github.com/kajisho5/ffmpeg-skill)
-- [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)
-- [simpsoka/zigzag - Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.](https://github.com/simpsoka/zigzag)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
