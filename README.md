@@ -27,6 +27,10 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [lachlanjc/chlobe - A 15KB React choropleth globe for visualizing country data, inspired by cobe.](https://github.com/lachlanjc/chlobe)
+- [alexheretic/ab-av1 - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.](https://github.com/alexheretic/ab-av1)
+- [MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need](https://github.com/MobAI-App/simslim)
+- [Esri/lerc - Limited Error Raster Compression](https://github.com/Esri/lerc)
 - [shadcn-labs/shadercn - Beautiful shader components, built on vgpu and TypeGPU. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/shadercn)
 - [mrdoob/slop-newyork](https://github.com/mrdoob/slop-newyork)
 - [jcrabapple/mammut - My take on the official Mastodon for Android app](https://github.com/jcrabapple/mammut)
@@ -38,10 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kajisho5/ffmpeg-skill - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.](https://github.com/kajisho5/ffmpeg-skill)
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)
 - [simpsoka/zigzag - Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.](https://github.com/simpsoka/zigzag)
-- [kunifujiwara/VoxCity - Python framework for integrating geospatial data, 3D city modeling, and urban simulation.](https://github.com/kunifujiwara/VoxCity)
-- [cloudflare/kitesurf - Kitesurf is an experimental browser engine that runs on Cloudflare Workers.](https://github.com/cloudflare/kitesurf)
-- [meshy-dev/ThreeRT - Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages.](https://github.com/meshy-dev/ThreeRT)
-- [berkantay/gpucanvas - Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.](https://github.com/berkantay/gpucanvas)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
