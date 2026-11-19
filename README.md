@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [ocavue/astrobook - Minimal Storybook alternative](https://github.com/ocavue/astrobook)
 - [harfbuzz/harfbuzzjs - Providing HarfBuzz shaping library for client/server side JavaScript projects](https://github.com/harfbuzz/harfbuzzjs)
 - [mapbox/mapbox-gl-rtl-text - Add right-to-left text support to Mapbox GL JS](https://github.com/mapbox/mapbox-gl-rtl-text)
 - [firecrawl/firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.](https://github.com/firecrawl/firecrawl)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need](https://github.com/MobAI-App/simslim)
 - [Esri/lerc - Limited Error Raster Compression](https://github.com/Esri/lerc)
 - [shadcn-labs/shadercn - Beautiful shader components, built on vgpu and TypeGPU. 100% Free, Zero config, one command setup.](https://github.com/shadcn-labs/shadercn)
-- [mrdoob/slop-newyork](https://github.com/mrdoob/slop-newyork)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
