@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [firecrawl/firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.](https://github.com/firecrawl/firecrawl)
+- [imxieyi/Kernarium - Run real Linux kernel natively on iOS](https://github.com/imxieyi/Kernarium)
 - [shuymn/kopje - A Mastodon-compatible ActivityPub server for one person or a small group, on one Cloudflare Worker](https://github.com/shuymn/kopje)
 - [kenjiyoshidahome2026-bit/ortho-earth - Open-source 3D globe map engine for the browser — WebGPU, MapLibre GL JS compatible API, 3D Tiles, terrain at true scale, Equal Earth world map. No server, no account.](https://github.com/kenjiyoshidahome2026-bit/ortho-earth)
 - [EL4CTEO/blender-skills - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.](https://github.com/EL4CTEO/blender-skills)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [mrdoob/slop-newyork](https://github.com/mrdoob/slop-newyork)
 - [jcrabapple/mammut - My take on the official Mastodon for Android app](https://github.com/jcrabapple/mammut)
 - [rauchg/xeet - X posts rendered to PNG without a browser, in safe Rust and WebAssembly.](https://github.com/rauchg/xeet)
-- [jlongster/prepack-revived - Experimental revival of Facebook's archived Prepack JS partial evaluator, driven by AI coding agents](https://github.com/jlongster/prepack-revived)
-- [bertt/gem15 - MapLibre viewer for Google GEM-15 terrain COGs - https://bertt.github.io/gem15/](https://github.com/bertt/gem15)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
