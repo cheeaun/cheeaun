@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [backnotprop/pstack - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering](https://github.com/backnotprop/pstack)
 - [social-web-foundation/activitypub-browser-extension - An extension for enabling ActivityPub interactions in the browser](https://github.com/social-web-foundation/activitypub-browser-extension)
 - [HKUDS/PhoneGo - PhoneGo: Personal AI Agent on Your Phone](https://github.com/HKUDS/PhoneGo)
 - [ocavue/astrobook - Minimal Storybook alternative](https://github.com/ocavue/astrobook)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [wilsoncwc/singapore-dem - Page for hosting a QGIS2Web map](https://github.com/wilsoncwc/singapore-dem)
 - [lachlanjc/chlobe - A 15KB React choropleth globe for visualizing country data, inspired by cobe.](https://github.com/lachlanjc/chlobe)
 - [alexheretic/ab-av1 - AV1 re-encoding using ffmpeg, svt-av1 & vmaf.](https://github.com/alexheretic/ab-av1)
-- [MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need](https://github.com/MobAI-App/simslim)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
