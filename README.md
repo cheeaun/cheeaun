@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [kobimusic/dettato - KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording](https://github.com/kobimusic/dettato)
 - [nudeps/nudeps - The DX of a bundler, none of the friction and complexity. Dare to let your dependencies go naked!](https://github.com/nudeps/nudeps)
 - [iamd3vil/blobasaur - A Blob store based on SQLite compatible with Redis protocol](https://github.com/iamd3vil/blobasaur)
 - [cobanov/pixelart-gaussiansplat - Pixel-art Gaussian splats in the browser: scenes written in code, converted 3D models, and the tools to make your own.](https://github.com/cobanov/pixelart-gaussiansplat)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [shuymn/kopje - A Mastodon-compatible ActivityPub server for one person or a small group, on one Cloudflare Worker](https://github.com/shuymn/kopje)
 - [kenjiyoshidahome2026-bit/ortho-earth - Open-source 3D globe map engine for the browser — WebGPU, MapLibre GL JS compatible API, 3D Tiles, terrain at true scale, Equal Earth world map. No server, no account.](https://github.com/kenjiyoshidahome2026-bit/ortho-earth)
 - [EL4CTEO/blender-skills - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.](https://github.com/EL4CTEO/blender-skills)
-- [joshpuckett/allo - Allo is your friendly neighborhood typeface, free and open source](https://github.com/joshpuckett/allo)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
