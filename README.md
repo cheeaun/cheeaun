@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [iamd3vil/blobasaur - A Blob store based on SQLite compatible with Redis protocol](https://github.com/iamd3vil/blobasaur)
 - [cobanov/pixelart-gaussiansplat - Pixel-art Gaussian splats in the browser: scenes written in code, converted 3D models, and the tools to make your own.](https://github.com/cobanov/pixelart-gaussiansplat)
 - [backnotprop/pstack - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering](https://github.com/backnotprop/pstack)
 - [social-web-foundation/activitypub-browser-extension - An extension for enabling ActivityPub interactions in the browser](https://github.com/social-web-foundation/activitypub-browser-extension)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [EL4CTEO/blender-skills - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.](https://github.com/EL4CTEO/blender-skills)
 - [joshpuckett/allo - Allo is your friendly neighborhood typeface, free and open source](https://github.com/joshpuckett/allo)
 - [wilsoncwc/singapore-dem - Page for hosting a QGIS2Web map](https://github.com/wilsoncwc/singapore-dem)
-- [lachlanjc/chlobe - A 15KB React choropleth globe for visualizing country data, inspired by cobe.](https://github.com/lachlanjc/chlobe)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
