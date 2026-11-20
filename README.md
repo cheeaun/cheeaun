@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nudeps/nudeps - The DX of a bundler, none of the friction and complexity. Dare to let your dependencies go naked!](https://github.com/nudeps/nudeps)
 - [iamd3vil/blobasaur - A Blob store based on SQLite compatible with Redis protocol](https://github.com/iamd3vil/blobasaur)
 - [cobanov/pixelart-gaussiansplat - Pixel-art Gaussian splats in the browser: scenes written in code, converted 3D models, and the tools to make your own.](https://github.com/cobanov/pixelart-gaussiansplat)
 - [backnotprop/pstack - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering](https://github.com/backnotprop/pstack)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kenjiyoshidahome2026-bit/ortho-earth - Open-source 3D globe map engine for the browser — WebGPU, MapLibre GL JS compatible API, 3D Tiles, terrain at true scale, Equal Earth world map. No server, no account.](https://github.com/kenjiyoshidahome2026-bit/ortho-earth)
 - [EL4CTEO/blender-skills - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.](https://github.com/EL4CTEO/blender-skills)
 - [joshpuckett/allo - Allo is your friendly neighborhood typeface, free and open source](https://github.com/joshpuckett/allo)
-- [wilsoncwc/singapore-dem - Page for hosting a QGIS2Web map](https://github.com/wilsoncwc/singapore-dem)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
