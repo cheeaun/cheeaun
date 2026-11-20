@@ -37,7 +37,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [ocavue/astrobook - Minimal Storybook alternative](https://github.com/ocavue/astrobook)
 - [harfbuzz/harfbuzzjs - Providing HarfBuzz shaping library for client/server side JavaScript projects](https://github.com/harfbuzz/harfbuzzjs)
 - [mapbox/mapbox-gl-rtl-text - Add right-to-left text support to Mapbox GL JS](https://github.com/mapbox/mapbox-gl-rtl-text)
-- [firecrawl/firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.](https://github.com/firecrawl/firecrawl)
+- [firecrawl/firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.](https://github.com/firecrawl/firecrawl)
 - [imxieyi/Kernarium - Run real Linux kernel natively on iOS](https://github.com/imxieyi/Kernarium)
 - [shuymn/kopje - A Mastodon-compatible ActivityPub server for one person or a small group, on one Cloudflare Worker](https://github.com/shuymn/kopje)
 - [kenjiyoshidahome2026-bit/ortho-earth - Open-source 3D globe map engine for the browser — WebGPU, MapLibre GL JS compatible API, 3D Tiles, terrain at true scale, Equal Earth world map. No server, no account.](https://github.com/kenjiyoshidahome2026-bit/ortho-earth)
