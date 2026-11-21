@@ -27,7 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
-- [sohzm/winedroid - Run Android apps on Web, Linux, macOS and Windows](https://github.com/sohzm/winedroid)
+- [sohzm/winedroid - run android apps on web, linux, macOS and windows](https://github.com/sohzm/winedroid)
 - [pjohno/lepton-x86_64 - ​Unofficial experimental x86_64 Lepton port — source/build recipes only.](https://github.com/pjohno/lepton-x86_64)
 - [kobimusic/dettato - KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording](https://github.com/kobimusic/dettato)
 - [nudeps/nudeps - The DX of a bundler, none of the friction and complexity. Dare to let your dependencies go naked!](https://github.com/nudeps/nudeps)
