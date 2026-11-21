@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [sohzm/winedroid - Run Android apps on Web, Linux, macOS and Windows](https://github.com/sohzm/winedroid)
+- [pjohno/lepton-x86_64 - ​Unofficial experimental x86_64 Lepton port — source/build recipes only.](https://github.com/pjohno/lepton-x86_64)
 - [kobimusic/dettato - KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording](https://github.com/kobimusic/dettato)
 - [nudeps/nudeps - The DX of a bundler, none of the friction and complexity. Dare to let your dependencies go naked!](https://github.com/nudeps/nudeps)
 - [iamd3vil/blobasaur - A Blob store based on SQLite compatible with Redis protocol](https://github.com/iamd3vil/blobasaur)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [firecrawl/firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.](https://github.com/firecrawl/firecrawl)
 - [imxieyi/Kernarium - Run real Linux kernel natively on iOS](https://github.com/imxieyi/Kernarium)
 - [shuymn/kopje - A Mastodon-compatible ActivityPub server for one person or a small group, on one Cloudflare Worker](https://github.com/shuymn/kopje)
-- [kenjiyoshidahome2026-bit/ortho-earth - Open-source 3D globe map engine for the browser — WebGPU, MapLibre GL JS compatible API, 3D Tiles, terrain at true scale, Equal Earth world map. No server, no account.](https://github.com/kenjiyoshidahome2026-bit/ortho-earth)
-- [EL4CTEO/blender-skills - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.](https://github.com/EL4CTEO/blender-skills)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
