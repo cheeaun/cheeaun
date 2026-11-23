@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [atomsprout/nestvane - Android 17 running inside an iOS app, without JIT: Android rebuilt and translated ahead of time, on a Linux kernel layer written for the app.](https://github.com/atomsprout/nestvane)
 - [sybil-solutions/skill-distill - Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task](https://github.com/sybil-solutions/skill-distill)
 - [sohzm/winedroid - run android apps on web, linux, macOS and windows](https://github.com/sohzm/winedroid)
 - [pjohno/lepton-x86_64 - ​Unofficial experimental x86_64 Lepton port — source/build recipes only.](https://github.com/pjohno/lepton-x86_64)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [harfbuzz/harfbuzzjs - Providing HarfBuzz shaping library for client/server side JavaScript projects](https://github.com/harfbuzz/harfbuzzjs)
 - [mapbox/mapbox-gl-rtl-text - Add right-to-left text support to Mapbox GL JS](https://github.com/mapbox/mapbox-gl-rtl-text)
 - [firecrawl/firecrawl - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.](https://github.com/firecrawl/firecrawl)
-- [imxieyi/Kernarium - Run real Linux kernel natively on iOS](https://github.com/imxieyi/Kernarium)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
