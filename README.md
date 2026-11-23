@@ -31,7 +31,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sybil-solutions/skill-distill - Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task](https://github.com/sybil-solutions/skill-distill)
 - [sohzm/winedroid - run android apps on web, linux, macOS and windows](https://github.com/sohzm/winedroid)
 - [pjohno/lepton-x86_64 - ​Unofficial experimental x86_64 Lepton port — source/build recipes only.](https://github.com/pjohno/lepton-x86_64)
-- [kobimusic/dettato - KobiMusic's multi-instrument audio-to-MIDI transcriber: notes, instrument tracks and drums from any recording](https://github.com/kobimusic/dettato)
+- [kobimusic/dettato - SOTA multi-instrument audio-to-MIDI transcriber](https://github.com/kobimusic/dettato)
 - [nudeps/nudeps - The DX of a bundler, none of the friction and complexity. Dare to let your dependencies go naked!](https://github.com/nudeps/nudeps)
 - [iamd3vil/blobasaur - A Blob store based on SQLite compatible with Redis protocol](https://github.com/iamd3vil/blobasaur)
 - [cobanov/pixelart-gaussiansplat - Pixel-art Gaussian splats in the browser: scenes written in code, converted 3D models, and the tools to make your own.](https://github.com/cobanov/pixelart-gaussiansplat)
