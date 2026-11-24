@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [bilalgursen/liquid-glass - Open-source glass controls for React: every button, switch and slider is a refracting WebGL lens with spring physics.](https://github.com/bilalgursen/liquid-glass)
 - [os6/nospeaker - make your macbook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
 - [atomsprout/nestvane - Android 17 running inside an iOS app, without JIT: Android rebuilt and translated ahead of time, on a Linux kernel layer written for the app.](https://github.com/atomsprout/nestvane)
 - [sybil-solutions/skill-distill - Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task](https://github.com/sybil-solutions/skill-distill)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [HKUDS/PhoneGo - PhoneGo: Personal AI Agent on Your Phone](https://github.com/HKUDS/PhoneGo)
 - [ocavue/astrobook - Minimal Storybook alternative](https://github.com/ocavue/astrobook)
 - [harfbuzz/harfbuzzjs - Providing HarfBuzz shaping library for client/server side JavaScript projects](https://github.com/harfbuzz/harfbuzzjs)
-- [mapbox/mapbox-gl-rtl-text - Add right-to-left text support to Mapbox GL JS](https://github.com/mapbox/mapbox-gl-rtl-text)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
