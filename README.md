@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [joshwcomeau/button-sounds](https://github.com/joshwcomeau/button-sounds)
 - [lukeed/tidy - the fast & easy way to keep source files tidy](https://github.com/lukeed/tidy)
 - [bilalgursen/liquid-glass - Open-source glass controls for React: every button, switch and slider is a refracting WebGL lens with spring physics.](https://github.com/bilalgursen/liquid-glass)
 - [os6/nospeaker - make your macbook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [backnotprop/pstack - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering](https://github.com/backnotprop/pstack)
 - [social-web-foundation/activitypub-browser-extension - An extension for enabling ActivityPub interactions in the browser](https://github.com/social-web-foundation/activitypub-browser-extension)
 - [HKUDS/PhoneGo - PhoneGo: Personal AI Agent on Your Phone](https://github.com/HKUDS/PhoneGo)
-- [ocavue/astrobook - Minimal Storybook alternative](https://github.com/ocavue/astrobook)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
