@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [cursor/plugins - Cursor plugin specification and official plugins](https://github.com/cursor/plugins)
 - [wrong-nebula/radiant - Zero-shot, zero-bake real-time multi-bounce Global Illumination for Three.js 0.187.0 WebGPU + TSL (13 MB FP16 SE(3) Form-Factor Transformer)](https://github.com/wrong-nebula/radiant)
 - [huangserva/manhattan-free-roam - Midtown Manhattan you can walk, drive and fly through in the browser (Three.js + OpenStreetMap), plus the Blender pipeline that rendered it as a 60-second 2K film.](https://github.com/huangserva/manhattan-free-roam)
 - [hxtnv/citygen - Procedural town and city generator for three.js: street networks, junctions, sidewalks, lane markings, blocks and buildings from one seed. No assets.](https://github.com/hxtnv/citygen)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [kobimusic/dettato - SOTA multi-instrument audio-to-MIDI transcriber](https://github.com/kobimusic/dettato)
 - [nudeps/nudeps - The DX of a bundler, none of the friction and complexity. Dare to let your dependencies go naked!](https://github.com/nudeps/nudeps)
 - [iamd3vil/blobasaur - A Blob store based on SQLite compatible with Redis protocol](https://github.com/iamd3vil/blobasaur)
-- [cobanov/pixelart-gaussiansplat - Pixel-art Gaussian splats in the browser: scenes written in code, converted 3D models, and the tools to make your own.](https://github.com/cobanov/pixelart-gaussiansplat)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
