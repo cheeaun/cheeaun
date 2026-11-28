@@ -27,6 +27,9 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [SamuelZ12/research-sources - Lets AI agents read what web search misses on X, Reddit and more](https://github.com/SamuelZ12/research-sources)
+- [ArthurHeitmann/arctic_shift - Making Reddit data accessible to researchers, moderators and everyone else.  Interact with the data through large dumps, an API or web interface.](https://github.com/ArthurHeitmann/arctic_shift)
+- [context-dot-dev/rusteerio - Cheerio-compatible HTML/XML processing powered by Rust, with configurable parallel extraction. Built by context.dev.](https://github.com/context-dot-dev/rusteerio)
 - [anomalyco/opencode-rune - OpenCode (Rune) desktop client and embeddable Rune session crates](https://github.com/anomalyco/opencode-rune)
 - [anomalyco/rune - Rune: Native UI framework](https://github.com/anomalyco/rune)
 - [cursor/plugins - Cursor plugin specification and official plugins](https://github.com/cursor/plugins)
@@ -39,9 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [os6/nospeaker - make your macbook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
 - [atomsprout/nestvane - Android 17 running inside an iOS app, without JIT: Android rebuilt and translated ahead of time, on a Linux kernel layer written for the app.](https://github.com/atomsprout/nestvane)
 - [sybil-solutions/skill-distill - Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task](https://github.com/sybil-solutions/skill-distill)
-- [sohzm/winedroid - run android apps on web, linux, macOS and windows](https://github.com/sohzm/winedroid)
-- [pjohno/lepton-x86_64 - ​Unofficial experimental x86_64 Lepton port — source/build recipes only.](https://github.com/pjohno/lepton-x86_64)
-- [kobimusic/dettato - SOTA multi-instrument audio-to-MIDI transcriber](https://github.com/kobimusic/dettato)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
