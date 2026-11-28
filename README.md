@@ -27,6 +27,7 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [nexu-io/opengame - The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.](https://github.com/nexu-io/opengame)
 - [SamuelZ12/research-sources - Lets AI agents read what web search misses on X, Reddit and more](https://github.com/SamuelZ12/research-sources)
 - [ArthurHeitmann/arctic_shift - Making Reddit data accessible to researchers, moderators and everyone else.  Interact with the data through large dumps, an API or web interface.](https://github.com/ArthurHeitmann/arctic_shift)
 - [context-dot-dev/rusteerio - Cheerio-compatible HTML/XML processing powered by Rust, with configurable parallel extraction. Built by context.dev.](https://github.com/context-dot-dev/rusteerio)
@@ -41,7 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [bilalgursen/liquid-glass - Open-source glass controls for React: every button, switch and slider is a refracting WebGL lens with spring physics.](https://github.com/bilalgursen/liquid-glass)
 - [os6/nospeaker - make your macbook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
 - [atomsprout/nestvane - Android 17 running inside an iOS app, without JIT: Android rebuilt and translated ahead of time, on a Linux kernel layer written for the app.](https://github.com/atomsprout/nestvane)
-- [sybil-solutions/skill-distill - Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task](https://github.com/sybil-solutions/skill-distill)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
