@@ -27,6 +27,8 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 ## 🌟 Recently starred repositories
 
 <!-- starred repos start -->
+- [anomalyco/opencode-rune - OpenCode (Rune) desktop client and embeddable Rune session crates](https://github.com/anomalyco/opencode-rune)
+- [anomalyco/rune - Rune: Native UI framework](https://github.com/anomalyco/rune)
 - [cursor/plugins - Cursor plugin specification and official plugins](https://github.com/cursor/plugins)
 - [wrong-nebula/radiant - Zero-shot, zero-bake real-time multi-bounce Global Illumination for Three.js 0.187.0 WebGPU + TSL (13 MB FP16 SE(3) Form-Factor Transformer)](https://github.com/wrong-nebula/radiant)
 - [huangserva/manhattan-free-roam - Midtown Manhattan you can walk, drive and fly through in the browser (Three.js + OpenStreetMap), plus the Blender pipeline that rendered it as a 60-second 2K film.](https://github.com/huangserva/manhattan-free-roam)
@@ -40,8 +42,6 @@ Subscribe to my [newsletter](https://cheeaun.substack.com/)!
 - [sohzm/winedroid - run android apps on web, linux, macOS and windows](https://github.com/sohzm/winedroid)
 - [pjohno/lepton-x86_64 - ​Unofficial experimental x86_64 Lepton port — source/build recipes only.](https://github.com/pjohno/lepton-x86_64)
 - [kobimusic/dettato - SOTA multi-instrument audio-to-MIDI transcriber](https://github.com/kobimusic/dettato)
-- [nudeps/nudeps - The DX of a bundler, none of the friction and complexity. Dare to let your dependencies go naked!](https://github.com/nudeps/nudeps)
-- [iamd3vil/blobasaur - A Blob store based on SQLite compatible with Redis protocol](https://github.com/iamd3vil/blobasaur)
 <!-- starred repos end -->
 
 See more of [my starred repos](https://github.com/stars/cheeaun/).
